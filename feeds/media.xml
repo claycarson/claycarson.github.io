@@ -1,0 +1,22 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>Clay Carson's Media</title>
+ <description></description>
+ <link>claycarson.net</link>
+
+ {% for post in site.categories.Media %}
+ <item>
+  <title>{{ post.title }} by {{ post.creator }}</title>
+  <content>{{ post.content }}</content>
+  <link>{{ post.url }}</link>
+  <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+  <pubDate>{{ post.date }}</pubDate>
+ </item>
+ {% endfor %}
+
+</channel>
+</rss>

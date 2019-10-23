@@ -1,0 +1,9 @@
+<section>
+{% for post in site.categories.Newsletter %}
+<a href="{{ post.url }}" class="postlink">
+<time> {{ post.date | date: "%m/%d/%y"}}</time>
+<h2>{{ post.title }}</h2>
+<p><small>{{ post.description }}</small></p>
+</a>
+{% endfor %}
+</section>

@@ -1,0 +1,450 @@
+list:
+  - year: "2019"
+    media:
+      - title: 'The Dip: A Little Book That Teaches You When to Quit (and When to Stick)'
+        author: Seth Godin
+        link: https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666
+        date: 2019-08-27
+        star: no
+
+      - title: 'Golf Architecture: Economy in Course Construction and Green-Keeping'
+        author: Dr. Alister MacKenzie
+        link: https://www.amazon.com/Golf-Architecture-Economy-Construction-Green-Keeping/dp/1733591141/ref=sr_1_1?keywords=%27Golf+Architecture%3A+Economy+in+Course+Construction+and+Green-Keeping%27&qid=1569973715&s=books&sr=1-1
+        date: 2019-06-10
+        star: no
+  - year: "2018"
+    media:
+      - title: 'Tiger Woods'
+        author: Jeff Benedict
+        link: https://www.amazon.com/Tiger-Woods-Jeff-Benedict/dp/1501126423/ref=sr_1_1?keywords=tiger+wood&qid=1569959202&s=books&sr=1-1
+        date: 2018-12-30
+        star: yes
+
+      - title: 'Navy SEAL Dogs: My Tale of Training Canines for Combat'
+        author: Mike Ritland
+        link: https://www.amazon.com/Navy-SEAL-Dogs-Training-Canines/dp/1250049695
+        date: 2018-12-17
+        star: no
+        
+      - title: 'The Curious Incident of the Dog in the Night-Time'
+        author: Mark Haddon
+        link: https://www.amazon.com/Curious-Incident-Dog-Night-Time/dp/1400032717
+        date: 2018-09-26
+        star: no
+
+      - title: 'Living with the Monks: What Turning Off My Phone Taught Me about Happiness, Gratitude, and Focus'
+        author: Jesse Itzler
+        link: https://www.amazon.com/Living-Monks-Turning-Happiness-Gratitude-ebook/dp/B075CS8VWZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+        date: 2018-06-30
+        star: no
+        
+      - title: 'Photography for Real Estate Exteriors: Taking and making professional first-impression images'
+        author: Nathan Cool
+        link: https://www.amazon.com/Photography-Real-Estate-Exteriors-first-impression-ebook/dp/B078YY865F/ref=asap_bc?ie=UTF8
+        date: 2018-06-12
+        star: no       
+        
+      - title: 'Photography for Real Estate Interiors: How to take and create impressive interior photos'
+        author: Nathan Cool 
+        link: https://www.amazon.com/Photography-Real-Estate-Interiors-impressive/dp/1549739360
+        date: 2018-06-01
+        star: no
+
+      - title: 'Ignore Everybody: and 39 Other Keys to Creativity'
+        author: Hugh MacLeod
+        link: https://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X
+        date: 2018-05-31
+        star: no        
+        
+      - title: 'Triggers: Creating Behavior That Lasts'
+        author: Marshal Goldsmith and Mark Reiter
+        link: https://www.amazon.com/Triggers-Creating-Behavior-Lasts-Becoming-Person/dp/0804141231
+        date: 2018-05-07
+        star: no  
+        
+      - title: "Man's Search for Meaning"
+        author: Viktor E. Frankl
+        link: https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X
+        date: 2018-02-20
+        star: no       
+        
+  - year: "2017"
+    media:
+      - title: Artemis
+        author: Andy Weir
+        link: https://www.amazon.com/dp/B06Y55SB48/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        date: 2017-12-31
+        star: no
+        
+      - title: 'Stone Soup'
+        author: Marcia Brown
+        link: https://www.amazon.com/Stone-Soup-Aladdin-Picture-Books/dp/0689711034
+        date: 2017-12-14
+        star: no
+
+      - title: 'The Internet of Money'
+        author: Andreas M Antonopoulos
+        link: https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos-ebook/dp/B01L9WM0H8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+        date: 2017-12-04
+        star: no
+        
+      - title: 'Night'
+        author: Elie Wiesel
+        link: https://www.amazon.com/Night-Trilogy-Elie-Wiesel-ebook/dp/B0071VUXXA
+        date: 2017-11-13
+        star: no        
+        
+      - title: 'The Book of Five Rings'
+        author: Miyamoto Musashi
+        link: https://www.amazon.com/Book-Five-Rings-linked-TOC-ebook/dp/B0035FZM28
+        date: 2017-11-13
+        star: no        
+        
+      - title: 'Bird by Bird: Some Instructions on Writing and Life'
+        author: Anne Lamott
+        link: https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016
+        date: 2017-10-21
+        star: no        
+        
+      - title: 'Discipline Equals Freedom: Field Manual'
+        author: Jocko Willink
+        link: https://www.amazon.com/dp/B06XB9HQMN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        date: 2017-10-21
+        star: no        
+        
+      - title: 'Tribe: On Homecoming and Belonging'
+        author: Sebastian Junger
+        link: https://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger-ebook/dp/B01BCJDSNI
+        date: 2017-10-12
+        star: no        
+        
+      - title: 'Essentialism: The Disciplined Pursuit of Less'
+        author: Greg McKeown
+        link: https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        date: 2017-10-04
+        star: yes        
+        
+      - title: 'The Hardstyle Kettlebell Challenge: A Fundamental Guide To Training For Strength And Power'
+        author: Dan John
+        link: https://www.amazon.com/dp/B075SKVD4B
+        date: 2017-09-24
+        star: no        
+        
+      - title: 'Anything You Want: 40 Lessons for a New Kind of Entrepreneur'
+        author: Derek Sivers
+        link: https://www.amazon.com/dp/B00SI0B5FS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        date: 2017-08-02
+        star: no        
+        
+      - title: 'Steal Like an Artist: 10 Things Nobody Told You About Being Creative'
+        author: Austin Kleon
+        link: https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253
+        date: 2017-08-02
+        star: no    
+        
+      - title: 'If This is a Man and The Truce'
+        author: Primo Levi
+        link: https://www.amazon.com/gp/aw/d/0349100136/ref=mp_s_a_1_1?ie=UTF8&qid=1501276417&sr=8-1&pi=AC_SX236_SY340_QL65&keywords=if+this+is+a+man+and+the+truce&dpPl=1&dpID=51mHpeIwc6L&ref=plSrch
+        date: 2017-07-28
+        star: no        
+        
+      - title: 'Siddhartha'
+        author: Hermann Hesse
+        link: https://www.amazon.com/gp/product/0553208845/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553208845&linkCode=as2&tag=claycarson0c-20&linkId=555f8de611b2c117f65f1f6c787cb95a
+        date: 2017-07-10
+        star: no      
+        
+      - title: '8 Weeks to SEALFIT: A Navy SEAL&#8217;s Guide to Unconventional Training for Physical and Mental Toughness'
+        author: Mark Devine
+        link: https://www.amazon.com/Weeks-SEALFIT-Unconventional-Training-Toughness/dp/125004054X/ref=sr_1_fkmr0_1?keywords=8+Weeks+to+SEALFIT%3A+A+Navy+SEAL%26%238217%3Bs+Guide+to+Unconventional+Training+for+Physical+and+Mental+Toughness&qid=1569980053&s=books&sr=1-1-fkmr0
+        date: 2017-06-23
+        star: no           
+        
+      - title: '&#8220;Surely You&#8217;re Joking, Mr Feynman!&#8221;: Adventures of a Curious Character'
+        author: Richard P. Feynman
+        link: 
+        date: 2017-06-21
+        star: no   
+        
+      - title: 'Make Your Bed'
+        author: William H. McRaven
+        link: 
+        date: 2017-05-21
+        star: no        
+        
+      - title: 'The Warrior Ethos'
+        author: Steven Pressfield
+        link: 
+        date: 2017-05-14
+        star: no        
+        
+      - title: 'Billy Boy: A Novel'
+        author: Bud Shrake
+        link: 
+        date: 2017-05-02
+        star: no
+        
+      - title: 'The 1997 Masters: My Story'
+        author: Tiger Woods
+        link: 
+        date: 2017-04-24
+        star: no
+        
+      - title: 'Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers'
+        author: Tim Ferris
+        link: 
+        date: 2017-03-16
+        star: yes        
+        
+      - title: '7 Secrets of Eternal Wealth'
+        author: Buck Joffrey MD
+        link: 
+        date: 2017-02-15
+        star: no
+        
+      - title: 'The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results'
+        author: Gary Keller
+        link: 
+        date: 2017-02-14
+        star: no  
+        
+      - title: 'The Stranger'
+        author: Albert Camus
+        link: 
+        date: 2017-01-23
+        star: no      
+        
+      - title: 'Common Sense'
+        author: Thomas Paine
+        link: 
+        date: 2017-01-19
+        star: no
+        
+      - title: 'The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life'
+        author: Mark Manson
+        link: 
+        date: 2017-01-06
+        star: no 
+        
+  - year: "2016"
+    media:
+      - title: 'Superintelligence: Paths, Dangers, Strategies'
+        author: Nick Bostrom
+        link: 
+        date: 2016-11-01
+        star: yes    
+                   
+      - title: 'Turning Pro'
+        author: Steven Pressfield
+        link: 
+        date: 2016-10-28
+        star: no        
+        
+      - title: 'Straight to Hell: True Tales of Deviance, Debauchery, and Billion-Dollar Deals'
+        author: John LeFevre
+        link: 
+        date: 2016-10-27
+        star: no        
+        
+      - title: 'The Greatest Salesman in the World'
+        author: Og Mandino
+        link: 
+        date: 2016-10-14
+        star: no        
+        
+      - title: 'Shoe Dog: A Memoir by the Creator of Nike'
+        author: Phil Knight
+        link: 
+        date: 2016-08-29
+        star: yes        
+        
+      - title: 'Ego is the Enemy'
+        author: Ryan Holiday
+        link: 
+        date: 2016-08-07
+        star: yes        
+        
+      - title: 'Trust Me, I&#8217;m Lying: Confessions of a Media Manipulator'
+        author: Ryan Holiday
+        link: 
+        date: 2016-08-02
+        star: no     
+        
+      - title: 'The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph'
+        author: Ryan Holiday
+        link: 
+        date: 2016-06-16
+        star: yes
+        
+      - title: 'Out of the Rough: Inside the Ropes with the World&#8217;s Greatest Golfers'
+        author: Steve Williams
+        link: 
+        date: 2016-05-29
+        star: no        
+        
+      - title: 'Harry Potter and the Deathly Hallows'
+        author: J.K. Rowling
+        link: 
+        date: 2016-05-15
+        star: no       
+        
+      - title: 'Living with a SEAL: 31 Days Training with the Toughest Man on the Planet'
+        author: Jesse Itzler
+        link: 
+        date: 2016-03-23
+        star: yes
+        
+      - title: 'Harry Potter and the Half-Blood Prince'
+        author: J.K. Rowling
+        link: 
+        date: 2016-03-09
+        star: no        
+        
+      - title: 'Harry Potter And The Order Of The Phoenix'
+        author: J.K. Rowling
+        link: 
+        date: 2016-02-09
+        star: no        
+        
+      - title: 'Harry Potter And The Goblet Of Fire'
+        author: J.K. Rowling
+        link: 
+        date: 2016-01-07
+        star: no       
+  - year: "2015"
+    media:        
+      - title: 'Harry Potter and the Prisoner of Azkaban'
+        author: J.K. Rowling
+        link: 
+        date: 2015-12-22
+        star: yes     
+        
+      - title: 'Harry Potter and the Chamber of Secrets'
+        author: J.K. Rowling
+        link: 
+        date: 2015-12-09
+        star: no
+                
+      - title: 'Harry Potter and the Sorcerer&#8217;s Stone'
+        author: J.K. Rowling
+        link: 
+        date: 2015-12-06
+        star: no        
+        
+      - title: 'The Checklist Manifesto: How to Get Things Right'
+        author: Atul Gawande
+        link: 
+        date: 2015-10-15
+        star: no      
+        
+      - title: 'The Compound Effect'
+        author: Darren Hardy
+        link: 
+        date: 2015-10-07
+        star: no        
+        
+      - title: 'The Hobbit'
+        author: J.R.R. Tolkien
+        link: 
+        date: 2015-09-29
+        star: no        
+        
+      - title: 'The Hitchhiker&#8217;s Guide to the Galaxy'
+        author: Douglas Adams 
+        link: 
+        date: 2015-09-08
+        star: no        
+        
+      - title: 'Ready Player One'
+        author: Ernest Cline
+        link: 
+        date: 2015-09-08
+        star: no          
+        
+      - title: 'Kettlebell Simple & Sinister'
+        author: Pavel Tsatsouline
+        link: 
+        date: 2015-02-11
+        star: no    
+        
+      - title: 'The Catcher in the Rye'
+        author: J.D. Salinger
+        link: 
+        date: 2015-01-31
+        star: no        
+        
+      - title: 'Breaking BUD/S: How Regular Guys Can Become Navy SEALs'
+        author: DH Xavier
+        link: 
+        date: 2015-01-04
+        star: no       
+        
+      - title: 'When the Bullet Hits Your Funny Bone: The Essence of A US Navy Seal'
+        author: Billy Allmon
+        link: 
+        date: 2015-01-01
+        star: no
+        
+  - year: "2009"
+    media:
+      - title: 'The Last Lecture'
+        author: Randy Pausch
+        link: 
+        date: 2009-11-05
+        star: no        
+        
+  - year: "2000-2015"
+    media:
+      - title: 'The Last Lecture'
+        author: Randy Pausch
+        link: 
+        date: 2009-11-05
+        star: no     
+        
+      - title: 'Eating the Dinosaur'
+        author: Chuck Klosterman
+        link: 
+        date:
+        star: no        
+        
+      - title: 'iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It'
+        author: Steve Wozniak
+        link: 
+        date:
+        star: no        
+        
+      - title: 'Lord of the Flies'
+        author: William Golding
+        link: 
+        date:
+        star: no        
+        
+      - title: 'Of Mice and Men'
+        author: John Steinbeck
+        link: 
+        date:
+        star: no            
+        
+      - title: 'The Hunger Games'
+        author: Suzanne Collins
+        link: 
+        date: 
+        star: no        
+        
+      - title: 'Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto'
+        author: Chuck Klosterman
+        link: 
+        date: 
+        star: no        
+        
+      - title: Animal Farm
+        author: George Orwell
+        link: https://www.amazon.com/Animal-Farm-George-Orwell/dp/0451526341
+        date: 
+        star: no
+        
+      - title: 'Beyond Belief: Finding the Strength to Come Back'
+        author: Josh Hamilton
+        link: https://www.amazon.com/Beyond-Belief-Finding-Strength-Come/dp/1599951606/ref=sr_1_3?keywords=beyond+belief&qid=1569973500&s=books&sr=1-3
+        date: 
+        star: no  

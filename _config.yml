@@ -1,0 +1,40 @@
+host: 0.0.0.0
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/
+
+# Setup
+title:               Clay Carson
+tagline:             
+url:                 http://claycarson.net
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Clay Carson
+  url:               http://claycarson.me
+  email:             clay@claycarson.net
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https:claycarson.github.io
+  
+# Build settings
+markdown: kramdown
+
+# Extras
+excerpt_separator: <!--more-->
+  
+# Feed
+
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1

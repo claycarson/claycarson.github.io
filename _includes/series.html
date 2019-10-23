@@ -1,0 +1,29 @@
+{% include list-start.html %}
+<section>
+<h1 class="display">Current Series</h1>
+<p class="intro">Here you will find all the ongoing series that I am either current on or working my way through.</p>
+</section>
+<section class="contain baseline sticky">
+{% for entry in site.data.series-current.list %}
+{% include media-list.html %}
+{% endfor %}
+</section>
+<section>
+<h1 class="display">Completed Series</h1>
+<p class="intro">Here you will find all the completed series that I have finshed.</p>
+</section>
+<section class="contain baseline sticky">
+{% for entry in site.data.series-complete.list %}
+{% include media-list.html %}
+{% endfor %}
+</section>
+<section>
+<h1 class="display">Abandoned Series</h1>
+<p class="intro">I have put a decent amount of time into these shows but for whatever reason didn't keep up. Perhaps someday I will get back on the wagon.</p>
+</section>
+<section class="contain baseline sticky">
+{% for entry in site.data.series-abandoned.list %}
+{% include media-list.html %}
+{% endfor %}
+</section>
+{% include list-end.html %}

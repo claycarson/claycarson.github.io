@@ -1,0 +1,436 @@
+:root {
+    --color-text: #BBB; /* body */
+    --color-sub: #696F7E; /* small */
+    --color-lines: #DDDDE0; /* lines */
+    --color-bg: #1E2125;
+    --color-white: #FFF;
+    --color-accent: #C15038;
+    --font-sans: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --font-serif: Georgia, serif;
+    --font-letterspacing: 0.02em;
+    --font-size-small: 75%
+}
+
+* , * :before, * :after {
+    box-sizing: border-box;
+    font-kerning: normal
+}
+
+html {
+    scroll-behavior: smooth;
+    background-color: var(--color-bg);
+    font-size: 18px;
+    font-family: var(--font-serif);
+    line-height: 1.5;
+    color: var(--color-text);
+    max-width: 65rem;
+    margin: 0 auto;
+    padding: 1rem;
+    -webkit-font-smoothing: antialiased;
+}
+
+@media (min-width: 600px) {
+    html {
+        padding: 2rem
+    }
+}
+
+@media (min-width: 1000px) {
+    html {
+        font-size: 18px
+    }
+}
+
+@media (min-width: 1200px) {
+    html {
+        font-size: 20px
+    }
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto
+    }
+}
+
+main {
+    min-height: calc(100vh - 20.5rem)
+}
+
+.contain {
+    margin: 5rem 0
+}
+
+.contain .contain {
+    margin: 0
+}
+
+.contain.sticky > div:first-child, .contain.sticky > header:first-child {
+    height: 100%
+}
+
+.contain.sticky > div:first-child h1, .contain.sticky > div:first-child h2,
+.contain.sticky > div:first-child h3 {
+    position: sticky;
+    top: 0
+}
+
+.contain.sticky > header:first-child div {
+    position: sticky;
+    top: 1rem
+}
+
+@media (min-width: 45rem) {
+    .contain {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        grid-gap: 2rem;
+        align-items: flex-start
+    }
+
+    .contain h2 {
+        margin-top: 0
+    }
+
+    .contain p:nth-child(1), .contain ul:nth-child(1), .contain ol:nth-child(1),
+    .contain div figure:nth-child(1) {
+        margin-top: 0
+    }
+
+    .contain.baseline {
+        align-items: baseline
+    }
+}
+
+h1, h2, h3 {
+    font-size: 1rem;
+    margin: 0;
+    hyphens: none;
+    font-family: var(--font-sans);
+    font-size: 100%
+}
+
+h1 a, h2 a, h3 a {
+	background-image: none;
+}
+h2 {
+    margin-top: 2rem;
+    margin-bottom: 0
+}
+
+h2 + p {
+    margin-top: 0.5rem
+}
+
+p.intro {
+    max-width: 28rem
+}
+
+h1.display {
+    margin-top: 6rem;
+    font-family: var(--font-sans);
+    font-size: 1.25rem;
+    letter-spacing: -0.01em
+}
+
+h1 + p.intro {
+    margin-top: 0.25rem
+}
+
+small {
+    font-family: var(--font-sans);
+    color: var(--color-sub);
+    font-size: var(--font-size-small);
+    letter-spacing: var(--font-letterspacing)
+}
+
+time {
+    color: var(--color-sub);
+    font-family: var(--font-sans);
+    font-size: var(--font-size-small);
+    letter-spacing: var(--font-letterspacing);
+    white-space: nowrap;
+    display: block
+}
+
+a, a:visited {
+    color: var(--color-text);
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, var(--color-accent) 50%, var(--color-accent) 50%);
+    background-repeat: repeat-x;
+    background-size: 1px 1px;
+    background-position: 0 100%;
+    transition: color 0.2s ease
+}
+
+a:hover {
+    color: var(--color-accent)
+}
+
+a:active {
+    color: var(--color-text)
+}
+
+cite {
+    font-size: var(--font-size-small);
+    font-style: normal;
+    color: var(--color-sub);
+    display: block;
+    margin-top: calc(-2rem + 5px);
+    letter-spacing: var(--font-letterspacing);
+    font-family: var(--font-sans)
+}
+
+blockquote {
+    border-left: 1px solid var(--color-text);
+    margin-left: 2em;
+    padding-left: 1em;
+    font-style: italic;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid var(--color-vlight);
+    width: 60%;
+    max-width: 15rem;
+    margin: 4rem auto
+}
+
+hr.small {
+    margin: 2rem 0;
+    width: 5rem
+}
+
+img.fullimg, .full {
+    width: 100%;
+    display: block
+}
+
+.multiply {
+    mix-blend-mode: multiply !important
+}
+
+.star {
+    font-size: var(--font-size-small);
+    position: relative;
+    top: -1px;
+    left: 3px
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 2.25rem;
+    display: inline-block;
+    font-family: var(--font-sans);
+    font-size: 95%
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 1rem
+}
+
+nav ul li:last-child {
+	color: var(--color-accent);
+}
+
+nav a {
+    background: none
+}
+
+nav > a {
+    display: block;
+    float: left;
+    margin-right: 2rem
+}
+
+footer {
+    padding: 2rem 0 0;
+    margin-top: 1rem;
+    font-family: var(--font-sans);
+    font-size: var(--font-size-small);
+    letter-spacing: var(--font-letterspacing);
+    color: var(--color-sub)
+}
+
+.horz-nav {
+    border-top: 1px solid var(--color-vlight);
+    border-bottom: 1px solid var(--color-vlight);
+    padding: 0.75rem 0;
+    font-family: var(--font-sans);
+    font-size: var(--font-size-small)
+}
+
+.horz-nav strong {
+    display: inline-block;
+    margin-right: 1rem
+}
+
+.horz-nav ul {
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0
+}
+
+.horz-nav ul li {
+    display: inline-block;
+    margin-right: 1rem
+}
+
+@media (min-width: 600px) {
+    .fourup {
+        grid-template-columns: 1fr 1fr 1fr 1fr
+    }
+}
+
+.essay {
+    max-width: 12rem;
+    margin: 0 auto 1rem
+}
+
+.postlink {
+    display: block;
+    background: none;
+    border-top: 1px solid var(--color-vlight);
+    padding: 1.5rem 0
+}
+
+.postlink h2 {
+    margin: 0
+}
+
+.postlink:last-child {
+    border-bottom: 1px solid var(--color-vlight)
+}
+
+@media (max-width: 750px) {
+    .postlink {
+        padding: 1rem 0;
+        display: flex;
+        flex-flow: column-reverse
+    }
+
+    .postlink p {
+        display: none
+    }
+}
+
+@media (min-width: 750px) {
+    .postlink {
+        display: grid;
+        grid-template-columns: 1fr 2fr 3fr;
+        align-items: baseline;
+        grid-gap: 2rem
+    }
+
+    .postlink p {
+        margin: 0
+    }
+}
+
+ul.diary {
+    columns: 3
+}
+
+@media (max-width: 32rem) {
+    ul.diary {
+        columns: 2
+    }
+}
+
+@media (min-width: 45rem) and (max-width: 70rem) {
+    ul.diary {
+        columns: 2
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-accent: #C15038;
+        --color-text: #39404D
+    }
+
+    html {
+        background-color: var(--color-text);
+        background-color: #1E2125;
+        color: var(--color-vlight)
+    }
+
+    html#Home {
+        background-color: var(--color-sub)
+    }
+
+    a {
+        color: var(--color-vlight) !important
+    }
+
+    a:hover {
+        color: var(--color-accent) !important
+    }
+
+    html#Home a, html#Home nav a:hover, html#Home footer a:hover, html#Home a:hover {
+        color: #fff !important
+    }
+
+    article.custom, article.custom a {
+        color: var(--color-text) !important
+    }
+
+    article.custom a:hover {
+        color: var(--color-accent) !important
+    }
+
+    article.recent, .archiveblock {
+        border-color: var(--color-text)
+    }
+
+    .postlink, .postlink:last-child, blockquote, hr, .horz-nav, ul.tracklist,
+    ul.tracklist li {
+        border-color: var(--color-text)
+    }
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+img {
+	max-width: 200px
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/*Mailchimp Newsletter Form*/
+
+#mailchimp {
+}
+	#mailchimp input {
+	border: 0px solid var(--color-text);
+    color: var(--color-text);
+    margin-bottom: 10px;
+    padding: 8px 10px;
+    font-size: 14px;
+    width: 250px;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+	}
+		#mailchimp input.email { background: #fff }
+		#mailchimp input.name { background: #fff}
+		#mailchimp input[type="submit"] {
+			background: var(--color-accent);
+			color: #fff;
+			cursor: pointer;
+			width: 100px;
+			padding: 8px 0;
+
+		}
+			#mailchimp input[type="submit"]:hover { background: var(--color-text); color: #fff; transition: color 0.2s ease }

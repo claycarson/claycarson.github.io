@@ -1,0 +1,10 @@
+<h1 id="y{{post.date | date: "%Y"}}">{{ entry.year }}</h1>
+<ul>
+{% for media in entry.media %}
+<li>
+{{ media.title }}
+<small>{% if media.author %} <span class="author">by </span>{% endif %} {{ media.author }} &middot; {{ media.date | date: "%m/%d" }} {% if media.star %} <span class="star">★</span>{% endif %}
+</small>
+</li>
+{% endfor %}
+</ul>
