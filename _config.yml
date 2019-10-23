@@ -32,6 +32,10 @@ markdown: kramdown
 
 # Extras
 excerpt_separator: <!--more-->
+
+# Gems
+plugins:
+  - jekyll-paginate
   
 # Feed
 
