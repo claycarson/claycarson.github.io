@@ -7,7 +7,7 @@ permalink: /:categories/:year/:month/:day/
 title:               Clay Carson
 tagline:             
 url:                 http://claycarson.net
-baseurl:             ""
+baseurl:             "/"
 
 # Assets
 #
