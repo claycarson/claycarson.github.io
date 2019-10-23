@@ -420,11 +420,11 @@ img {
 		#mailchimp input.email { background: #fff }
 		#mailchimp input.name { background: #fff}
 		#mailchimp input[type="submit"] {
-			background: var(--color-text);
+			background: var(--color-accent);
 			color: #fff;
 			cursor: pointer;
 			width: 100px;
 			padding: 8px 0;
 
 		}
-			#mailchimp input[type="submit"]:hover { background: var(--color-accent); color: #fff; transition: color 0.2s ease }
+			#mailchimp input[type="submit"]:hover { background: var(--color-text); color: #fff; transition: color 0.2s ease }
