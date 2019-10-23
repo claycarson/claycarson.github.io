@@ -9,105 +9,6 @@
 	<key>ExpandedItems:claycarson</key>
 	<array>
 		<string>A023B2FA-7523-4B27-8448-A256D5D5CC63</string>
-		<dict>
-			<key>BookmarkData</key>
-			<data>
-			Ym9vawgDAAAAAAQQMAAAAFzivOGPWIccmw01vvXCF8l2UJDyk8Ie
-			nZqqZmt2HkuXBAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
-			AAAKAAAAAQEAAGNsYXljYXJzb24AAAkAAAABAQAARG9jdW1lbnRz
-			AAAABgAAAAEBAABHaXRIdWIAAAIAAAABAQAAY2MAAAkAAAABAQAA
-			X2luY2x1ZGVzAAAAGAAAAAEGAAAQAAAAIAAAADQAAABIAAAAWAAA
-			AGQAAAAIAAAABAMAAMinCgADAAAACAAAAAQDAAAPUwsAAwAAAAgA
-			AAAEAwAAEd0nAQMAAAAIAAAABAMAAFXdJwEDAAAACAAAAAQDAAAu
-			F2UBAwAAAAgAAAAEAwAAHp95AQMAAAAYAAAAAQYAAJgAAACoAAAA
-			uAAAAMgAAADYAAAA6AAAAAgAAAAABAAAQcGpD5qAAAAYAAAAAQIA
-			AAIAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABAAAAAAA
-			AAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vBQAAAAEBAABN
-			YXJrNQAAAAgAAAAEAwAAAMA/ZHQAAAAIAAAAAAQAAEHBFQRx2NMP
-			JAAAAAEBAAA2OEIzMTJGMS1DQjkyLTNEQTMtOEZDMy01MDkzOTgw
-			OTM2QTEYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEA
-			AAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAE
-			EAAAeAAAAAAAAAAFEAAA+AAAAAAAAAAQEAAAKAEAAAAAAABAEAAA
-			GAEAAAAAAAACIAAA8AEAAAAAAAAFIAAAZAEAAAAAAAAQIAAAdAEA
-			AAAAAAARIAAApAEAAAAAAAASIAAAhAEAAAAAAAATIAAAlAEAAAAA
-			AAAgIAAA0AEAAAAAAAAwIAAA/AEAAAAAAAABwAAASAEAAAAAAAAR
-			wAAAIAAAAAAAAAASwAAAWAEAAAAAAAAQ0AAABAAAAAAAAAA=
-			</data>
-			<key>FileURL</key>
-			<string>file:///Users/claycarson/Documents/GitHub/cc/_includes/</string>
-			<key>HasSecurityScope</key>
-			<true/>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BookmarkData</key>
-			<data>
-			Ym9vawADAAAAAAQQMAAAAF/aov5EzhiN5HSnO5lp0rvTvJwyE8e1
-			mNwVIKZC25ft/AEAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
-			AAAKAAAAAQEAAGNsYXljYXJzb24AAAkAAAABAQAARG9jdW1lbnRz
-			AAAABgAAAAEBAABHaXRIdWIAAAIAAAABAQAAY2MAAAMAAAABAQAA
-			Y3NzABgAAAABBgAAEAAAACAAAAA0AAAASAAAAFgAAABkAAAACAAA
-			AAQDAADIpwoAAwAAAAgAAAAEAwAAD1MLAAMAAAAIAAAABAMAABHd
-			JwEDAAAACAAAAAQDAABV3ScBAwAAAAgAAAAEAwAALhdlAQMAAAAI
-			AAAABAMAAECfeQEDAAAAGAAAAAEGAACQAAAAoAAAALAAAADAAAAA
-			0AAAAOAAAAAIAAAAAAQAAEHBqQ+agAAAGAAAAAECAAACAAAAAAAA
-			AA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAQAAAAAAAAABAAAAAMD
-			AAD1AQAACAAAAAEJAABmaWxlOi8vLwUAAAABAQAATWFyazUAAAAI
-			AAAABAMAAADAP2R0AAAACAAAAAAEAABBwRUEcdjTDyQAAAABAQAA
-			NjhCMzEyRjEtQ0I5Mi0zREEzLThGQzMtNTA5Mzk4MDkzNkExGAAA
-			AAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8A
-			AAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAHAAAAAA
-			AAAABRAAAPAAAAAAAAAAEBAAACABAAAAAAAAQBAAABABAAAAAAAA
-			AiAAAOgBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAA
-			AJwBAAAAAAAAEiAAAHwBAAAAAAAAEyAAAIwBAAAAAAAAICAAAMgB
-			AAAAAAAAMCAAAPQBAAAAAAAAAcAAAEABAAAAAAAAEcAAACAAAAAA
-			AAAAEsAAAFABAAAAAAAAENAAAAQAAAAAAAAA
-			</data>
-			<key>FileURL</key>
-			<string>file:///Users/claycarson/Documents/GitHub/cc/css/</string>
-			<key>HasSecurityScope</key>
-			<true/>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BookmarkData</key>
-			<data>
-			Ym9vawADAAAAAAQQMAAAAHmvbHs86AG/LdqcVpCT2vJJ44ys3WG0
-			Qk17Kl60m1or/AEAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
-			AAAKAAAAAQEAAGNsYXljYXJzb24AAAkAAAABAQAARG9jdW1lbnRz
-			AAAABgAAAAEBAABHaXRIdWIAAAIAAAABAQAAY2MAAAQAAAABAQAA
-			cGFnZRgAAAABBgAAEAAAACAAAAA0AAAASAAAAFgAAABkAAAACAAA
-			AAQDAADIpwoAAwAAAAgAAAAEAwAAD1MLAAMAAAAIAAAABAMAABHd
-			JwEDAAAACAAAAAQDAABV3ScBAwAAAAgAAAAEAwAALhdlAQMAAAAI
-			AAAABAMAADCfeQEDAAAAGAAAAAEGAACQAAAAoAAAALAAAADAAAAA
-			0AAAAOAAAAAIAAAAAAQAAEHBqQ+agAAAGAAAAAECAAACAAAAAAAA
-			AA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAQAAAAAAAAABAAAAAMD
-			AAD1AQAACAAAAAEJAABmaWxlOi8vLwUAAAABAQAATWFyazUAAAAI
-			AAAABAMAAADAP2R0AAAACAAAAAAEAABBwRUEcdjTDyQAAAABAQAA
-			NjhCMzEyRjEtQ0I5Mi0zREEzLThGQzMtNTA5Mzk4MDkzNkExGAAA
-			AAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8A
-			AAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAHAAAAAA
-			AAAABRAAAPAAAAAAAAAAEBAAACABAAAAAAAAQBAAABABAAAAAAAA
-			AiAAAOgBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAA
-			AJwBAAAAAAAAEiAAAHwBAAAAAAAAEyAAAIwBAAAAAAAAICAAAMgB
-			AAAAAAAAMCAAAPQBAAAAAAAAAcAAAEABAAAAAAAAEcAAACAAAAAA
-			AAAAEsAAAFABAAAAAAAAENAAAAQAAAAAAAAA
-			</data>
-			<key>FileURL</key>
-			<string>file:///Users/claycarson/Documents/GitHub/cc/page/</string>
-			<key>HasSecurityScope</key>
-			<true/>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
 	</array>
 	<key>FileFilterMode:claycarson</key>
 	<integer>0</integer>
@@ -125,7 +26,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -170,7 +71,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -214,7 +115,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -259,7 +160,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -304,7 +205,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -349,7 +250,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -394,7 +295,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -439,7 +340,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -485,7 +386,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -530,7 +431,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -575,7 +476,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -620,7 +521,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -665,7 +566,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -710,7 +611,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -755,7 +656,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-23T21:20:38Z</date>
+			<date>2019-10-23T21:25:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
