@@ -1,7 +1,7 @@
 host: 0.0.0.0
 
 # Permalinks
-permalink: /:categories/:year/:month/:day/
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
 # Setup
 title:               Clay Carson
