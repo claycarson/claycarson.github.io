@@ -2,7 +2,7 @@
     --color-text: #2F3540; /* body */
     --color-sub: #696F7E; /* small */
     --color-lines: #DDDDE0; /* lines */
-    --color-bg: #F4F2F0;
+    --color-bg: #F4F4F4;
     --color-accent: #C15038;
     --font-sans: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     --font-serif: Georgia, serif;
@@ -344,7 +344,7 @@ ul.diary {
 @media (prefers-color-scheme: dark) {
     :root {
         --color-accent: #C15038;
-        --color-text: #BBB;
+        --color-text: #F4F4F4;
         --color-sub: #696F7E;
         --color-bg: #1E2125;
     }
@@ -420,11 +420,11 @@ img {
 		#mailchimp input.email { background: #fff }
 		#mailchimp input.name { background: #fff}
 		#mailchimp input[type="submit"] {
-			background: var(--color-text);
+			background: var(--color-accent);
 			color: #fff;
 			cursor: pointer;
 			width: 100px;
 			padding: 8px 0;
 
 		}
-			#mailchimp input[type="submit"]:hover { background: var(--color-accent); color: #fff; transition: color 0.2s ease }
+			#mailchimp input[type="submit"]:hover { background: var(--color-text); color: #fff; transition: color 0.2s ease }
