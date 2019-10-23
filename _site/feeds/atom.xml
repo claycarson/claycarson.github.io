@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Clay Carson</title>
- <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
- <link href="http://0.0.0.0:4000/"/>
- <updated>2019-10-23T13:19:48-05:00</updated>
+ <link href="http://0.0.0.0:4000//atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:4000//"/>
+ <updated>2019-10-23T16:15:48-05:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
    <name>Clay Carson</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>October 2019</title>
-   <link href="http://0.0.0.0:4000/newsletter/2019/10/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2019/10/01/"/>
    <updated>2019-10-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2019/10/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -63,7 +63,7 @@
  
  <entry>
    <title>September 2019</title>
-   <link href="http://0.0.0.0:4000/newsletter/2019/09/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2019/09/01/"/>
    <updated>2019-09-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2019/09/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -123,7 +123,7 @@
  
  <entry>
    <title>August 2019</title>
-   <link href="http://0.0.0.0:4000/newsletter/2019/08/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2019/08/01/"/>
    <updated>2019-08-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2019/08/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -190,7 +190,7 @@ People often buy and use Ring doorbell cameras under the premise that they’re 
  
  <entry>
    <title>July 2019</title>
-   <link href="http://0.0.0.0:4000/newsletter/2019/07/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2019/07/01/"/>
    <updated>2019-07-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2019/07/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -249,7 +249,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <entry>
    <title>June 2019</title>
-   <link href="http://0.0.0.0:4000/newsletter/2019/06/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2019/06/01/"/>
    <updated>2019-06-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2019/06/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -302,7 +302,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <entry>
    <title>May 2019</title>
-   <link href="http://0.0.0.0:4000/newsletter/2019/05/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2019/05/01/"/>
    <updated>2019-05-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2019/05/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -359,7 +359,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <entry>
    <title>April 2019</title>
-   <link href="http://0.0.0.0:4000/newsletter/2019/04/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2019/04/01/"/>
    <updated>2019-04-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2019/04/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -459,7 +459,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <entry>
    <title>March 2019</title>
-   <link href="http://0.0.0.0:4000/newsletter/2019/03/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2019/03/01/"/>
    <updated>2019-03-01T00:00:00-06:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2019/03/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -506,7 +506,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>February 2019</title>
-   <link href="http://0.0.0.0:4000/newsletter/2019/02/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2019/02/01/"/>
    <updated>2019-02-01T00:00:00-06:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2019/02/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -581,7 +581,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>January 2019</title>
-   <link href="http://0.0.0.0:4000/newsletter/2019/01/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2019/01/01/"/>
    <updated>2019-01-01T00:00:00-06:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2019/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -644,7 +644,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>1106</title>
-   <link href="http://0.0.0.0:4000/status/2018/12/30/"/>
+   <link href="http://0.0.0.0:4000//status/2018/12/30/"/>
    <updated>2018-12-30T00:00:00-06:00</updated>
    <id>http://0.0.0.0:4000/status/2018/12/1982</id>
    <content type="html">&lt;p&gt;If I am ever diagnosed with cancer, the first thing I’m gonna do is Neti Pot. As close to magic as exists in this world.&lt;/p&gt;
@@ -653,7 +653,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>December 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/12/15/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/12/15/"/>
    <updated>2018-12-15T00:00:00-06:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/12/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -736,7 +736,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>Freel at Last, Freel at Last, Thank God Almighty, She’s a Freel at Last</title>
-   <link href="http://0.0.0.0:4000/photo/2018/11/06/"/>
+   <link href="http://0.0.0.0:4000//photo/2018/11/06/"/>
    <updated>2018-11-06T03:50:22-06:00</updated>
    <id>http://0.0.0.0:4000/photo/2018/11/freel-at-last-freel-at-last-thank-god-almighty-shes-a-freel-at-last</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;&lt;/p&gt;
@@ -752,7 +752,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>November 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/11/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/11/01/"/>
    <updated>2018-11-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/11/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -831,7 +831,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>October 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/10/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/10/01/"/>
    <updated>2018-10-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/10/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -875,7 +875,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>September 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/09/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/09/01/"/>
    <updated>2018-09-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/09/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -924,7 +924,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>August 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/08/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/08/01/"/>
    <updated>2018-08-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/08/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -995,7 +995,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>July 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/07/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/07/01/"/>
    <updated>2018-07-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/07/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1057,7 +1057,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>June 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/06/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/06/01/"/>
    <updated>2018-06-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/06/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1124,7 +1124,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>May 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/05/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/05/01/"/>
    <updated>2018-05-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/05/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1192,7 +1192,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Cherry Blossom</title>
-   <link href="http://0.0.0.0:4000/photo/2018/04/16/"/>
+   <link href="http://0.0.0.0:4000//photo/2018/04/16/"/>
    <updated>2018-04-16T11:11:07-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2018/04/cherry-blossom</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/04/22.jpeg&quot; alt=&quot;22.jpeg&quot; /&gt;
@@ -1202,7 +1202,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>April 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/04/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/04/01/"/>
    <updated>2018-04-01T00:00:00-05:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/04/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1274,7 +1274,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>March 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/03/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/03/01/"/>
    <updated>2018-03-01T00:00:00-06:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/03/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1362,7 +1362,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>February 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/02/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/02/01/"/>
    <updated>2018-02-01T00:00:00-06:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/02/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1450,7 +1450,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Moon</title>
-   <link href="http://0.0.0.0:4000/photo/2018/01/30/"/>
+   <link href="http://0.0.0.0:4000//photo/2018/01/30/"/>
    <updated>2018-01-30T15:34:57-06:00</updated>
    <id>http://0.0.0.0:4000/photo/2018/01/moon</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2018/01/moon-1.jpg&quot; /&gt;
@@ -1460,7 +1460,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Maui, Hawaii</title>
-   <link href="http://0.0.0.0:4000/photo/2018/01/30/"/>
+   <link href="http://0.0.0.0:4000//photo/2018/01/30/"/>
    <updated>2018-01-30T08:28:53-06:00</updated>
    <id>http://0.0.0.0:4000/photo/2018/01/maui-hawaii</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;
@@ -1470,7 +1470,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1810</title>
-   <link href="http://0.0.0.0:4000/status/2018/01/25/"/>
+   <link href="http://0.0.0.0:4000//status/2018/01/25/"/>
    <updated>2018-01-25T03:03:57-06:00</updated>
    <id>http://0.0.0.0:4000/status/2018/01/1810</id>
    <content type="html">&lt;p&gt;Weekend Plan: Watch people across the street try to fit estate sale purchases in their cars.&lt;/p&gt;
@@ -1479,7 +1479,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>January 2018</title>
-   <link href="http://0.0.0.0:4000/newsletter/2018/01/01/"/>
+   <link href="http://0.0.0.0:4000//newsletter/2018/01/01/"/>
    <updated>2018-01-01T00:00:00-06:00</updated>
    <id>http://0.0.0.0:4000/newsletter/2018/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1548,7 +1548,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Bits from Books &amp;#8211; 2017</title>
-   <link href="http://0.0.0.0:4000/article/2017/12/31/"/>
+   <link href="http://0.0.0.0:4000//article/2017/12/31/"/>
    <updated>2017-12-31T02:00:08-06:00</updated>
    <id>http://0.0.0.0:4000/article/2017/12/bits-from-books-2017</id>
    <content type="html">&lt;p&gt;Below I have included a list of the books I have read or listened to throughout 2017. Highlighting important passages as I read has lead to the ability to reflect and contemplate long after finishing these books and I do so periodically throughout the year. Here I have compiled those passages that stood out even further that I felt worthwhile to share.&lt;/p&gt;
@@ -1824,7 +1824,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1621</title>
-   <link href="http://0.0.0.0:4000/status/2017/12/16/"/>
+   <link href="http://0.0.0.0:4000//status/2017/12/16/"/>
    <updated>2017-12-16T06:22:06-06:00</updated>
    <id>http://0.0.0.0:4000/status/2017/12/1621</id>
    <content type="html">&lt;p&gt;Not sure if shaking from coffee or PUBG.&lt;/p&gt;
@@ -1833,7 +1833,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1530</title>
-   <link href="http://0.0.0.0:4000/status/2017/12/08/"/>
+   <link href="http://0.0.0.0:4000//status/2017/12/08/"/>
    <updated>2017-12-08T05:36:47-06:00</updated>
    <id>http://0.0.0.0:4000/status/2017/12/1530</id>
    <content type="html">&lt;p&gt;Just checked and pickles can still ruin a sandwich.&lt;/p&gt;
@@ -1842,7 +1842,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Arnold H. Glasgow</title>
-   <link href="http://0.0.0.0:4000/quote/2017/11/20/"/>
+   <link href="http://0.0.0.0:4000//quote/2017/11/20/"/>
    <updated>2017-11-20T11:29:06-06:00</updated>
    <id>http://0.0.0.0:4000/quote/2017/11/arnold-h-glasgow</id>
    <content type="html">&lt;blockquote&gt;
@@ -1857,7 +1857,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1363</title>
-   <link href="http://0.0.0.0:4000/status/2017/10/14/"/>
+   <link href="http://0.0.0.0:4000//status/2017/10/14/"/>
    <updated>2017-10-14T17:20:37-05:00</updated>
    <id>http://0.0.0.0:4000/status/2017/10/1363</id>
    <content type="html">&lt;p&gt;Want to go on a wild ride? Watch Game Show Network commercials on a Saturday night.&lt;/p&gt;
@@ -1866,7 +1866,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Shoe Dogs: A Memoir by the Creator of Nike</title>
-   <link href="http://0.0.0.0:4000/quote/2017/09/28/"/>
+   <link href="http://0.0.0.0:4000//quote/2017/09/28/"/>
    <updated>2017-09-28T02:20:14-05:00</updated>
    <id>http://0.0.0.0:4000/quote/2017/09/shoe-dogs-a-memoir-by-the-creator-of-nike</id>
    <content type="html">&lt;blockquote&gt;
@@ -1883,7 +1883,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Paris, France</title>
-   <link href="http://0.0.0.0:4000/photo/2017/09/23/"/>
+   <link href="http://0.0.0.0:4000//photo/2017/09/23/"/>
    <updated>2017-09-23T03:50:28-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2017/09/paris-france</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;
@@ -1893,7 +1893,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1283</title>
-   <link href="http://0.0.0.0:4000/status/2017/09/22/"/>
+   <link href="http://0.0.0.0:4000//status/2017/09/22/"/>
    <updated>2017-09-22T00:08:29-05:00</updated>
    <id>http://0.0.0.0:4000/status/2017/09/1283</id>
    <content type="html">&lt;p&gt;Biggest benefit of jet lag is grinding Destiny 2 before the sun is up.&lt;/p&gt;
@@ -1902,7 +1902,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1259</title>
-   <link href="http://0.0.0.0:4000/status/2017/08/14/"/>
+   <link href="http://0.0.0.0:4000//status/2017/08/14/"/>
    <updated>2017-08-14T10:38:11-05:00</updated>
    <id>http://0.0.0.0:4000/status/2017/08/1259</id>
    <content type="html">&lt;p&gt;Something has changed since I turned 29.5. I am firing off the best sneezes of my life.&lt;/p&gt;
@@ -1911,7 +1911,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1219</title>
-   <link href="http://0.0.0.0:4000/status/2017/07/24/"/>
+   <link href="http://0.0.0.0:4000//status/2017/07/24/"/>
    <updated>2017-07-24T11:42:25-05:00</updated>
    <id>http://0.0.0.0:4000/status/2017/07/1219</id>
    <content type="html">&lt;p&gt;After a Texas afternoon run I am forced to wonder if the cardinal I am seeing really is a cardinal, a bird, or even there at all.&lt;/p&gt;
@@ -1920,7 +1920,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Lunch</title>
-   <link href="http://0.0.0.0:4000/photo/2017/07/08/"/>
+   <link href="http://0.0.0.0:4000//photo/2017/07/08/"/>
    <updated>2017-07-08T07:35:42-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2017/07/lunch</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/07/IMG_2219.jpeg&quot; alt=&quot;IMG_2219.jpeg&quot; /&gt;&lt;/p&gt;
@@ -1929,7 +1929,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Library of Congress</title>
-   <link href="http://0.0.0.0:4000/photo/2017/06/17/"/>
+   <link href="http://0.0.0.0:4000//photo/2017/06/17/"/>
    <updated>2017-06-17T05:54:44-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2017/06/the-library-of-congress</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1878.jpeg&quot; alt=&quot;IMG_1878.jpeg&quot; /&gt;&lt;/p&gt;
@@ -1938,7 +1938,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>942</title>
-   <link href="http://0.0.0.0:4000/status/2017/06/16/"/>
+   <link href="http://0.0.0.0:4000//status/2017/06/16/"/>
    <updated>2017-06-16T01:10:31-05:00</updated>
    <id>http://0.0.0.0:4000/status/2017/06/942</id>
    <content type="html">&lt;p&gt;Made it to the Newseum, the United States Capitol, the Library of Congress and saw the Presidential motorcade twice yesterday. Today: Arlington National Cemetery and Richmond, VA.&lt;/p&gt;
@@ -1947,7 +1947,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>United States Capitol</title>
-   <link href="http://0.0.0.0:4000/photo/2017/06/16/"/>
+   <link href="http://0.0.0.0:4000//photo/2017/06/16/"/>
    <updated>2017-06-16T01:02:40-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2017/06/united-states-capitol</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1760.jpeg&quot; alt=&quot;IMG_1760.jpeg&quot; /&gt;&lt;/p&gt;
@@ -1956,7 +1956,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>929</title>
-   <link href="http://0.0.0.0:4000/status/2017/06/13/"/>
+   <link href="http://0.0.0.0:4000//status/2017/06/13/"/>
    <updated>2017-06-13T15:48:35-05:00</updated>
    <id>http://0.0.0.0:4000/status/2017/06/929</id>
    <content type="html">&lt;p&gt;If you didn’t catch John Wick, put it at the top of your list. If you didn’t catch John Wick Chapter 2, put it second on your list.&lt;/p&gt;
@@ -1965,7 +1965,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Flying Solo</title>
-   <link href="http://0.0.0.0:4000/photo/2017/06/12/"/>
+   <link href="http://0.0.0.0:4000//photo/2017/06/12/"/>
    <updated>2017-06-12T15:31:53-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2017/06/flying-solo</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1612.jpeg&quot; alt=&quot;IMG_1612.jpeg&quot; /&gt;&lt;/p&gt;
@@ -1974,7 +1974,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>903</title>
-   <link href="http://0.0.0.0:4000/status/2017/06/09/"/>
+   <link href="http://0.0.0.0:4000//status/2017/06/09/"/>
    <updated>2017-06-09T17:25:27-05:00</updated>
    <id>http://0.0.0.0:4000/status/2017/06/903</id>
    <content type="html">&lt;p&gt;This is just a simple status that will serve as a test for designing this specific post type.
@@ -1984,7 +1984,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Old Rag</title>
-   <link href="http://0.0.0.0:4000/photo/2017/04/27/"/>
+   <link href="http://0.0.0.0:4000//photo/2017/04/27/"/>
    <updated>2017-04-27T05:38:50-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2017/04/old-rag</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/04/8DDC9CAD-C089-4A21-B656-55390DEA0ACD.jpeg&quot; alt=&quot;8DDC9CAD-C089-4A21-B656-55390DEA0ACD.jpeg&quot; /&gt;&lt;/p&gt;
@@ -1993,7 +1993,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>TPC Scottsdale</title>
-   <link href="http://0.0.0.0:4000/photo/2017/03/23/"/>
+   <link href="http://0.0.0.0:4000//photo/2017/03/23/"/>
    <updated>2017-03-23T13:05:05-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2017/03/tpc-scottsdale</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/04/IMG_1013.jpeg&quot; alt=&quot;IMG_1013.jpeg&quot; /&gt;&lt;/p&gt;
@@ -2002,7 +2002,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Foggy Forest</title>
-   <link href="http://0.0.0.0:4000/photo/2017/01/26/"/>
+   <link href="http://0.0.0.0:4000//photo/2017/01/26/"/>
    <updated>2017-01-26T18:04:01-06:00</updated>
    <id>http://0.0.0.0:4000/photo/2017/01/foggy-forest</id>
    <content type="html">
@@ -2011,7 +2011,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Bits from Books &amp;#8211; 2016</title>
-   <link href="http://0.0.0.0:4000/article/2016/12/31/"/>
+   <link href="http://0.0.0.0:4000//article/2016/12/31/"/>
    <updated>2016-12-31T09:42:30-06:00</updated>
    <id>http://0.0.0.0:4000/article/2016/12/bits-from-books-2016</id>
    <content type="html">&lt;p&gt;In 2015, I read my first book since high school. Although, I had regularly listened to audiobooks, I had not read a book cover to cover in over a decade. I made it a point that I would use my post-lunch laziness to read.&lt;/p&gt;
@@ -2229,7 +2229,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Achievement Unlocked: Apple Watch Turkey Day Challenge</title>
-   <link href="http://0.0.0.0:4000/photo/2016/11/24/"/>
+   <link href="http://0.0.0.0:4000//photo/2016/11/24/"/>
    <updated>2016-11-24T03:59:53-06:00</updated>
    <id>http://0.0.0.0:4000/photo/2016/11/achievement-unlocked-apple-watch-turkey-day-callenge</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2016/11/IMG_6479-1.png&quot; alt=&quot;IMG_6479.png&quot; /&gt;&lt;/p&gt;
@@ -2238,7 +2238,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Hello World 3.0</title>
-   <link href="http://0.0.0.0:4000/article/2014/12/18/"/>
+   <link href="http://0.0.0.0:4000//article/2014/12/18/"/>
    <updated>2014-12-18T12:11:58-06:00</updated>
    <id>http://0.0.0.0:4000/article/2014/12/hello-world-3.0</id>
    <content type="html">&lt;p&gt;I’ve had a blog of some sorts off and on since late 2006. I never really wrote much except for a few ‘tip’ type posts for Mac OS X. A couple of years after that I started tweaking things on my site and figured out how to do &lt;a href=&quot;daringfireball.net&quot;&gt;Daring Fireball&lt;/a&gt; style link posts on &lt;a href=&quot;https://wordpress.org&quot;&gt;Wordpress&lt;/a&gt;.&lt;/p&gt;
@@ -2258,7 +2258,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Honeymoon</title>
-   <link href="http://0.0.0.0:4000/photo/2012/05/20/"/>
+   <link href="http://0.0.0.0:4000//photo/2012/05/20/"/>
    <updated>2012-05-20T11:17:50-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2012/05/honeymoon</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20120520-IMG_0509.jpg&quot; alt=&quot;20120520 IMG 0509&quot; title=&quot;20120520-IMG_0509.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
@@ -2271,7 +2271,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>NYC</title>
-   <link href="http://0.0.0.0:4000/photo/2010/12/24/"/>
+   <link href="http://0.0.0.0:4000//photo/2010/12/24/"/>
    <updated>2010-12-24T11:03:54-06:00</updated>
    <id>http://0.0.0.0:4000/photo/2010/12/nyc</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/MG_1758.jpg&quot; alt=&quot;MG 1758&quot; title=&quot;_MG_1758.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
@@ -2290,7 +2290,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Seaside</title>
-   <link href="http://0.0.0.0:4000/photo/2008/06/10/"/>
+   <link href="http://0.0.0.0:4000//photo/2008/06/10/"/>
    <updated>2008-06-10T11:12:47-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2008/06/seaside</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/14.jpg&quot; alt=&quot;14&quot; title=&quot;14.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
@@ -2305,7 +2305,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Dark Flower</title>
-   <link href="http://0.0.0.0:4000/photo/2007/07/27/"/>
+   <link href="http://0.0.0.0:4000//photo/2007/07/27/"/>
    <updated>2007-07-27T11:20:27-05:00</updated>
    <id>http://0.0.0.0:4000/photo/2007/07/dark-flower</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20070727-Dark-Flower-300x225.jpg&quot; alt=&quot;&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-medium wp-image-1190&quot; /&gt;
