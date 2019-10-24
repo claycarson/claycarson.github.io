@@ -20,5 +20,9 @@ layout: null
   <pubDate>{{ post.date }}</pubDate>
  </item>
  {% endfor %}
+  {% endfor %}
+   {% endfor %}
+    {% endfor %}
+     {% endfor %}
 </channel>
 </rss>
