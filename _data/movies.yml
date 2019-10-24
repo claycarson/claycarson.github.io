@@ -1,6 +1,14 @@
 list:
   - year: "2019"
     media:
+      - Dead Poets Society
+        date: 2019-10-24
+        link: https://www.imdb.com/title/tt0097165/
+        category: movie
+      - title: Patriot Games
+        date: 2019-10-24
+        link: https://www.imdb.com/title/tt0105112/
+        category: movie
       - title: The Laundromat
         date: 2019-10-18
         link: https://www.imdb.com/title/tt5865326/
