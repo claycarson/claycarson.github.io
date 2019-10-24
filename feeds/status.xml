@@ -9,7 +9,7 @@ layout: null
  <link>claycarson.net</link>
  {% for post in site.categories.Status %}
  <item>
-  <title></title>
+  <title>Clay Carson Status Update</title>
   <content>{{ post.content }}</content>
   <link>{{ post.url }}</link>
   <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
