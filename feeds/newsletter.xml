@@ -2,21 +2,19 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
- <title>Clay Carson Newsletter</title>
+ <title>{{ site.author }} Newsletter</title>
  <description></description>
- <link>claycarson.net</link>
-
+ <link>{{ site.url }}</link>
  {% for post in site.categories.Newsletter %}
  <item>
-  <title>{{ post.title }}</title>
-  <content>{{ post.content }}</content>
+  <title>{{ post.title | xml_escape }}</title>
+  <content>{{ post.content | xml_escape }}</content>
   <link>{{ post.url }}</link>
   <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
   <pubDate>{{ post.date }}</pubDate>
  </item>
  {% endfor %}
-
 </channel>
 </rss>
