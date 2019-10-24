@@ -5,9 +5,64 @@
     <description></description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Oct 2019 17:06:14 -0500</pubDate>
-    <lastBuildDate>Wed, 23 Oct 2019 17:06:14 -0500</lastBuildDate>
+    <pubDate>Thu, 24 Oct 2019 14:17:12 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Oct 2019 14:17:12 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Test Newsletter</title>
+        <description>&lt;p&gt;This is a copy of October’s newsletter so that I can test publishing next month’s newsletter.&lt;/p&gt;
+
+&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+
+&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;a-burst-bubble&quot;&gt;A Burst Bubble&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.5280.com/2019/09/the-balloon-boy-hoax-solved/&quot;&gt;The Balloon Boy Hoax—Solved!&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It’s not difficult to piece it together: With a video camera rolling, Richard would launch the balloon and freak out. He’d call the FAA and get the balloon tracked. There’d be a tearful reunion when Falcon emerged from the basement, where he’d been told to hide. Richard would call back and say his son wasn’t in the basket. They’d make sure the Fort Collins newspaper knew about the stray saucer and the drama behind it. The story might go nationwide. With publicity in full force and a recording of every moment, networks would fight over the Heenes’ story.&lt;/p&gt;
+
+  &lt;p&gt;Except Falcon didn’t hide where he was told to. He hid in the garage attic, not in the basement. He played with his cars and he fell asleep. The FAA said Richard needed to call 911. Deputies showed up. Neighbors began searching for Falcon. And then that silvery balloon was careening across our television screens. That’s why Mayumi’s reunion with Falcon was so believable: For a few hours, she and Richard honestly worried their son had been swept away.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;chess-t-day&quot;&gt;Chess-t Day&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.espn.in/espn/story/_/id/27593253/why-grandmasters-magnus-carlsen-fabiano-caruana-lose-weight-playing-chess&quot;&gt;The Grandmaster Diet: How to lose weight while barely moving&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In 2004, winner Rustam Kasimdzhanov walked away from the six-game world championship having lost 17 pounds. In October 2018, Polar, a U.S.-based company that tracks heart rates, monitored chess players during a tournament and found that 21-year-old Russian grandmaster Mikhail Antipov had burned 560 calories in two hours of sitting and playing chess – or roughly what Roger Federer would burn in an hour of singles tennis.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.espn.com/espn/feature/story/_/id/27400369/the-body-issue#!&quot; title=&quot;The Body Issue - 2019&quot;&gt;The Body Issue - 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nyctimescape.com/#overview&quot; title=&quot;NYC Timescape&quot;&gt;NYC Timescape - 30 Year Time-lapse&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.presentandcorrect.com/250-words-you-can-spell-with-a-calculator&quot;&gt;250 Words you can spell with a calculator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xd2TL88T9_s&quot;&gt;Can You Hear the Difference Between Cheap and Expensive Pianos?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=aPb-slJH9Vs&quot;&gt;How Pencils are Made&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
+
+&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
+
+&lt;p&gt;Clay&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Oct 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//newsletter/2019/10/24/Newsletter-Test.html</link>
+        <guid isPermaLink="true">http://localhost:4000//newsletter/2019/10/24/Newsletter-Test.html</guid>
+        
+        
+        <category>Newsletter</category>
+        
+      </item>
     
       <item>
         <title>October 2019</title>
@@ -606,73 +661,6 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
         <pubDate>Fri, 01 Feb 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000//newsletter/2019/02/01/Newsletter.html</link>
         <guid isPermaLink="true">http://localhost:4000//newsletter/2019/02/01/Newsletter.html</guid>
-        
-        
-        <category>Newsletter</category>
-        
-      </item>
-    
-      <item>
-        <title>January 2019</title>
-        <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
-
-&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;simply-the-best&quot;&gt;Simply The Best&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.vox.com/the-goods/2018/12/12/18112538/best-search-choices-psychology-barry-schwartz&quot;&gt;The Best Doesn’t Exist.&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;People who are searching for good enough are not second-guessing themselves. When there’s any little imperfection, people who are searching for the best don’t say, “Well, the world has disappointed me.” They say, “I must have made a mistake.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;barkleys-bud&quot;&gt;Barkley’s Bud&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.wbur.org/onlyagame/2018/12/14/lin-wang-charles-barkley&quot; title=&quot;My Dad's Friendship With Charles Barkley&quot;&gt;My Dad’s Friendship With Charles Barkley&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I preferred the audio version to the written article, for what it’s worth.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;When Charles Barkley’s mother, Charcey Glenn, passed away in June 2015, Barkley’s hometown of Leeds, Alabama, came to the funeral to pay respects. But there was also an unexpected guest.&lt;/p&gt;
-
-  &lt;p&gt;Barkley’s friends couldn’t quite place him. He wasn’t a basketball player, he wasn’t a sports figure, and he wasn’t from Barkley’s hometown. Here’s what I can tell you about him: He wore striped, red polo shirts tucked into khaki shorts and got really excited about two-for-one deals. He was a commuter. He worked as a cat litter scientist in Muscatine, Iowa. In short, he was everyone’s suburban dad. More specifically, he was my dad.&lt;/p&gt;
-
-  &lt;p&gt;“You know, it was obviously a very difficult time,” Barkley told me recently. “And the next thing I know, he shows up. Everybody’s like, ‘Who’s the Asian dude over there?’ I just started laughing. I said, ‘That’s my boy, Lin.’ They’re, like, ‘How do you know him?’ I said, ‘It’s a long story.’ “&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mobile.twitter.com/Skratch/status/1072585563276926976&quot; title=&quot;Did Tiger really play Miura clubs when he won the ’97 Masters?&quot;&gt;Did Tiger really play Miura clubs when he won the ’97 Masters?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/nHrfu5CP9lE&quot; title=&quot;Life On Tour - Joe Buck&quot;&gt;Life On Tour - Joe Buck&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stephenfollows.com/using-data-to-determine-if-die-hard-is-a-christmas-movie/?utm_source=nextdraft&amp;amp;utm_medium=email&quot; title=&quot;Using Data to Determine if Die Hard is a Christmas Movie&quot;&gt;Using Data to Determine if Die Hard is a Christmas Movie&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCcMDMoNu66_1Hwi5-MeiQgw/videos?view=0&amp;amp;sort=p&amp;amp;flow=grid&quot; title=&quot;Hydraulic Press Channel&quot;&gt;Hydraulic Press Channel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://sh-meet.bigpixel.cn/?from=groupmessage&amp;amp;isappinstalled=0&quot;&gt;Zoom In. Anywhere.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;book-em&quot;&gt;Book ‘Em&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2018&quot; title=&quot;Bill Gates’ ‘5 Books I Loved in 2018&quot;&gt;Bill Gates’s ‘5 Books I Loved in 2018’&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Three of these are definitely on my list.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Educated-Memoir-Tara-Westover-ebook/dp/B072BLVM83/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1546015540&amp;amp;sr=1-1&amp;amp;keywords=educated&quot; title=&quot;Educated: A Memoir&quot;&gt;Educated: A Memoir&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/s/ref=nb_sb_ss_i_1_31?url=search-alias%3Dstripbooks&amp;amp;field-keywords=21+lessons+for+the+21st+century+by+yuval+noah+harari&amp;amp;sprefix=21+lessons+for+the+21st+century%2Cstripbooks%2C162&amp;amp;crid=CBXF566BXQHX&quot; title=&quot;21 Lessons for the 21st Century&quot;&gt;21 Lessons for the 21st Century&lt;/a&gt; - Yuval Noah Harari won me over with &lt;a href=&quot;https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095&quot; title=&quot;Sapiens&quot;&gt;Sapiens&lt;/a&gt; and &lt;a href=&quot;https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=pd_sim_14_1?_encoding=UTF8&amp;amp;pd_rd_i=0062464310&amp;amp;pd_rd_r=f1c5bce9-0abf-11e9-b54d-a3f4d08ced8f&amp;amp;pd_rd_w=v5lNU&amp;amp;pd_rd_wg=ggnay&amp;amp;pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&amp;amp;pf_rd_r=N8SRQH1V5QKPXVACSCAM&amp;amp;psc=1&amp;amp;refRID=N8SRQH1V5QKPXVACSCAM&quot; title=&quot;Homo Deus&quot;&gt;Homo Deus&lt;/a&gt; — the past and the future. Nice of him to make his next stop the present.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Get-Some-Headspace-Mindfulness-Minutes-ebook/dp/B006ZL1KAW/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1546015593&amp;amp;sr=1-1&amp;amp;keywords=The+Headspace+Guide+to+Meditation+and+Mindfulness&quot; title=&quot;The Headspace Guide to Meditation and Mindfulness&quot;&gt;The Headspace Guide to Meditation and Mindfulness&lt;/a&gt; - I’ve tried meditation and the only thing that felt like it made sense was Andy Puddicombe’s app, &lt;a href=&quot;http://headspace.com&quot; title=&quot;Headspace&quot;&gt;Headspace&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
-
-&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
-
-&lt;p&gt;Clay&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000//newsletter/2019/01/01/Newsletter.html</link>
-        <guid isPermaLink="true">http://localhost:4000//newsletter/2019/01/01/Newsletter.html</guid>
         
         
         <category>Newsletter</category>
