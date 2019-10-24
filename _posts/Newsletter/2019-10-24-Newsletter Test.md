@@ -1,7 +1,7 @@
 ---
 layout: newsletter
 title:  Test Newsletter
-date:   2019-10-01
+date:   2019-10-24
 category: Newsletter
 description: The bubble boy, chess diet, 58008, other body parts, pencils, and pianos
 ---
