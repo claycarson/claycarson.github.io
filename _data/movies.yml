@@ -1,6 +1,14 @@
 list:
   - year: "2019"
     media:
+      - title: All the Money in the World
+        date: 2019-10-29
+        link: https://www.imdb.com/title/tt5294550/
+        category: movie
+      - title: Wall Street
+        date: 2019-10-29
+        link: https://www.imdb.com/title/tt0094291/
+        category: movie        
       - title: Dead Poets Society
         date: 2019-10-24
         link: https://www.imdb.com/title/tt0097165/

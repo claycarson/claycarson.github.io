@@ -11,3 +11,13 @@
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 </section>
+
+<section>
+{% for post in site.categories.Status %}
+<a href="{{ post.url }}" class="postlink">
+<time> {{ post.date | date: "%m/%d/%y"}}</time>
+<h2></h2>
+<small>{{ post.content }}</small>
+</a>
+{% endfor %}
+</section>
