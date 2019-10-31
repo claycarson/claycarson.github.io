@@ -1,6 +1,10 @@
 list:
   - year: "2019"
     media:
+      - title: Psycho
+        date: 2019-10-31
+        link: https://www.imdb.com/title/tt0054215/
+        category: movie
       - title: All the Money in the World
         date: 2019-10-29
         link: https://www.imdb.com/title/tt5294550/

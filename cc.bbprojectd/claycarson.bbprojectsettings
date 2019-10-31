@@ -251,46 +251,7 @@
 	<key>FileFilterMode:claycarson</key>
 	<integer>0</integer>
 	<key>OpenDocuments:claycarson</key>
-	<array>
-		<dict>
-			<key>BookmarkData</key>
-			<data>
-			Ym9va3wDAAAAAAQQMAAAALMgnKKKEeQCPeqI390QABYn9P12fbgb
-			LX3VZT7IIzhMbAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
-			AAAKAAAAAQEAAGNsYXljYXJzb24AAAkAAAABAQAARG9jdW1lbnRz
-			AAAABgAAAAEBAABHaXRIdWIAABQAAAABAQAAY2xheWNhcnNvbi5n
-			aXRodWIuaW8FAAAAAQEAAF9kYXRhAAAACgAAAAEBAABtb3ZpZXMu
-			eW1sAAAcAAAAAQYAABAAAAAgAAAANAAAAEgAAABYAAAAdAAAAIQA
-			AAAIAAAABAMAAMinCgADAAAACAAAAAQDAAAPUwsAAwAAAAgAAAAE
-			AwAAEd0nAQMAAAAIAAAABAMAAFXdJwEDAAAACAAAAAQDAAAmQZQB
-			AwAAAAgAAAAEAwAA7G+UAQMAAAAIAAAABAMAAAhwlAEDAAAAHAAA
-			AAEGAAC8AAAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAACAAAAAAE
-			AABBwapf6QqemhgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAA
-			AAAACAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAA
-			ZmlsZTovLy8FAAAAAQEAAE1hcms1AAAACAAAAAQDAAAAwD9kdAAA
-			AAgAAAAABAAAQcEVBHHY0w8kAAAAAQEAADY4QjMxMkYxLUNCOTIt
-			M0RBMy04RkMzLTUwOTM5ODA5MzZBMRgAAAABAgAAgQAAAAEAAADv
-			EwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAaAAAA
-			AQEAAE5TVVJMRG9jdW1lbnRJZGVudGlmaWVyS2V5AAAEAAAAAwMA
-			ADx1OADYAAAA/v///wEAAAAAAAAAEQAAAAQQAACYAAAAAAAAAAUQ
-			AAAsAQAAAAAAABAQAABgAQAAAAAAAEAQAABQAQAAAAAAAAIgAAAo
-			AgAAAAAAAAUgAACcAQAAAAAAABAgAACsAQAAAAAAABEgAADcAQAA
-			AAAAABIgAAC8AQAAAAAAABMgAADMAQAAAAAAACAgAAAIAgAAAAAA
-			ADAgAAA0AgAAAAAAAAHAAACAAQAAAAAAABHAAAAgAAAAAAAAABLA
-			AACQAQAAAAAAABDQAAAEAAAAAAAAADwCAIBgAgAAAAAAAA==
-			</data>
-			<key>FileURL</key>
-			<string>file:///Users/claycarson/Documents/GitHub/claycarson.github.io/_data/movies.yml</string>
-			<key>HasSecurityScope</key>
-			<true/>
-			<key>RelativePath</key>
-			<string>./_data/movies.yml</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-	</array>
+	<array/>
 	<key>OpenDocumentsExpanded</key>
 	<true/>
 	<key>OpenDocumentsSplitterProportion</key>
@@ -303,7 +264,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -349,7 +310,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -395,7 +356,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -440,7 +401,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -485,7 +446,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -530,7 +491,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -576,7 +537,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -622,7 +583,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -668,7 +629,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -714,7 +675,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -760,7 +721,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -806,7 +767,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -852,7 +813,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -898,7 +859,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -944,7 +905,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-10-29T18:12:19Z</date>
+			<date>2019-10-29T18:44:25Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
