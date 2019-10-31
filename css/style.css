@@ -181,7 +181,7 @@ cite {
 }
 
 blockquote {
-    border-left: 1px solid var(--color-text);
+    border-left: 3px solid var(--color-text);
     margin-left: 2em;
     padding-left: 1em;
     font-style: italic;
