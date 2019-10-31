@@ -40,7 +40,7 @@ Some personal favorite: The Apollo 11 Lunar Module’s BAILOUT Code, The One-Lin
 - [What a stunt pilot is going through](https://gfycat.com/shinythisadmiralbutterfly)
 - [What happens when you re-upload a YouTube video 1000 times](https://www.youtube.com/watch?v=JR4KHfqw-oE&feature=youtu.be)
 - [How fast is a 2 hour marathon pace?](https://www.youtube.com/watch?v=Ds21U7coQzI&feature=youtu.be)
-- [What Planet is Closest?](https://www.youtube.com/watch?v=SumDHcnCRuU& "Which Planet is Closest?") ([Follow Up](https://www.youtube.com/watch?v=SumDHcnCRuU& "Re: Which Planet is Closest?"))
+- [What Planet is Closest?](https://www.youtube.com/watch?v=SumDHcnCRuU& "Which Planet is Closest?") ([Follow up](https://www.youtube.com/watch?v=SumDHcnCRuU& "Re: Which Planet is Closest?"))
 
 
 ## Sign Off
