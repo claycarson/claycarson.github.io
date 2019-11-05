@@ -34,6 +34,7 @@ list:
       - title: Killing Eve
         link:
         date: 
+        star: yes        
       - title: The Marvelous Mrs. Maisel
         link:
         date:  
@@ -43,15 +44,18 @@ list:
       - title: Ozark
         link:
         date: 
+        star: yes        
       - title: Silicon Valley
         link:
         date: 
+        star: yes        
       - title: Stranger Things
         link:
         date:  
       - title: Succession
         link:
-        date:        
+        date:    
+        star: yes            
       - title: The Boys
         link:
         date:        
@@ -70,3 +74,4 @@ list:
       - title: Queer Eye
         link:
         date: 
+        star: yes        

@@ -7,15 +7,18 @@ list:
       - title: The Wire
         link:
         date: 
+        star: yes        
       - title: Parks and Recreation
         link:
         date: 
       - title: Broad City
         link:
-        date:  
+        date: 
+        star: yes         
       - title: Veep
         link:
-        date:                
+        date:    
+        star: yes                    
   - year: "2018"
     media:
       - title: Sharp Objects
@@ -38,15 +41,18 @@ list:
       - title: Curb Your Enthusiasm
         link:
         date:  
+        star: yes
       - title: Master of None
         link:
         date:           
       - title: Workaholics
         link:
         date: 
+        star: yes        
       - title: Girls
         link:
         date: 
+        star: yes        
       - title: The Leftovers
         link:
         date:  
@@ -63,6 +69,7 @@ list:
       - title: Top Gear
         link:
         date: 
+        star: yes        
       - title: Making a Murderer
         link:
         date: 
@@ -79,13 +86,15 @@ list:
     media:
       - title: The Newsroom
         link:
-        date: 
+        date:       
       - title: Psych
         link:
         date: 
+        star: yes        
       - title: MythBusters
         link:
         date: 
+        star: yes
       - title: How I Met Your Mother
         link:
         date:  
@@ -97,6 +106,7 @@ list:
       - title: Breaking Bad
         link:
         date: 
+        star: yes        
       - title: The Office
         link:
         date: 
@@ -125,6 +135,7 @@ list:
       - title: Entourage
         link:
         date: 
+        star: yes        
   - year: "2010"
     media:
       - title: The IT Crowd
@@ -154,6 +165,7 @@ list:
       - title: Arrested Development
         link:
         date: 
+        star: yes        
       - title: 10 Items or Less
         link:
         date:   

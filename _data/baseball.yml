@@ -37,17 +37,17 @@ list:
         location: Houston, TX
         link: https://www.baseball-reference.com/boxes/?month=3&day=31&year=2013  
       - title: 'Coors Field'
-        date: 2018
+        date: "Unknown"
         team: Colorado Rockies
         location: Denver, CO
         link:       
       - title: 'Comiskey Park'
-        date: 2018
+        date: "Unknown"
         team: Chicago White Sox
         location: Chicago, IL
         link:         
       - title: 'Camden Yard'
-        date: 2018
+        date: "Unknown"
         team: Baltimore Orioles
         location: Baltimore, MD
       - title: 'The Ballpark in Arlington'
@@ -56,7 +56,7 @@ list:
         location: Arlington, TX
         link: https://www.baseball-reference.com/boxes/?month=4&day=04&year=1994   
       - title: 'Texas Rangers Stadium'
-        date: 2018
+        date: "Unknown"
         team: Texas Rangers
         location: Arlington, TX          
         link:           
