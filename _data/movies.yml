@@ -1,70 +1,74 @@
 list:
   - year: "2019"
     media:
+      - title: The Great Hack
+        date: 2019-11-05
+        link: https://www.imdb.com/title/tt9358204/ 
+           
       - title: Stripes
         date: 2019-11-05
         link: https://www.imdb.com/title/tt0083131/
-        category: movie        
+        
       - title: Psycho
         date: 2019-10-31
         link: https://www.imdb.com/title/tt0054215/
-        category: movie
+
       - title: All the Money in the World
         date: 2019-10-29
         link: https://www.imdb.com/title/tt5294550/
-        category: movie
+
       - title: Wall Street
         date: 2019-10-29
         link: https://www.imdb.com/title/tt0094291/
-        category: movie
+
       - title: Us
         date: 2019-10-25
         link: https://www.imdb.com/title/tt6857112/
-        category: movie                
+                
       - title: Dead Poets Society
         date: 2019-10-24
         link: https://www.imdb.com/title/tt0097165/
-        category: movie
+
       - title: Patriot Games
         date: 2019-10-24
         link: https://www.imdb.com/title/tt0105112/
-        category: movie
+
       - title: The Laundromat
         date: 2019-10-18
         link: https://www.imdb.com/title/tt5865326/
-        category: movie
+
       - title: The Sixth Sense
         date: 2019-10-18
         link: https://www.imdb.com/title/tt0167404/
-        category: movie
+
       - title: Signs
         date: 2019-10-15
         link: https://www.imdb.com/title/tt0286106/
-        category: movie
+
       - title: El Camino
         date: 2019-10-14
         link: https://www.imdb.com/title/tt9243946/
-        category: movie        
+        
       - title: Alien
         date: 2019-10-11
         link: https://www.imdb.com/title/tt0078748/
-        category: movie
+
       - title: Face/Off
         date: 2019-10-10
         link: https://www.imdb.com/title/tt0119094/
-        category: movie
+
       - title: Carrie
         date: 2019-10-09
         link: https://www.imdb.com/title/tt0074285/
-        category: movie
+
       - title: "Schindler's List"
         date: 2019-10-09
         link: https://www.imdb.com/title/tt0108052/
-        category: movie
+
       - title: "Spider-Man: Far from Home"
         date: 2019-10-03
         link: https://www.imdb.com/title/tt6320628/
-        category: movie
+
       - title: "Between Two Ferns: The Movie"
         date: 2019-10-03
         link: https://www.imdb.com/title/tt9398640/
@@ -72,788 +76,788 @@ list:
       - title: Glengarry Glen Ross
         date: 2019-10-01
         link: https://www.imdb.com/title/tt0104348/
-        category: movie
+
       - title: Yesterday
         date: 2019-09-28
         link: https://www.imdb.com/title/tt8079248/
-        category: movie
+
       - title: Jiro Dreams of Sushi
         date: 2019-09-25
         link: https://www.imdb.com/title/tt1772925/
-        category: movie
+
       - title: Late Night
         date: 2019-09-18
         link: https://www.imdb.com/title/tt6107548/
-        category: movie
+
       - title: The Rainmaker
         date: 2019-09-16
         link: https://www.imdb.com/title/tt0119978/
-        category: movie
+
         star: yes
       - title: Deliverance
         date: 2019-09-16
         link: https://www.imdb.com/title/tt0068473/
-        category: movie
+
       - title: Platoon
         date: 2019-09-03
         link: https://www.imdb.com/title/tt0091763/
-        category: movie
+
       - title: Taxi Driver
         date: 2019-09-03
         link: https://www.imdb.com/title/tt0075314/
-        category: movie
+
       - title: The Hustle
         date: 2019-08-25
         link: https://www.imdb.com/title/tt1298644/
-        category: movie
+
       - title: Pokemon Detective Pikachu
         date: 2019-08-23
         link: https://www.imdb.com/title/tt5884052/
-        category: movie
+
       - title: Driven
         date: 2019-08-22
         link: https://www.imdb.com/title/tt7692822/
-        category: movie
+
       - title: Long Shot
         date: 2019-08-03
         link: https://www.imdb.com/title/tt2139881/
-        category: movie
+
       - title: Apollo 11
         date: 2019-07-17
         link: https://www.imdb.com/title/tt8760684/
-        category: movie
+
       - title: Booksmart
         date: 2019-05-26
         link: https://www.imdb.com/title/tt1489887/
-        category: movie
+
         star: yes
       - title: "Avengers: Endgame"
         date: 2019-05-14
         link: https://www.imdb.com/title/tt4154796/
-        category: movie
+
       - title: "Perfect Bid: The Contestant Who Knew Too Much"
         date: 2019-05-14
         link: https://www.imdb.com/title/tt6854248/
-        category: movie
+
       - title: The Dawn Wall
         date: 2019-04-03
         link: https://www.imdb.com/title/tt7286916/
-        category: movie
+
       - title: Captain Marvel
         date: 2019-03-27
         link: https://www.imdb.com/title/tt4154664/
-        category: movie
+
       - title: Triple Frontier
         date: 2019-03-27
         link: https://www.imdb.com/title/tt1488606/
-        category: movie
+
       - title: Colossal
         date: 2019-03-04
         link: https://www.imdb.com/title/tt4680182/
-        category: movie
+
       - title: First Man
         date: 2019-01-27
         link: https://www.imdb.com/title/tt1213641/
-        category: movie
+
       - title: Free Solo
         date: 2019-01-22
         link: https://www.imdb.com/title/tt7775622/
-        category: movie
+
         star: yes
       - title: Bad Times at the El Royale
         date: 2019-01-12
         link: https://www.imdb.com/title/tt6628394/
-        category: movie
+
       - title: The Ballad of Buster Scruggs
         date: 2019-01-03
         link: https://www.imdb.com/title/tt6412452/
-        category: movie
+
       - title: Annihilation
         date: 2019-01-01
         link: https://www.imdb.com/title/tt2798920/
-        category: movie
+
   - year: "2018"
     media:
       - title: A Simple Favor
         date: 2018-12-27
         link: https://www.imdb.com/title/tt7040874/
-        category: movie
+
       - title: Vice
         date: 2018-12-27
         link: https://www.imdb.com/title/tt6266538/
-        category: movie
+
       - title: Furious Seven
         date: 2018-12-24
         link: https://www.imdb.com/title/tt2820852/
-        category: movie
+
       - title: Office Christmas Party
         date: 2018-12-23
         link: https://www.imdb.com/title/tt1711525/
-        category: movie
+
       - title: "Spider-Man: Into the Spider-Verse"
         date: 2018-12-21
         link: https://www.imdb.com/title/tt4633694/
-        category: movie
+
         star: yes
       - title: Roma
         date: 2018-12-17
         link: https://www.imdb.com/title/tt6155172/
-        category: movie
+
       - title: Game Over, Man!
         date: 2018-12-17
         link: https://www.imdb.com/title/tt3317234/
-        category: movie
+
       - title: "Mission: Impossible - Fallout"
         date: 2018-12-12
         link: https://www.imdb.com/title/tt4912910/
-        category: movie
+
       - title: Heat
         date: 2018-12-06
         link: https://www.imdb.com/title/tt0113277/
-        category: movie
+
       - title: "All the President's Men"
         date: 2018-12-05
         link: https://www.imdb.com/title/tt0074119/
-        category: movie
+
       - title: Bohemian Rhapsody
         date: 2018-12-05
         link: https://www.imdb.com/title/tt1727824/
-        category: movie
+
       - title: The Machinist
         date: 2018-11-29
         link: https://www.imdb.com/title/tt0361862/
-        category: movie
+
       - title: 12 Angry Men
         date: 2018-11-28
         link: https://www.imdb.com/title/tt0050083/
-        category: movie
+
         star: yes
       - title: The Spy Who Dumped Me
         date: 2018-11-15
         link: https://www.imdb.com/title/tt6663582/
-        category: movie
+
       - title: Eighth Grade
         date: 2018-11-10
         link: https://www.imdb.com/title/tt7014006/
-        category: movie
+
       - title: Sorry to Bother You
         date: 2018-11-10
         link: https://www.imdb.com/title/tt5688932/
-        category: movie
+
       - title: American Animals
         date: 2018-09-26
         link: https://www.imdb.com/title/tt6212478/
-        category: movie
+
       - title: Deadpool 2
         date: 2018-09-10
         link: https://www.imdb.com/title/tt5463162/
-        category: movie
+
       - title: Upgrade
         date: 2018-09-10
         link: https://www.imdb.com/title/tt6499752/
-        category: movie
+
       - title: Super Troopers 2
         date: 2018-09-10
         link: https://www.imdb.com/title/tt0859635/
-        category: movie
+
       - title: Mississippi Grind
         date: 2018-08-25
         link: https://www.imdb.com/title/tt2349144/
-        category: movie
+
       - title: 'To All the Boys I''ve Loved Before'
         date: 2018-08-22
         link: https://www.imdb.com/title/tt3846674/
-        category: movie
+
       - title: Red Sparrow
         date: 2018-07-22
         link: https://www.imdb.com/title/tt2873282/
-        category: movie
+
       - title: Ready Player One
         date: 2018-07-20
         link: https://www.imdb.com/title/tt1677720/
-        category: movie
+
       - title: Rough Night
         date: 2018-06-17
         link: https://www.imdb.com/title/tt4799050/
-        category: movie
+
       - title: "The Hitman's Bodyguard"
         date: 2018-05-23
         link: https://www.imdb.com/title/tt1959563/
-        category: movie
+
       - title: Baywatch
         date: 2018-05-23
         link: https://www.imdb.com/title/tt1469304/
-        category: movie
+
       - title: Fahrenheit 451
         date: 2018-05-20
         link: https://www.imdb.com/title/tt0360556/
-        category: movie
+
       - title: The Disaster Artist
         date: 2018-05-16
         link: https://www.imdb.com/title/tt3521126/
-        category: movie
+
       - title: American Assassin
         date: 2018-05-09
         link: https://www.imdb.com/title/tt1961175/
-        category: movie
+
       - title: "Avengers: Infinity War"
         date: 2018-05-03
         link: https://www.imdb.com/title/tt4154756/
-        category: movie
+
       - title: The Perfect Score
         date: 2018-04-25
         link: https://www.imdb.com/title/tt0314498/
-        category: movie
+
       - title: The Greatest Showman
         date: 2018-04-19
         link: https://www.imdb.com/title/tt1485796/
-        category: movie
+
       - title: "Molly's Game"
         date: 2018-04-08
         link: https://www.imdb.com/title/tt4209788/
-        category: movie
+
       - title: Black Panther
         date: 2018-03-29
         link: https://www.imdb.com/title/tt1825683/
-        category: movie
+
       - title: When We First Met
         date: 2018-03-18
         link: https://www.imdb.com/title/tt5783956/
-        category: movie
+
       - title: "Thor: Ragnarok"
         date: 2018-03-10
         link: https://www.imdb.com/title/tt3501632/
-        category: movie
+
       - title: Oblivion
         date: 2018-03-10
         link: https://www.imdb.com/title/tt1483013/
-        category: movie
+
       - title: Call Me by Your Name
         date: 2018-03-05
         link: https://www.imdb.com/title/tt5726616/
-        category: movie
+
       - title: Darkest Hour
         date: 2018-02-28
         link: https://www.imdb.com/title/tt4555426/
-        category: movie
+
       - title: Three Billboards Outside Ebbing, Missouri
         date: 2018-02-25
         link: https://www.imdb.com/title/tt5027774/
-        category: movie
+
       - title: Ghostbusters
         date: 2018-02-23
         link: https://www.imdb.com/title/tt1289401/
-        category: movie
+
       - title: "Blade Runner 2049"
         date: 2018-01-24
         link: https://www.imdb.com/title/tt1856101/
-        category: movie
+
       - title: The Killing of a Sacred Deer
         date: 2018-01-21
         link: https://www.imdb.com/title/tt5715874/
-        category: movie
+
       - title: The Room
         date: 2018-01-04
         link: https://www.imdb.com/title/tt0368226/
-        category: movie
+
       - title: Ingrid Goes West
         date: 2017-12-30
         link: https://www.imdb.com/title/tt5962210/
-        category: movie
+
   - year: "2017"
     media:
       - title: Mother!
         date: 2017-12-28
         link: https://www.imdb.com/title/tt5109784/
-        category: movie
+
       - title: The Shape of Water
         date: 2017-12-26
         link: https://www.imdb.com/title/tt5580390/
-        category: movie
+
       - title: The Magnificent Seven
         date: 2017-12-05
         link: https://www.imdb.com/title/tt2404435/
-        category: movie
+
       - title: Everything or Nothing
         date: 2017-12-05
         link: https://www.imdb.com/title/tt2366308/
-        category: movie
+
       - title: Moana
         date: 2017-12-04
         link: https://www.imdb.com/title/tt3521164/
-        category: movie
+
       - title: "Kong: Skull Island"
         date: 2017-11-28
         link: https://www.imdb.com/title/tt3731562/
-        category: movie
+
       - title: Curly Sue
         date: 2017-11-25
         link: https://www.imdb.com/title/tt0101635/
-        category: movie
+
       - title: "The Godfather: Part II"
         date: 2017-11-23
         link: https://www.imdb.com/title/tt0071562/
-        category: movie
+
       - title: "Spider-Man: Homecoming"
         date: 2017-11-22
         link: https://www.imdb.com/title/tt2250912/
-        category: movie
+
       - title: Wind River
         date: 2017-11-15
         link: https://www.imdb.com/title/tt5362988/
-        category: movie
+
       - title: Nocturnal Animals
         date: 2017-11-13
         link: https://www.imdb.com/title/tt4550098/
-        category: movie
+
       - title: Girls Trip
         date: 2017-11-05
         link: https://www.imdb.com/title/tt3564472/
-        category: movie
+
       - title: What We Do in the Shadows
         date: 2017-11-03
         link: https://www.imdb.com/title/tt3416742/
-        category: movie
+
       - title: American Anarchist
         date: 2017-11-01
         link: https://www.imdb.com/title/tt6032170/
-        category: movie
+
       - title: "Fittest on Earth: A Decade of Fitness"
         date: 2017-11-01
         link: https://www.imdb.com/title/tt6491170/
-        category: movie
+
       - title: Get Me Roger Stone
         date: 2017-10-31
         link: https://www.imdb.com/title/tt6714534/
-        category: movie
+
       - title: The Babysitter
         date: 2017-10-26
         link: https://www.imdb.com/title/tt4225622/
-        category: movie
+
       - title: The Cabin in the Woods
         date: 2017-10-15
         link: https://www.imdb.com/title/tt1259521/
-        category: movie
+
       - title: Cocaine Cowboys
         date: 2017-10-12
         link: https://www.imdb.com/title/tt0380268/
-        category: movie
+
       - title: Circle
         date: 2017-10-03
         link: https://www.imdb.com/title/tt3118452/
-        category: movie
+
       - title: The Big Sick
         date: 2017-10-01
         link: https://www.imdb.com/title/tt5462602/
-        category: movie
+
       - title: Money Monster
         date: 2017-09-21
         link: https://www.imdb.com/title/tt2241351/
-        category: movie
+
       - title: Nerve
         date: 2017-08-28
         link: https://www.imdb.com/title/tt3531824/
-        category: movie
+
       - title: Guardians of the Galaxy Vol. 2
         date: 2017-08-24
         link: https://www.imdb.com/title/tt3896198/
-        category: movie
+
       - title: Dunkirk
         date: 2017-08-18
         link: https://www.imdb.com/title/tt5013056/
-        category: movie
+
       - title: Keeping Up with the Joneses
         date: 2017-08-02
         link: https://www.imdb.com/title/tt2387499/
-        category: movie
+
       - title: Baby Driver
         date: 2017-07-23
         link: https://www.imdb.com/title/tt3890160/
-        category: movie
+
         star: yes
       - title: Search Party
         date: 2017-06-05
         link: https://www.imdb.com/title/tt2758904/
-        category: movie
+
       - title: War on Everyone
         date: 2017-06-05
         link: https://www.imdb.com/title/tt3708886/
-        category: movie
+
       - title: Magnus
         date: 2017-06-02
         link: https://www.imdb.com/title/tt5471480/
-        category: movie
+
       - title: London Has Fallen
         date: 2017-05-05
         link: https://www.imdb.com/title/tt3300542/
-        category: movie
+
       - title: Suicide Squad
         date: 2017-04-20
         link: https://www.imdb.com/title/tt1386697/
-        category: movie
+
       - title: "Neighbors 2: Sorority Rising"
         date: 2017-04-20
         link: https://www.imdb.com/title/tt4438848/
-        category: movie
+
       - title: Why Him?
         date: 2017-03-31
         link: https://www.imdb.com/title/tt4501244/
-        category: movie
+
       - title: 10 Cloverfield Lane
         date: 2017-03-18
         link: https://www.imdb.com/title/tt1179933/
-        category: movie
+
       - title: Doctor Strange
         date: 2017-03-10
         link: https://www.imdb.com/title/tt1211837/
-        category: movie
+
       - title: The Kid
         date: 2017-03-04
         link: https://www.imdb.com/title/tt0219854/
-        category: movie
+
       - title: "A Kid in King Arthur's Court"
         date: 2017-03-04
         link: https://www.imdb.com/title/tt0113538/
-        category: movie
+
       - title: Man of the House
         date: 2017-03-04
         link: https://www.imdb.com/title/tt0113755/
-        category: movie
+
       - title: Operation Dumbo Drop
         date: 2017-03-04
         link: https://www.imdb.com/title/tt0114048/
-        category: movie
+
       - title: Harriet the Spy
         date: 2017-03-04
         link: https://www.imdb.com/title/tt0116493/
-        category: movie
+
       - title: Get Out
         date: 2017-03-01
         link: https://www.imdb.com/title/tt5052448/
-        category: movie
+
         star: yes
       - title: Hacksaw Ridge
         date: 2017-02-28
         link: https://www.imdb.com/title/tt2119532/
-        category: movie
+
       - title: Mike and Dave Need Wedding Dates
         date: 2017-02-28
         link: https://www.imdb.com/title/tt2823054/
-        category: movie
+
       - title: Zoolander 2
         date: 2017-02-21
         link: https://www.imdb.com/title/tt1608290/
-        category: movie
+
       - title: The Edge of Seventeen
         date: 2017-02-18
         link: https://www.imdb.com/title/tt1878870/
-        category: movie
+
       - title: Keanu
         date: 2017-02-15
         link: https://www.imdb.com/title/tt4139124/
-        category: movie
+
       - title: Lion
         date: 2017-02-15
         link: https://www.imdb.com/title/tt3741834/
-        category: movie
+
       - title: Central Intelligence
         date: 2017-02-15
         link: https://www.imdb.com/title/tt1489889/
-        category: movie
+
       - title: Hidden Figures
         date: 2017-01-29
         link: https://www.imdb.com/title/tt4846340/
-        category: movie
+
       - title: The Accountant
         date: 2017-01-28
         link: https://www.imdb.com/title/tt2140479/
-        category: movie
+
       - title: Moonlight
         date: 2017-01-21
         link: https://www.imdb.com/title/tt4975722/
-        category: movie
+
       - title: "One Flew Over the Cuckoo's Nest"
         date: 2017-01-07
         link: https://www.imdb.com/title/tt0073486/
-        category: movie
+
       - title: Fences
         date: 2017-01-03
         link: https://www.imdb.com/title/tt2671706/
-        category: movie
+
       - title: The Last Man on the Moon
         date: 2017-01-03
         link: https://www.imdb.com/title/tt3219604/
-        category: movie
+
   - year: "2016"
     media:
       - title: Whiskey Tango Foxtrot
         date: 2016-12-29
         link: https://www.imdb.com/title/tt3553442/
-        category: movie
+
       - title: La La Land
         date: 2016-12-28
         link: https://www.imdb.com/title/tt3783958/
-        category: movie
+
       - title: Rogue One
         date: 2016-12-28
         link: https://www.imdb.com/title/tt3748528/
-        category: movie
+
       - title: "Minimalism: A Documentary About the Important Things"
         date: 2016-12-28
         link: https://www.imdb.com/title/tt3810760/
-        category: movie
+
       - title: Fastball
         date: 2016-12-28
         link: https://www.imdb.com/title/tt5434972/
-        category: movie
+
       - title: Die Hard
         date: 2016-12-21
         link: https://www.imdb.com/title/tt0095016/
-        category: movie
+
       - title: Arrival
         date: 2016-12-04
         link: https://www.imdb.com/title/tt2543164/
-        category: movie
+
       - title: Superman Returns
         date: 2016-11-28
         link: https://www.imdb.com/title/tt0348150/
-        category: movie
+
       - title: "Nick and Norah's Infinite Playlist"
         date: 2016-11-28
         link: https://www.imdb.com/title/tt0981227/
-        category: movie
+
       - title: Bolt
         date: 2016-11-28
         link: https://www.imdb.com/title/tt0397892/
-        category: movie
+
       - title: Four Christmases
         date: 2016-11-28
         link: https://www.imdb.com/title/tt0369436/
-        category: movie
+
       - title: Doubt
         date: 2016-11-28
         link: https://www.imdb.com/title/tt0918927/
-        category: movie
+
       - title: Duplicity
         date: 2016-11-28
         link: https://www.imdb.com/title/tt1135487/
-        category: movie
+
       - title: Away We Go
         date: 2016-11-28
         link: https://www.imdb.com/title/tt1176740/
-        category: movie
+
       - title: Public Enemies
         date: 2016-11-28
         link: https://www.imdb.com/title/tt1152836/
-        category: movie
+
       - title: "Valentine's Day"
         date: 2016-11-28
         link: https://www.imdb.com/title/tt0817230/
-        category: movie
+
       - title: Going the Distance
         date: 2016-11-28
         link: https://www.imdb.com/title/tt1322312/
-        category: movie
+
       - title: Hell or High Water
         date: 2016-11-25
         link: https://www.imdb.com/title/tt2582782/
-        category: movie
+
         star: yes
       - title: War Dogs
         date: 2016-11-23
         link: https://www.imdb.com/title/tt2005151/
-        category: movie
+
       - title: Before the Flood
         date: 2016-11-05
         link: https://www.imdb.com/title/tt5929776/
-        category: movie
+
       - title: Everest
         date: 2016-11-05
         link: https://www.imdb.com/title/tt2719848/
-        category: movie
+
       - title: Carpool
         date: 2016-11-02
         link: https://www.imdb.com/title/tt0115836/
-        category: movie
+
         star: yes
       - title: The Stupids
         date: 2016-11-02
         link: https://www.imdb.com/title/tt0117768/
-        category: movie
+
       - title: Ride Along 2
         date: 2016-10-09
         link: https://www.imdb.com/title/tt2869728/
-        category: movie
+
       - title: The Revenant
         date: 2016-10-05
         link: https://www.imdb.com/title/tt1663202/
-        category: movie
+
       - title: Steve Jobs
         date: 2016-10-04
         link: https://www.imdb.com/title/tt2080374/
-        category: movie
+
       - title: The Fundamentals of Caring
         date: 2016-09-06
         link: https://www.imdb.com/title/tt2452386/
-        category: movie
+
       - title: The Nice Guys
         date: 2016-09-02
         link: https://www.imdb.com/title/tt3799694/
-        category: movie
+
       - title: 13 Hours
         date: 2016-08-19
         link: https://www.imdb.com/title/tt4172430/
-        category: movie
+
       - title: Zack and Miri Make a Porno
         date: 2016-08-13
         link: https://www.imdb.com/title/tt1007028/
-        category: movie
+
       - title: "Tony Robbins: I Am Not Your Guru"
         date: 2016-08-12
         link: https://www.imdb.com/title/tt5151716/
-        category: movie
+
       - title: Jason Bourne
         date: 2016-08-03
         link: https://www.imdb.com/title/tt4196776/
-        category: movie
+
       - title: The Talented Mr. Ripley
         date: 2016-07-26
         link: https://www.imdb.com/title/tt0134119/
-        category: movie
+
       - title: Ted 2
         date: 2016-07-12
         link: https://www.imdb.com/title/tt2637276/
-        category: movie
+
       - title: Swingers
         date: 2016-07-12
         link: https://www.imdb.com/title/tt0117802/
-        category: movie
+
       - title: The Lobster
         date: 2016-06-04
         link: https://www.imdb.com/title/tt3464902/
-        category: movie
+
       - title: "Harry Potter and the Deathly Hallows: Part 2"
         date: 2016-06-03
         link: https://www.imdb.com/title/tt1201607/
-        category: movie
+
       - title: Harry Potter and the Half-Blood Prince
         date: 2016-06-03
         link: https://www.imdb.com/title/tt0417741/
-        category: movie
+
       - title: Harry Potter and the Order of the Phoenix
         date: 2016-06-03
         link: https://www.imdb.com/title/tt0373889/
-        category: movie
+
       - title: "Harry Potter and the Deathly Hallows: Part 1"
         date: 2016-06-03
         link: https://www.imdb.com/title/tt0926084/
-        category: movie
+
       - title: The Right Stuff
         date: 2016-06-03
         link: https://www.imdb.com/title/tt0086197/
-        category: movie
+
       - title: Harry Potter and the Goblet of Fire
         date: 2016-05-12
         link: https://www.imdb.com/title/tt0330373/
-        category: movie
+
       - title: Harry Potter and the Prisoner of Azkaban
         date: 2016-05-12
         link: https://www.imdb.com/title/tt0304141/
-        category: movie
+
       - title: The Man from U.N.C.L.E.
         date: 2016-05-04
         link: https://www.imdb.com/title/tt1638355/
-        category: movie
+
       - title: Everybody Wants Some!!
         date: 2016-05-01
         link: https://www.imdb.com/title/tt2937696/
-        category: movie
+
       - title: Jurassic World
         date: 2016-04-27
         link: https://www.imdb.com/title/tt0369610/
-        category: movie
+
       - title: The Princess Bride
         date: 2016-04-17
         link: https://www.imdb.com/title/tt0093779/
-        category: movie
+
       - title: Lucy
         date: 2016-04-13
         link: https://www.imdb.com/title/tt2872732/
-        category: movie
+
       - title: "Batman v Superman: Dawn of Justice"
         date: 2016-04-03
         link: https://www.imdb.com/title/tt2975590/
-        category: movie
+
       - title: "Kill Bill: Vol. 1"
         date: 2016-03-31
         link: https://www.imdb.com/title/tt0266697/
-        category: movie
+
       - title: Zodiac
         date: 2016-03-30
         link: https://www.imdb.com/title/tt0443706/
-        category: movie
+
         star: yes
       - title: Scarface
         date: 2016-03-30
         link: https://www.imdb.com/title/tt0086250/
-        category: movie
+
       - title: Sisters
         date: 2016-03-22
         link: https://www.imdb.com/title/tt1850457/
-        category: movie
+
       - title: The Notebook
         date: 2016-02-22
         link: https://www.imdb.com/title/tt0332280/
-        category: movie
+
       - title: The Ugly Truth
         date: 2016-02-22
         link: https://www.imdb.com/title/tt1142988/
-        category: movie
+
       - title: Miss Congeniality
         date: 2016-02-22
         link: https://www.imdb.com/title/tt0212346/
-        category: movie
+
       - title: The Internship
         date: 2016-02-22
         link: https://www.imdb.com/title/tt2234155/
-        category: movie
+
       - title: Hall Pass
         date: 2016-02-22
         link: https://www.imdb.com/title/tt0480687/
-        category: movie
+
       - title: "Fantastic Mr. Fox"
         date: 2016-02-22
         link: https://www.imdb.com/title/tt0432283/
-        category: movie
+
       - title: Marley & Me
         date: 2016-02-22
         link: https://www.imdb.com/title/tt0822832/
-        category: movie
+
       - title: Behind Enemy Lines
         date: 2016-02-22
         link: https://www.imdb.com/title/tt0159273/
-        category: movie
+
       - title: Crazy, Stupid, Love.
         date: 2016-02-22
         link: https://www.imdb.com/title/tt1570728/
-        category: movie
+
       - title: Love & Other Drugs
         date: 2016-02-22
         link: https://www.imdb.com/title/tt0758752/
-        category: movie
+
       - title: Bubble Boy
         date: 2016-02-22
         link: https://www.imdb.com/title/tt0258470/
-        category: movie
+
       - title: Whiplash
         date: 2016-02-21
         link: https://www.imdb.com/title/tt2582802/
-        category: movie
+
         star: yes
       - title: Deadpool
         date: 2016-02-16
         link: https://www.imdb.com/title/tt1431045/
-        category: movie
+
         star: yes
       - title: "Rent-a-Kid"
         date: 2016-02-12
@@ -862,188 +866,188 @@ list:
       - title: Entourage
         date: 2016-02-01
         link: https://www.imdb.com/title/tt1674771/
-        category: movie
+
       - title: Sicario
         date: 2016-01-21
         link: https://www.imdb.com/title/tt3397884/
-        category: movie
+
       - title: Straight Outta Compton
         date: 2016-01-20
         link: https://www.imdb.com/title/tt1398426/
-        category: movie
+
         star: yes
       - title: 'Harry Potter and the Sorcerer''s Stone'
         date: 2016-01-19
         link: https://www.imdb.com/title/tt0241527/
-        category: movie
+
       - title: Harry Potter and the Chamber of Secrets
         date: 2016-01-19
         link: https://www.imdb.com/title/tt0295297/
-        category: movie
+
       - title: The Hateful Eight
         date: 2016-01-18
         link: https://www.imdb.com/title/tt3460252/
-        category: movie
+
       - title: The Big Short
         date: 2016-01-18
         link: https://www.imdb.com/title/tt1596363/
-        category: movie
+
       - title: Room
         date: 2016-01-13
         link: https://www.imdb.com/title/tt3170832/
-        category: movie
+
   - year: "Pre-Cataloging"
     media:
       - title: "Star Wars: Episode VII - The Force Awakens"
         date: 2015-12-23
         link: https://www.imdb.com/title/tt2488496/
-        category: movie
+
       - title: Spotlight
         date: 2015-12-23
         link: https://www.imdb.com/title/tt1895587/
-        category: movie
+
         star: yes
       - title: "The Hunger Games: Mockingjay - Part 1"
         date: 2015-12-01
         link: https://www.imdb.com/title/tt1951265/
-        category: movie
+
       - title: The Equalizer
         date: 2015-12-01
         link: https://www.imdb.com/title/tt0455944/
-        category: movie
+
       - title: "The Hunger Games: Catching Fire"
         date: 2015-11-30
         link: https://www.imdb.com/title/tt1951264/
-        category: movie
+
       - title: For Richer or Poorer
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0119142/
-        category: movie
+
       - title: Ride Along
         date: 2015-11-12
         link: https://www.imdb.com/title/tt1408253/
-        category: movie
+
       - title: Good Burger
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0119215/
-        category: movie
+
       - title: Inside Out
         date: 2015-11-12
         link: https://www.imdb.com/title/tt2096673/
-        category: movie
+
       - title: Tucker and Dale vs Evil
         date: 2015-11-12
         link: https://www.imdb.com/title/tt1465522/
-        category: movie
+
         star: yes
       - title: Legally Blonde
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0250494/
-        category: movie
+
       - title: "Let's Be Cops"
         date: 2015-11-12
         link: https://www.imdb.com/title/tt1924435/
-        category: movie
+
       - title: Man of the Year
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0483726/
-        category: movie
+
       - title: "Mrs. Doubtfire"
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0107614/
-        category: movie
+
       - title: Pay It Forward
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0223897/
-        category: movie
+
       - title: Red Eye
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0421239/
-        category: movie
+
       - title: The Life Aquatic with Steve Zissou
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0362270/
-        category: movie
+
       - title: "Mighty Morphin Power Rangers: The Movie"
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0113820/
-        category: movie
+
       - title: Rent
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0294870/
-        category: movie
+
       - title: Mr. & Mrs. Smith
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0356910/
-        category: movie
+
       - title: The Bounty Hunter
         date: 2015-11-12
         link: https://www.imdb.com/title/tt1038919/
-        category: movie
+
       - title: The Fighter
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0964517/
-        category: movie
+
       - title: "Deuce Bigalow: Male Gigolo"
         date: 2015-11-12
         link: https://www.imdb.com/title/tt0205000/
-        category: movie
+
       - title: 42
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0453562/
-        category: movie
+
       - title: 300
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0416449/
-        category: movie
+
       - title: (500) Days of Summer
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1022603/
-        category: movie
+
       - title: One Hundred and One Dalmatians
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0055254/
-        category: movie
+
       - title: "102 Dalmatians"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0211181/
-        category: movie
+
       - title: "12 Years a Slave"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2024544/
-        category: movie
+
       - title: "127 Hours"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1542344/
-        category: movie
+
       - title: "2001: A Space Odyssey"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0062622/
-        category: movie
+
       - title: "21 Jump Street"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1232829/
-        category: movie
+
       - title: 22 Jump Street
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2294449/
-        category: movie
+
       - title: 3 Ninjas
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0103596/
-        category: movie
+
       - title: 8 Mile
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0298203/
-        category: movie
+
       - title: A Beautiful Mind
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0268978/
-        category: movie
+
       - title: "A Bug's Life"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120623/
-        category: movie
+
       - title: A Charlie Brown Christmas
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0059026/
@@ -1055,68 +1059,68 @@ list:
       - title: A Christmas Story
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0085334/
-        category: movie
+
       - title: A Clockwork Orange
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0066921/
-        category: movie
+
       - title: A Goofy Movie
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0113198/
-        category: movie
+
       - title: A League of Their Own
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0104694/
-        category: movie
+
       - title: A Night at the Roxbury
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120770/
-        category: movie
+
       - title: Accepted
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0384793/
-        category: movie
+
       - title: "Ace Ventura: Pet Detective"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0109040/
-        category: movie
+
       - title: "Ace Ventura: When Nature Calls"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0112281/
-        category: movie
+
       - title: Act of Valor
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1591479/
-        category: movie
+
       - title: Adventureland
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1091722/
-        category: movie
+
       - title: Air Force One
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0118571/
-        category: movie
+
       - title: Airheads
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0109068/
-        category: movie
+
       - title: Airplane!
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0080339/
-        category: movie
+
         star: yes
       - title: "Airplane II: The Sequel"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0083530/
-        category: movie
+
       - title: Aladdin
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0103639/
-        category: movie
+
       - title: Alice in Wonderland
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0043274/
-        category: movie
+
       - title: Alley Cats Strike
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0217990/
@@ -1124,247 +1128,247 @@ list:
       - title: Almost Famous
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0181875/
-        category: movie
+
         star: yes
       - title: American Gangster
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0765429/
-        category: movie
+
       - title: American History X
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120586/
-        category: movie
+
       - title: American Hustle
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1800241/
-        category: movie
+
       - title: American Pie
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0163651/
-        category: movie
+
       - title: American Pie 2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0252866/
-        category: movie
+
       - title: American Wedding
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0328828/
-        category: movie
+
       - title: American Psycho
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0144084/
-        category: movie
+
       - title: American Sniper
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2179136/
-        category: movie
+
       - title: An Inconvenient Truth
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0497116/
-        category: movie
+
       - title: "Anchorman: The Legend of Ron Burgundy"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0357413/
-        category: movie
+
         star: yes
       - title: Angels in the Outfield
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0109127/
-        category: movie
+
         star: yes
       - title: 'National Lampoon''s Animal House'
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0077975/
-        category: movie
+
       - title: Annie Hall
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0075686/
-        category: movie
+
       - title: Antichrist
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0870984/
-        category: movie
+
       - title: Antz
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120587/
-        category: movie
+
       - title: Apocalypse Now
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0078788/
-        category: movie
+
       - title: Apollo 13
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0112384/
-        category: movie
+
       - title: Argo
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1024648/
-        category: movie
+
       - title: Atonement
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0783233/
-        category: movie
+
       - title: "Austin Powers: International Man of Mystery"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0118655/
-        category: movie
+
       - title: "Austin Powers: The Spy Who Shagged Me"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0145660/
-        category: movie
+
       - title: Austin Powers in Goldmember
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0295178/
-        category: movie
+
       - title: Avatar
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0499549/
-        category: movie
+
       - title: "Avengers: Age of Ultron"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2395427/
-        category: movie
+
       - title: Babe
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0112431/
-        category: movie
+
       - title: Babel
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0449467/
-        category: movie
+
       - title: Baby Mama
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0871426/
-        category: movie
+
       - title: Back to the Future
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0088763/
-        category: movie
+
       - title: Bambi
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0034492/
-        category: movie
+
       - title: BASEketball
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0131857/
-        category: movie
+
       - title: Batman & Robin
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0118688/
-        category: movie
+
       - title: "Batman: The Movie"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0060153/
-        category: movie
+
       - title: Batman Begins
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0372784/
-        category: movie
+
       - title: Batman Forever
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0112462/
-        category: movie
+
       - title: Batman Returns
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0103776/
-        category: movie
+
       - title: Beasts of the Southern Wild
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2125435/
-        category: movie
+
       - title: Beauty and the Beast
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0101414/
-        category: movie
+
       - title: Being John Malkovich
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120601/
-        category: movie
+
       - title: Bernie
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1704573/
-        category: movie
+
       - title: Big Daddy
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0142342/
-        category: movie
+
       - title: Big Eyes
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1126590/
-        category: movie
+
       - title: "Big Momma's House"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0208003/
-        category: movie
+
       - title: Billy Madison
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0112508/
-        category: movie
+
       - title: "Birdman or (The Unexpected Virtue of Ignorance)"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2562232/
-        category: movie
+
       - title: Black Hawk Down
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0265086/
-        category: movie
+
       - title: Black Swan
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0947798/
-        category: movie
+
       - title: "Blade: Trinity"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0359013/
-        category: movie
+
       - title: Blank Check
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0109287/
-        category: movie
+
       - title: Blood Diamond
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0450259/
-        category: movie
+
       - title: Blue Jasmine
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2334873/
-        category: movie
+
       - title: Blue Valentine
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1120985/
-        category: movie
+
       - title: Boogie Nights
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0118749/
-        category: movie
+
       - title: "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0443453/
-        category: movie
+
       - title: Bottle Rocket
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0115734/
-        category: movie
+
       - title: Boyhood
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1065073/
-        category: movie
+
       - title: Braveheart
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0112573/
-        category: movie
+
       - title: Breach
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0401997/
-        category: movie
+
         star: yes
       - title: Bridesmaids
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1478338/
-        category: movie
+
       - title: Bring It On
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0204946/
-        category: movie
+
       - title: Brink!
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0162212/
@@ -1373,194 +1377,194 @@ list:
       - title: Bull Durham
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0094812/
-        category: movie
+
       - title: Burn After Reading
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0887883/
-        category: movie
+
       - title: Cabin Fever
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0303816/
-        category: movie
+
       - title: Caddyshack
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0080487/
-        category: movie
+
         star: yes
       - title: Camp Nowhere
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0109369/
-        category: movie
+
       - title: "Can't Hardly Wait"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0127723/
-        category: movie
+
       - title: Capote
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0379725/
-        category: movie
+
       - title: "Captain America: The First Avenger"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0458339/
-        category: movie
+
       - title: "Captain America: The Winter Soldier"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1843866/
-        category: movie
+
       - title: Captain Phillips
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1535109/
-        category: movie
+
       - title: Cars
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0317219/
-        category: movie
+
       - title: Casino
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0112641/
-        category: movie
+
       - title: Cast Away
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0162222/
-        category: movie
+
       - title: Catch Me If You Can
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0264464/
-        category: movie
+
       - title: Catfish
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1584016/
-        category: movie
+
       - title: Charlie and the Chocolate Factory
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0367594/
-        category: movie
+
       - title: 'Charlie Wilson''s War'
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0472062/
-        category: movie
+
       - title: "Charlie's Angels"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0160127/
-        category: movie
+
       - title: "Charlotte's Web"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0413895/
-        category: movie
+
       - title: Chicken Run
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120630/
-        category: movie
+
       - title: Children of Men
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0206634/
-        category: movie
+
         star: yes
       - title: "National Lampoon's Christmas Vacation"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0097958/
-        category: movie
+
         star: yes
       - title: Cinderella
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0042332/
-        category: movie
+
       - title: Cinderella Man
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0352248/
-        category: movie
+
       - title: Citizenfour
         date: 2015-11-09
         link: https://www.imdb.com/title/tt4044364/
-        category: movie
+
       - title: Clerks
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0109445/
-        category: movie
+
       - title: Cloverfield
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1060277/
-        category: movie
+
       - title: Clue
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0088930/
-        category: movie
+
         star: yes
       - title: Crash
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0375679/
-        category: movie
+
       - title: Crazy Heart
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1263670/
-        category: movie
+
       - title: Cruel Intentions
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0139134/
-        category: movie
+
       - title: The Mighty Ducks
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0104868/
-        category: movie
+
         star: yes
       - title: "D2: The Mighty Ducks"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0109520/
-        category: movie
+
         star: yes
       - title: "D3: The Mighty Ducks"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116000/
-        category: movie
+
       - title: Dallas Buyers Club
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0790636/
-        category: movie
+
       - title: Dazed and Confused
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0106677/
-        category: movie
+
       - title: Defiance
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1034303/
-        category: movie
+
       - title: Dennis the Menace
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0106701/
-        category: movie
+
       - title: District 9
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1136608/
-        category: movie
+
       - title: Divergent
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1840309/
-        category: movie
+
       - title: Django Unchained
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1853728/
-        category: movie
+
         star: yes
       - title: Doctor Dolittle
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0118998/
-        category: movie
+
       - title: Dr. Dolittle 2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0240462/
-        category: movie
+
       - title: "Dodgeball: A True Underdog Story"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0364725/
-        category: movie
+
       - title: Dog Day Afternoon
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0072890/
-        category: movie
+
       - title: Donnie Darko
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0246578/
-        category: movie
+
       - title: Double Teamed
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0281905/
@@ -1568,183 +1572,183 @@ list:
       - title: Drive
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0780504/
-        category: movie
+
       - title: Drumline
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0303933/
-        category: movie
+
       - title: "Dude, Where's My Car?"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0242423/
-        category: movie
+
       - title: Due Date
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1231583/
-        category: movie
+
       - title: Dumb and Dumber
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0109686/
-        category: movie
+
         star: yes
       - title: Dumb and Dumber To
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2096672/
-        category: movie
+
       - title: "Dumb and Dumberer: When Harry Met Lloyd"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0329028/
-        category: movie
+
       - title: Dumbo
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0033563/
-        category: movie
+
       - title: "E.T. the Extra-Terrestrial"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0083866/
-        category: movie
+
       - title: Easy A
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1282140/
-        category: movie
+
       - title: Edge of Tomorrow
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1631867/
-        category: movie
+
       - title: Edward Scissorhands
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0099487/
-        category: movie
+
       - title: Eight Men Out
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0095082/
-        category: movie
+
       - title: Elf
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0319343/
-        category: movie
+
       - title: Empire Records
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0112950/
-        category: movie
+
       - title: End of Watch
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1855199/
-        category: movie
+
       - title: Enemy at the Gates
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0215750/
-        category: movie
+
       - title: EuroTrip
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0356150/
-        category: movie
+
       - title: Exit Through the Gift Shop
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1587707/
-        category: movie
+
       - title: Failure to Launch
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0427229/
-        category: movie
+
       - title: Fantasia
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0032455/
-        category: movie
+
       - title: Fargo
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116282/
-        category: movie
+
       - title: Fast Times at Ridgemont High
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0083929/
-        category: movie
+
       - title: Fear and Loathing in Las Vegas
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120669/
-        category: movie
+
       - title: "Ferris Bueller's Day Off"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0091042/
-        category: movie
+
       - title: Fever Pitch
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0332047/
-        category: movie
+
       - title: Field of Dreams
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0097351/
-        category: movie
+
         star: yes
       - title: Fight Club
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0137523/
-        category: movie
+
         star: yes
       - title: Finding Nemo
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0266543/
-        category: movie
+
       - title: Finding Neverland
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0308644/
-        category: movie
+
       - title: First Kid
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116311/
-        category: movie
+
       - title: Flight
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1907668/
-        category: movie
+
       - title: Fly Away Home
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116329/
-        category: movie
+
       - title: Food, Inc.
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1286537/
-        category: movie
+
       - title: Forgetting Sarah Marshall
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0800039/
-        category: movie
+
         star: yes
       - title: Forrest Gump
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0109830/
-        category: movie
+
       - title: Foxcatcher
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1100089/
-        category: movie
+
       - title: Freddy Got Fingered
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0240515/
-        category: movie
+
       - title: Friends with Benefits
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1632708/
-        category: movie
+
       - title: Frost/Nixon
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0870111/
-        category: movie
+
       - title: Full Metal Jacket
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0093058/
-        category: movie
+
       - title: Fury
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2713180/
-        category: movie
+
       - title: Galaxy Quest
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0177789/
-        category: movie
+
       - title: Gattaca
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0119177/
-        category: movie
+
       - title: Genius
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0193187/
@@ -1752,59 +1756,59 @@ list:
       - title: Ghostbusters
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0087332/
-        category: movie
+
       - title: Gladiator
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0172495/
-        category: movie
+
       - title: "Going Clear: Scientology & the Prison of Belief"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt4257858/
-        category: movie
+
       - title: Gone Baby Gone
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0452623/
-        category: movie
+
         star: yes
       - title: Gone Girl
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2267998/
-        category: movie
+
       - title: Good Will Hunting
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0119217/
-        category: movie
+
         star: yes
       - title: Goodfellas
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0099685/
-        category: movie
+
         star: yes
       - title: Gran Torino
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1205489/
-        category: movie
+
       - title: Gravity
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1454468/
-        category: movie
+
       - title: Hooligans
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0385002/
-        category: movie
+
       - title: Groundhog Day
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0107048/
-        category: movie
+
       - title: Guardians of the Galaxy
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2015381/
-        category: movie
+
         star: yes
       - title: Hackers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0113243/
-        category: movie
+
       - title: Halloweentown
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0173886/
@@ -1812,69 +1816,69 @@ list:
       - title: Happy Gilmore
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116483/
-        category: movie
+
         star: yes
       - title: Harold & Kumar Go to White Castle
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0366551/
-        category: movie
+
         star: yes
       - title: Haywire
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1506999/
-        category: movie
+
       - title: Heathers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0097493/
-        category: movie
+
       - title: Heavyweights
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0110006/
-        category: movie
+
         star: yes
       - title: Helvetica
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0847817/
-        category: movie
+
       - title: Her
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1798709/
-        category: movie
+
       - title: Hercules
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0119282/
-        category: movie
+
       - title: Hitch
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0386588/
-        category: movie
+
       - title: Home Alone
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0099785/
-        category: movie
+
         star: yes
       - title: "Home Alone 2: Lost in New York"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0104431/
-        category: movie
+
         star: yes
       - title: Home Alone 3
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0119303/
-        category: movie
+
       - title: Hook
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0102057/
-        category: movie
+
         star: yes
       - title: Horrible Bosses
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1499658/
-        category: movie
+
       - title: Horrible Bosses 2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2170439/
-        category: movie
+
         star: yes
       - title: Horse Sense
         date: 2015-11-09
@@ -1883,20 +1887,20 @@ list:
       - title: Hot Fuzz
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0425112/
-        category: movie
+
         star: yes
       - title: Hot Shots! Part Deux
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0107144/
-        category: movie
+
       - title: Hot Tub Time Machine
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1231587/
-        category: movie
+
       - title: Hotel Rwanda
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0395169/
-        category: movie
+
       - title: How the Grinch Stole Christmas!
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0060345/
@@ -1904,101 +1908,101 @@ list:
       - title: I Am Legend
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0480249/
-        category: movie
+
       - title: I Heart Huckabees
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0356721/
-        category: movie
+
         star: yes
       - title: I Love You, Man
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1155056/
-        category: movie
+
       - title: I, Robot
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0343818/
-        category: movie
+
       - title: Identity Thief
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2024432/
-        category: movie
+
       - title: Idiocracy
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0387808/
-        category: movie
+
       - title: In Bruges
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0780536/
-        category: movie
+
       - title: Inception
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1375666/
-        category: movie
+
       - title: Independence Day
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116629/
-        category: movie
+
       - title: Indiana Jones and the Last Crusade
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0097576/
-        category: movie
+
       - title: Indiana Jones and the Temple of Doom
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0087469/
-        category: movie
+
       - title: Inglourious Basterds
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0361748/
-        category: movie
+
       - title: Inspector Gadget
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0141369/
-        category: movie
+
       - title: Iron Man
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0371746/
-        category: movie
+
         star: yes
       - title: Iron Man 2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1228705/
-        category: movie
+
       - title: Iron Man Three
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1300854/
-        category: movie
+
       - title: "It's a Wonderful Life"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0038650/
-        category: movie
+
       - title: Jack Frost
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0141109/
-        category: movie
+
       - title: "Jack Ryan: Shadow Recruit"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1205537/
-        category: movie
+
       - title: James and the Giant Peach
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116683/
-        category: movie
+
       - title: Jarhead
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0418763/
-        category: movie
+
       - title: Jaws
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0073195/
-        category: movie
+
       - title: Jay and Silent Bob Strike Back
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0261392/
-        category: movie
+
       - title: Jerry Maguire
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116695/
-        category: movie
+
         star: yes
       - title: "Jett Jackson: The Movie"
         date: 2015-11-09
@@ -2007,21 +2011,21 @@ list:
       - title: Jingle All the Way
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116705/
-        category: movie
+
         star: yes
       - title: Jobs
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2357129/
-        category: movie
+
       - title: Joe Dirt
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0245686/
-        category: movie
+
         star: yes
       - title: John Wick
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2911666/
-        category: movie
+
         star: yes
       - title: Johnny Tsunami
         date: 2015-11-09
@@ -2031,117 +2035,117 @@ list:
       - title: Josie and the Pussycats
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0236348/
-        category: movie
+
       - title: Jungle 2 Jungle
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0119432/
-        category: movie
+
       - title: Juno
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0467406/
-        category: movie
+
         star: yes
       - title: Kick-Ass
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1250777/
-        category: movie
+
       - title: Kill Me Three Times
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2393845/
-        category: movie
+
       - title: Kingpin
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116778/
-        category: movie
+
       - title: "Kingsman: The Secret Service"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2802144/
-        category: movie
+
         star: yes
       - title: Knocked Up
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0478311/
-        category: movie
+
         star: yes
       - title: Knuckleball!
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2343601/
-        category: movie
+
       - title: Korengal
         date: 2015-11-09
         link: https://www.imdb.com/title/tt3578504/
-        category: movie
+
       - title: Lady and the Tramp
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0048280/
-        category: movie
+
       - title: Layer Cake
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0375912/
-        category: movie
+
       - title: Leave It to Beaver
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0119509/
-        category: movie
+
       - title: "Les Mis'rables"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1707386/
-        category: movie
+
       - title: Let Me In
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1228987/
-        category: movie
+
       - title: Let the Right One In
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1139797/
-        category: movie
+
       - title: Liar Liar
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0119528/
-        category: movie
+
       - title: Limitless
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1219289/
-        category: movie
+
       - title: Lincoln
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0443272/
-        category: movie
+
       - title: Little Big League
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0110363/
-        category: movie
+
         star: yes
       - title: Little Giants
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0110364/
-        category: movie
+
         star: yes
       - title: Little Miss Sunshine
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0449059/
-        category: movie
+
       - title: Lock, Stock and Two Smoking Barrels
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120735/
-        category: movie
+
       - title: Lord of War
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0399295/
-        category: movie
+
       - title: Lone Survivor
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1091191/
-        category: movie
+
         star: yes
       - title: Love Actually
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0314331/
-        category: movie
+
       - title: Lucky Number Slevin
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0425210/
-        category: movie
+
       - title: Macheads
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1379667/
@@ -2149,132 +2153,132 @@ list:
       - title: "Mad Max: Fury Road"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1392190/
-        category: movie
+
         star: yes
       - title: Major League
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0097815/
-        category: movie
+
       - title: "Major League: Back to the Minors"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120742/
-        category: movie
+
       - title: Major Payne
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0110443/
-        category: movie
+
         star: yes
       - title: Mallrats
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0113749/
-        category: movie
+
       - title: Man on Wire
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1155592/
-        category: movie
+
         star: yes
       - title: "Mars Attacks!"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116996/
-        category: movie
+
       - title: Mary Poppins
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0058331/
-        category: movie
+
       - title: Match Point
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0416320/
-        category: movie
+
       - title: Mean Girls
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0377092/
-        category: movie
+
         star: yes
       - title: Meet the Fockers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0290002/
-        category: movie
+
       - title: Meet the Parents
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0212338/
-        category: movie
+
       - title: Men in Black
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0119654/
-        category: movie
+
       - title: Men in Black II
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120912/
-        category: movie
+
       - title: Men in Black 3
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1409024/
-        category: movie
+
       - title: Michael Clayton
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0465538/
-        category: movie
+
       - title: Midnight in Paris
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1605783/
-        category: movie
+
       - title: "Mighty Morphin Power Rangers: The Movie"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0113820/
-        category: movie
+
       - title: Milk
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1013753/
-        category: movie
+
       - title: Million Dollar Baby
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0405159/
-        category: movie
+
       - title: Minority Report
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0181689/
-        category: movie
+
       - title: Miracle
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0349825/
-        category: movie
+
       - title: Miracle on 34th Street
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0039628/
-        category: movie
+
       - title: "Mission: Impossible"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0117060/
-        category: movie
+
       - title: "Mission: Impossible II"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120755/
-        category: movie
+
       - title: "Mission: Impossible III"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0317919/
-        category: movie
+
       - title: "Mission: Impossible - Ghost Protocol"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1229238/
-        category: movie
+
       - title: Moneyball
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1210166/
-        category: movie
+
       - title: Monsters, Inc.
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0198781/
-        category: movie
+
       - title: Monty Python and the Holy Grail
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0071853/
-        category: movie
+
         star: yes
       - title: Moonrise Kingdom
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1748122/
-        category: movie
+
       - title: Motocrossed
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0273842/
@@ -2282,77 +2286,77 @@ list:
       - title: Mousehunt
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0119715/
-        category: movie
+
       - title: Mr. Deeds
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0280590/
-        category: movie
+
       - title: Mr. Magoo in Sherwood Forest
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2259364/
-        category: movie
+
       - title: Mrs. Doubtfire
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0107614/
-        category: movie
+
       - title: Mud
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1935179/
-        category: movie
+
       - title: Mulan
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120762/
-        category: movie
+
       - title: Munich
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0408306/
-        category: movie
+
       - title: Muppet Treasure Island
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0117110/
-        category: movie
+
       - title: My Big Fat Greek Wedding
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0259446/
-        category: movie
+
       - title: My Favorite Martian
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120764/
-        category: movie
+
       - title: Mystery Men
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0132347/
-        category: movie
+
         star: yes
       - title: Mystic River
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0327056/
-        category: movie
+
         star: yes
       - title: "National Lampoon's Vacation"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0085995/
-        category: movie
+
       - title: National Security
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0271668/
-        category: movie
+
       - title: National Treasure
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0368891/
-        category: movie
+
       - title: Natural Born Killers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0110632/
-        category: movie
+
       - title: Neighbors
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2004420/
-        category: movie
+
       - title: Nightcrawler
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2872718/
-        category: movie
+
       - title: Nine Innings from Ground Zero
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0425299/
@@ -2361,94 +2365,94 @@ list:
       - title: No Country for Old Men
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0477348/
-        category: movie
+
       - title: No Strings Attached
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1411238/
-        category: movie
+
       - title: O Brother, Where Art Thou?
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0190590/
-        category: movie
+
       - title: Objectified
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1241325/
-        category: movie
+
       - title: "Ocean's Eleven"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0240772/
-        category: movie
+
         star: yes
       - title: "Ocean's Twelve"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0349903/
-        category: movie
+
       - title: "Ocean's Thirteen"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0496806/
-        category: movie
+
         star: yes
       - title: October Sky
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0132477/
-        category: movie
+
       - title: Office Space
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0151804/
-        category: movie
+
         star: yes
       - title: Old School
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0302886/
-        category: movie
+
         star: yes
       - title: "Oliver & Company"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0095776/
-        category: movie
+
       - title: One Hour Photo
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0265459/
-        category: movie
+
       - title: Orange County
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0273923/
-        category: movie
+
         star: yes
       - title: Out Cold
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0253798/
-        category: movie
+
         star: yes
       - title: Pain & Gain
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1980209/
-        category: movie
+
         star: yes
       - title: Paper Towns
         date: 2015-11-09
         link: https://www.imdb.com/title/tt3622592/
-        category: movie
+
       - title: Paranormal Activity
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1179904/
-        category: movie
+
       - title: Paranormal Activity 2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1536044/
-        category: movie
+
       - title: Paranormal Activity 3
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1778304/
-        category: movie
+
       - title: Paranormal Activity 4
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2109184/
-        category: movie
+
       - title: Peter Pan
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0046183/
-        category: movie
+
       - title: Phantom of the Megaplex
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0266850/
@@ -2456,20 +2460,20 @@ list:
       - title: Phone Booth
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0183649/
-        category: movie
+
       - title: The Phantom of the Opera
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0293508/
-        category: movie
+
       - title: Pineapple Express
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0910936/
-        category: movie
+
         star: yes
       - title: Pinocchio
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0032910/
-        category: movie
+
       - title: Pirates of Silicon Valley
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0168122/
@@ -2477,84 +2481,84 @@ list:
       - title: "Pirates of the Caribbean: At World's End"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0449088/
-        category: movie
+
       - title: "Pirates of the Caribbean: Dead Man's Chest"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0383574/
-        category: movie
+
       - title: "Pirates of the Caribbean: The Curse of the Black Pearl"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0325980/
-        category: movie
+
         star: yes
       - title: Pocahontas
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0114148/
-        category: movie
+
       - title: Prancer
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0098115/
-        category: movie
+
       - title: Prisoners
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1392214/
-        category: movie
+
       - title: Psycho
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0054215/
-        category: movie
+
       - title: Pulp Fiction
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0110912/
-        category: movie
+
         star: yes
       - title: Raging Bull
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0081398/
-        category: movie
+
       - title: Raiders of the Lost Ark
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0082971/
-        category: movie
+
         star: yes
       - title: Rain Man
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0095953/
-        category: movie
+
       - title: Rat Race
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0250687/
-        category: movie
+
         star: yes
       - title: Ratatouille
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0382932/
-        category: movie
+
       - title: Red Eye
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0421239/
-        category: movie
+
       - title: Reindeer Games
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0184858/
-        category: movie
+
       - title: Remember the Titans
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0210945/
-        category: movie
+
         star: yes
       - title: Requiem for a Dream
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0180093/
-        category: movie
+
       - title: Restrepo
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1559549/
-        category: movie
+
       - title: Revolutionary Road
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0959337/
-        category: movie
+
       - title: "Richie Rich's Christmas Wish"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0155110/
@@ -2562,112 +2566,112 @@ list:
       - title: Richie Rich
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0110989/
-        category: movie
+
       - title: Ride Along
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1408253/
-        category: movie
+
       - title: Road Trip
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0215129/
-        category: movie
+
       - title: Robin Hood
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0070608/
-        category: movie
+
       - title: "Robin Hood: Men in Tights"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0107977/
-        category: movie
+
       - title: Rock Star
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0202470/
-        category: movie
+
         star: yes
       - title: RocketMan
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120029/
-        category: movie
+
         star: yes
       - title: Rocky
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0075148/
-        category: movie
+
       - title: Role Models
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0430922/
-        category: movie
+
       - title: Rookie of the Year
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0107985/
-        category: movie
+
         star: yes
       - title: Rounders
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0128442/
-        category: movie
+
         star: yes
       - title: Rush Hour
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120812/
-        category: movie
+
         star: yes
       - title: Rush Hour 2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0266915/
-        category: movie
+
         star: yes
       - title: Rush Hour 3
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0293564/
-        category: movie
+
       - title: Rushmore
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0128445/
-        category: movie
+
         star: yes
       - title: S.W.A.T.
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0257076/
-        category: movie
+
       - title: Safety Not Guaranteed
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1862079/
-        category: movie
+
       - title: "Santa's Slay"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0393685/
-        category: movie
+
       - title: Saving Private Ryan
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120815/
-        category: movie
+
       - title: Saving Silverman
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0239948/
-        category: movie
+
       - title: Scary Movie
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0175142/
-        category: movie
+
       - title: The School of Rock
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0332379/
-        category: movie
+
         star: yes
       - title: Scott Pilgrim vs. the World
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0446029/
-        category: movie
+
       - title: Se7en
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0114369/
-        category: movie
+
         star: yes
       - title: Seabiscuit
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0329575/
-        category: movie
+
       - title: "Seal Team Six: The Raid on Osama Bin Laden"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2095605/
@@ -2676,63 +2680,63 @@ list:
       - title: Secretariat
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1028576/
-        category: movie
+
       - title: Seven Psychopaths
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1931533/
-        category: movie
+
       - title: "Sgt. Bilko"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0117608/
-        category: movie
+
         star: yes
       - title: Shanghai Knights
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0300471/
-        category: movie
+
       - title: Shanghai Noon
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0184894/
-        category: movie
+
       - title: Shaun of the Dead
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0365748/
-        category: movie
+
         star: yes
       - title: Shooter
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0822854/
-        category: movie
+
         star: yes
       - title: Shrek
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0126029/
-        category: movie
+
       - title: Shrek 2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0298148/
-        category: movie
+
       - title: Shutter Island
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1130884/
-        category: movie
+
         star: yes
       - title: Sin City
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0401792/
-        category: movie
+
       - title: Slackers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0240900/
-        category: movie
+
       - title: Slap Shot
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0076723/
-        category: movie
+
       - title: Slumdog Millionaire
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1010048/
-        category: movie
+
       - title: Smart House
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0192618/
@@ -2740,272 +2744,272 @@ list:
       - title: "Smokin' Aces"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0475394/
-        category: movie
+
       - title: Snakes on a Plane
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0417148/
-        category: movie
+
       - title: Snatch
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0208092/
-        category: movie
+
         star: yes
       - title: Snowpiercer
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1706620/
-        category: movie
+
       - title: Snow White and the Seven Dwarfs
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0029583/
-        category: movie
+
       - title: "SOMM: Into the Bottle"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt5161502/
-        category: movie
+
       - title: Space Jam
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0117705/
-        category: movie
+
         star: yes
       - title: Spaceballs
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0094012/
-        category: movie
+
       - title: Spider-Man
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0145487/
-        category: movie
+
       - title: Spider-Man 2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0316654/
-        category: movie
+
       - title: Spider-Man 3
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0413300/
-        category: movie
+
       - title: Spring Breakers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2101441/
-        category: movie
+
       - title: St. Vincent
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2170593/
-        category: movie
+
       - title: Star Trek
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0796366/
-        category: movie
+
       - title: Star Trek Into Darkness
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1408101/
-        category: movie
+
       - title: Star Wars
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0076759/
-        category: movie
+
         star: yes
       - title: "Star Wars: Episode V - The Empire Strikes Back"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0080684/
-        category: movie
+
         star: yes
       - title: "Star Wars: Episode VI - Return of the Jedi"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0086190/
-        category: movie
+
         star: yes
       - title: "Star Wars: Episode I - The Phantom Menace"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120915/
-        category: movie
+
       - title: "Star Wars: Episode II - Attack of the Clones"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0121765/
-        category: movie
+
       - title: "Star Wars: Episode III - Revenge of the Sith"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0121766/
-        category: movie
+
       - title: Starsky & Hutch
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0335438/
-        category: movie
+
       - title: Stealing Harvard
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0265808/
-        category: movie
+
       - title: Stuart Little
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0164912/
-        category: movie
+
       - title: Sunshine
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0448134/
-        category: movie
+
         star: yes
       - title: Super 8
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1650062/
-        category: movie
+
       - title: Super Size Me
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0390521/
-        category: movie
+
       - title: Super Troopers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0247745/
-        category: movie
+
         star: yes
       - title: Superbad
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0829482/
-        category: movie
+
         star: yes
       - title: "Sweeney Todd: The Demon Barber of Fleet Street"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0408236/
-        category: movie
+
       - title: "Talladega Nights: The Ballad of Ricky Bobby"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0415306/
-        category: movie
+
       - title: Tarzan
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120855/
-        category: movie
+
       - title: Taxi
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0316732/
-        category: movie
+
       - title: "Team America: World Police"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0372588/
-        category: movie
+
       - title: Tears of the Sun
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0314353/
-        category: movie
+
       - title: Ted
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1637725/
-        category: movie
+
       - title: Teenage Mutant Ninja Turtles
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0100758/
-        category: movie
+
       - title: Thank You for Smoking
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0427944/
-        category: movie
+
         star: yes
       - title: The 40 Year Old Virgin
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0405422/
-        category: movie
+
         star: yes
       - title: The Adjustment Bureau
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1385826/
-        category: movie
+
       - title: "The Amazing Spider-Man"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0948470/
-        category: movie
+
       - title: The Avengers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0848228/
-        category: movie
+
         star: yes
       - title: The Bank Job
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0200465/
-        category: movie
+
       - title: The Big Bounce
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0315824/
-        category: movie
+
       - title: The Big Lebowski
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0118715/
-        category: movie
+
         star: yes
       - title: The Birds
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0056869/
-        category: movie
+
       - title: The Blind Side
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0878804/
-        category: movie
+
       - title: The Bling Ring
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2132285/
-        category: movie
+
       - title: The Boondock Saints
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0144117/
-        category: movie
+
       - title: The Bourne Identity
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0258463/
-        category: movie
+
         star: yes
       - title: The Bourne Legacy
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1194173/
-        category: movie
+
       - title: The Bourne Supremacy
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0372183/
-        category: movie
+
       - title: The Bourne Ultimatum
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0440963/
-        category: movie
+
         star: yes
       - title: The Break-Up
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0452594/
-        category: movie
+
       - title: The Breakfast Club
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0088847/
-        category: movie
+
       - title: The Butterfly Effect
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0289879/
-        category: movie
+
       - title: The Cable Guy
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0115798/
-        category: movie
+
       - title: The Curious Case of Benjamin Button
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0421715/
-        category: movie
+
       - title: The Darjeeling Limited
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0838221/
-        category: movie
+
       - title: The Dark Knight
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0468569/
-        category: movie
+
         star: yes
       - title: The Dark Knight Rises
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1345836/
-        category: movie
+
         star: yes
       - title: The Departed
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0407887/
-        category: movie
+
         star: yes
       - title: The Devil Wears Prada
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0458352/
-        category: movie
+
       - title: The Even Stevens Movie
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0327698/
@@ -3013,167 +3017,167 @@ list:
       - title: The Fighter
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0964517/
-        category: movie
+
       - title: The Flintstones
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0109813/
-        category: movie
+
       - title: The Fox and the Hound
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0082406/
-        category: movie
+
       - title: The Ghost and Mr. Chicken
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0059221/
-        category: movie
+
       - title: The Girl Next Door
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0265208/
-        category: movie
+
         star: yes
       - title: The Godfather
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0068646/
-        category: movie
+
       - title: The Good Shepherd
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0343737/
-        category: movie
+
       - title: The Grand Budapest Hotel
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2278388/
-        category: movie
+
       - title: The Grapes of Wrath
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0032551/
-        category: movie
+
       - title: The Great Gatsby
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1343092/
-        category: movie
+
       - title: The Great Mouse Detective
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0091149/
-        category: movie
+
       - title: The Hangover
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1119646/
-        category: movie
+
         star: yes
       - title: The Hangover Part II
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1411697/
-        category: movie
+
       - title: The Hills Have Eyes
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0454841/
-        category: movie
+
       - title: "The Hitchhiker's Guide to the Galaxy"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0371724/
-        category: movie
+
       - title: "The Hobbit: An Unexpected Journey"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0903624/
-        category: movie
+
       - title: The Holiday
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0457939/
-        category: movie
+
       - title: The Human Centipede (First Sequence)
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1467304/
-        category: movie
+
       - title: The Hunchback of Notre Dame
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0116583/
-        category: movie
+
       - title: The Hunger Games
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1392170/
-        category: movie
+
       - title: The Hurt Locker
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0887912/
-        category: movie
+
       - title: The Illusionist
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0443543/
-        category: movie
+
       - title: The Imitation Game
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2084970/
-        category: movie
+
       - title: The Inbetweeners Movie
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1716772/
-        category: movie
+
       - title: The Inbetweeners 2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt3097204/
-        category: movie
+
       - title: The Incredibles
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0317705/
-        category: movie
+
       - title: The Indian in the Cupboard
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0113419/
-        category: movie
+
       - title: The Informant!
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1130080/
-        category: movie
+
       - title: The Italian Job
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0317740/
-        category: movie
+
         star: yes
       - title: The Jungle Book
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0061852/
-        category: movie
+
       - title: "The King's Speech"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1504320/
-        category: movie
+
       - title: The Last of the Mohicans
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0104691/
-        category: movie
+
       - title: The Ledge
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1535970/
-        category: movie
+
       - title: The Legend of Bagger Vance
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0146984/
-        category: movie
+
         star: yes
       - title: The Life Aquatic with Steve Zissou
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0362270/
-        category: movie
+
       - title: The Lincoln Lawyer
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1189340/
-        category: movie
+
       - title: The Lion King
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0110357/
-        category: movie
+
       - title: The Little Mermaid
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0097757/
-        category: movie
+
       - title: The Longest Yard
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0398165/
-        category: movie
+
       - title: "The Lord of the Rings: The Fellowship of the Ring"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120737/
-        category: movie
+
       - title: The Luck of the Irish
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0274636/
@@ -3181,151 +3185,151 @@ list:
       - title: The Mask
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0110475/
-        category: movie
+
       - title: The Mask of Zorro
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120746/
-        category: movie
+
       - title: The Master
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1560747/
-        category: movie
+
       - title: The Master of Disguise
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0295427/
-        category: movie
+
       - title: The Matrix
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0133093/
-        category: movie
+
         star: yes
       - title: The Matrix Reloaded
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0234215/
-        category: movie
+
       - title: The Matrix Revolutions
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0242653/
-        category: movie
+
       - title: The Mummy
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120616/
-        category: movie
+
       - title: The Muppet Christmas Carol
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0104940/
-        category: movie
+
         star: yes
       - title: The Muppets
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1204342/
-        category: movie
+
       - title: The Omen
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0075005/
-        category: movie
+
       - title: The Other Guys
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1386588/
-        category: movie
+
       - title: The Parent Trap
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120783/
-        category: movie
+
       - title: The Patriot
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0187393/
-        category: movie
+
         star: yes
       - title: The Prestige
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0482571/
-        category: movie
+
         star: yes
       - title: The Proposal
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1041829/
-        category: movie
+
       - title: The Recruit
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0292506/
-        category: movie
+
       - title: The Replacements
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0191397/
-        category: movie
+
         star: yes
       - title: The Rescuers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0076618/
-        category: movie
+
       - title: The Rescuers Down Under
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0100477/
-        category: movie
+
       - title: The Rock
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0117500/
-        category: movie
+
       - title: The Rocketeer
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0102803/
-        category: movie
+
       - title: The Rookie
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0265662/
-        category: movie
+
       - title: The Royal Tenenbaums
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0265666/
-        category: movie
+
       - title: The Sandlot
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0108037/
-        category: movie
+
         star: yes
       - title: The Santa Clause
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0111070/
-        category: movie
+
       - title: The Shawshank Redemption
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0111161/
-        category: movie
+
         star: yes
       - title: The Shining
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0081505/
-        category: movie
+
         star: yes
       - title: The Short Game
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2466830/
-        category: movie
+
       - title: The Silence of the Lambs
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0102926/
-        category: movie
+
       - title: The Social Network
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1285016/
-        category: movie
+
       - title: The Spectacular Now
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1714206/
-        category: movie
+
       - title: The Sword in the Stone
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0057546/
-        category: movie
+
       - title: The Texas Chainsaw Massacre
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0324216/
-        category: movie
+
       - title: The Theory of Everything
         date: 2015-11-09
         link: https://www.imdb.com/title/tt2980516/
-        category: movie
+
       - title: The Thirteenth Year
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0200208/
@@ -3333,129 +3337,129 @@ list:
       - title: The Town
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0840361/
-        category: movie
+
         star: yes
       - title: The Truman Show
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120382/
-        category: movie
+
       - title: The Usual Suspects
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0114814/
-        category: movie
+
         star: yes
       - title: The Waterboy
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120484/
-        category: movie
+
       - title: The Wizard of Oz
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0032138/
-        category: movie
+
       - title: The Wolf of Wall Street
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0993846/
-        category: movie
+
       - title: The Wrestler
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1125849/
-        category: movie
+
       - title: "There's Something About Mary"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0129387/
-        category: movie
+
       - title: Thirteen
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0328538/
-        category: movie
+
       - title: This Is Spinal Tap
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0088258/
-        category: movie
+
       - title: This Is the End
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1245492/
-        category: movie
+
       - title: Thor
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0800369/
-        category: movie
+
       - title: "Thor: The Dark World"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1981115/
-        category: movie
+
       - title: Tin Cup
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0117918/
-        category: movie
+
         star: yes
       - title: Titanic
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120338/
-        category: movie
+
       - title: Tommy Boy
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0114694/
-        category: movie
+
         star: yes
       - title: Top Gun
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0092099/
-        category: movie
+
         star: yes
       - title: Toy Story
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0114709/
-        category: movie
+
         star: yes
       - title: Toy Story 2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120363/
-        category: movie
+
         star: yes
       - title: Toy Story 3
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0435761/
-        category: movie
+
         star: yes
       - title: Training Day
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0139654/
-        category: movie
+
         star: yes
       - title: Transformers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0418279/
-        category: movie
+
       - title: Tron
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1104001/
-        category: movie
+
       - title: Tropic Thunder
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0942385/
-        category: movie
+
         star: yes
       - title: Troy
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0332452/
-        category: movie
+
       - title: True Grit
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1403865/
-        category: movie
+
       - title: Underworld
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0320691/
-        category: movie
+
       - title: Up
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1049413/
-        category: movie
+
       - title: Up in the Air
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1193138/
-        category: movie
+
       - title: Up, Up, and Away!
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0211174/
@@ -3463,112 +3467,112 @@ list:
       - title: U.S. Marshals
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120873/
-        category: movie
+
       - title: V for Vendetta
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0434409/
-        category: movie
+
         star: yes
       - title: Vegas Vacation
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120434/
-        category: movie
+
         star: yes
       - title: Vicky Cristina Barcelona
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0497465/
-        category: movie
+
       - title: Walk the Line
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0358273/
-        category: movie
+
       - title: WALL-E
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0910970/
-        category: movie
+
         star: yes
       - title: War Horse
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1568911/
-        category: movie
+
       - title: War of the Worlds
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0407304/
-        category: movie
+
       - title: WarGames
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0086567/
-        category: movie
+
       - title: "Wayne's World"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0105793/
-        category: movie
+
       - title: "Wayne's World 2"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0108525/
-        category: movie
+
       - title: "We're the Millers"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1723121/
-        category: movie
+
         star: yes
       - title: Wedding Crashers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0396269/
-        category: movie
+
         star: yes
       - title: "Weekend at Bernie's"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0098627/
-        category: movie
+
       - title: West Side Story
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0055614/
-        category: movie
+
       - title: Where the Wild Things Are
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0386117/
-        category: movie
+
       - title: "While We're Young"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1791682/
-        category: movie
+
       - title: White Christmas
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0047673/
-        category: movie
+
       - title: "Willy Wonka & the Chocolate Factory"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0067992/
-        category: movie
+
       - title: Winters Bone
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1399683/
-        category: movie
+
       - title: "X-Men"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0120903/
-        category: movie
+
       - title: X2
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0290334/
-        category: movie
+
       - title: "X-Men Origins: Wolverine"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0458525/
-        category: movie
+
       - title: Year One
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1045778/
-        category: movie
+
       - title: You, Me and Dupree
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0463034/
-        category: movie
+
       - title: "You've Got Mail"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0128853/
-        category: movie
+
       - title: "Zenon: Girl of the 21st Century"
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0186726/
@@ -3580,18 +3584,18 @@ list:
       - title: Zero Dark Thirty
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1790885/
-        category: movie
+
         star: yes
       - title: Zombieland
         date: 2015-11-09
         link: https://www.imdb.com/title/tt1156398/
-        category: movie
+
       - title: Zoolander
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0196229/
-        category: movie
+
         star: yes
       - title: We Were Soldiers
         date: 2015-11-09
         link: https://www.imdb.com/title/tt0277434/
-        category: movie
+
