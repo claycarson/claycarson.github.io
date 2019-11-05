@@ -1,6 +1,9 @@
 list:
   - year: "2019"
     location:
+      - title: 'Austin, TX, USA'
+        date: 2019-11-02
+        
       - title: 'Santa Cruz, CA, USA'
         date: 2019-09-20
         

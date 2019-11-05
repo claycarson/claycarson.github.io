@@ -1,6 +1,10 @@
 list:
   - year: "2019"
     media:
+      - title: Stripes
+        date: 2019-11-05
+        link: https://www.imdb.com/title/tt0083131/
+        category: movie        
       - title: Psycho
         date: 2019-10-31
         link: https://www.imdb.com/title/tt0054215/
@@ -12,7 +16,11 @@ list:
       - title: Wall Street
         date: 2019-10-29
         link: https://www.imdb.com/title/tt0094291/
-        category: movie        
+        category: movie
+      - title: Us
+        date: 2019-10-25
+        link: https://www.imdb.com/title/tt6857112/
+        category: movie                
       - title: Dead Poets Society
         date: 2019-10-24
         link: https://www.imdb.com/title/tt0097165/
