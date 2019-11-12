@@ -252,6 +252,14 @@ nav > a {
     margin-right: 2rem
 }
 
+nav ul li strong a {
+	color: var(--color-accent) !important;
+}
+
+nav ul li strong a:hover {
+	color: var(--color-text) !important;
+}
+
 footer {
     padding: 2rem 0 0;
     margin-top: 1rem;
@@ -369,6 +377,14 @@ ul.diary {
     a:hover {
         color: var(--color-accent) !important
     }
+    
+    nav ul li strong a {
+	color: var(--color-text) !important;
+}
+
+nav ul li strong a:hover {
+	color: var(--color-accent) !important;
+}
 
     article.custom, article.custom a {
         color: var(--color-text) !important
