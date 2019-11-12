@@ -7,7 +7,7 @@
  
  <item>
   <title>November 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -58,7 +58,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/11/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/11/01/Newsletter.html</guid>
   <pubDate>2019-11-01 00:00:00 -0500</pubDate>
@@ -66,7 +66,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
  
  <item>
   <title>Test Newsletter</title>
-  <content>&lt;p&gt;This is a copy of October’s newsletter so that I can test publishing next month’s newsletter.&lt;/p&gt;
+  <description>&lt;p&gt;This is a copy of October’s newsletter so that I can test publishing next month’s newsletter.&lt;/p&gt;
 
 &lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
@@ -109,7 +109,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/10/24/Newsletter-Test.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/10/24/Newsletter-Test.html</guid>
   <pubDate>2019-10-24 00:00:00 -0500</pubDate>
@@ -117,7 +117,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
  
  <item>
   <title>October 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -158,7 +158,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/10/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/10/01/Newsletter.html</guid>
   <pubDate>2019-10-01 00:00:00 -0500</pubDate>
@@ -166,7 +166,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
  
  <item>
   <title>September 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -218,7 +218,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/09/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/09/01/Newsletter.html</guid>
   <pubDate>2019-09-01 00:00:00 -0500</pubDate>
@@ -226,7 +226,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
  
  <item>
   <title>August 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -285,7 +285,7 @@ People often buy and use Ring doorbell cameras under the premise that they’re 
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/08/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/08/01/Newsletter.html</guid>
   <pubDate>2019-08-01 00:00:00 -0500</pubDate>
@@ -293,7 +293,7 @@ People often buy and use Ring doorbell cameras under the premise that they’re 
  
  <item>
   <title>July 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -344,7 +344,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/07/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/07/01/Newsletter.html</guid>
   <pubDate>2019-07-01 00:00:00 -0500</pubDate>
@@ -352,7 +352,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <item>
   <title>June 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -397,7 +397,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/06/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/06/01/Newsletter.html</guid>
   <pubDate>2019-06-01 00:00:00 -0500</pubDate>
@@ -405,7 +405,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <item>
   <title>May 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -454,7 +454,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/05/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/05/01/Newsletter.html</guid>
   <pubDate>2019-05-01 00:00:00 -0500</pubDate>
@@ -462,7 +462,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <item>
   <title>April 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -554,7 +554,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/04/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/04/01/Newsletter.html</guid>
   <pubDate>2019-04-01 00:00:00 -0500</pubDate>
@@ -562,7 +562,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <item>
   <title>March 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -601,7 +601,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/03/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/03/01/Newsletter.html</guid>
   <pubDate>2019-03-01 00:00:00 -0600</pubDate>
@@ -609,7 +609,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <item>
   <title>February 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -676,7 +676,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/02/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/02/01/Newsletter.html</guid>
   <pubDate>2019-02-01 00:00:00 -0600</pubDate>
@@ -684,7 +684,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <item>
   <title>January 2019</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -739,7 +739,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2019/01/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/01/01/Newsletter.html</guid>
   <pubDate>2019-01-01 00:00:00 -0600</pubDate>
@@ -747,7 +747,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <item>
   <title>December 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -822,7 +822,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/12/15/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/12/15/Newsletter.html</guid>
   <pubDate>2018-12-15 00:00:00 -0600</pubDate>
@@ -830,7 +830,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <item>
   <title>November 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -901,7 +901,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/11/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/11/01/Newsletter.html</guid>
   <pubDate>2018-11-01 00:00:00 -0500</pubDate>
@@ -909,7 +909,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <item>
   <title>October 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -945,7 +945,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/10/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/10/01/Newsletter.html</guid>
   <pubDate>2018-10-01 00:00:00 -0500</pubDate>
@@ -953,7 +953,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <item>
   <title>September 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -994,7 +994,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/09/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/09/01/Newsletter.html</guid>
   <pubDate>2018-09-01 00:00:00 -0500</pubDate>
@@ -1002,7 +1002,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <item>
   <title>August 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -1065,7 +1065,7 @@ A part of me fears you.&lt;/p&gt;
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/08/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/08/01/Newsletter.html</guid>
   <pubDate>2018-08-01 00:00:00 -0500</pubDate>
@@ -1073,7 +1073,7 @@ A part of me fears you.&lt;/p&gt;
  
  <item>
   <title>July 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -1127,7 +1127,7 @@ A part of me fears you.&lt;/p&gt;
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/07/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/07/01/Newsletter.html</guid>
   <pubDate>2018-07-01 00:00:00 -0500</pubDate>
@@ -1135,7 +1135,7 @@ A part of me fears you.&lt;/p&gt;
  
  <item>
   <title>June 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -1194,7 +1194,7 @@ A part of me fears you.&lt;/p&gt;
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/06/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/06/01/Newsletter.html</guid>
   <pubDate>2018-06-01 00:00:00 -0500</pubDate>
@@ -1202,7 +1202,7 @@ A part of me fears you.&lt;/p&gt;
  
  <item>
   <title>May 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -1262,7 +1262,7 @@ A part of me fears you.&lt;/p&gt;
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/05/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/05/01/Newsletter.html</guid>
   <pubDate>2018-05-01 00:00:00 -0500</pubDate>
@@ -1270,7 +1270,7 @@ A part of me fears you.&lt;/p&gt;
  
  <item>
   <title>April 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -1334,7 +1334,7 @@ A part of me fears you.&lt;/p&gt;
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/04/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/04/01/Newsletter.html</guid>
   <pubDate>2018-04-01 00:00:00 -0500</pubDate>
@@ -1342,7 +1342,7 @@ A part of me fears you.&lt;/p&gt;
  
  <item>
   <title>March 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -1422,7 +1422,7 @@ A part of me fears you.&lt;/p&gt;
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/03/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/03/01/Newsletter.html</guid>
   <pubDate>2018-03-01 00:00:00 -0600</pubDate>
@@ -1430,7 +1430,7 @@ A part of me fears you.&lt;/p&gt;
  
  <item>
   <title>February 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -1510,7 +1510,7 @@ A part of me fears you.&lt;/p&gt;
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/02/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/02/01/Newsletter.html</guid>
   <pubDate>2018-02-01 00:00:00 -0600</pubDate>
@@ -1518,7 +1518,7 @@ A part of me fears you.&lt;/p&gt;
  
  <item>
   <title>January 2018</title>
-  <content>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -1579,7 +1579,7 @@ A part of me fears you.&lt;/p&gt;
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
-</content>
+</description>
   <link>http://localhost:4000/newsletter/2018/01/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/01/01/Newsletter.html</guid>
   <pubDate>2018-01-01 00:00:00 -0600</pubDate>
