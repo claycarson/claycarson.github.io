@@ -7,37 +7,57 @@
  
  <item>
   <title>November 2019</title>
-  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
+  <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+
+&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
+
 &lt;h2 id=&quot;code-red&quot;&gt;Code Red&lt;/h2&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://slate.com/technology/2019/10/consequential-computer-code-software-history.html&quot;&gt;The Lines of Code That Changed Everything&lt;/a&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-  &lt;p&gt;To shed light on the software that has tilted the world on its axis, the editors polled computer scientists, software developers, historians, policymakers, and journalists. They were asked to pick: Which pieces of code had a huge influence? Which ones warped our lives? About 75 responded with all sorts of ideas, and Slate has selected 36. It’s not a comprehensive list—it couldn’t be, given the massive welter of influential code that’s been written. (One fave of mine that didn’t make the cut: “Quicksort”! Or maybe Ada Lovelace’s Bernoulli algorithm.) Like all lists, it’s meant to provoke thought—to help us ponder anew how code undergirds our lives and how decisions made by programmers ripple into the future.
-Some personal favorite: The Apollo 11 Lunar Module’s BAILOUT Code, The One-Line Virus, The HTML Hyperlink, The Code That Made a T-Shirt Illegal, RSS, The Lost Mars Climate Orbiter&lt;/p&gt;
-  &lt;h2 id=&quot;words-words-words&quot;&gt;Words, Words, Words&lt;/h2&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker?mbid=social_twitter&amp;amp;utm_brand=tny&amp;amp;utm_social-type=owned&quot;&gt;Can a Machine Learn to Write for The New Yorker?&lt;/a&gt;
-To understand how GPT-2 writes, imagine that you’ve never learned any spelling or grammar rules, and that no one taught you what words mean. All you know is what you’ve read in eight million articles that you discovered via Reddit, on an almost infinite variety of topics (although subjects such as Miley Cyrus and the Mueller report are more familiar to you than, say, the Treaty of Versailles). You have Rain Man-like skills for remembering each and every combination of words you’ve read. Because of your predictive-text neural net, if you are given a sentence and asked to write another like it, you can do the task flawlessly without understanding anything about the rules of language. The only skill you need is being able to accurately predict the next word.&lt;/p&gt;
-  &lt;h2 id=&quot;money-buys&quot;&gt;Money Buys…&lt;/h2&gt;
-  &lt;p&gt;&lt;a href=&quot;https://marker.medium.com/what-really-happens-when-you-become-an-overnight-millionaire-acac42990175&quot; title=&quot;What Really Happens When You Become an Overnight Millionaire?&quot;&gt;What Really Happens When You Become an Overnight Millionaire?&lt;/a&gt;
-Peter Rahal, the 33-year-old energy bar impresario who sold RxBar to Kellogg for $600 million and became something of a consumer products legend in the process, stands in the gigantic, spotless kitchen of his new Miami Beach mansion. Behind him, floor-to-ceiling windows revealed his pool, his outdoor bar, and Sunset Harbour. Throughout the house are expensive-looking modernist metal chandeliers. The kitchen drawers are filled with gold utensils.
+  &lt;p&gt;To shed light on the software that has tilted the world on its axis, the editors polled computer scientists, software developers, historians, policymakers, and journalists. They were asked to pick: Which pieces of code had a huge influence? Which ones warped our lives? About 75 responded with all sorts of ideas, and Slate has selected 36. It’s not a comprehensive list—it couldn’t be, given the massive welter of influential code that’s been written. (One fave of mine that didn’t make the cut: “Quicksort”! Or maybe Ada Lovelace’s Bernoulli algorithm.) Like all lists, it’s meant to provoke thought—to help us ponder anew how code undergirds our lives and how decisions made by programmers ripple into the future.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some personal favorite: The Apollo 11 Lunar Module’s BAILOUT Code, The One-Line Virus, The HTML Hyperlink, The Code That Made a T-Shirt Illegal, RSS, The Lost Mars Climate Orbiter&lt;/p&gt;
+
+&lt;h2 id=&quot;words-words-words&quot;&gt;Words, Words, Words&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker?mbid=social_twitter&amp;amp;utm_brand=tny&amp;amp;utm_social-type=owned&quot;&gt;Can a Machine Learn to Write for The New Yorker?&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To understand how GPT-2 writes, imagine that you’ve never learned any spelling or grammar rules, and that no one taught you what words mean. All you know is what you’ve read in eight million articles that you discovered via Reddit, on an almost infinite variety of topics (although subjects such as Miley Cyrus and the Mueller report are more familiar to you than, say, the Treaty of Versailles). You have Rain Man-like skills for remembering each and every combination of words you’ve read. Because of your predictive-text neural net, if you are given a sentence and asked to write another like it, you can do the task flawlessly without understanding anything about the rules of language. The only skill you need is being able to accurately predict the next word.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;money-buys&quot;&gt;Money Buys…&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://marker.medium.com/what-really-happens-when-you-become-an-overnight-millionaire-acac42990175&quot; title=&quot;What Really Happens When You Become an Overnight Millionaire?&quot;&gt;What Really Happens When You Become an Overnight Millionaire?&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Peter Rahal, the 33-year-old energy bar impresario who sold RxBar to Kellogg for $600 million and became something of a consumer products legend in the process, stands in the gigantic, spotless kitchen of his new Miami Beach mansion. Behind him, floor-to-ceiling windows revealed his pool, his outdoor bar, and Sunset Harbour. Throughout the house are expensive-looking modernist metal chandeliers. The kitchen drawers are filled with gold utensils.
 […]
 Rahal prides himself on struggle and says that’s how he built RxBar into a breakout success. Yet now he exists in a rich person’s wonderland, where workers appear and disappear on some imperceptible schedule to clean the pool or fix the elevator, where the kitchen’s surfaces are entirely smooth and glossy. The many contradictions now swirling in Rahal’s daily existence are not lost on him. “As life moves forward,” he says, “an easier life isn’t always a better life.”&lt;/p&gt;
-  &lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;https://i.imgur.com/od94zOB.jpg&quot; title=&quot;Fast Food Frequency&quot;&gt;Fast Food Frequency&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=A-QQ0z8yVVA&amp;amp;feature=youtu.be&quot;&gt;F1 Steering Wheel Explained&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://vole.wtf/perfect-circle/&quot;&gt;Can you draw a perfect circle?&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://gfycat.com/shinythisadmiralbutterfly&quot;&gt;What a stunt pilot is going through&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JR4KHfqw-oE&amp;amp;feature=youtu.be&quot;&gt;What happens when you re-upload a YouTube video 1000 times&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Ds21U7coQzI&amp;amp;feature=youtu.be&quot;&gt;How fast is a 2 hour marathon pace?&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=SumDHcnCRuU&amp;amp;&quot; title=&quot;Which Planet is Closest?&quot;&gt;What Planet is Closest?&lt;/a&gt; (&lt;a href=&quot;https://www.youtube.com/watch?v=SumDHcnCRuU&amp;amp;&quot; title=&quot;Re: Which Planet is Closest?&quot;&gt;Follow up&lt;/a&gt;)
-      &lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
-      &lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-Thanks for reading. Have a great month,
-Clay&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
 &lt;/blockquote&gt;
+
+&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://i.imgur.com/od94zOB.jpg&quot; title=&quot;Fast Food Frequency&quot;&gt;Fast Food Frequency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=A-QQ0z8yVVA&amp;amp;feature=youtu.be&quot;&gt;F1 Steering Wheel Explained&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vole.wtf/perfect-circle/&quot;&gt;Can you draw a perfect circle?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gfycat.com/shinythisadmiralbutterfly&quot;&gt;What a stunt pilot is going through&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JR4KHfqw-oE&amp;amp;feature=youtu.be&quot;&gt;What happens when you re-upload a YouTube video 1000 times&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Ds21U7coQzI&amp;amp;feature=youtu.be&quot;&gt;How fast is a 2 hour marathon pace?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=SumDHcnCRuU&amp;amp;&quot; title=&quot;Which Planet is Closest?&quot;&gt;What Planet is Closest?&lt;/a&gt; (&lt;a href=&quot;https://www.youtube.com/watch?v=SumDHcnCRuU&amp;amp;&quot; title=&quot;Re: Which Planet is Closest?&quot;&gt;Follow up&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
+
+&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
+
+&lt;p&gt;Clay&lt;/p&gt;
 </description>
   <link>http://localhost:4000/newsletter/2019/11/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/11/01/Newsletter.html</guid>
