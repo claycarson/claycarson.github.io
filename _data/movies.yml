@@ -1,6 +1,10 @@
 list:
   - year: "2019"
     media:
+      - title: American Beauty
+        date: 2019-11-11
+        link: https://www.imdb.com/title/tt0169547/
+
       - title: The Great Hack
         date: 2019-11-05
         link: https://www.imdb.com/title/tt9358204/ 

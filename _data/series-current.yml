@@ -28,6 +28,9 @@ list:
       - title: "Formula 1: Drive to Survive"
         link:
         date: 
+      - title: For All Mankind
+        link:
+        date:        
       - title: "It's Always Sunny in Philidelphia"
         link:
         date: 
@@ -37,7 +40,10 @@ list:
         star: yes        
       - title: The Marvelous Mrs. Maisel
         link:
-        date:  
+        date: 
+      - title: The Morning Show
+        link:
+        date:         
       - title: Mindhunter
         link:
         date:           

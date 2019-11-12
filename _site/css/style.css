@@ -5,7 +5,7 @@
     --color-bg: #F4F4F4;
     --color-accent: #C15038;
     --font-sans: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    --font-serif: Georgia, serif;
+    --font-serif: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     --font-letterspacing: 0.02em;
     --font-size-small: 75%
 }
@@ -122,18 +122,23 @@ h2 + p {
 }
 
 p.intro {
+    font-size: 1.25rem;
     max-width: 28rem
 }
 
 h1.display {
     margin-top: 6rem;
     font-family: var(--font-sans);
-    font-size: 1.25rem;
+    font-size: 1.75rem;
     letter-spacing: -0.01em
 }
 
 h1 + p.intro {
     margin-top: 0.25rem
+}
+
+.post {
+	font-size: 1em;
 }
 
 small {
@@ -184,6 +189,8 @@ blockquote {
     border-left: 3px solid var(--color-text);
     margin-left: 2em;
     padding-left: 1em;
+    color: var(--color-sub);
+    font-size: .8em;
     font-style: italic;
 }
 

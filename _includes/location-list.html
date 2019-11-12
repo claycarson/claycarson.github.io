@@ -4,7 +4,7 @@
 <li>
 {{ location.title }}
 <span>
-<small> &middot; {{ location.date | date: "%m/%d" }}</small>
+<small> &middot; {% if location.location %}{{ location.location }} &middot; {% endif %} {{ location.date | date: "%m/%d" }}</small>
 </span>
 </li>
 {% endfor %}

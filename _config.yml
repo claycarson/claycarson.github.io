@@ -4,7 +4,7 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 # Setup
 title:               Clay Carson
 tagline:             
-url:                 http://claycarson.net
+url:                 http://claycarson.github.io
 baseurl:             "/"
 
 # Assets
