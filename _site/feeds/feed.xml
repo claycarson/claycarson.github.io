@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Nov 2019 15:30:05 -0600</pubDate>
-    <lastBuildDate>Tue, 12 Nov 2019 15:30:05 -0600</lastBuildDate>
+    <pubDate>Tue, 12 Nov 2019 15:59:39 -0600</pubDate>
+    <lastBuildDate>Tue, 12 Nov 2019 15:59:39 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -66,61 +66,6 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
         <pubDate>Fri, 01 Nov 2019 00:00:00 -0500</pubDate>
         <link>http://localhost:4000//newsletter/2019/11/01/Newsletter.html</link>
         <guid isPermaLink="true">http://localhost:4000//newsletter/2019/11/01/Newsletter.html</guid>
-        
-        
-        <category>Newsletter</category>
-        
-      </item>
-    
-      <item>
-        <title>Test Newsletter</title>
-        <description>&lt;p&gt;This is a copy of October’s newsletter so that I can test publishing next month’s newsletter.&lt;/p&gt;
-
-&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
-
-&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;a-burst-bubble&quot;&gt;A Burst Bubble&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.5280.com/2019/09/the-balloon-boy-hoax-solved/&quot;&gt;The Balloon Boy Hoax—Solved!&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It’s not difficult to piece it together: With a video camera rolling, Richard would launch the balloon and freak out. He’d call the FAA and get the balloon tracked. There’d be a tearful reunion when Falcon emerged from the basement, where he’d been told to hide. Richard would call back and say his son wasn’t in the basket. They’d make sure the Fort Collins newspaper knew about the stray saucer and the drama behind it. The story might go nationwide. With publicity in full force and a recording of every moment, networks would fight over the Heenes’ story.&lt;/p&gt;
-
-  &lt;p&gt;Except Falcon didn’t hide where he was told to. He hid in the garage attic, not in the basement. He played with his cars and he fell asleep. The FAA said Richard needed to call 911. Deputies showed up. Neighbors began searching for Falcon. And then that silvery balloon was careening across our television screens. That’s why Mayumi’s reunion with Falcon was so believable: For a few hours, she and Richard honestly worried their son had been swept away.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;chess-t-day&quot;&gt;Chess-t Day&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.espn.in/espn/story/_/id/27593253/why-grandmasters-magnus-carlsen-fabiano-caruana-lose-weight-playing-chess&quot;&gt;The Grandmaster Diet: How to lose weight while barely moving&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In 2004, winner Rustam Kasimdzhanov walked away from the six-game world championship having lost 17 pounds. In October 2018, Polar, a U.S.-based company that tracks heart rates, monitored chess players during a tournament and found that 21-year-old Russian grandmaster Mikhail Antipov had burned 560 calories in two hours of sitting and playing chess – or roughly what Roger Federer would burn in an hour of singles tennis.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.espn.com/espn/feature/story/_/id/27400369/the-body-issue#!&quot; title=&quot;The Body Issue - 2019&quot;&gt;The Body Issue - 2019&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nyctimescape.com/#overview&quot; title=&quot;NYC Timescape&quot;&gt;NYC Timescape - 30 Year Time-lapse&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.presentandcorrect.com/250-words-you-can-spell-with-a-calculator&quot;&gt;250 Words you can spell with a calculator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xd2TL88T9_s&quot;&gt;Can You Hear the Difference Between Cheap and Expensive Pianos?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=aPb-slJH9Vs&quot;&gt;How Pencils are Made&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
-
-&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
-
-&lt;p&gt;Clay&lt;/p&gt;
-</description>
-        <pubDate>Thu, 24 Oct 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//newsletter/2019/10/24/Newsletter-Test.html</link>
-        <guid isPermaLink="true">http://localhost:4000//newsletter/2019/10/24/Newsletter-Test.html</guid>
         
         
         <category>Newsletter</category>
@@ -645,6 +590,85 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
         <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000//newsletter/2019/03/01/Newsletter.html</link>
         <guid isPermaLink="true">http://localhost:4000//newsletter/2019/03/01/Newsletter.html</guid>
+        
+        
+        <category>Newsletter</category>
+        
+      </item>
+    
+      <item>
+        <title>February 2019</title>
+        <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+
+&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-my-brain-intact&quot;&gt;“Is my brain intact?”&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://nautil.us/issue/61/coordinates/the-strange-brain-of-the-worlds-greatest-solo-climber-rp&quot; title=&quot;The Strange Brain of the World’s Greatest Solo Climber&quot;&gt;The Strange Brain of the World’s Greatest Solo Climber&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Honnold is twice as sensation-seeking as the average person, and fully 20 percent higher than the average high sensation seeker. The most likely explanation for his flatline amygdala activation in the scanner, Joseph says, is that the tasks she set for him simply were not strong enough tea.&lt;/p&gt;
+
+  &lt;p&gt;Honnold also scores as exceedingly conscientious, associated with the ability to concentrate, remain focused on a task, and see things through. He also surveyed high in premeditation, his typical modus operandi, and very low in neuroticism, making him unlikely to ruminate over unlikely outcomes or risks that are impossible to manage. “If you don’t have any fear to begin with,” Honnold says, “there’s a lot less to control.”&lt;/p&gt;
+
+  &lt;p&gt;“He has the traits that enable him to be incredibly focused, and incredibly patient, but at the same time totally sensation seeking,” Joseph says.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Honnald’s most acclaimed climb is being the first free solo (climb without ropes) El Capitan. The documentary featuring this achievement, &lt;a href=&quot;https://www.nationalgeographic.com/films/free-solo/&quot; title=&quot;Free Solo&quot;&gt;Free Solo&lt;/a&gt;, was recently nominated for an Oscar.&lt;/p&gt;
+
+&lt;p&gt;The movie is a 97 minute stress test.&lt;/p&gt;
+
+&lt;h2 id=&quot;putt-putt&quot;&gt;Putt-Putt&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://thesandtrap.com/forums/topic/93352-putting-with-the-flagstick-in/&quot; title=&quot;Putting with the Flagstick In&quot;&gt;Analysis: Putting with the Flagstick In&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As part of the &lt;a href=&quot;https://www.usga.org/content/usga/home-page/rules-hub/rules-modernization/major-changes/major-changes.html&quot; title=&quot;USGA's 2019 Rule Changes&quot;&gt;USGA’s 2019 Rule changes&lt;/a&gt;, &lt;a href=&quot;https://www.usga.org/content/usga/home-page/rules-hub/rules-modernization/major-changes/ball-played-from-the-putting-green-hits-unattended-flagstick-in-hole.html&quot; title=&quot;There is no longer a penalty if a ball played from the putting green hits a flagstick left in the hole&quot;&gt;there is no longer a penalty if a ball played from the putting green hits a flagstick left in the hole&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;TLDR; You should leave the flagstick in.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;The flagstick slows the ball by a greater factor than it decreases the time the ball spends suspended over the hole.&lt;/li&gt;
+    &lt;li&gt;Unless you have exceptional distance control, effective capture speed can remain about the same.&lt;/li&gt;
+    &lt;li&gt;Hitting the ball more firmly allows for a larger margin of error. It also reduces the tendency of a slow-moving putt to “wobble” or be moved off-line due to imperfections.&lt;/li&gt;
+    &lt;li&gt;Players, particularly poorer putters, leave a lot of putts from 6’ to 15’ short. This change would let them be more aggressive.&lt;/li&gt;
+    &lt;li&gt;The situations where the flagstick should be removed (it leans too much, it’s moving around a lot in the wind) almost never occur.&lt;/li&gt;
+    &lt;li&gt;The flagstick offers an aid - it gives the player yet another point or two at which to aim.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bryson DeChambeau, the most scientific player on tour (at least boastfully), &lt;a href=&quot;https://www.golfdigest.com/story/bryson-dechambeau-says-hell-putt-with-the-pin-in-next-year-most-of-the-time-because-science&quot; title=&quot;says&quot;&gt;says&lt;/a&gt; that he will almost always leave the flagstick in because of the “&lt;a href=&quot;https://en.wikipedia.org/wiki/Coefficient_of_restitution&quot; title=&quot;Coefficient of Restitution&quot;&gt;coefficient of restitution&lt;/a&gt;”. Good to know.&lt;/p&gt;
+
+&lt;h2 id=&quot;cable-guy&quot;&gt;“Cable Guy!”&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.huffingtonpost.com/entry/cable-tech-dick-cheney-sex-dungeon_us_5c0ea571e4b06484c9fd4c21&quot; title=&quot;I Was A Cable Guy. I Saw The Worst Of America.&quot;&gt;I Was A Cable Guy. I Saw The Worst Of America.&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I can’t tell you about a specific day as a cable tech. I can’t tell you my first customer was a cat hoarder. I can tell you the details, sure. That I smeared Vicks on my lip to try to cover the stench of rugs and walls and upholstery soaked in cat piss. That I wore booties, not to protect the carpets from the mud on my boots but to keep the cat piss off my soles. I can tell you the problem with her cable service was that her cats chewed through the wiring. That I had to move a mummified cat behind the television to replace the jumper. That ammonia seeped into the polyester fibers of my itchy blue uniform, clung to the sweat in my hair. That the smell stuck to me through the next job.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/baseball/comments/ac6foj/oc_the_most_meaningless_game_of_2018/&quot; title=&quot;Analysis: The Most Meaningless Game of Baseball in 2018&quot;&gt;The Most Meaningless Game of Major League Baseball in 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IrabKK9Bhds&quot; title=&quot;They Shall Not Grow Old&quot;&gt;Peter Jackson’s They Shall Not Grow Old&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventuresinmapping.com/2019/01/10/inverted-grand-canyon/&quot; title=&quot;Inverted Grand Canyon&quot;&gt;Inverted Grand Canyon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/HalfEatenScone/status/1084855992154640388&quot;&gt;G-y-l-l-e-n-h-a-a-l&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=WJqg3B2_Kwc&quot; title=&quot;The Speed of Light on Earth&quot;&gt;The Speed of Light on Earth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
+
+&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
+
+&lt;p&gt;Clay&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000//newsletter/2019/02/01/Newsletter.html</link>
+        <guid isPermaLink="true">http://localhost:4000//newsletter/2019/02/01/Newsletter.html</guid>
         
         
         <category>Newsletter</category>
