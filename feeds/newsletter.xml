@@ -6,7 +6,7 @@ layout: null
 <channel>
  <title>Clay Carson's Newsletter</title>
  <description></description>
- <link>{{ site.url }}</link>
+ <link>http://claycarson.github.io</link>
  {% for post in site.categories.Newsletter %}
  <item>
   <title>{{ post.title | xml_escape }}</title>
