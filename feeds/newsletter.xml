@@ -1,17 +1,17 @@
 ---
 layout: null
 ---
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<atom:link href="http://claycarson.github.io/feeds/newsletter.xml" rel="self" type="application/rss+xml" />
 <channel>
  <title>Clay Carson's Newsletter</title>
  <description></description>
- <link>http://claycarson.github.io</link>
+ <link>{{ site.url }}</link>
  {% for post in site.categories.Newsletter %}
  <item>
   <title>{{ post.title | xml_escape }}</title>
   <content>{{ post.content | xml_escape }}</content>
-  <link>{{ post.url }}</link>
+  <link>{{ site.url }}{{ post.url }}</link>
   <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
   <pubDate>{{ post.date }}</pubDate>
  </item>

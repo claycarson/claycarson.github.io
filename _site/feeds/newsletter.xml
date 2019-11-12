@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<atom:link href="http://claycarson.github.io/feeds/newsletter.xml" rel="self" type="application/rss+xml" />
 <channel>
  <title>Clay Carson's Newsletter</title>
  <description></description>
- <link>http://claycarson.github.io</link>
+ <link>http://localhost:4000</link>
  
  <item>
   <title>November 2019</title>
@@ -59,7 +59,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/11/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/11/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/11/01/Newsletter.html</guid>
   <pubDate>2019-11-01 00:00:00 -0500</pubDate>
  </item>
@@ -110,7 +110,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/10/24/Newsletter-Test.html</link>
+  <link>http://localhost:4000/newsletter/2019/10/24/Newsletter-Test.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/10/24/Newsletter-Test.html</guid>
   <pubDate>2019-10-24 00:00:00 -0500</pubDate>
  </item>
@@ -159,7 +159,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/10/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/10/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/10/01/Newsletter.html</guid>
   <pubDate>2019-10-01 00:00:00 -0500</pubDate>
  </item>
@@ -219,7 +219,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/09/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/09/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/09/01/Newsletter.html</guid>
   <pubDate>2019-09-01 00:00:00 -0500</pubDate>
  </item>
@@ -286,7 +286,7 @@ People often buy and use Ring doorbell cameras under the premise that they’re 
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/08/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/08/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/08/01/Newsletter.html</guid>
   <pubDate>2019-08-01 00:00:00 -0500</pubDate>
  </item>
@@ -345,7 +345,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/07/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/07/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/07/01/Newsletter.html</guid>
   <pubDate>2019-07-01 00:00:00 -0500</pubDate>
  </item>
@@ -398,7 +398,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/06/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/06/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/06/01/Newsletter.html</guid>
   <pubDate>2019-06-01 00:00:00 -0500</pubDate>
  </item>
@@ -455,7 +455,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/05/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/05/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/05/01/Newsletter.html</guid>
   <pubDate>2019-05-01 00:00:00 -0500</pubDate>
  </item>
@@ -555,7 +555,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/04/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/04/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/04/01/Newsletter.html</guid>
   <pubDate>2019-04-01 00:00:00 -0500</pubDate>
  </item>
@@ -602,7 +602,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/03/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/03/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/03/01/Newsletter.html</guid>
   <pubDate>2019-03-01 00:00:00 -0600</pubDate>
  </item>
@@ -677,7 +677,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/02/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/02/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/02/01/Newsletter.html</guid>
   <pubDate>2019-02-01 00:00:00 -0600</pubDate>
  </item>
@@ -740,7 +740,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2019/01/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2019/01/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2019/01/01/Newsletter.html</guid>
   <pubDate>2019-01-01 00:00:00 -0600</pubDate>
  </item>
@@ -823,7 +823,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/12/15/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/12/15/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/12/15/Newsletter.html</guid>
   <pubDate>2018-12-15 00:00:00 -0600</pubDate>
  </item>
@@ -902,7 +902,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/11/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/11/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/11/01/Newsletter.html</guid>
   <pubDate>2018-11-01 00:00:00 -0500</pubDate>
  </item>
@@ -946,7 +946,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/10/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/10/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/10/01/Newsletter.html</guid>
   <pubDate>2018-10-01 00:00:00 -0500</pubDate>
  </item>
@@ -995,7 +995,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/09/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/09/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/09/01/Newsletter.html</guid>
   <pubDate>2018-09-01 00:00:00 -0500</pubDate>
  </item>
@@ -1066,7 +1066,7 @@ A part of me fears you.&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/08/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/08/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/08/01/Newsletter.html</guid>
   <pubDate>2018-08-01 00:00:00 -0500</pubDate>
  </item>
@@ -1128,7 +1128,7 @@ A part of me fears you.&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/07/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/07/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/07/01/Newsletter.html</guid>
   <pubDate>2018-07-01 00:00:00 -0500</pubDate>
  </item>
@@ -1195,7 +1195,7 @@ A part of me fears you.&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/06/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/06/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/06/01/Newsletter.html</guid>
   <pubDate>2018-06-01 00:00:00 -0500</pubDate>
  </item>
@@ -1263,7 +1263,7 @@ A part of me fears you.&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/05/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/05/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/05/01/Newsletter.html</guid>
   <pubDate>2018-05-01 00:00:00 -0500</pubDate>
  </item>
@@ -1335,7 +1335,7 @@ A part of me fears you.&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/04/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/04/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/04/01/Newsletter.html</guid>
   <pubDate>2018-04-01 00:00:00 -0500</pubDate>
  </item>
@@ -1423,7 +1423,7 @@ A part of me fears you.&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/03/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/03/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/03/01/Newsletter.html</guid>
   <pubDate>2018-03-01 00:00:00 -0600</pubDate>
  </item>
@@ -1511,7 +1511,7 @@ A part of me fears you.&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/02/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/02/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/02/01/Newsletter.html</guid>
   <pubDate>2018-02-01 00:00:00 -0600</pubDate>
  </item>
@@ -1580,7 +1580,7 @@ A part of me fears you.&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
 </content>
-  <link>/newsletter/2018/01/01/Newsletter.html</link>
+  <link>http://localhost:4000/newsletter/2018/01/01/Newsletter.html</link>
   <guid isPermaLink="true">http://localhost:4000/newsletter/2018/01/01/Newsletter.html</guid>
   <pubDate>2018-01-01 00:00:00 -0600</pubDate>
  </item>
