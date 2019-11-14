@@ -4,4 +4,14 @@ title: Audiobooks
 permalink: /reading/audiobooks/
 ---
 
-{% include audiobooks.html %}
+{% include list-start.html %}
+<section>
+<h1 class="display">Listening</h1>
+<p class="intro">Audiobooks really got me interested in 'reading' several years ago. The truth is, the increase in good podcast content has slowed my audiobook consumption.</p>
+</section>
+<section class="contain baseline sticky">
+{% for entry in site.data.audiobooks.list %}
+{% include media-list.html %}
+{% endfor %}
+</section>
+{% include list-end.html %}

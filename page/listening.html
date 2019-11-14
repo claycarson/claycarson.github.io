@@ -4,4 +4,15 @@ title: Music
 permalink: /listening/
 ---
 
-{% include listening.html %}
+{% include list-start.html %}
+<section>
+<h1 class="display">Listening</h1>
+<p class="intro">These are my favorite albums. But more-so, they are the albums I do not want to forget.</p>
+<p><small>Last updated  &middot; {{ site.data.music.lastupdate }}</small></p>
+</section>
+<section class="contain baseline sticky">
+{% for entry in site.data.music.list %}
+{% include media-list.html %}
+{% endfor %}
+</section>
+{% include list-end.html %}
