@@ -1,0 +1,37 @@
+---
+layout: page
+title: Snapshots
+permalink: /photographing/snapshots/
+---
+
+{% include list-start.html %}
+<section>
+<h1 class="display">Snapshots</h1>
+<p class="intro">This section is a work in progress. Eventually, there will probably be a nice grid view off to the right with some albums to click on.</p>
+</section>
+<section>
+{% for post in site.categories.snapshot limit: 1 %}
+<div class="bookwrap"><a href="{{ post.url }}">
+<img src="{{ post.feature }}"></a>
+<div class="info">
+<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<time>{{ post.date | date: "%B %d %Y"}}</time>
+{% endfor %}
+</a>
+</section>
+<section>
+<div class="fourup essays">
+{% for post in site.categories.snapshot limit: 8 %}
+<div class="block">
+<div class="fullimg round essay"><a href="{{ post.url }}"><img src="{{ post.feature }}"></a></div>
+<div class="info">
+<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<time>{{ post.date | date: "%B %d %Y"}}</time>
+</div>
+</div>
+</a>
+{% endfor %}
+</div>
+</section>
+<a href="/photographing/snapshots/">View All</a>
+{% include list-end.html %}

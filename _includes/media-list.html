@@ -3,7 +3,7 @@
 {% for media in entry.media %}
 <li>
 {{ media.title }}
-<small>{% if media.author %} <span class="author">by </span>{% endif %} {{ media.author }} {% if media.date %} &middot; {{ media.date | date: "%m/%d" }}{% endif %} {% if media.star %} <span class="star">★</span>{% endif %}
+<small>{% if media.creator %} <span class="creator">by </span>{% endif %} {{ media.creator }} {% if media.date %} &middot; {{ media.date | date: "%m/%d" }}{% endif %} {% if media.star %} <span class="star">★</span>{% endif %}
 </small>
 </li>
 {% endfor %}

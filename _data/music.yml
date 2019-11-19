@@ -3,202 +3,202 @@ list:
   - year: "Archive"
     media:
       - title: 'Almost Here'
-        author: The Academy Is...
+        creator: The Academy Is...
         star: yes
       - title: Phantoms        
-        author: Acceptance
+        creator: Acceptance
       - title: Evanesce
-        author: Anatomy of a Ghost
+        creator: Anatomy of a Ghost
         star: yes        
       - title: Never Take Friendship Personal
-        author: Anberlin
+        creator: Anberlin
         star: yes        
       - title: Relationship of Command
-        author: At the Drive In
+        creator: At the Drive In
       - title: So Long, Astoria
-        author: The Ataris
+        creator: The Ataris
         star: yes        
       - title: Strange Desire
-        author: Bleachers
+        creator: Bleachers
         star: yes        
       - title: Gone Now
-        author: Bleachers
+        creator: Bleachers
         star: yes        
       - title: Take Off Your Pants and Jacket        
-        author: "Blink 182"
+        creator: "Blink 182"
       - title: Enema of the State
-        author: "Blink 182"
+        creator: "Blink 182"
         star: yes        
       - title: Dude Ranch
-        author: "Blink 182"      
+        creator: "Blink 182"      
       - title: Make Yourself Sick       
-        author: Boys Night Out
+        creator: Boys Night Out
       - title: Deja Entendu
-        author: Brand New
+        creator: Brand New
         star: yes        
       - title: Your Favorite Weapon
-        author: Brand New
+        creator: Brand New
         star: yes        
       - title: A Coloring Storebook and Long-Playing Record
-        author: Cinematic Sunrise
+        creator: Cinematic Sunrise
       - title: Never Be Taken Alive
-        author: Count the Stars
+        creator: Count the Stars
         star: yes        
       - title: Burst and Bloom
-        author: Cursive
+        creator: Cursive
       - title: Domestica
-        author: Cursive      
+        creator: Cursive      
       - title: The Ugly Organ
-        author: Cursive
+        creator: Cursive
       - title: A Mark, A Mission, A Brand, A Scar
-        author: Dashboard Confessional
+        creator: Dashboard Confessional
         star: yes        
       - title: The Places You You Come to Fear the Most
-        author: Dashboard Confessional      
+        creator: Dashboard Confessional      
       - title: The Swiss Army Romance
-        author: Dashboard Confessional
+        creator: Dashboard Confessional
         star: yes        
       - title: The Rocking Chair Years
-        author: A Day at the Fair
+        creator: A Day at the Fair
       - title: Mapping an Invisible World
-        author: Days Away
+        creator: Days Away
       - title: The Photo Albums
-        author: Death Cab For Cutie
+        creator: Death Cab For Cutie
       - title: Plans
-        author: Death Cab For Cutie      
+        creator: Death Cab For Cutie      
       - title: Transatlanticism
-        author: Death Cab For Cutie
+        creator: Death Cab For Cutie
       - title: Reinventing the Heartbeat        
-        author: E for Explosion
+        creator: E for Explosion
       - title: For All of This
-        author: The Early November
+        creator: The Early November
         star: yes        
       - title: The Room's Too Cold
-        author: The Early November
+        creator: The Early November
       - title: Take This to Your Grave        
-        author: Fall Out Boy
+        creator: Fall Out Boy
         star: yes        
       - title: What it is to Burn
-        author: Finch
+        creator: Finch
       - title: Interventions and Lullabies
-        author: The Format
+        creator: The Format
       - title: Hidden in Plain View
-        author: Hidden in Plain View
+        creator: Hidden in Plain View
       - title: Life in Dreaming
-        author: Hidden in Plain View
+        creator: Hidden in Plain View
       - title: Anything Else but the Truth        
-        author: The Honorary Title
+        creator: The Honorary Title
       - title: Everything in Transit
-        author: Jack's Mannequin
+        creator: Jack's Mannequin
       - title: The Glass Passenger
-        author: Jack's Mannequin      
+        creator: Jack's Mannequin      
       - title: People and Things
-        author: Jack's Mannequin
+        creator: Jack's Mannequin
         star: yes        
       - title: Notes and Photographs
-        author: JamisonParker
+        creator: JamisonParker
         star: yes        
       - title: Sleepwalker
-        author: JamisonParker
+        creator: JamisonParker
       - title: Bleed American        
-        author: Jimmy Eat World
+        creator: Jimmy Eat World
       - title: If You Speak Any Faster
-        author: June
+        creator: June
       - title: Battle Born
-        author: The Killers
+        creator: The Killers
       - title: Stories and Alibis
-        author: Matchbook Romance
+        creator: Matchbook Romance
       - title: Catch for us the Foxes
-        author: mewithoutYou
+        creator: mewithoutYou
       - title: Brother, Sister
-        author: mewithoutYou      
+        creator: mewithoutYou      
       - title: It's All Crazy! It's All False! It's All a Dream, It's Alright
-        author: mewithoutYou
+        creator: mewithoutYou
       - title: Save the World, Lose the Girl
-        author: Midtown
+        creator: Midtown
       - title: Living Well is the Best Revenge
-        author: Midtown
+        creator: Midtown
       - title: Sticks and Stones        
-        author: New Found Glory
+        creator: New Found Glory
       - title: ...Is this thing Loaded?
-        author: Northstar
+        creator: Northstar
       - title: Pollyanna
         star: yes      
-        author: Northstar
+        creator: Northstar
       - title: Give Up
-        author: The Postal Service
+        creator: The Postal Service
         star: yes        
       - title: When All That's Left is You
-        author: Quietdrive
+        creator: Quietdrive
       - title: Calendar Days
-        author: The Rocket Summer
+        creator: The Rocket Summer
       - title: Do You Feel
-        author: The Rocket Summer
+        creator: The Rocket Summer
         star: yes        
       - title: Perhaps, I Suppose...
-        author: Rufio
+        creator: Rufio
       - title: Translating the Name
-        author: Saosin
+        creator: Saosin
         star: yes        
       - title: ...Is a Real Boy
-        author: Say Anything
+        creator: Say Anything
       - title: Menora/Mejora
-        author: Say Anything
+        creator: Say Anything
       - title: Take it how you want it
-        author: Self Against City
+        creator: Self Against City
       - title: Leaving Through the Window
-        author: Something Corporate
+        creator: Something Corporate
         star: yes        
       - title: North
-        author: Something Corporate
+        creator: Something Corporate
       - title: Wiretap Scars
-        author: Sparta
+        creator: Sparta
       - title: Sunsets and Car Crashes
-        author: The Spill Canvas
+        creator: The Spill Canvas
       - title: One Fell Swoop
-        author: The Spill Canvas
+        creator: The Spill Canvas
       - title: Say it like you mean it
-        author: The Starting Line
+        creator: The Starting Line
       - title: Straylight Run
-        author: Straylight Run
+        creator: Straylight Run
         star: yes        
       - title: Tell All Your Friends
-        author: Taking Back Sunday
+        creator: Taking Back Sunday
         star: yes        
       - title: Where You Want to Be
-        author: Taking Back Sunday
+        creator: Taking Back Sunday
         star: yes        
       - title: Blue
-        author: Third Eye Blind
+        creator: Third Eye Blind
       - title: Third Eye Blind
-        author: Third Eye Blind
+        creator: Third Eye Blind
       - title: Always Leave the Ground
-        author: This Day and Age
+        creator: This Day and Age
       - title: Our World's Divorce
-        author: This Providence
+        creator: This Providence
       - title: Five Stories Falling
-        author: Thursday
+        creator: Thursday
       - title: Full Collapse
-        author: Thursday
+        creator: Thursday
         star: yes        
       - title: War all of the Time
-        author: Thursday
+        creator: Thursday
       - title: The Changing of Times
-        author: Underoath
+        creator: Underoath
       - title: They're Only Chasing Safety
-        author: Underoath
+        creator: Underoath
         star: yes        
       - title: The Used
-        author: The Used
+        creator: The Used
         star: yes          
       - title: The Upsides
-        author: The Wonder Years
+        creator: The Wonder Years
         star: yes        
       - title: Suburbia I've Given You All and Now I'm Nothing
-        author: The Wonder Years
+        creator: The Wonder Years
         star: yes        
       - title: The Greatest Generation
-        author: The Wonder Years
+        creator: The Wonder Years
         star: yes        
       - title: Ocean Avenue
-        author: Yellowcard
+        creator: Yellowcard
