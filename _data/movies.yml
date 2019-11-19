@@ -1,6 +1,10 @@
 list:
   - year: "2019"
     media:
+      - title: Good Boys
+        date: 2019-11-18
+        link: https://www.imdb.com/title/tt7343762/
+        
       - title: American Beauty
         date: 2019-11-11
         link: https://www.imdb.com/title/tt0169547/
