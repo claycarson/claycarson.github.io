@@ -21,7 +21,7 @@ permalink: /photographing/albums/
 </section>
 <section>
 <div class="fourup essays">
-{% for post in site.categories.album limit: 8 %}
+{% for post in site.categories.album %}
 <div class="block">
 <div class="fullimg round essay"><a href="{{ post.url }}"><img src="{{ post.feature }}"></a></div>
 <div class="info">
