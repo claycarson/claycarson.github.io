@@ -1,6 +1,9 @@
 list:
   - year: "2019"
     media:
+      - title: Blazing Saddles
+        date: 2019-11-27
+        link: https://www.imdb.com/title/tt0071230/
       - title: Good Boys
         date: 2019-11-18
         link: https://www.imdb.com/title/tt7343762/
