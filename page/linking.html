@@ -1,0 +1,28 @@
+---
+layout: page
+title: Linking
+permalink: /linking
+---
+
+{% include list-start.html %}
+<section>
+<h1 class="display">Linked List</h1>
+<p class="intro">This site began as primarily a linked list blog. This page is the remnants of that.</p>
+</section>
+<section class="contain baseline sticky">
+{% for post in site.categories.Link %}
+<h1 id="y{{post.date | date: "%Y"}}">{{ post.year }}</h1>
+<div class="linked">
+<ul>
+  <li>
+    <p><h2><a href="{{ post.link }}"> {{ post.title }}</a> <span class="linked-arrow"><a href="{{ post.url }}">&rarr;</a></span></h2> 
+    </p>
+    <div class="post">{{ post.content }}</div>
+    <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+  </li>
+  <hr>
+</ul>
+</div>
+{% endfor %}
+</section>
+{% include list-end.html %}

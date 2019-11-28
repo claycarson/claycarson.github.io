@@ -502,3 +502,15 @@ article.recent {
     padding: 2rem 0;
     font-family: var(--font-sans)
 }
+
+.linked li {
+	list-style: none;
+}
+
+.linked-arrow a {
+	color: var(--color-accent);
+}
+
+.linked-arrow a:hover {
+	color: var(--color-text);
+}
