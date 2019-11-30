@@ -14,4 +14,6 @@ format: quote
 ---
 > Time spent fretting about our status as impostors is time away from dancing with our fear, from leading and from doing work that matters.
 > 
-> <cite>Seth Godin in <a href="http://sethgodin.typepad.com/seths_blog/2017/10/imposter-syndrome.html">Imposter Syndrome</a></cite>
+>
+<br>
+<cite>Seth Godin in <a href="http://sethgodin.typepad.com/seths_blog/2017/10/imposter-syndrome.html">Imposter Syndrome</a></cite>
