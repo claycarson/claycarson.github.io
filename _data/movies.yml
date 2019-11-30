@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     media:
+      - title: "The Irishman"
+        date: 2019-11-29
+        link: https://m.imdb.com/title/tt1302006/?ref_=fn_al_tt_0
+        creator:
+        star: No
+
       - title: American Beauty
         date: 2019-11-11
         link: https://www.imdb.com/title/tt0169547/
