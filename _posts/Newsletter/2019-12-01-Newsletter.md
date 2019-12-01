@@ -40,7 +40,7 @@ And for good measure, let’s not forget the [disgusting behavior by both the As
 > The fans who needed tickets stood out. We called them “straights” because they stand straight up in a crowd protecting the cash they’re unused to carrying, hands stuck in their pockets, and you could make a few thousand dollars in a couple of hours if you knew how to spot them. The game was to sell your tickets for as much cash as the straights could cough up.
 > 
 > I had 30 tickets left with 20 minutes to kickoff. If I didn’t sell them they’d be worthless — deadwood. But with undercovers swarming the stadium, the risk of arrest swelled with every sale. Ticket scalping in Brazil carried a multi-year prison sentence, and I couldn’t speak Portuguese, so I had to be careful. Avoiding capture meant closing deals quickly and moving every five minutes. These were techniques my mentors taught me on street corners, outside the track at the Kentucky Derby, in the parking lots bordering the Masters, the hotel lobbies by the Super Bowl.
-> 
+
 ## Around The Web
 
 - [NYC Without People and Cars](https://qz.com/quartzy/1721288/photographer-removes-cars-people-to-highlight-new-york-buildings/ "NYC Without People and Cars")
