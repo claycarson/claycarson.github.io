@@ -400,7 +400,7 @@ nav ul li strong a:hover {
 
     .postlink, .postlink:last-child, blockquote, hr, .horz-nav, ul.tracklist,
     ul.tracklist li {
-        border-color: var(--color-text)
+        border-color: var(--color-accent)
     }
     
     #mailchimp input[type="submit"] {
