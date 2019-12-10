@@ -92,8 +92,13 @@ list:
         link: https://www.pgawest.com/stadium-course
         location: La Quinta, CA
     
-  - year: "Before 2000"
+  - year: "Before 2010"
     location:
+      - title: Cowboys Golf Club
+        date: 2000-01-01
+        link: https://www.cowboysgolfclub.com
+        location: Grapevine, TX
+        
       - title: La Cantera
         date: 2000-01-01
         link: https://lacanteragolfclub.com
