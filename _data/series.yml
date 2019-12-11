@@ -20,9 +20,7 @@ current:
       - title: The Morning Show        
       - title: Mindhunter           
       - title: Ozark
-        star: yes        
-      - title: Silicon Valley 
-        star: yes        
+        star: yes                
       - title: Stranger Things
       - title: Succession  
         star: yes            
@@ -38,6 +36,13 @@ current:
 complete:
   - year: "2019"
     media:
+      - title: Silicon Valley 
+        link:
+        date:
+        star: yes    
+      - title: "Inside Bill's Brain"
+        link:
+        date:  
       - title: Chernobyl
         link:
         date: 
