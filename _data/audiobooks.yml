@@ -2,31 +2,31 @@ list:
   - year: "2019"
     media:
       - title: "Can't Hurt Me"
-        author: David Goggins
+        creator: David Goggins
         link: https://www.audible.com/pd/Cant-Hurt-Me-Audiobook/B07KKMNZCH?qid=1565889238&sr=1-1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=TGP2M1BSSSFCD5V4N4MM&ref=a_search_c3_lProduct_1_1
         date: 2019-08-15
         star: no
 
       - title: 'Skunk Works: A Personal Memoir of my Years at Lockeed'
-        author: Ben R. Rich
+        creator: Ben R. Rich
         link: https://www.audible.com/search?keywords=skunk+works&ref=
         date: 2019-08-15
         star: no     
         
       - title: 'Commander in Cheat'
-        author: Rick Reilly
+        creator: Rick Reilly
         link: https://www.audible.com/pd/Commander-in-Cheat-Audiobook/1549118692
         date: 2019-05-03
         star: yes
         
       - title: 'The Mastermind'
-        author: Evan Ratliff
+        creator: Evan Ratliff
         link: https://www.audible.com/pd/The-Mastermind-Audiobook/1984885154?ref=a_typ_c1_lProduct_1&pf_rd_p=3aa0f0bc-1d10-438f-b86c-7f28cc26ca23&pf_rd_r=DQQYYN49H00HQ3RE4QP5&
         date: 2019-03-10
         star: no        
         
       - title: 'The System: The Glory and Scandal of Big-Time College Football'
-        author: Jeff Benedict and Armen Keteyian
+        creator: Jeff Benedict and Armen Keteyian
         link: https://www.audible.com/pd/The-System-Audiobook/B00EZ6IUJ8
         date: 2019-02-22
         star: no        
@@ -34,43 +34,43 @@ list:
   - year: "2018"
     media:
       - title: 'Creative Selection'
-        author: Ken Kocienda
+        creator: Ken Kocienda
         link: https://www.audible.com/pd/Creative-Selection-Audiobook/B07D416JT3
         date: 2019-08-15
         star: no      
         
       - title: 'The Fifth Risk'
-        author: Michael Lewis
+        creator: Michael Lewis
         link: https://www.amazon.com/Fifth-Risk-Michael-Lewis/dp/1324002646
         date: 2018-11-20
         star: no        
         
       - title: 'Astrophysics for People in a Hurry'
-        author: Neil deGrasse Tyson
+        creator: Neil deGrasse Tyson
         link: https://www.amazon.com/Astrophysics-People-Hurry-Grasse-Tyson-ebook/dp/B01MAWT2MO
         date: 2018-09-29
         star: no
         
       - title: 'Fear: Trump in the White House'
-        author: Bob Woodward
+        creator: Bob Woodward
         link: https://www.amazon.com/Fear-Trump-White-Bob-Woodward-ebook/dp/B075RV48W3
         date: 2018-09-28
         star: no        
         
       - title: "Liar's Poker"
-        author: Michael Lewis
+        creator: Michael Lewis
         link: https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X
         date: 2018-08-21
         star: no        
         
       - title: 'Homo Deus: A Brief History of Tomorrow'
-        author: Yuval Noah Harari
+        creator: Yuval Noah Harari
         link: https://www.amazon.com/exec/obidos/ASIN/B01BBQ33VE/waggish00-20
         date: 2018-05-03
         star: yes
         
       - title: 'Born a Crime'
-        author: Trevor Noah
+        creator: Trevor Noah
         link: https://audiblecom/pd/Bios-Memoirs/Born-a-Crime-Audiobook/B01IW9TQPK?serial=&
         date: 2018-
         star: yes
@@ -78,37 +78,37 @@ list:
   - year: "2017"
     media:
       - title: 'The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America'
-        author: Erik Larson
+        creator: Erik Larson
         link: https://www.amazon.com/Devil-White-City-Madness-Changed/dp/0375725601
         date: 2017-12-15
         star: no                    
         
       - title: 'American Assassin: A Thriller'
-        author: Vince Flynn
+        creator: Vince Flynn
         link: https://www.amazon.com/dp/B003UV8T9A/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
         date: 2017-11-13
         star: no        
         
       - title: 'American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road'
-        author: Nick Bilton
+        creator: Nick Bilton
         link: https://www.amazon.com/dp/B01L8C4WBG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
         date: 2017-08-03
         star: no        
         
       - title: 'Red Notice: A True Story of High Finance, Murder, and One Man’s Fight for Justice'
-        author: Bill Browder
+        creator: Bill Browder
         link: https://www.amazon.com/dp/B00LD1ORX6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
         date: 2017-07-20
         star: no        
         
       - title: 'Unbroken: A World War II Story of Survival, Resilience, and Redemption'
-        author: Joe Giorello
+        creator: Joe Giorello
         link: 
         date: 2017-05-18
         star: no        
         
       - title: "The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics"
-        author: John Heller
+        creator: John Heller
         link: 
         date: 2017-03-07
         star: yes
@@ -116,49 +116,49 @@ list:
   - year: "2016"
     media:     
       - title: 'Coach: Lessons on the Game of Life'
-        author: Michael Lewis
+        creator: Michael Lewis
         link: 
         date: 2017-11-23
         star: no               
         
       - title: 'In The Plex: How Google Thinks, Works, and Shapes Our Lives'
-        author: Steven Levy
+        creator: Steven Levy
         link: 
         date: 2016-11-15
         star: no        
         
       - title: 'Sapiens: A Brief History of Humankind'
-        author: Yuval Noah Harari
+        creator: Yuval Noah Harari
         link: 
         date: 2016-11-07
         star: yes        
         
       - title: "11/22/63: A Novel"
-        author: Stephen King
+        creator: Stephen King
         link: 
         date: 2016-08-29
         star: no        
         
       - title: 'Creativity, Inc: Overcoming the Unseen Forces That Stand in the Way of True Inspiration'
-        author: Ed Catmull
+        creator: Ed Catmull
         link: 
         date: 2016-08-24
         star: no        
         
       - title: "So You've Been Publicly Shamed"
-        author: Jon Ronson
+        creator: Jon Ronson
         link: 
         date: 2016-08-15
         star: no     
         
       - title: 'Extreme Ownership: How US Navy SEALs Lead and Win'
-        author: Jocko Willink
+        creator: Jocko Willink
         link: 
         date: 2016-07-01
         star: yes
         
       - title: 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future'
-        author: Ashlee Vance
+        creator: Ashlee Vance
         link: 
         date: 2016
         star: yes
@@ -166,25 +166,25 @@ list:
   - year: "2015"
     media: 
       - title: 'Born Standing Up: A Comic&#8217;s Life'
-        author: Steve Martin
+        creator: Steve Martin
         link: 
         date: 2015-12-07
         star: no         
                  
       - title: 'A Short History of Nearly Everything'
-        author: Bill Bryson
+        creator: Bill Bryson
         link: 
         date: 2015-11-20
         star: no                        
         
       - title: 'On Writing'
-        author: Stephen King
+        creator: Stephen King
         link: 
         date: 2015-11-13
         star: yes        
         
       - title: 'The Martian: A Novel'
-        author: Andy Weir
+        creator: Andy Weir
         link: 
         date: 2015-08-01
         star: no        
@@ -192,109 +192,109 @@ list:
   - year: "2000-2015"
     media:         
       - title: 'What the Dog Saw: And Other Adventures'
-        author: Malcolm Gladwell
+        creator: Malcolm Gladwell
         link: 
         date: 
         star: no
         
       - title: 'Warrior Soul: The Memoir of a Navy Seal'
-        author: Chuck Pfarrer
+        creator: Chuck Pfarrer
         link: 
         date:
         star: no        
         
       - title: 'The Warrior Elite: The Forging of SEAL Class 228'
-        author: Dick Couch
+        creator: Dick Couch
         link: 
         date: 
         star: yes
         
       - title: 'The Tipping Point: How Little Things Can Make a Big Difference'
-        author: Malcolm Gladwell
+        creator: Malcolm Gladwell
         link: 
         date: 
         star: no   
         
       - title: 'The Second Coming of Steve Jobs'
-        author: Alan Deutschman
+        creator: Alan Deutschman
         link: 
         date: 
         star: no     
         
       - title: "The Red Circle: My Life in the Navy SEAL Sniper Corps and How I Trained America's Deadliest Marksmen"
-        author: Brandon Webb
+        creator: Brandon Webb
         link: 
         date: 
         star: no     
         
       - title: "The Contortionist's Handbook"
-        author: Craig Clevenger
+        creator: Craig Clevenger
         link: 
         date: 
         star: no           
         
       - title: 'The Big Miss: My Years Coaching Tiger Woods'
-        author: Hank Haney
+        creator: Hank Haney
         link: 
         date: 
         star: no        
         
       - title: 'The Accidental Billionaires: The Founding of Facebook: A Tale of Sex, Money, Genius and Betrayal A Tale of Sex, Money, Genius and Betrayal'
-        author: Ben Mezrich
+        creator: Ben Mezrich
         link: 
         date: 
         star: no
         
       - title: 'SEAL Team Six: Memoirs of an Elite Navy SEAL Sniper'
-        author: Howard E. Wasdin
+        creator: Howard E. Wasdin
         link: 
         date: 
         star: no
         
       - title: 'Outliers: The Story of Success'
-        author: Malcolm Gladwell
+        creator: Malcolm Gladwell
         link: 
         date: 
         star: no        
         
       - title: 'Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10'
-        author: Marcus Luttrell
+        creator: Marcus Luttrell
         link: 
         date: 
         star: no
         
       - title: 'Killing Yourself to Live: 85% of a True Story'
-        author: Chuck Klosterman
+        creator: Chuck Klosterman
         link: 
         date: 
         star: no        
         
       - title: 'Into Thin Air: A Personal Account of the Mt Everest Disaster'
-        author: Jon Krakauer
+        creator: Jon Krakauer
         link: 
         date: 
         star: no
         
       - title: 'Damn Few: Making the Modern SEAL Warrior'
-        author: Rorke Denver
+        creator: Rorke Denver
         link: 
         date: 
         star: no
         
       - title: 'IV: A Decade of Curious People and Dangerous Ideas'
-        author: Chuck Klosterman
+        creator: Chuck Klosterman
         link: 
         date: 
         star: no        
         
       - title: 'Blink: The Power of Thinking Without Thinking'
-        author: Malcolm Gladwell
+        creator: Malcolm Gladwell
         link: 
         date: 
         star: no
         
       - title: "A Captain's Duty: Somali Pirates, Navy SEALS, and Dangerous Days at Seal"
-        author: Richard Phillips
+        creator: Richard Phillips
         link: 
         date: 
         star: no

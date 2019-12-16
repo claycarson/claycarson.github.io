@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      Greece
+title:      Amsterdam, Netherlands
 date:       2018-10-07
 summary:    
-categories: Photo
+categories:
+  - photo
+  - album
 tags:
-  - athens
+  - Amsterdam
   - Europe
-  - greece
-  - santorini
   - travel
   - vacation
 published: false

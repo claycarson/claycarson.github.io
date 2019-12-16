@@ -417,7 +417,7 @@ nav ul li strong a:hover {
 }
 
 img {
-	max-width: 200px
+	max-width: 100%;
 }
 
 .column img {
@@ -451,3 +451,54 @@ img {
 
 		}
 			#mailchimp input[type="submit"]:hover { background: var(--color-text); color: #fff; transition: color 0.2s ease }
+			
+			
+/* Photo */
+
+.fourup {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
+    margin-bottom: 4rem
+}
+
+@media (min-width: 600px) {
+    .fourup {
+        grid-template-columns: 1fr 1fr 1fr 1fr
+    }
+}
+
+.essay {
+    max-width: 12rem;
+    margin: 0 auto 1rem
+}
+
+.essays {
+    margin-top: 4rem;
+    text-align: center;
+    line-height: 1.4
+}
+
+.essays a img {
+    transition: opacity 0.2s ease
+}
+
+.essays a:hover img {
+    opacity: 0.75
+}
+
+.round {
+    border-radius: 1%
+}
+
+article.recent {
+    border-top: 1px solid var(--color-vlight)
+}
+
+.archiveblock {
+    border-top: 1px solid var(--color-vlight);
+    border-bottom: 1px solid var(--color-vlight);
+    text-align: center;
+    padding: 2rem 0;
+    font-family: var(--font-sans)
+}
