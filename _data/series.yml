@@ -1,4 +1,4 @@
-lastupdate: November 14, 2019
+lastupdate: December 8, 2019
 current:
   - year: "Ongoing"
     media:
@@ -16,26 +16,33 @@ current:
       - title: Killing Eve
         star: yes        
       - title: The Mandalorian
-      - title: The Marvelous Mrs. Maisel
+      - title: "The Marvelous Mrs. Maisel"
       - title: The Morning Show        
       - title: Mindhunter           
       - title: Ozark
-        star: yes        
-      - title: Silicon Valley 
-        star: yes        
+        star: yes                
       - title: Stranger Things
       - title: Succession  
         star: yes            
       - title: The Boys       
       - title: The Crown
       - title: The Righteous Gemstones               
-      - title: Tom Clancy's Jack Ryan
+      - title: "Tom Clancy's Jack Ryan"
       - title: True Detective
       - title: Queer Eye
+      - title: Unbelievable
         star: yes 
+      - title: Westworld
 complete:
   - year: "2019"
     media:
+      - title: Silicon Valley 
+        link:
+        date:
+        star: yes    
+      - title: "Inside Bill's Brain"
+        link:
+        date:  
       - title: Chernobyl
         link:
         date: 
@@ -121,7 +128,8 @@ complete:
     media:
       - title: The Newsroom
         link:
-        date:       
+        date:      
+        star: yes 
       - title: Psych
         link:
         date: 

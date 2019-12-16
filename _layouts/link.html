@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% include list-start.html %}
+<section>
+<h1 class="display">Linked List</h1>
+</section>
+<div class="contain sticky baseline">
+<div>
+<h2><a href="{{ page.link }}">{{ page.title }}<span class="link-arrow"> &rarr;</span></a></h2>
+<small> {{ page.date | date: "%Y-%m-%d" }} </small>
+</div>
+<div class="postbody">
+{{ content }}
+</div>
+</div>
+{% include list-end.html %}
