@@ -3,22 +3,18 @@ list:
     media:
       - title: "North by Northwest"
         date: 2019-12-16
-        link: https://m.imdb.com/title/tt0053125/?ref_=nv_sr_srsg_0
-        creator:
-        star: No
-
-      - title: "The Irishman"
-        date: 2019-11-29
-        link: https://m.imdb.com/title/tt1302006/?ref_=fn_al_tt_0
+        link: https://m.imdb.com/title/tt0053125/
         creator:
         star: No
 
       - title: Hustlers
         date: 2019-12-10
         link: https://www.imdb.com/title/tt5503686/
+        
       - title: The Irishman
         date: 2019-11-29
         link: https://www.imdb.com/title/tt1302006/
+
       - title: Blazing Saddles
         date: 2019-11-27
         link: https://www.imdb.com/title/tt0071230/
