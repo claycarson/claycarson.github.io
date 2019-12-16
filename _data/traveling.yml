@@ -2,6 +2,9 @@ list:
   - year: "2019"
     location:
       - title: 'Austin, TX, USA'
+        date: 2019-12-13
+        
+      - title: 'Austin, TX, USA'
         date: 2019-11-02
         
       - title: 'Santa Cruz, CA, USA'
@@ -27,6 +30,7 @@ list:
         
   - year: "2018"
     location:
+            
       - title: 'Austin, TX, USA'
         date: 2018-12-17
         
@@ -59,6 +63,9 @@ list:
                 
   - year: "2017"
     location:
+      - title: 'Austin, TX, USA'
+        date: 2017-12-08
+            
       - title: 'Prague, Czech Republic'
         date: 2017-09-17
         
@@ -88,8 +95,9 @@ list:
  
   - year: "2016"
     location:
-      - title: 'Las Vegas, NV, USA'
-        date: 2016-06-11
+
+      - title: 'Austin, TX, USA'
+        date: 2016-12-16
         
       - title: 'Playa Del Carmen, Mexico'
         date: 2016-08-26    
@@ -108,6 +116,9 @@ list:
         
   - year: "2015"
     location:
+      - title: 'Austin, TX, USA'
+        date: 2015-12-11
+            
       - title: 'Cancun, Mexico'
         date: 2015-08-21
         
@@ -120,13 +131,16 @@ list:
   - year: "2014"
     location:        
       - title: 'Austin, TX, USA'
-        date: 2014-12-13
+        date: 2014-12-12
         
       - title: 'Las Vegas, NV, USA'
         date: 2014-08-10
 
   - year: "2013"
-    location:        
+    location:    
+      - title: 'Austin, TX, USA'
+        date: 2014-12-13
+                
       - title: 'Kauai, Hawaii, USA'
         date: 2013-12-28
         
