@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     media:
+      - title: 6 Underground
+        date: 2019-12-16
+        link: https://www.imdb.com/title/tt8106534/
+        creator:
+        star: no
+        
       - title: "North by Northwest"
         date: 2019-12-16
         link: https://m.imdb.com/title/tt0053125/
