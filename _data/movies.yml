@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     media:
+      - title: "Driving Miss Daisy"
+        date: 2019-12-17
+        link: https://www.imdb.com/title/tt0097239/
+        creator:
+        star: No
+    
       - title: 6 Underground
         date: 2019-12-16
         link: https://www.imdb.com/title/tt8106534/
