@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     media:
+      - title: "Basic Instinct"
+        date: 2019-12-17
+        link: https://www.imdb.com/title/tt0103772/
+        creator:
+        star: No
+    
       - title: "Driving Miss Daisy"
         date: 2019-12-17
         link: https://www.imdb.com/title/tt0097239/
