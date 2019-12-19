@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     media:
+      - title: 'Into the Wild'
+        creator: John Krakauer
+        link: 
+        date: 2019-12-18
+        star: no
+        
       - title: 'The Dip: A Little Book That Teaches You When to Quit (and When to Stick)'
         creator: Seth Godin
         link: https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666
