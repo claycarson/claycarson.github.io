@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     media:
+      - title: Into the Wild
+        date: 2019-12-18
+        link: https://www.imdb.com/title/tt0758758/
+        creator:
+        star: 
+        
       - title: "Basic Instinct"
         date: 2019-12-17
         link: https://www.imdb.com/title/tt0103772/
