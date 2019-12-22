@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     media:
+      - title: "Once Upon a Time... in Hollywood"
+        date: 2019-12-21
+        link: https://www.imdb.com/title/tt7131622/
+        creator:
+        star: No
+
       - title: Into the Wild
         date: 2019-12-18
         link: https://www.imdb.com/title/tt0758758/
