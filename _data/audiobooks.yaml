@@ -1,6 +1,6 @@
 list:
   - year: "2019"
-    media:
+    item:
       - title: "Can't Hurt Me"
         creator: David Goggins
         link: https://www.audible.com/pd/Cant-Hurt-Me-Audiobook/B07KKMNZCH?qid=1565889238&sr=1-1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=TGP2M1BSSSFCD5V4N4MM&ref=a_search_c3_lProduct_1_1
@@ -32,7 +32,7 @@ list:
         star: no        
 
   - year: "2018"
-    media:
+    item:
       - title: 'Creative Selection'
         creator: Ken Kocienda
         link: https://www.audible.com/pd/Creative-Selection-Audiobook/B07D416JT3
@@ -76,7 +76,7 @@ list:
         star: yes
         
   - year: "2017"
-    media:
+    item:
       - title: 'The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America'
         creator: Erik Larson
         link: https://www.amazon.com/Devil-White-City-Madness-Changed/dp/0375725601
@@ -114,7 +114,7 @@ list:
         star: yes
         
   - year: "2016"
-    media:     
+    item:     
       - title: 'Coach: Lessons on the Game of Life'
         creator: Michael Lewis
         link: 
@@ -164,7 +164,7 @@ list:
         star: yes
 
   - year: "2015"
-    media: 
+    item: 
       - title: 'Born Standing Up: A Comic&#8217;s Life'
         creator: Steve Martin
         link: 
@@ -190,7 +190,7 @@ list:
         star: no        
         
   - year: "2000-2015"
-    media:         
+    item:         
       - title: 'What the Dog Saw: And Other Adventures'
         creator: Malcolm Gladwell
         link: 

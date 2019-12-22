@@ -1,6 +1,6 @@
 list:
   - year: "2019"
-    location:
+    item:
       - title: 'Pacific Grove'
         date: 2019-09-21
         link: https://www.playpacificgrove.com
@@ -37,7 +37,7 @@ list:
         location: Seaside, CA
                        
   - year: "2018"
-    location:
+    item:
       - title: Troon North
         date: 2018-03-21
         link: https://www.troonnorthgolf.com
@@ -49,7 +49,7 @@ list:
         location: Peoria, AZ
 
   - year: "2017"
-    location:
+    item:
       - title: Colonial Country Club
         date: 2017-04-13
         link: http://colonialfw.com
@@ -61,7 +61,7 @@ list:
         location: Scottsdale, AZ
 
   - year: "2016"
-    location:
+    item:
       - title: Fazio Foothills
         date: 2016-12-17
         link: https://www.omnihotels.com/hotels/austin-barton-creek/golf/fazio-foothills
@@ -78,22 +78,21 @@ list:
         location: La Jolla, CA
 
   - year: "2013"
-    location:
-    
+    item:
       - title: Poipu Bay
         date: 2013-12-30
         link: https://www.poipubaygolf.com
         location: Koloa, HI 
 
   - year: "2011"
-    location:
+    item:
       - title: PGA West Stadium Course
         date: 2011-08-02
         link: https://www.pgawest.com/stadium-course
         location: La Quinta, CA
     
   - year: "Before 2010"
-    location:
+    item:
       - title: Cowboys Golf Club
         date: 2000-01-01
         link: https://www.cowboysgolfclub.com

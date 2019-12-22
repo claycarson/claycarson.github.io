@@ -1,6 +1,6 @@
 list:
   - year: "2019"
-    media:
+    item:
       - title: 'Into the Wild'
         creator: John Krakauer
         link: 
@@ -19,7 +19,7 @@ list:
         date: 2019-06-10
         star: no
   - year: "2018"
-    media:
+    item:
       - title: 'Tiger Woods'
         creator: Jeff Benedict
         link: https://www.amazon.com/Tiger-Woods-Jeff-Benedict/dp/1501126423/ref=sr_1_1?keywords=tiger+wood&qid=1569959202&s=books&sr=1-1
@@ -75,7 +75,7 @@ list:
         star: no       
         
   - year: "2017"
-    media:
+    item:
       - title: Artemis
         creator: Andy Weir
         link: https://www.amazon.com/dp/B06Y55SB48/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
@@ -233,7 +233,7 @@ list:
         star: no 
         
   - year: "2016"
-    media:
+    item:
       - title: 'Superintelligence: Paths, Dangers, Strategies'
         creator: Nick Bostrom
         link: 
@@ -318,7 +318,7 @@ list:
         date: 2016-01-07
         star: no       
   - year: "2015"
-    media:        
+    item:        
       - title: 'Harry Potter and the Prisoner of Azkaban'
         creator: J.K. Rowling
         link: 
@@ -392,7 +392,7 @@ list:
         star: no
         
   - year: "2009"
-    media:
+    item:
       - title: 'The Last Lecture'
         creator: Randy Pausch
         link: 
@@ -400,7 +400,7 @@ list:
         star: no        
         
   - year: "2000-2015"
-    media:
+    item:
       - title: 'The Last Lecture'
         creator: Randy Pausch
         link: 

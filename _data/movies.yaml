@@ -1,6 +1,6 @@
 list:
   - year: "2019"
-    media:
+    item:
       - title: "Point Break"
         date: 2019-12-22
         link: https://imdb.com/title/tt0102685/
@@ -154,8 +154,8 @@ list:
       - title: The Rainmaker
         date: 2019-09-16
         link: https://www.imdb.com/title/tt0119978/
-
         star: yes
+        
       - title: Deliverance
         date: 2019-09-16
         link: https://www.imdb.com/title/tt0068473/
@@ -239,7 +239,7 @@ list:
         link: https://www.imdb.com/title/tt2798920/
 
   - year: "2018"
-    media:
+    item:
       - title: A Simple Favor
         date: 2018-12-27
         link: https://www.imdb.com/title/tt7040874/
@@ -427,7 +427,7 @@ list:
         link: https://www.imdb.com/title/tt5962210/
 
   - year: "2017"
-    media:
+    item:
       - title: Mother!
         date: 2017-12-28
         link: https://www.imdb.com/title/tt5109784/
@@ -651,7 +651,7 @@ list:
         link: https://www.imdb.com/title/tt3219604/
 
   - year: "2016"
-    media:
+    item:
       - title: Whiskey Tango Foxtrot
         date: 2016-12-29
         link: https://www.imdb.com/title/tt3553442/
@@ -959,7 +959,7 @@ list:
         link: https://www.imdb.com/title/tt3170832/
 
   - year: "Pre-Cataloging"
-    media:
+    item:
       - title: "Star Wars: Episode VII - The Force Awakens"
         date: 2015-12-23
         link: https://www.imdb.com/title/tt2488496/

@@ -35,7 +35,7 @@ current:
       - title: Westworld
 complete:
   - year: "2019"
-    media:
+    item:
       - title: Silicon Valley 
         link:
         date:

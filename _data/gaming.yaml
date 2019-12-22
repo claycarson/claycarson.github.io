@@ -1,6 +1,6 @@
 list:
   - year: "2019"
-    media:
+    item:
       - title: "Call of Duty: Modern Warfare"
         link: https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)
         date: 2019-10-26

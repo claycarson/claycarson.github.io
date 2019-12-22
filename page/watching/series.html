@@ -12,7 +12,7 @@ permalink: /watching/series/
 </section>
 <section class="contain baseline sticky">
 {% for entry in site.data.series.current %}
-{% include media-list.html %}
+{% include item-list.html %}
 {% endfor %}
 </section>
 <section>
@@ -21,7 +21,7 @@ permalink: /watching/series/
 </section>
 <section class="contain baseline sticky">
 {% for entry in site.data.series.complete %}
-{% include media-list.html %}
+{% include item-list.html %}
 {% endfor %}
 </section>
 <section>
@@ -30,7 +30,7 @@ permalink: /watching/series/
 </section>
 <section class="contain baseline sticky">
 {% for entry in site.data.series.abandoned %}
-{% include media-list.html %}
+{% include item-list.html %}
 {% endfor %}
 </section>
 {% include list-end.html %}

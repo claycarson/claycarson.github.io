@@ -1,0 +1,18 @@
+---
+layout: page
+title: Drinking
+permalink: /drinking/
+---
+
+{% include list-start.html %}
+<section>
+<h1 class="display">Drinking</h1>
+<p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dapibus leo. Maecenas in lacus fermentum dolor viverra cursus. Curabitur cursus magna eget nisi viverra porta.</p>
+<p><small>Last updated  &middot; {{ site.data.drinking.lastupdate }}</small></p>
+</section>
+<section class="contain baseline sticky">
+{% for entry in site.data.drinking.list %}
+{% include item-list.html %}
+{% endfor %}
+</section>
+{% include list-end.html %}
