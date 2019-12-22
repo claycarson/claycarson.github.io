@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     media:
+      - title: "Point Break"
+        date: 2019-12-22
+        link: https://imdb.com/title/tt0102685/
+        creator:
+        star: No
+
       - title: "Once Upon a Time... in Hollywood"
         date: 2019-12-21
         link: https://www.imdb.com/title/tt7131622/
