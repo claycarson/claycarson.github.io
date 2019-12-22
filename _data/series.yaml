@@ -1,7 +1,7 @@
 lastupdate: December 8, 2019
 current:
   - year: "Ongoing"
-    media:
+    item:
       - title: Ballers 
       - title: Barry
       - title: Billions
@@ -62,7 +62,7 @@ complete:
         date:    
         star: yes                    
   - year: "2018"
-    media:
+    item:
       - title: Sharp Objects
         link:
         date: 
@@ -70,7 +70,7 @@ complete:
         link:
         date: 
   - year: "2017"
-    media:
+    item:
       - title: Planet Earth II
         link:
         date: 
@@ -102,12 +102,12 @@ complete:
         link:
         date:        
   - year: "2016"
-    media:
+    item:
       - title: The Night Of
         link:
         date:         
   - year: "2015"
-    media:
+    item:
       - title: Top Gear
         link:
         date: 
@@ -125,7 +125,7 @@ complete:
         link:
         date: 
   - year: "2014"
-    media:
+    item:
       - title: The Newsroom
         link:
         date:      
@@ -145,7 +145,7 @@ complete:
         link:
         date:    
   - year: "2013"
-    media:
+    item:
       - title: Breaking Bad
         link:
         date: 
@@ -168,7 +168,7 @@ complete:
         link:
         date: 
   - year: "2012"
-    media:
+    item:
       - title: Chuck
         link:
         date: 
@@ -176,13 +176,13 @@ complete:
         link:
         date:    
   - year: "2011"
-    media:
+    item:
       - title: Entourage
         link:
         date: 
         star: yes        
   - year: "2010"
-    media:
+    item:
       - title: The IT Crowd
         link:
         date: 
@@ -194,7 +194,7 @@ complete:
         link:
         date:  
   - year: "2009"
-    media:
+    item:
       - title: Flight of the Conchords
         link:
         date: 
@@ -202,12 +202,12 @@ complete:
         link:
         date:  
   - year: "2007"
-    media:
+    item:
       - title: Planet Earth
         link:
         date: 
   - year: "2006"
-    media:
+    item:
       - title: Arrested Development
         link:
         date: 
@@ -216,13 +216,13 @@ complete:
         link:
         date:                                                              
   - year: "2003"
-    media:
+    item:
       - title: The Office UK
         link:
         date:         
 abandoned:
   - year: "Abandoned"
-    media:
+    item:
       - title: Better Call Saul
       - title: Hawaii Five-O
       - title: The Blacklist

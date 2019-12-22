@@ -15,10 +15,10 @@ permalink: /linking/
 <div class="linked">
 <ul>
   <li>
-    <p><h2><a href="{{ post.link }}"> {{ post.title }}</a> <span class="linked-arrow"><a href="{{ post.url }}">&rarr;</a></span></h2> 
+    <p><h2><a href="{{ post.link }}"> {{ post.title }}</a> <span class="linked-arrow"><a href="{{ post.url }}">&rarr;</a></span></h2>
+    <small>{{ post.date | date: "%Y-%m-%d" }}</small> 
     </p>
     <div class="post">{{ post.content }}</div>
-    <small>{{ post.date | date: "%Y-%m-%d" }}</small>
   </li>
   <hr>
 </ul>
