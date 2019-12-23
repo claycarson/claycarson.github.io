@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     item:
+      - title: "Marriage Story"
+        date: 2019-12-22
+        link: https://imdb.com/title/tt7653254/
+        creator:
+        star: No
+
       - title: "Point Break"
         date: 2019-12-22
         link: https://imdb.com/title/tt0102685/
