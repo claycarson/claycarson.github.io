@@ -62,6 +62,10 @@ list:
       - title: American Beauty
         date: 2019-11-11
         link: https://www.imdb.com/title/tt0169547/
+        
+      - title: Joker
+        date: 2019-11-09
+        link: https://www.imdb.com/title/tt7286456/
 
       - title: The Great Hack
         date: 2019-11-05
