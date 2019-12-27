@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     item:
+      - title: "Parasite"
+        date: 2019-12-26
+        link: https://imdb.com/title/tt6751668/
+        creator:
+        star: Yes
+
       - title: "Marriage Story"
         date: 2019-12-22
         link: https://imdb.com/title/tt7653254/
