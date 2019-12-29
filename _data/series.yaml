@@ -36,6 +36,12 @@ current:
 complete:
   - year: "2019"
     item:
+      - title: "Don't F**k with Cats: Hunting an Internet Killer"
+        date: 2019-12-28
+        link: https://imdb.com/title/tt11318602/
+        creator:
+        star: No
+
       - title: Silicon Valley 
         link:
         date:
