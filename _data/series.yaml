@@ -15,7 +15,6 @@ current:
       - title: "It's Always Sunny in Philidelphia"
       - title: Killing Eve
         star: yes        
-      - title: The Mandalorian
       - title: "The Marvelous Mrs. Maisel"
       - title: The Morning Show        
       - title: Mindhunter           
@@ -36,6 +35,12 @@ current:
 complete:
   - year: "2019"
     item:
+      - title: The Mandalorian
+        date: 2019-12-29
+        link: https://www.imdb.com/title/tt8111088/
+        creator:
+        star: no
+        
       - title: "Don't F**k with Cats: Hunting an Internet Killer"
         date: 2019-12-28
         link: https://imdb.com/title/tt11318602/
