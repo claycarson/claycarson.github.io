@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     item:
+      - title: "The Farewell"
+        date: 2019-12-29
+        link: https://imdb.com/title/tt8637428/
+        creator:
+        star: No
+
       - title: "The Report"
         date: 2019-12-26
         link: https://imdb.com/title/tt8236336/
