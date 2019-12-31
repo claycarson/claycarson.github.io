@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     item:
+      - title: "Uncut Gems"
+        date: 2019-12-30
+        link: https://imdb.com/title/tt5727208/
+        creator:
+        star: No
+
       - title: "The Farewell"
         date: 2019-12-29
         link: https://imdb.com/title/tt8637428/
