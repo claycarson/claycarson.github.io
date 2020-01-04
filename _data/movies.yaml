@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     item:
+      - title: "Luce"
+        date: 2020-01-03
+        link: https://imdb.com/title/tt7616148/
+        creator:
+        star: No
+
       - title: "Uncut Gems"
         date: 2019-12-30
         link: https://imdb.com/title/tt5727208/
