@@ -1,6 +1,18 @@
 list:
   - year: "2019"
     item:
+      - title: "Good Time"
+        date: 2020-01-06
+        link: https://www.imdb.com/title/tt4846232/
+        creator:
+        star: No
+
+      - title: "Eyes Wide Shut"
+        date: 2020-01-06
+        link: https://www.imdb.com/title/tt0120663/
+        creator:
+        star: No
+
       - title: "Little Women"
         date: 2020-01-04
         link: https://imdb.com/title/tt3281548/
@@ -17,7 +29,7 @@ list:
         date: 2019-12-30
         link: https://imdb.com/title/tt5727208/
         creator:
-        star: No
+        star: yes
 
       - title: "The Farewell"
         date: 2019-12-29
@@ -59,7 +71,7 @@ list:
         date: 2019-12-18
         link: https://www.imdb.com/title/tt0758758/
         creator:
-        star: 
+        star: No
         
       - title: "Basic Instinct"
         date: 2019-12-17
