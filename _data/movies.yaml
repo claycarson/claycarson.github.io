@@ -1,6 +1,12 @@
 list:
   - year: "2019"
     item:
+      - title: "Rosemary's Baby"
+        date: 2020-01-07
+        link: https://www.imdb.com/title/tt0063522/
+        creator:
+        star: No
+
       - title: "Good Time"
         date: 2020-01-06
         link: https://www.imdb.com/title/tt4846232/
