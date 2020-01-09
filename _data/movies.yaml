@@ -1,5 +1,5 @@
 list:
-  - year: "2019"
+  - year: "2020"
     item:
       - title: "L.A. Confidential"
         date: 2020-01-08
@@ -42,7 +42,8 @@ list:
         link: https://imdb.com/title/tt7616148/
         creator:
         star: No
-
+  - year: "2019"
+    item:
       - title: "Uncut Gems"
         date: 2019-12-30
         link: https://imdb.com/title/tt5727208/
