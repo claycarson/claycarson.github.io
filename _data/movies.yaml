@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "A Quiet Place"
+        date: 2020-01-10
+        link: https://www.imdb.com/title/tt6644200/
+        creator:
+        star: No
+
       - title: "L.A. Confidential"
         date: 2020-01-08
         link: https://www.imdb.com/title/tt0119488/
