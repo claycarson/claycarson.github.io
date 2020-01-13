@@ -48,10 +48,7 @@ list:
         link: https://imdb.com/title/tt7616148/
         creator:
         star: No
-<<<<<<< HEAD
-            
-=======
->>>>>>> e70a46bbab512c8ba0afd7337df30e24ec84cf3c
+
   - year: "2019"
     item:
       - title: "Uncut Gems"
