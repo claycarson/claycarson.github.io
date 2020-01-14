@@ -4,8 +4,8 @@
 	--color-lines: #DDDDE0;
 	--color-bg: #FFFFFF;
 	--color-accent: #C15038;
-	--font-sans: -apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;
-	--font-serif: -apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;
+	--font-sans: Helvetica, sans-serif;
+	--font-alt: Helvetica, sans-serif;
 	--font-letterspacing: .02em;
 	--font-size-small: 75%
 }
@@ -19,7 +19,7 @@ html {
 	scroll-behavior: smooth;
 	background-color: var(--color-bg);
 	font-size: 1rem;
-	font-family: var(--font-serif);
+	font-family: var(--font-alt);
 	line-height: 1.5;
 	color: var(--color-text);
 	max-width: 65rem;

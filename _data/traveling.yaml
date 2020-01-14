@@ -1,4 +1,9 @@
 list:
+  - year: "2020"
+    item:
+      - title: 'Caddo, TX, USA'
+        date: 2020-01-10
+        
   - year: "2019"
     item:
       - title: 'Austin, TX, USA'
