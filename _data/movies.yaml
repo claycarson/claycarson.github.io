@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "John Wick: Chapter 3 - Parabellum"
+        date: 2020-01-14
+        link: https://www.imdb.com/title/tt6146586/
+        creator:
+        star: No
+
       - title: "A Quiet Place"
         date: 2020-01-10
         link: https://www.imdb.com/title/tt6644200/
