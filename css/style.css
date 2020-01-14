@@ -18,7 +18,7 @@
 html {
 	scroll-behavior: smooth;
 	background-color: var(--color-bg);
-	font-size: 18px;
+	font-size: 1rem;
 	font-family: var(--font-serif);
 	line-height: 1.5;
 	color: var(--color-text);
@@ -28,21 +28,29 @@ html {
 	-webkit-font-smoothing: antialiased
 }
 
+@media (min-width: 400px) {
+	html {
+		padding: 2rem
+		font-size: .6rem;
+	}
+}
+
 @media (min-width: 600px) {
 	html {
 		padding: 2rem
+		font-size: .8rem;
 	}
 }
 
 @media (min-width: 1000px) {
 	html {
-		font-size: 18px
+		font-size: 1rem
 	}
 }
 
 @media (min-width: 1200px) {
 	html {
-		font-size: 20px
+		font-size: 1.2rem
 	}
 }
 
