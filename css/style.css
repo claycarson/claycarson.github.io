@@ -19,7 +19,7 @@ html {
  	scroll-behavior: smooth;
  	background-color: var(--color-bg);
  	font-size: 1rem;
- 	font-family: var(--font-serif);
+ 	font-family: var(--font-sans);
  	line-height: 1.5;
  	color: var(--color-text);
 	max-width: 65rem;
