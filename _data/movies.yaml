@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Solo: A Star Wars Story"
+        date: 2020-01-18
+        link: https://www.imdb.com/title/tt3778644/
+        creator:
+        star: No
+
       - title: "John Wick: Chapter 3 - Parabellum"
         date: 2020-01-14
         link: https://www.imdb.com/title/tt6146586/
