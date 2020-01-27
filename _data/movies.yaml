@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Dolemite Is My Name"
+        date: 2020-01-26
+        link: https://www.imdb.com/title/tt8526872/
+        creator:
+        star: No
+
       - title: "Solo: A Star Wars Story"
         date: 2020-01-18
         link: https://www.imdb.com/title/tt3778644/
