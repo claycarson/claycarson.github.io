@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "General Magic"
+        date: 2020-01-28
+        link: https://www.imdb.com/title/tt6849786/
+        creator:
+        star: No
+
       - title: "Dolemite Is My Name"
         date: 2020-01-26
         link: https://www.imdb.com/title/tt8526872/
