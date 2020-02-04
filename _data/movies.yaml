@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Jojo Rabbit"
+        date: 2020-02-03
+        link: https://www.imdb.com/title/tt2584384/
+        creator:
+        star: No
+
       - title: "General Magic"
         date: 2020-01-28
         link: https://www.imdb.com/title/tt6849786/
