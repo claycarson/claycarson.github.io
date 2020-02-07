@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Midsommar"
+        date: 2020-02-06
+        link: https://www.imdb.com/title/tt8772262/
+        creator:
+        star: No
+
       - title: "Jojo Rabbit"
         date: 2020-02-03
         link: https://www.imdb.com/title/tt2584384/
