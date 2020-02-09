@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "1917"
+        date: 2020-02-09
+        link: https://www.imdb.com/title/tt8579674/
+        creator:
+        star: Yes
+
       - title: "Ford v Ferrari"
         date: 2020-02-09
         link: https://www.imdb.com/title/tt1950186/
