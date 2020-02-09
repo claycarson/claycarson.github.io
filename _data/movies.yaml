@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Ford v Ferrari"
+        date: 2020-02-09
+        link: https://www.imdb.com/title/tt1950186/
+        creator:
+        star: No
+
       - title: "Midsommar"
         date: 2020-02-06
         link: https://www.imdb.com/title/tt8772262/
