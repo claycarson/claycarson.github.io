@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Knives Out"
+        date: 2020-02-10
+        link: https://www.imdb.com/title/tt8946378/
+        creator:
+        star: No
+
       - title: "1917"
         date: 2020-02-09
         link: https://www.imdb.com/title/tt8579674/
