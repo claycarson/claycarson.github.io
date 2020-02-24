@@ -224,13 +224,13 @@ list:
   - year: "Pre-2008"
     item: 
       - title: "Cabo San Lucas, Mexico"        
-      - date: 
+        date: 
       - title: "Washington, DC, USA"        
-      - date: 
+        date: 
       - title: "Baltimore, MD, USA"        
-      - date:
+        date: 
       - title: "San Antonio, TX, USA"        
-      - date:        
+        date:     
       - title: "Los Angeles, CA, USA"        
-      - date:       
+        date:     
                   
