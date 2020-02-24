@@ -220,4 +220,17 @@ list:
 
       - title: 'Red River, NM, USA'
         date: 2008-01-08                                 
-        
+
+  - year: "Pre-2008"
+    item: 
+      - title: "Cabo San Lucas, Mexico"        
+      - date: 
+      - title: "Washington, DC, USA"        
+      - date: 
+      - title: "Baltimore, MD, USA"        
+      - date:
+      - title: "San Antonio, TX, USA"        
+      - date:        
+      - title: "Los Angeles, CA, USA"        
+      - date:       
+                  
