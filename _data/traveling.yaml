@@ -162,7 +162,10 @@ list:
         
   - year: "2012"
     item:  
-      - title: 'Belize'
+      - title: 'San Ignacio, Cayo, Belize'
+        date: 2012-05-23
+        
+      - title: 'Cayo Espanto, San Pedro, Belize'
         date: 2012-05-20
         
       - title: 'Phoenix, AZ, USA'
