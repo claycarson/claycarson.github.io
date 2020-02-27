@@ -1,31 +1,27 @@
-lastupdate: December 8, 2019
+lastupdate: February 27, 2020
 current:
   - year: "Ongoing"
-    item:
-      - title: Ballers 
+    item: 
       - title: Barry
-      - title: Billions
       - title: Big Little Lies 
       - title: Bodyguard        
       - title: Comedians in Cars Getting Coffee              
-      - title: Sharp Objects
       - title: Fleabag
       - title: "Formula 1: Drive to Survive" 
       - title: For All Mankind        
       - title: "It's Always Sunny in Philidelphia"
       - title: Killing Eve
-        star: yes        
+        star: yes
+      - title: Love Island UK
+        star: yes          
       - title: The Mandalorian
-      - title: "The Marvelous Mrs. Maisel"
-      - title: The Morning Show        
+      - title: "The Marvelous Mrs. Maisel"       
       - title: Mindhunter           
       - title: Ozark
         star: yes                
-      - title: Stranger Things
       - title: Succession  
         star: yes            
       - title: The Boys       
-      - title: The Crown
       - title: The Righteous Gemstones               
       - title: "Tom Clancy's Jack Ryan"
       - title: True Detective
@@ -229,7 +225,13 @@ complete:
 abandoned:
   - year: "Abandoned"
     item:
+      - title: The Morning Show    
+      - title: The Crown    
+      - title: Stranger Things    
+      - title: Sharp Objects    
+      - title: Ballers    
       - title: Better Call Saul
+      - title: Billions
       - title: Hawaii Five-O
       - title: The Blacklist
       - title: Orange is the New Black
@@ -267,5 +269,4 @@ abandoned:
       - title: Sneaky Pete
       - title: Futurama
       - title: Shameless
-      - title: Orphan Black           
-               
+      - title: Orphan Black                      
