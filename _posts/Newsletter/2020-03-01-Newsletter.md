@@ -3,7 +3,7 @@ layout: newsletter
 title:  March 2020
 date:   2020-03-01
 category: Newsletter
-description: 
+description: Spying on your friends, Pebble Beach Pro-Am, a real spy story, robot eyes, Tony Hawk Pro Skater, TV graphics and dirty hands.
 ---
 
 This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
@@ -23,7 +23,7 @@ Quoted law professor Elizabeth Joh also co-hosts the tremendously educational po
 [The joy, fear, and occasional humiliation of playing as an amateur in the AT&T Pebble Beach Pro-Am](https://www.golfdigest.com/story/the-joy-fear-and-occasional-humiliation-of-playing-as-an-amateur-in-the-atandt-pebble-beach-pro-am "The joy, fear, and occasional humiliation of playing as an amateur in the AT&T Pebble Beach Pro-Am")
 
 > On a Saturday in late October, my cell phone rang and it was Bill Perocchi, the CEO of Pebble Beach Company, and he asked me if I could play. If you ever get one of those calls, yes is the answer. Yes, sweet mother of pearl, yes. Then a leather-bound invitation arrives in the mail with Clint Eastwood’s signature. You send in your check and you’re in.
-> 
+
 ## Swiss Cheese
 
 [‘The intelligence coup of the century’](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/ "‘The intelligence coup of the century’")
@@ -35,7 +35,7 @@ Quoted law professor Elizabeth Joh also co-hosts the tremendously educational po
 > The Swiss firm made millions of dollars selling equipment to more than 120 countries well into the 21st century. Its clients included Iran, military juntas in Latin America, nuclear rivals India and Pakistan, and even the Vatican.
 > 
 > But what none of its customers ever knew was that Crypto AG was secretly owned by the CIA in a highly classified partnership with West German intelligence. These spy agencies rigged the company’s devices so they could easily break the codes that countries used to send encrypted messages.
-> 
+
 ## Around The Web
 
 - [What Tesla’s Self-Driving Autopilot Sees](https://www.reddit.com/r/Damnthatsinteresting/comments/ewx4ma/what_teslas_unreleased_fsd_fully_selfdriving/ "What Tesla’s Self-Driving Autopilot Sees")
