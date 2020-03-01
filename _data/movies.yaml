@@ -1,6 +1,18 @@
 list:
   - year: "2020"
     item:
+      - title: "Snowpiercer"
+        date: 2020-03-01
+        link: https://www.imdb.com/title/tt1706620/
+        creator:
+        star: No
+
+      - title: "Blade Runner"
+        date: 2020-03-01
+        link: https://www.imdb.com/title/tt0083658/
+        creator:
+        star: No
+
       - title: "Knives Out"
         date: 2020-02-10
         link: https://www.imdb.com/title/tt8946378/
