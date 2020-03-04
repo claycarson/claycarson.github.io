@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Rush"
+        date: 2020-03-03
+        link: https://www.imdb.com/title/tt1979320/
+        creator:
+        star: No
+
       - title: "Snowpiercer"
         date: 2020-03-01
         link: https://www.imdb.com/title/tt1706620/
