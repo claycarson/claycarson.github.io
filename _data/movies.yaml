@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Troop Zero"
+        date: 2020-03-07
+        link: https://www.imdb.com/title/tt2404465/
+        creator:
+        star: No
+
       - title: "Rush"
         date: 2020-03-03
         link: https://www.imdb.com/title/tt1979320/
