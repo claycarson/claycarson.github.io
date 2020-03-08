@@ -4,6 +4,9 @@ list:
       - title: "Troop Zero"
         date: 2020-03-07
         link: https://www.imdb.com/title/tt2404465/
+      - title: "Planes, Trains & Automobiles"
+        date: 2020-03-03
+        link: https://www.imdb.com/title/tt0093748/
         creator:
         star: No
 
