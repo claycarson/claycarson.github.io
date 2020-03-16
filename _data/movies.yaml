@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Fast & Furious Presents: Hobbs & Shaw"
+        date: 2020-03-16
+        link: https://www.imdb.com/title/tt6806448/
+        creator:
+        star: No
+
       - title: "American Factory"
         date: 2020-03-15
         link: https://www.imdb.com/title/tt9351980/
