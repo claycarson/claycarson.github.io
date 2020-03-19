@@ -196,7 +196,52 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
+			<key>Location</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va3gDAAAAAAQQMAAAAOZ8enIONA9bE3+3Ony0EEhy
+				Uvp9+M4CKcPxVBBPV6zxaAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAKAAAAAQEAAGNsYXljYXJzb24A
+				AAkAAAABAQAARG9jdW1lbnRzAAAABgAAAAEBAABHaXRI
+				dWIAABQAAAABAQAAY2xheWNhcnNvbi5naXRodWIuaW8D
+				AAAAAQEAAGNzcwAJAAAAAQEAAHN0eWxlLmNzcwAAABwA
+				AAABBgAAEAAAACAAAAA0AAAASAAAAFgAAAB0AAAAgAAA
+				AAgAAAAEAwAAyKcKAAMAAAAIAAAABAMAAA9TCwADAAAA
+				CAAAAAQDAAAR3ScBAwAAAAgAAAAEAwAAVd0nAQMAAAAI
+				AAAABAMAACZBlAEDAAAACAAAAAQDAAD0b5QBAwAAAAgA
+				AAAEAwAA0wDXAQMAAAAcAAAAAQYAALgAAADIAAAA2AAA
+				AOgAAAD4AAAACAEAABgBAAAIAAAAAAQAAEHBqQ+agAAA
+				GAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAI
+				AAAABAMAAAUAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJ
+				AABmaWxlOi8vLwUAAAABAQAATWFyazUAAAAIAAAABAMA
+				AADAP2R0AAAACAAAAAAEAABBwRUEcdjTDyQAAAABAQAA
+				NjhCMzEyRjEtQ0I5Mi0zREEzLThGQzMtNTA5Mzk4MDkz
+				NkExGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAA
+				AAABAAAAAQEAAC8AAAAAAAAAAQUAABoAAAABAQAATlNV
+				UkxEb2N1bWVudElkZW50aWZpZXJLZXkAAAQAAAADAwAA
+				KnY4ANgAAAD+////AQAAAAAAAAARAAAABBAAAJQAAAAA
+				AAAABRAAACgBAAAAAAAAEBAAAFwBAAAAAAAAQBAAAEwB
+				AAAAAAAAAiAAACQCAAAAAAAABSAAAJgBAAAAAAAAECAA
+				AKgBAAAAAAAAESAAANgBAAAAAAAAEiAAALgBAAAAAAAA
+				EyAAAMgBAAAAAAAAICAAAAQCAAAAAAAAMCAAADACAAAA
+				AAAAAcAAAHwBAAAAAAAAEcAAACAAAAAAAAAAEsAAAIwB
+				AAAAAAAAENAAAAQAAAAAAAAAOAIAgFwCAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/claycarson/Documents/GitHub/claycarson.github.io/css/style.css</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -242,52 +287,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
-			<key>Location</key>
-			<dict>
-				<key>BookmarkData</key>
-				<data>
-				Ym9va3gDAAAAAAQQMAAAAOZ8enIONA9bE3+3Ony0EEhy
-				Uvp9+M4CKcPxVBBPV6zxaAIAAAQAAAADAwAAAAgAKAUA
-				AAABAQAAVXNlcnMAAAAKAAAAAQEAAGNsYXljYXJzb24A
-				AAkAAAABAQAARG9jdW1lbnRzAAAABgAAAAEBAABHaXRI
-				dWIAABQAAAABAQAAY2xheWNhcnNvbi5naXRodWIuaW8D
-				AAAAAQEAAGNzcwAJAAAAAQEAAHN0eWxlLmNzcwAAABwA
-				AAABBgAAEAAAACAAAAA0AAAASAAAAFgAAAB0AAAAgAAA
-				AAgAAAAEAwAAyKcKAAMAAAAIAAAABAMAAA9TCwADAAAA
-				CAAAAAQDAAAR3ScBAwAAAAgAAAAEAwAAVd0nAQMAAAAI
-				AAAABAMAACZBlAEDAAAACAAAAAQDAAD0b5QBAwAAAAgA
-				AAAEAwAA0wDXAQMAAAAcAAAAAQYAALgAAADIAAAA2AAA
-				AOgAAAD4AAAACAEAABgBAAAIAAAAAAQAAEHBqQ+agAAA
-				GAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAI
-				AAAABAMAAAUAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJ
-				AABmaWxlOi8vLwUAAAABAQAATWFyazUAAAAIAAAABAMA
-				AADAP2R0AAAACAAAAAAEAABBwRUEcdjTDyQAAAABAQAA
-				NjhCMzEyRjEtQ0I5Mi0zREEzLThGQzMtNTA5Mzk4MDkz
-				NkExGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAA
-				AAABAAAAAQEAAC8AAAAAAAAAAQUAABoAAAABAQAATlNV
-				UkxEb2N1bWVudElkZW50aWZpZXJLZXkAAAQAAAADAwAA
-				KnY4ANgAAAD+////AQAAAAAAAAARAAAABBAAAJQAAAAA
-				AAAABRAAACgBAAAAAAAAEBAAAFwBAAAAAAAAQBAAAEwB
-				AAAAAAAAAiAAACQCAAAAAAAABSAAAJgBAAAAAAAAECAA
-				AKgBAAAAAAAAESAAANgBAAAAAAAAEiAAALgBAAAAAAAA
-				EyAAAMgBAAAAAAAAICAAAAQCAAAAAAAAMCAAADACAAAA
-				AAAAAcAAAHwBAAAAAAAAEcAAACAAAAAAAAAAEsAAAIwB
-				AAAAAAAAENAAAAQAAAAAAAAAOAIAgFwCAAAAAAAA
-				</data>
-				<key>FileURL</key>
-				<string>file:///Users/claycarson/Documents/GitHub/claycarson.github.io/css/style.css</string>
-				<key>HasSecurityScope</key>
-				<true/>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -333,7 +333,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -379,7 +379,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -424,7 +424,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -466,7 +466,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -513,7 +513,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -560,7 +560,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -607,7 +607,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -654,7 +654,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -701,7 +701,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -748,7 +748,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -795,7 +795,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -841,7 +841,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2020-01-15T00:23:17Z</date>
+			<date>2020-03-19T15:44:50Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>

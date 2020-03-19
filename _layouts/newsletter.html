@@ -2,18 +2,15 @@
 layout: default
 ---
 
-{% include list-start.html %}
-<section class="contain baseline sticky">
+<section>
 <header>
 <div>
-<h1>{{ page.title }}</h1>
+<h2 class="display">{{ page.title }}</h2>
 </div>
 </header>
-</div>
 <div class="postbody">
 {{ content }}
 </div>
 </section>
 <a id="archive"></a>
 {% include newsletter-list.html %}
-{% include list-end.html %}

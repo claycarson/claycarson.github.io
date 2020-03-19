@@ -1,9 +1,9 @@
 :root {
-	--color-text: #2F3540;
+	--color-text: #333;
 	--color-sub: #696F7E;
-	--color-lines: #DDDDE0;
+	--color-lines: #D6D6D6;
 	--color-bg: #FFFFFF;
-	--color-accent: #C15038;
+	--color-accent: #0070c9;
 	--font-sans: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
 	--font-alt: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
 	--font-letterspacing: .02em;
@@ -22,7 +22,7 @@ html {
  	font-family: var(--font-sans);
  	line-height: 1.5;
  	color: var(--color-text);
-	max-width: 65rem;
+	max-width: 40rem;
 	margin: 0 auto;
 	padding: 1rem;
  	-webkit-font-smoothing: antialiased
@@ -130,7 +130,7 @@ h2 + p {
 
 p.intro {
 	font-size: 1.25rem;
-	max-width: 28rem
+	max-width: 40rem
 }
 
 h1.display {
@@ -140,8 +140,21 @@ h1.display {
 	letter-spacing: -.01em
 }
 
+h1.title {
+	font-family: var(--font-sans);
+	font-size: 1rem;
+	letter-spacing: -.01em
+}
+
 h1 + p.intro {
 	margin-top: .25rem
+}
+
+h2.display {
+	margin-top: 6rem;
+	font-family: var(--font-sans);
+	font-size: 1.5rem;
+	letter-spacing: -.01em
 }
 
 .post {
@@ -156,7 +169,7 @@ small {
 }
 
 time {
-	color: var(--color-sub);
+	color: var(--color-text);
 	font-family: var(--font-sans);
 	font-size: var(--font-size-small);
 	letter-spacing: var(--font-letterspacing);
@@ -268,8 +281,8 @@ nav ul li strong a:hover {
 }
 
 footer {
-	padding: 3rem 0 0;
-	margin-top: 1rem;
+	padding: 5rem 0 0;
+	margin-top: 2.25rem;
 	font-family: var(--font-sans);
 	font-size: var(--font-size-small);
 	letter-spacing: var(--font-letterspacing);
