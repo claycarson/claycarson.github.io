@@ -1,6 +1,51 @@
 list:
   - year: "2020"
     item:
+      - title: "Fast & Furious Presents: Hobbs & Shaw"
+        date: 2020-03-16
+        link: https://www.imdb.com/title/tt6806448/
+        creator:
+        star: No
+
+      - title: "American Factory"
+        date: 2020-03-15
+        link: https://www.imdb.com/title/tt9351980/
+        creator:
+        star: No
+
+      - title: "Tammy"
+        date: 2020-03-14
+        link: https://www.imdb.com/title/tt2103254/
+        creator:
+        star: No
+
+      - title: "Troop Zero"
+        date: 2020-03-07
+        link: https://www.imdb.com/title/tt2404465/
+      - title: "Planes, Trains & Automobiles"
+        date: 2020-03-03
+        link: https://www.imdb.com/title/tt0093748/
+        creator:
+        star: No
+
+      - title: "Rush"
+        date: 2020-03-03
+        link: https://www.imdb.com/title/tt1979320/
+        creator:
+        star: No
+
+      - title: "Snowpiercer"
+        date: 2020-03-01
+        link: https://www.imdb.com/title/tt1706620/
+        creator:
+        star: No
+
+      - title: "Blade Runner"
+        date: 2020-03-01
+        link: https://www.imdb.com/title/tt0083658/
+        creator:
+        star: No
+
       - title: "Knives Out"
         date: 2020-02-10
         link: https://www.imdb.com/title/tt8946378/
@@ -2228,6 +2273,9 @@ list:
 
       - title: "Man of the Year"
         link: https://www.imdb.com/title/tt0483726/
+        
+      - title: "Man on a Ledge"
+        link: https://www.imdb.com/title/tt1568338/
 
       - title: "Man on Wire"
         link: https://www.imdb.com/title/tt1155592/

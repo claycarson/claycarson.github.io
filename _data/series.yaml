@@ -5,7 +5,9 @@ current:
       - title: Barry
       - title: Big Little Lies 
       - title: Bodyguard        
-      - title: Comedians in Cars Getting Coffee              
+      - title: Comedians in Cars Getting Coffee
+      - title: Curb Your Enthusiasm
+        star: yes              
       - title: Fleabag
       - title: "Formula 1: Drive to Survive" 
       - title: For All Mankind        
@@ -17,6 +19,7 @@ current:
       - title: The Mandalorian
       - title: "The Marvelous Mrs. Maisel"       
       - title: Mindhunter           
+      - title: The Outsider
       - title: Ozark
         star: yes                
       - title: Succession  
@@ -82,10 +85,6 @@ complete:
       - title: House of Cards
         link:
         date: 
-      - title: Curb Your Enthusiasm
-        link:
-        date:  
-        star: yes
       - title: Master of None
         link:
         date:           
