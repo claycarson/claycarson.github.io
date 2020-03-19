@@ -8,7 +8,7 @@
 	--color-red: #C15038;
 	--font-sans: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
 	--font-alt: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
-	--font-letterspacing: .02em;
+	--font-letterspacing: 0em;
 	--font-size-small: 75%
 }
 
@@ -139,24 +139,25 @@ h1.display {
 	margin-top: 6rem;
 	font-family: var(--font-sans);
 	font-size: 1.75rem;
-	letter-spacing: -.01em
+	letter-spacing: var(--font-letterspacing)
 }
 
 h1.title {
 	font-family: var(--font-sans);
 	font-size: 1rem;
-	letter-spacing: -.01em
+	letter-spacing: var(--font-letterspacing)
 }
 
 h1 + p.intro {
 	margin-top: .25rem
+	letter-spacing: var(--font-letterspacing)
 }
 
 h2.display {
 	margin-top: 6rem;
 	font-family: var(--font-sans);
 	font-size: 1.5rem;
-	letter-spacing: -.01em
+	letter-spacing: var(--font-letterspacing)
 }
 
 .post {
