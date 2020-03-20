@@ -385,8 +385,8 @@ ul.diary {
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-accent: #C15038;
-		--color-text: #F4F4F4;
+		--color-accent: #0070c9;
+		--color-text: #FFFFFF;
 		--color-sub: #696F7E;
 		--color-bg: #1E2125
 	}
