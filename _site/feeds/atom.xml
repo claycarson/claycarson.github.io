@@ -4,7 +4,7 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000//atom.xml" rel="self"/>
  <link href="http://localhost:4000//"/>
- <updated>2020-03-19T14:49:17-05:00</updated>
+ <updated>2020-03-19T19:10:02-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>March 2020</title>
-   <link href="http://localhost:4000//newsletter/2020/03/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2020/03/01/Newsletter"/>
    <updated>2020-03-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2020/03/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -74,7 +74,7 @@
  
  <entry>
    <title>February 2020</title>
-   <link href="http://localhost:4000//newsletter/2020/02/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2020/02/01/Newsletter"/>
    <updated>2020-02-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2020/02/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -129,7 +129,7 @@
  
  <entry>
    <title>January 2020</title>
-   <link href="http://localhost:4000//newsletter/2020/01/01/newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2020/01/01/newsletter"/>
    <updated>2020-01-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2020/01/01/newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -176,7 +176,7 @@
  
  <entry>
    <title>December 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/12/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/12/01/Newsletter"/>
    <updated>2019-12-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2019/12/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -241,7 +241,7 @@
  
  <entry>
    <title>November 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/11/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/11/01/Newsletter"/>
    <updated>2019-11-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2019/11/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -300,7 +300,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
  
  <entry>
    <title>October 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/10/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/10/01/Newsletter"/>
    <updated>2019-10-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2019/10/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -349,7 +349,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
  
  <entry>
    <title>September 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/09/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/09/01/Newsletter"/>
    <updated>2019-09-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2019/09/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -409,7 +409,7 @@ Rahal prides himself on struggle and says that’s how he built RxBar into a bre
  
  <entry>
    <title>August 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/08/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/08/01/Newsletter"/>
    <updated>2019-08-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2019/08/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -476,7 +476,7 @@ People often buy and use Ring doorbell cameras under the premise that they’re 
  
  <entry>
    <title>July 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/07/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/07/01/Newsletter"/>
    <updated>2019-07-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2019/07/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -535,7 +535,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <entry>
    <title>June 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/06/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/06/01/Newsletter"/>
    <updated>2019-06-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2019/06/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -588,7 +588,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <entry>
    <title>May 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/05/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/05/01/Newsletter"/>
    <updated>2019-05-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2019/05/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -645,7 +645,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <entry>
    <title>April 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/04/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/04/01/Newsletter"/>
    <updated>2019-04-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2019/04/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -745,7 +745,7 @@ When I taste things, I also hear music, mainly chords – sugar and desserts alm
  
  <entry>
    <title>March 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/03/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/03/01/Newsletter"/>
    <updated>2019-03-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2019/03/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -792,7 +792,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>February 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/02/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/02/01/Newsletter"/>
    <updated>2019-02-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2019/02/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -867,7 +867,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>January 2019</title>
-   <link href="http://localhost:4000//newsletter/2019/01/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2019/01/01/Newsletter"/>
    <updated>2019-01-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2019/01/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -930,7 +930,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>1106</title>
-   <link href="http://localhost:4000//status/2018/12/30/1982.html"/>
+   <link href="http://localhost:4000//status/2018/12/30/1982"/>
    <updated>2018-12-30T00:00:00-06:00</updated>
    <id>http://localhost:4000/status/2018/12/30/1982</id>
    <content type="html">&lt;p&gt;If I am ever diagnosed with cancer, the first thing I’m gonna do is Neti Pot. As close to magic as exists in this world.&lt;/p&gt;
@@ -939,7 +939,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>December 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/12/15/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/12/15/Newsletter"/>
    <updated>2018-12-15T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2018/12/15/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1022,7 +1022,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>November 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/11/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/11/01/Newsletter"/>
    <updated>2018-11-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2018/11/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1101,7 +1101,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>Athens, Greece</title>
-   <link href="http://localhost:4000//photo/album/2018/10/07/Greece-Athens.html"/>
+   <link href="http://localhost:4000//photo/album/2018/10/07/Greece-Athens"/>
    <updated>2018-10-07T00:00:00-05:00</updated>
    <id>http://localhost:4000/photo/album/2018/10/07/Greece-Athens</id>
    <content type="html">&lt;!--more--&gt;
@@ -1111,7 +1111,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>Santorini, Greece</title>
-   <link href="http://localhost:4000//photo/album/2018/10/07/Greece-Santorini.html"/>
+   <link href="http://localhost:4000//photo/album/2018/10/07/Greece-Santorini"/>
    <updated>2018-10-07T00:00:00-05:00</updated>
    <id>http://localhost:4000/photo/album/2018/10/07/Greece-Santorini</id>
    <content type="html">&lt;!--more--&gt;
@@ -1129,7 +1129,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>October 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/10/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/10/01/Newsletter"/>
    <updated>2018-10-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2018/10/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1173,7 +1173,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>September 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/09/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/09/01/Newsletter"/>
    <updated>2018-09-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2018/09/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1222,7 +1222,7 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>August 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/08/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/08/01/Newsletter"/>
    <updated>2018-08-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2018/08/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1293,7 +1293,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>July 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/07/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/07/01/Newsletter"/>
    <updated>2018-07-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2018/07/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1355,7 +1355,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>June 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/06/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/06/01/Newsletter"/>
    <updated>2018-06-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2018/06/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1422,7 +1422,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>May 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/05/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/05/01/Newsletter"/>
    <updated>2018-05-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2018/05/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1490,7 +1490,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Cherry Blossom</title>
-   <link href="http://localhost:4000//photo/snapshot/2018/04/16/cherry-blossom.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2018/04/16/cherry-blossom"/>
    <updated>2018-04-16T11:11:07-05:00</updated>
    <id>http://localhost:4000/photo/snapshot/2018/04/16/cherry-blossom</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/04/22.jpeg&quot; alt=&quot;22.jpeg&quot; /&gt;
@@ -1500,7 +1500,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Complete Changes To Augusta National</title>
-   <link href="http://localhost:4000//link/2018/04/04/the-complete-changes-to-augusta-national.html"/>
+   <link href="http://localhost:4000//link/2018/04/04/the-complete-changes-to-augusta-national"/>
    <updated>2018-04-04T03:43:09-05:00</updated>
    <id>http://localhost:4000/link/2018/04/04/the-complete-changes-to-augusta-national</id>
    <content type="html">&lt;blockquote&gt;
@@ -1511,7 +1511,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>April 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/04/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/04/01/Newsletter"/>
    <updated>2018-04-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/newsletter/2018/04/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1583,7 +1583,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>March 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/03/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/03/01/Newsletter"/>
    <updated>2018-03-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2018/03/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1671,7 +1671,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Luge Yourself</title>
-   <link href="http://localhost:4000//link/2018/02/06/luge-yourself.html"/>
+   <link href="http://localhost:4000//link/2018/02/06/luge-yourself"/>
    <updated>2018-02-06T09:14:47-06:00</updated>
    <id>http://localhost:4000/link/2018/02/06/luge-yourself</id>
    <content type="html">&lt;blockquote&gt;
@@ -1682,7 +1682,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>February 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/02/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/02/01/Newsletter"/>
    <updated>2018-02-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2018/02/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1770,7 +1770,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Moon</title>
-   <link href="http://localhost:4000//photo/snapshot/2018/01/30/moon.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2018/01/30/moon"/>
    <updated>2018-01-30T15:34:57-06:00</updated>
    <id>http://localhost:4000/photo/snapshot/2018/01/30/moon</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2018/01/moon-1.jpg&quot; /&gt;
@@ -1780,7 +1780,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1810</title>
-   <link href="http://localhost:4000//status/2018/01/25/1810.html"/>
+   <link href="http://localhost:4000//status/2018/01/25/1810"/>
    <updated>2018-01-25T03:03:57-06:00</updated>
    <id>http://localhost:4000/status/2018/01/25/1810</id>
    <content type="html">&lt;p&gt;Weekend Plan: Watch people across the street try to fit estate sale purchases in their cars.&lt;/p&gt;
@@ -1789,7 +1789,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>January 2018</title>
-   <link href="http://localhost:4000//newsletter/2018/01/01/Newsletter.html"/>
+   <link href="http://localhost:4000//newsletter/2018/01/01/Newsletter"/>
    <updated>2018-01-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2018/01/01/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
@@ -1858,7 +1858,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Bits from Books &amp;#8211; 2017</title>
-   <link href="http://localhost:4000//article/2017/12/31/bits-from-books-2017.html"/>
+   <link href="http://localhost:4000//article/2017/12/31/bits-from-books-2017"/>
    <updated>2017-12-31T02:00:08-06:00</updated>
    <id>http://localhost:4000/article/2017/12/31/bits-from-books-2017</id>
    <content type="html">&lt;p&gt;Below I have included a list of the books I have read or listened to throughout 2017. Highlighting important passages as I read has lead to the ability to reflect and contemplate long after finishing these books and I do so periodically throughout the year. Here I have compiled those passages that stood out even further that I felt worthwhile to share.&lt;/p&gt;
@@ -2134,7 +2134,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Many Watches of James Bond</title>
-   <link href="http://localhost:4000//link/2017/12/18/the-many-watches-of-james-bond.html"/>
+   <link href="http://localhost:4000//link/2017/12/18/the-many-watches-of-james-bond"/>
    <updated>2017-12-18T03:22:43-06:00</updated>
    <id>http://localhost:4000/link/2017/12/18/the-many-watches-of-james-bond</id>
    <content type="html">&lt;p&gt;Like all other categories of the franchise, Connery and Craig are miles ahead.&lt;/p&gt;
@@ -2143,7 +2143,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1621</title>
-   <link href="http://localhost:4000//status/2017/12/16/1621.html"/>
+   <link href="http://localhost:4000//status/2017/12/16/1621"/>
    <updated>2017-12-16T06:22:06-06:00</updated>
    <id>http://localhost:4000/status/2017/12/16/1621</id>
    <content type="html">&lt;p&gt;Not sure if shaking from coffee or PUBG.&lt;/p&gt;
@@ -2152,7 +2152,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>New York City: Drone&amp;#8217;s-Eye View</title>
-   <link href="http://localhost:4000//link/2017/12/16/new-york-city-drones-eye-view.html"/>
+   <link href="http://localhost:4000//link/2017/12/16/new-york-city-drones-eye-view"/>
    <updated>2017-12-16T04:30:04-06:00</updated>
    <id>http://localhost:4000/link/2017/12/16/new-york-city-drones-eye-view</id>
    <content type="html">&lt;p&gt;All of &lt;a href=&quot;https://www.instagram.com/humzadeas/&quot;&gt;Humza Deas’&lt;/a&gt; New York City photography is stunningly beautiful.&lt;/p&gt;
@@ -2161,7 +2161,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>2017: The Year in Volcanic Activity</title>
-   <link href="http://localhost:4000//link/2017/12/16/2017-the-year-in-volcanic-activity.html"/>
+   <link href="http://localhost:4000//link/2017/12/16/2017-the-year-in-volcanic-activity"/>
    <updated>2017-12-16T04:19:59-06:00</updated>
    <id>http://localhost:4000/link/2017/12/16/2017-the-year-in-volcanic-activity</id>
    <content type="html">&lt;blockquote&gt;
@@ -2172,7 +2172,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1530</title>
-   <link href="http://localhost:4000//status/2017/12/08/1530.html"/>
+   <link href="http://localhost:4000//status/2017/12/08/1530"/>
    <updated>2017-12-08T05:36:47-06:00</updated>
    <id>http://localhost:4000/status/2017/12/08/1530</id>
    <content type="html">&lt;p&gt;Just checked and pickles can still ruin a sandwich.&lt;/p&gt;
@@ -2181,7 +2181,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Arnold H. Glasgow</title>
-   <link href="http://localhost:4000//quote/2017/11/20/arnold-h-glasgow.html"/>
+   <link href="http://localhost:4000//quote/2017/11/20/arnold-h-glasgow"/>
    <updated>2017-11-20T11:29:06-06:00</updated>
    <id>http://localhost:4000/quote/2017/11/20/arnold-h-glasgow</id>
    <content type="html">&lt;blockquote&gt;
@@ -2196,7 +2196,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Impostor Syndrome</title>
-   <link href="http://localhost:4000//link/2017/11/20/impostor-syndrome.html"/>
+   <link href="http://localhost:4000//link/2017/11/20/impostor-syndrome"/>
    <updated>2017-11-20T07:45:32-06:00</updated>
    <id>http://localhost:4000/link/2017/11/20/impostor-syndrome</id>
    <content type="html">&lt;blockquote&gt;
@@ -2210,7 +2210,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Creating Saturday Night Live</title>
-   <link href="http://localhost:4000//video/2017/10/25/creating-saturday-night-live.html"/>
+   <link href="http://localhost:4000//video/2017/10/25/creating-saturday-night-live"/>
    <updated>2017-10-25T02:34:19-05:00</updated>
    <id>http://localhost:4000/video/2017/10/25/creating-saturday-night-live</id>
    <content type="html">&lt;blockquote&gt;
@@ -2221,7 +2221,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1363</title>
-   <link href="http://localhost:4000//status/2017/10/14/1363.html"/>
+   <link href="http://localhost:4000//status/2017/10/14/1363"/>
    <updated>2017-10-14T17:20:37-05:00</updated>
    <id>http://localhost:4000/status/2017/10/14/1363</id>
    <content type="html">&lt;p&gt;Want to go on a wild ride? Watch Game Show Network commercials on a Saturday night.&lt;/p&gt;
@@ -2230,7 +2230,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Roger Federer as a Religious Experience</title>
-   <link href="http://localhost:4000//link/2017/10/09/roger-federer-as-a-religious-experience.html"/>
+   <link href="http://localhost:4000//link/2017/10/09/roger-federer-as-a-religious-experience"/>
    <updated>2017-10-09T16:06:43-05:00</updated>
    <id>http://localhost:4000/link/2017/10/09/roger-federer-as-a-religious-experience</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.gatesnotes.com/Books/String-Theory&quot; title=&quot;Gates Notes&quot;&gt;Bill Gates recommends a book&lt;/a&gt; of compiled David Foster Wallace articles called &lt;a href=&quot;https://www.amazon.com/String-Theory-Wallace-Library-Publication/dp/1598534807&quot; title=&quot;String Theory&quot;&gt;&lt;em&gt;String Theory&lt;/em&gt;&lt;/a&gt;. Wondering if I’d enjoy the book, I stumbled upon this 11 year old article that examines an already experienced Federer whose career we still enthralled with today.&lt;/p&gt;
@@ -2243,7 +2243,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Shoe Dogs: A Memoir by the Creator of Nike</title>
-   <link href="http://localhost:4000//quote/2017/09/28/shoe-dogs-a-memoir-by-the-creator-of-nike.html"/>
+   <link href="http://localhost:4000//quote/2017/09/28/shoe-dogs-a-memoir-by-the-creator-of-nike"/>
    <updated>2017-09-28T02:20:14-05:00</updated>
    <id>http://localhost:4000/quote/2017/09/28/shoe-dogs-a-memoir-by-the-creator-of-nike</id>
    <content type="html">&lt;blockquote&gt;
@@ -2260,7 +2260,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How Well Do You Know World-Famous Logos?</title>
-   <link href="http://localhost:4000//link/2017/09/28/how-well-do-you-know-world-famous-logos.html"/>
+   <link href="http://localhost:4000//link/2017/09/28/how-well-do-you-know-world-famous-logos"/>
    <updated>2017-09-28T02:07:20-05:00</updated>
    <id>http://localhost:4000/link/2017/09/28/how-well-do-you-know-world-famous-logos</id>
    <content type="html">&lt;blockquote&gt;
@@ -2271,7 +2271,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Paris, France</title>
-   <link href="http://localhost:4000//photo/album/2017/09/23/paris-france.html"/>
+   <link href="http://localhost:4000//photo/album/2017/09/23/paris-france"/>
    <updated>2017-09-23T03:50:28-05:00</updated>
    <id>http://localhost:4000/photo/album/2017/09/23/paris-france</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;
@@ -2281,7 +2281,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1283</title>
-   <link href="http://localhost:4000//status/2017/09/22/1283.html"/>
+   <link href="http://localhost:4000//status/2017/09/22/1283"/>
    <updated>2017-09-22T00:08:29-05:00</updated>
    <id>http://localhost:4000/status/2017/09/22/1283</id>
    <content type="html">&lt;p&gt;Biggest benefit of jet lag is grinding Destiny 2 before the sun is up.&lt;/p&gt;
@@ -2290,7 +2290,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1259</title>
-   <link href="http://localhost:4000//status/2017/08/14/1259.html"/>
+   <link href="http://localhost:4000//status/2017/08/14/1259"/>
    <updated>2017-08-14T10:38:11-05:00</updated>
    <id>http://localhost:4000/status/2017/08/14/1259</id>
    <content type="html">&lt;p&gt;Something has changed since I turned 29.5. I am firing off the best sneezes of my life.&lt;/p&gt;
@@ -2299,7 +2299,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>1219</title>
-   <link href="http://localhost:4000//status/2017/07/24/1219.html"/>
+   <link href="http://localhost:4000//status/2017/07/24/1219"/>
    <updated>2017-07-24T11:42:25-05:00</updated>
    <id>http://localhost:4000/status/2017/07/24/1219</id>
    <content type="html">&lt;p&gt;After a Texas afternoon run I am forced to wonder if the cardinal I am seeing really is a cardinal, a bird, or even there at all.&lt;/p&gt;
@@ -2308,7 +2308,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Lunch</title>
-   <link href="http://localhost:4000//photo/snapshot/2017/07/08/lunch.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2017/07/08/lunch"/>
    <updated>2017-07-08T07:35:42-05:00</updated>
    <id>http://localhost:4000/photo/snapshot/2017/07/08/lunch</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/07/IMG_2219.jpeg&quot; alt=&quot;IMG_2219.jpeg&quot; /&gt;&lt;/p&gt;
@@ -2317,7 +2317,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Trump&amp;#8217;s Lies</title>
-   <link href="http://localhost:4000//link/2017/06/23/trumps-lies.html"/>
+   <link href="http://localhost:4000//link/2017/06/23/trumps-lies"/>
    <updated>2017-06-23T15:33:49-05:00</updated>
    <id>http://localhost:4000/link/2017/06/23/trumps-lies</id>
    <content type="html">&lt;blockquote&gt;
@@ -2328,7 +2328,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Library of Congress</title>
-   <link href="http://localhost:4000//photo/snapshot/2017/06/17/the-library-of-congress.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2017/06/17/the-library-of-congress"/>
    <updated>2017-06-17T05:54:44-05:00</updated>
    <id>http://localhost:4000/photo/snapshot/2017/06/17/the-library-of-congress</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1878.jpeg&quot; alt=&quot;IMG_1878.jpeg&quot; /&gt;&lt;/p&gt;
@@ -2337,7 +2337,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>942</title>
-   <link href="http://localhost:4000//status/2017/06/16/942.html"/>
+   <link href="http://localhost:4000//status/2017/06/16/942"/>
    <updated>2017-06-16T01:10:31-05:00</updated>
    <id>http://localhost:4000/status/2017/06/16/942</id>
    <content type="html">&lt;p&gt;Made it to the Newseum, the United States Capitol, the Library of Congress and saw the Presidential motorcade twice yesterday. Today: Arlington National Cemetery and Richmond, VA.&lt;/p&gt;
@@ -2346,7 +2346,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>United States Capitol</title>
-   <link href="http://localhost:4000//photo/snapshot/2017/06/16/united-states-capitol.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2017/06/16/united-states-capitol"/>
    <updated>2017-06-16T01:02:40-05:00</updated>
    <id>http://localhost:4000/photo/snapshot/2017/06/16/united-states-capitol</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1760.jpeg&quot; alt=&quot;IMG_1760.jpeg&quot; /&gt;&lt;/p&gt;
@@ -2355,7 +2355,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>929</title>
-   <link href="http://localhost:4000//status/2017/06/13/929.html"/>
+   <link href="http://localhost:4000//status/2017/06/13/929"/>
    <updated>2017-06-13T15:48:35-05:00</updated>
    <id>http://localhost:4000/status/2017/06/13/929</id>
    <content type="html">&lt;p&gt;If you didn’t catch John Wick, put it at the top of your list. If you didn’t catch John Wick Chapter 2, put it second on your list.&lt;/p&gt;
@@ -2364,7 +2364,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>A Relentless Rivalry With Brother and Caddie, Austin, Has Propelled DJ to the Top of the Game</title>
-   <link href="http://localhost:4000//link/2017/06/13/a-relentless-rivalry-with-brother-and-caddie-austin-has-propelled-dj-to-the-top-of-the-game.html"/>
+   <link href="http://localhost:4000//link/2017/06/13/a-relentless-rivalry-with-brother-and-caddie-austin-has-propelled-dj-to-the-top-of-the-game"/>
    <updated>2017-06-13T15:45:06-05:00</updated>
    <id>http://localhost:4000/link/2017/06/13/a-relentless-rivalry-with-brother-and-caddie-austin-has-propelled-dj-to-the-top-of-the-game</id>
    <content type="html">&lt;blockquote&gt;
@@ -2375,7 +2375,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Flying Solo</title>
-   <link href="http://localhost:4000//photo/snapshot/2017/06/12/flying-solo.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2017/06/12/flying-solo"/>
    <updated>2017-06-12T15:31:53-05:00</updated>
    <id>http://localhost:4000/photo/snapshot/2017/06/12/flying-solo</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1612.jpeg&quot; alt=&quot;IMG_1612.jpeg&quot; /&gt;&lt;/p&gt;
@@ -2384,7 +2384,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>903</title>
-   <link href="http://localhost:4000//status/2017/06/09/903.html"/>
+   <link href="http://localhost:4000//status/2017/06/09/903"/>
    <updated>2017-06-09T17:25:27-05:00</updated>
    <id>http://localhost:4000/status/2017/06/09/903</id>
    <content type="html">&lt;p&gt;This is just a simple status that will serve as a test for designing this specific post type.
@@ -2394,7 +2394,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>A Magnificent Supercell Thunderstorm Timelapse</title>
-   <link href="http://localhost:4000//video/2017/05/31/a-magnificent-supercell-thunderstorm-timelapse.html"/>
+   <link href="http://localhost:4000//video/2017/05/31/a-magnificent-supercell-thunderstorm-timelapse"/>
    <updated>2017-05-31T11:55:39-05:00</updated>
    <id>http://localhost:4000/video/2017/05/31/a-magnificent-supercell-thunderstorm-timelapse</id>
    <content type="html">&lt;blockquote&gt;
@@ -2405,7 +2405,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>This Is the Best Section in Every MLB Stadium if You Want to Catch a Home Run Ball</title>
-   <link href="http://localhost:4000//link/2017/05/24/this-is-the-best-section-in-every-mlb-stadium-if-you-want-to-catch-a-home-run-ball.html"/>
+   <link href="http://localhost:4000//link/2017/05/24/this-is-the-best-section-in-every-mlb-stadium-if-you-want-to-catch-a-home-run-ball"/>
    <updated>2017-05-24T13:22:56-05:00</updated>
    <id>http://localhost:4000/link/2017/05/24/this-is-the-best-section-in-every-mlb-stadium-if-you-want-to-catch-a-home-run-ball</id>
    <content type="html">&lt;blockquote&gt;
@@ -2416,7 +2416,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Old Rag</title>
-   <link href="http://localhost:4000//photo/snapshot/2017/04/27/old-rag.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2017/04/27/old-rag"/>
    <updated>2017-04-27T05:38:50-05:00</updated>
    <id>http://localhost:4000/photo/snapshot/2017/04/27/old-rag</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/04/8DDC9CAD-C089-4A21-B656-55390DEA0ACD.jpeg&quot; alt=&quot;8DDC9CAD-C089-4A21-B656-55390DEA0ACD.jpeg&quot; /&gt;&lt;/p&gt;
@@ -2425,7 +2425,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>TPC Scottsdale</title>
-   <link href="http://localhost:4000//photo/snapshot/2017/03/23/tpc-scottsdale.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2017/03/23/tpc-scottsdale"/>
    <updated>2017-03-23T13:05:05-05:00</updated>
    <id>http://localhost:4000/photo/snapshot/2017/03/23/tpc-scottsdale</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/04/IMG_1013.jpeg&quot; alt=&quot;IMG_1013.jpeg&quot; /&gt;&lt;/p&gt;
@@ -2434,7 +2434,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Foggy Forest</title>
-   <link href="http://localhost:4000//photo/snapshot/2017/01/26/foggy-forest.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2017/01/26/foggy-forest"/>
    <updated>2017-01-26T18:04:01-06:00</updated>
    <id>http://localhost:4000/photo/snapshot/2017/01/26/foggy-forest</id>
    <content type="html">
@@ -2443,7 +2443,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Death Star and the Final Trench Run</title>
-   <link href="http://localhost:4000//link/2017/01/25/the-death-star-and-the-final-trench-run.html"/>
+   <link href="http://localhost:4000//link/2017/01/25/the-death-star-and-the-final-trench-run"/>
    <updated>2017-01-25T03:32:52-06:00</updated>
    <id>http://localhost:4000/link/2017/01/25/the-death-star-and-the-final-trench-run</id>
    <content type="html">&lt;blockquote&gt;
@@ -2456,7 +2456,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>I Just Spent $139 On This Book Because I Am A Weirdo</title>
-   <link href="http://localhost:4000//link/2017/01/04/i-just-spent-139-on-this-book.html"/>
+   <link href="http://localhost:4000//link/2017/01/04/i-just-spent-139-on-this-book"/>
    <updated>2017-01-04T14:45:28-06:00</updated>
    <id>http://localhost:4000/link/2017/01/04/i-just-spent-139-on-this-book</id>
    <content type="html">&lt;blockquote&gt;
@@ -2467,7 +2467,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Bits from Books &amp;#8211; 2016</title>
-   <link href="http://localhost:4000//article/2016/12/31/bits-from-books-2016.html"/>
+   <link href="http://localhost:4000//article/2016/12/31/bits-from-books-2016"/>
    <updated>2016-12-31T09:42:30-06:00</updated>
    <id>http://localhost:4000/article/2016/12/31/bits-from-books-2016</id>
    <content type="html">&lt;p&gt;In 2015, I read my first book since high school. Although, I had regularly listened to audiobooks, I had not read a book cover to cover in over a decade. I made it a point that I would use my post-lunch laziness to read.&lt;/p&gt;
@@ -2685,7 +2685,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How to Write a Thank You Note</title>
-   <link href="http://localhost:4000//link/2016/12/07/how-to-write-a-thank-you-note.html"/>
+   <link href="http://localhost:4000//link/2016/12/07/how-to-write-a-thank-you-note"/>
    <updated>2016-12-07T08:31:07-06:00</updated>
    <id>http://localhost:4000/link/2016/12/07/how-to-write-a-thank-you-note</id>
    <content type="html">&lt;blockquote&gt;
@@ -2698,7 +2698,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Achievement Unlocked: Apple Watch Turkey Day Challenge</title>
-   <link href="http://localhost:4000//photo/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge"/>
    <updated>2016-11-24T03:59:53-06:00</updated>
    <id>http://localhost:4000/photo/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2016/11/IMG_6479-1.png&quot; alt=&quot;IMG_6479.png&quot; /&gt;&lt;/p&gt;
@@ -2707,7 +2707,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>This is What Happens When You Reply to Spam Email</title>
-   <link href="http://localhost:4000//video/2016/11/10/this-is-what-happens-when-you-reply-to-spam-email.html"/>
+   <link href="http://localhost:4000//video/2016/11/10/this-is-what-happens-when-you-reply-to-spam-email"/>
    <updated>2016-11-10T05:10:59-06:00</updated>
    <id>http://localhost:4000/video/2016/11/10/this-is-what-happens-when-you-reply-to-spam-email</id>
    <content type="html">&lt;blockquote&gt;
@@ -2720,7 +2720,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>An American Tragedy</title>
-   <link href="http://localhost:4000//link/2016/11/09/an-american-tragedy.html"/>
+   <link href="http://localhost:4000//link/2016/11/09/an-american-tragedy"/>
    <updated>2016-11-09T12:15:09-06:00</updated>
    <id>http://localhost:4000/link/2016/11/09/an-american-tragedy</id>
    <content type="html">&lt;blockquote&gt;
@@ -2731,7 +2731,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Better</title>
-   <link href="http://localhost:4000//quote/2016/10/06/better.html"/>
+   <link href="http://localhost:4000//quote/2016/10/06/better"/>
    <updated>2016-10-06T03:09:58-05:00</updated>
    <id>http://localhost:4000/quote/2016/10/06/better</id>
    <content type="html">&lt;blockquote&gt;
@@ -2744,7 +2744,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How Boeing Builds A 737 In Just 9 Days</title>
-   <link href="http://localhost:4000//link/2016/09/27/how-boeing-builds-a-737-in-just-9-days.html"/>
+   <link href="http://localhost:4000//link/2016/09/27/how-boeing-builds-a-737-in-just-9-days"/>
    <updated>2016-09-27T04:02:57-05:00</updated>
    <id>http://localhost:4000/link/2016/09/27/how-boeing-builds-a-737-in-just-9-days</id>
    <content type="html">&lt;blockquote&gt;
@@ -2759,7 +2759,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Nasa Captures Wicked Solar Flare</title>
-   <link href="http://localhost:4000//link/2016/09/12/nasa-captures-wicked-solar-flare.html"/>
+   <link href="http://localhost:4000//link/2016/09/12/nasa-captures-wicked-solar-flare"/>
    <updated>2016-09-12T04:02:55-05:00</updated>
    <id>http://localhost:4000/link/2016/09/12/nasa-captures-wicked-solar-flare</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/GXkb54q.png&quot;&gt;Earth for scale.&lt;/a&gt;&lt;/p&gt;
@@ -2768,7 +2768,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How Snowden Escaped</title>
-   <link href="http://localhost:4000//link/2016/09/10/how-snowden-escaped.html"/>
+   <link href="http://localhost:4000//link/2016/09/10/how-snowden-escaped"/>
    <updated>2016-09-10T03:50:22-05:00</updated>
    <id>http://localhost:4000/link/2016/09/10/how-snowden-escaped</id>
    <content type="html">&lt;blockquote&gt;
@@ -2781,7 +2781,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>‘We’re the Only Plane in the Sky’</title>
-   <link href="http://localhost:4000//link/2016/09/09/were-the-only-plane-in-the-sky.html"/>
+   <link href="http://localhost:4000//link/2016/09/09/were-the-only-plane-in-the-sky"/>
    <updated>2016-09-09T04:02:53-05:00</updated>
    <id>http://localhost:4000/link/2016/09/09/were-the-only-plane-in-the-sky</id>
    <content type="html">&lt;blockquote&gt;
@@ -2792,7 +2792,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Exit Interview: I Played With LEGO for a Living</title>
-   <link href="http://localhost:4000//link/2016/09/06/exit-interview-i-played-with-lego-for-a-living.html"/>
+   <link href="http://localhost:4000//link/2016/09/06/exit-interview-i-played-with-lego-for-a-living"/>
    <updated>2016-09-06T03:50:23-05:00</updated>
    <id>http://localhost:4000/link/2016/09/06/exit-interview-i-played-with-lego-for-a-living</id>
    <content type="html">&lt;blockquote&gt;
@@ -2805,7 +2805,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Fall Foliage Map 2016</title>
-   <link href="http://localhost:4000//link/2016/09/01/fall-foliage-map-2016.html"/>
+   <link href="http://localhost:4000//link/2016/09/01/fall-foliage-map-2016"/>
    <updated>2016-09-01T03:35:39-05:00</updated>
    <id>http://localhost:4000/link/2016/09/01/fall-foliage-map-2016</id>
    <content type="html">&lt;blockquote&gt;
@@ -2818,7 +2818,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Olympic Races, in Your Neighborhood</title>
-   <link href="http://localhost:4000//link/2016/08/22/olympic-races-in-your-neighborhood.html"/>
+   <link href="http://localhost:4000//link/2016/08/22/olympic-races-in-your-neighborhood"/>
    <updated>2016-08-22T06:30:05-05:00</updated>
    <id>http://localhost:4000/link/2016/08/22/olympic-races-in-your-neighborhood</id>
    <content type="html">&lt;blockquote&gt;
@@ -2829,7 +2829,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Teardown: Same Product, Fifty Years Apart</title>
-   <link href="http://localhost:4000//link/2016/08/22/teardown-same-product-fifty-years-apart.html"/>
+   <link href="http://localhost:4000//link/2016/08/22/teardown-same-product-fifty-years-apart"/>
    <updated>2016-08-22T03:50:19-05:00</updated>
    <id>http://localhost:4000/link/2016/08/22/teardown-same-product-fifty-years-apart</id>
    <content type="html">&lt;blockquote&gt;
@@ -2840,7 +2840,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Ryder Cup Secrets From Undercover Pros</title>
-   <link href="http://localhost:4000//link/2016/08/20/ryder-cup-secrets-from-undercover-pros.html"/>
+   <link href="http://localhost:4000//link/2016/08/20/ryder-cup-secrets-from-undercover-pros"/>
    <updated>2016-08-20T09:20:26-05:00</updated>
    <id>http://localhost:4000/link/2016/08/20/ryder-cup-secrets-from-undercover-pros</id>
    <content type="html">&lt;blockquote&gt;
@@ -2851,7 +2851,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Apollo 11 Guidance Computer Source Code</title>
-   <link href="http://localhost:4000//link/2016/07/19/apollo-11-guidance-computer-source-code.html"/>
+   <link href="http://localhost:4000//link/2016/07/19/apollo-11-guidance-computer-source-code"/>
    <updated>2016-07-19T04:07:12-05:00</updated>
    <id>http://localhost:4000/link/2016/07/19/apollo-11-guidance-computer-source-code</id>
    <content type="html">
@@ -2860,7 +2860,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Adam Driver: My Journey from Marine to Actor</title>
-   <link href="http://localhost:4000//video/2016/06/27/adam-driver-my-journey-from-marine-to-actor.html"/>
+   <link href="http://localhost:4000//video/2016/06/27/adam-driver-my-journey-from-marine-to-actor"/>
    <updated>2016-06-27T05:25:03-05:00</updated>
    <id>http://localhost:4000/video/2016/06/27/adam-driver-my-journey-from-marine-to-actor</id>
    <content type="html">&lt;blockquote&gt;
@@ -2871,7 +2871,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>$200 Million Movie Budget: What Everyone Earns</title>
-   <link href="http://localhost:4000//video/2016/06/08/200-million-movie-budget-what-everyone-earns.html"/>
+   <link href="http://localhost:4000//video/2016/06/08/200-million-movie-budget-what-everyone-earns"/>
    <updated>2016-06-08T06:34:23-05:00</updated>
    <id>http://localhost:4000/video/2016/06/08/200-million-movie-budget-what-everyone-earns</id>
    <content type="html">&lt;div style=&quot;margin:10px 0; text-align:center;&quot;&gt;
@@ -2885,7 +2885,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Flag Stories</title>
-   <link href="http://localhost:4000//link/2016/06/03/flag-stories.html"/>
+   <link href="http://localhost:4000//link/2016/06/03/flag-stories"/>
    <updated>2016-06-03T11:49:09-05:00</updated>
    <id>http://localhost:4000/link/2016/06/03/flag-stories</id>
    <content type="html">&lt;blockquote&gt;
@@ -2896,7 +2896,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>True Secrets of Great Racehorses</title>
-   <link href="http://localhost:4000//video/2016/06/03/true-secrets-of-great-racehorses.html"/>
+   <link href="http://localhost:4000//video/2016/06/03/true-secrets-of-great-racehorses"/>
    <updated>2016-06-03T11:47:42-05:00</updated>
    <id>http://localhost:4000/video/2016/06/03/true-secrets-of-great-racehorses</id>
    <content type="html">
@@ -2905,7 +2905,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Are You Good Enough to Be a Tennis Line Judge?</title>
-   <link href="http://localhost:4000//link/2016/05/19/are-you-good-enough-to-be-a-tennis-line-judge.html"/>
+   <link href="http://localhost:4000//link/2016/05/19/are-you-good-enough-to-be-a-tennis-line-judge"/>
    <updated>2016-05-19T06:14:06-05:00</updated>
    <id>http://localhost:4000/link/2016/05/19/are-you-good-enough-to-be-a-tennis-line-judge</id>
    <content type="html">&lt;blockquote&gt;
@@ -2916,7 +2916,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Planet Money: Peanuts and Cracker Jack</title>
-   <link href="http://localhost:4000//link/2016/05/12/planet-money-peanuts-and-cracker-jack.html"/>
+   <link href="http://localhost:4000//link/2016/05/12/planet-money-peanuts-and-cracker-jack"/>
    <updated>2016-05-12T05:10:47-05:00</updated>
    <id>http://localhost:4000/link/2016/05/12/planet-money-peanuts-and-cracker-jack</id>
    <content type="html">&lt;blockquote&gt;
@@ -2927,7 +2927,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Galactic Warfighters</title>
-   <link href="http://localhost:4000//video/2016/05/10/galactic-warfighters.html"/>
+   <link href="http://localhost:4000//video/2016/05/10/galactic-warfighters"/>
    <updated>2016-05-10T09:39:00-05:00</updated>
    <id>http://localhost:4000/video/2016/05/10/galactic-warfighters</id>
    <content type="html">&lt;blockquote&gt;
@@ -2938,7 +2938,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Visualization Of The World&amp;#8217;s Shipping Routes</title>
-   <link href="http://localhost:4000//link/2016/05/09/visualization-of-the-worlds-shipping-routes.html"/>
+   <link href="http://localhost:4000//link/2016/05/09/visualization-of-the-worlds-shipping-routes"/>
    <updated>2016-05-09T05:06:41-05:00</updated>
    <id>http://localhost:4000/link/2016/05/09/visualization-of-the-worlds-shipping-routes</id>
    <content type="html">&lt;p&gt;Use &lt;a href=&quot;http://www.vox.com/2016/4/25/11503152/shipping-routes-map&quot;&gt;this guide from Vox&lt;/a&gt; to see some of the features of the interactive map.&lt;/p&gt;
@@ -2947,7 +2947,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How ATMs Work</title>
-   <link href="http://localhost:4000//video/2016/05/09/how-atms-work.html"/>
+   <link href="http://localhost:4000//video/2016/05/09/how-atms-work"/>
    <updated>2016-05-09T05:05:08-05:00</updated>
    <id>http://localhost:4000/video/2016/05/09/how-atms-work</id>
    <content type="html">&lt;p&gt;An overly dramatic narrator and animation gives a look at the parts of an ATM machine and how it delivers your money.&lt;/p&gt;
@@ -2956,7 +2956,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>What They Teach You at Umpire School</title>
-   <link href="http://localhost:4000//link/2016/04/22/what-they-teach-you-at-umpire-school.html"/>
+   <link href="http://localhost:4000//link/2016/04/22/what-they-teach-you-at-umpire-school"/>
    <updated>2016-04-22T14:59:12-05:00</updated>
    <id>http://localhost:4000/link/2016/04/22/what-they-teach-you-at-umpire-school</id>
    <content type="html">&lt;blockquote&gt;
@@ -2967,7 +2967,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Secret History of Tiger Woods</title>
-   <link href="http://localhost:4000//link/2016/04/21/the-secret-history-of-tiger-woods.html"/>
+   <link href="http://localhost:4000//link/2016/04/21/the-secret-history-of-tiger-woods"/>
    <updated>2016-04-21T11:52:15-05:00</updated>
    <id>http://localhost:4000/link/2016/04/21/the-secret-history-of-tiger-woods</id>
    <content type="html">&lt;p&gt;Outside of the golf course, it really seems that Tiger felt most comfortable using his superstar status to train with Navy SEALS.&lt;/p&gt;
@@ -2994,7 +2994,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Should all locks have keys?</title>
-   <link href="http://localhost:4000//video/2016/04/13/should-all-locks-have-keys.html"/>
+   <link href="http://localhost:4000//video/2016/04/13/should-all-locks-have-keys"/>
    <updated>2016-04-13T23:33:02-05:00</updated>
    <id>http://localhost:4000/video/2016/04/13/should-all-locks-have-keys</id>
    <content type="html">
@@ -3003,7 +3003,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Best Time</title>
-   <link href="http://localhost:4000//link/2016/04/12/the-best-time.html"/>
+   <link href="http://localhost:4000//link/2016/04/12/the-best-time"/>
    <updated>2016-04-12T02:32:33-05:00</updated>
    <id>http://localhost:4000/link/2016/04/12/the-best-time</id>
    <content type="html">&lt;p&gt;Dallas Stars captain, Jamie Benn, with a dose of pump up for his team’s first postseason game of 2016.&lt;/p&gt;
@@ -3016,7 +3016,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>A Dominate Wheel of Fortune Performance</title>
-   <link href="http://localhost:4000//video/2016/04/05/a-dominate-wheel-of-fortune-performance.html"/>
+   <link href="http://localhost:4000//video/2016/04/05/a-dominate-wheel-of-fortune-performance"/>
    <updated>2016-04-05T04:15:23-05:00</updated>
    <id>http://localhost:4000/video/2016/04/05/a-dominate-wheel-of-fortune-performance</id>
    <content type="html">&lt;p&gt;The winner, Robert, shows up in the &lt;a href=&quot;https://www.reddit.com/r/videos/comments/4chhxx/wheel_of_fortune_genius_destroys_game/&quot;&gt;Reddit thread&lt;/a&gt;, and gives &lt;a href=&quot;http://buyavowel.boards.net/thread/8330/march-2016-recap-discussion-robert?page=2&amp;amp;scrollTo=77514&quot;&gt;full behind the scenes recap on Buy a Vowel forum&lt;/a&gt;.&lt;/p&gt;
@@ -3025,7 +3025,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>What would happen if you didn’t drink water?</title>
-   <link href="http://localhost:4000//video/2016/04/05/what-would-happen-if-you-didnt-drink-water.html"/>
+   <link href="http://localhost:4000//video/2016/04/05/what-would-happen-if-you-didnt-drink-water"/>
    <updated>2016-04-05T03:07:54-05:00</updated>
    <id>http://localhost:4000/video/2016/04/05/what-would-happen-if-you-didnt-drink-water</id>
    <content type="html">&lt;blockquote&gt;
@@ -3036,7 +3036,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>I finished listening to Getting Things Done: The Art of Stress-Free Productivity</title>
-   <link href="http://localhost:4000//audiobook/media/2016/02/17/i-finished-listening-to-getting-things-done-the-art-of-stress-free-productivity.html"/>
+   <link href="http://localhost:4000//audiobook/media/2016/02/17/i-finished-listening-to-getting-things-done-the-art-of-stress-free-productivity"/>
    <updated>2016-02-17T10:00:55-06:00</updated>
    <id>http://localhost:4000/audiobook/media/2016/02/17/i-finished-listening-to-getting-things-done-the-art-of-stress-free-productivity</id>
    <content type="html">&lt;p&gt;I finished listening to &lt;a href=&quot;http://amazon.com/exec/obidos/ASIN/0142000280/claycarson0c-20&quot;&gt;Getting Things Done: The Art of Stress-Free Productivity&lt;/a&gt;.&lt;/p&gt;
@@ -3045,7 +3045,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Star Wars: The Empire Strikes Back - Modern Trailer</title>
-   <link href="http://localhost:4000//link/2015/12/31/modern-empire-trailer.html"/>
+   <link href="http://localhost:4000//link/2015/12/31/modern-empire-trailer"/>
    <updated>2015-12-31T02:34:44-06:00</updated>
    <id>http://localhost:4000/link/2015/12/31/modern-empire-trailer</id>
    <content type="html">&lt;p&gt;Set aside a couple of hours. You will be fired up to watch &lt;strong&gt;Empire&lt;/strong&gt; after this.&lt;/p&gt;
@@ -3054,7 +3054,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The 2015 Comedy Wildlife Photography Awards</title>
-   <link href="http://localhost:4000//link/2015/12/21/comedy-wildlife-photo.html"/>
+   <link href="http://localhost:4000//link/2015/12/21/comedy-wildlife-photo"/>
    <updated>2015-12-21T04:44:31-06:00</updated>
    <id>http://localhost:4000/link/2015/12/21/comedy-wildlife-photo</id>
    <content type="html">
@@ -3063,7 +3063,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Why Can't We Build a Splash-Proof Toilet?</title>
-   <link href="http://localhost:4000//link/2015/11/30/splash-proof-toilet.html"/>
+   <link href="http://localhost:4000//link/2015/11/30/splash-proof-toilet"/>
    <updated>2015-11-30T07:19:23-06:00</updated>
    <id>http://localhost:4000/link/2015/11/30/splash-proof-toilet</id>
    <content type="html">&lt;blockquote&gt;
@@ -3074,7 +3074,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Meet The 80 People Who Are As Rich As Half The World</title>
-   <link href="http://localhost:4000//link/2015/11/30/meet-80-rich-people.html"/>
+   <link href="http://localhost:4000//link/2015/11/30/meet-80-rich-people"/>
    <updated>2015-11-30T07:09:43-06:00</updated>
    <id>http://localhost:4000/link/2015/11/30/meet-80-rich-people</id>
    <content type="html">&lt;blockquote&gt;
@@ -3085,7 +3085,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Martian - UI Screen Graphics</title>
-   <link href="http://localhost:4000//link/2015/10/16/the-martian-ui.html"/>
+   <link href="http://localhost:4000//link/2015/10/16/the-martian-ui"/>
    <updated>2015-10-16T11:14:03-05:00</updated>
    <id>http://localhost:4000/link/2015/10/16/the-martian-ui</id>
    <content type="html">&lt;p&gt;Although not a lot of screen time, these graphics play a huge roll in the feel of the film.&lt;/p&gt;
@@ -3094,7 +3094,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How do the Ghosts in Pac Man Move?</title>
-   <link href="http://localhost:4000//link/2015/10/06/pac-man-ghosts.html"/>
+   <link href="http://localhost:4000//link/2015/10/06/pac-man-ghosts"/>
    <updated>2015-10-06T04:10:47-05:00</updated>
    <id>http://localhost:4000/link/2015/10/06/pac-man-ghosts</id>
    <content type="html">&lt;blockquote&gt;
@@ -3105,7 +3105,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Project Apollo Archive</title>
-   <link href="http://localhost:4000//link/2015/10/06/apollo-album.html"/>
+   <link href="http://localhost:4000//link/2015/10/06/apollo-album"/>
    <updated>2015-10-06T04:00:10-05:00</updated>
    <id>http://localhost:4000/link/2015/10/06/apollo-album</id>
    <content type="html">&lt;p&gt;An album of all 8,435 ever taken by Apollo astronauts.&lt;/p&gt;
@@ -3114,7 +3114,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>First Pitch</title>
-   <link href="http://localhost:4000//link/2015/09/11/first-pitch.html"/>
+   <link href="http://localhost:4000//link/2015/09/11/first-pitch"/>
    <updated>2015-09-11T07:30:58-05:00</updated>
    <id>http://localhost:4000/link/2015/09/11/first-pitch</id>
    <content type="html">&lt;blockquote&gt;
@@ -3125,7 +3125,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The NASA Design Program</title>
-   <link href="http://localhost:4000//link/2015/09/07/nasa-design-program.html"/>
+   <link href="http://localhost:4000//link/2015/09/07/nasa-design-program"/>
    <updated>2015-09-07T05:38:12-05:00</updated>
    <id>http://localhost:4000/link/2015/09/07/nasa-design-program</id>
    <content type="html">&lt;blockquote&gt;
@@ -3156,7 +3156,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Your Chances of Dying</title>
-   <link href="http://localhost:4000//link/2015/09/07/your-chances-of-dying.html"/>
+   <link href="http://localhost:4000//link/2015/09/07/your-chances-of-dying"/>
    <updated>2015-09-07T05:24:18-05:00</updated>
    <id>http://localhost:4000/link/2015/09/07/your-chances-of-dying</id>
    <content type="html">&lt;blockquote&gt;
@@ -3167,7 +3167,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>50 Ironman Distance Triathlons, In 50 States, In 50 Consecutive Days</title>
-   <link href="http://localhost:4000//link/2015/07/29/Ironman-50-50-50.html"/>
+   <link href="http://localhost:4000//link/2015/07/29/Ironman-50-50-50"/>
    <updated>2015-07-29T15:31:05-05:00</updated>
    <id>http://localhost:4000/link/2015/07/29/Ironman-50-50-50</id>
    <content type="html">&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Ironman_Triathlon&quot;&gt;Ironman Distance Triathlon&lt;/a&gt; consists of a 2.4-mile swim, a 112-mile bicycle ride and a marathon 26.2-mile run. This means that in 50 days James “Iron Cowboy” Lawrence, through his own physical power, moved himself 7,030 miles.&lt;/p&gt;
@@ -3182,7 +3182,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>If Looks Could Kill: The Story Behind the Most Intense Lion Portrait</title>
-   <link href="http://localhost:4000//link/2015/07/20/if-looks-could-kill.html"/>
+   <link href="http://localhost:4000//link/2015/07/20/if-looks-could-kill"/>
    <updated>2015-07-20T11:29:54-05:00</updated>
    <id>http://localhost:4000/link/2015/07/20/if-looks-could-kill</id>
    <content type="html">&lt;blockquote&gt;
@@ -3198,7 +3198,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How Pregnancy Tests Work</title>
-   <link href="http://localhost:4000//link/2015/07/09/how-pregnancy-tests-work.html"/>
+   <link href="http://localhost:4000//link/2015/07/09/how-pregnancy-tests-work"/>
    <updated>2015-07-09T10:34:05-05:00</updated>
    <id>http://localhost:4000/link/2015/07/09/how-pregnancy-tests-work</id>
    <content type="html">&lt;blockquote&gt;
@@ -3209,7 +3209,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How Mosquitoes Survive Raindrops</title>
-   <link href="http://localhost:4000//link/2015/07/03/how-mosquitoes-survive-raindrops.html"/>
+   <link href="http://localhost:4000//link/2015/07/03/how-mosquitoes-survive-raindrops"/>
    <updated>2015-07-03T13:38:18-05:00</updated>
    <id>http://localhost:4000/link/2015/07/03/how-mosquitoes-survive-raindrops</id>
    <content type="html">&lt;blockquote&gt;
@@ -3222,7 +3222,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Supreme Court Rules the Constitution Guarantees the Right to Same-Sex Marriage</title>
-   <link href="http://localhost:4000//link/2015/06/26/supreme-court-gay-marriage.html"/>
+   <link href="http://localhost:4000//link/2015/06/26/supreme-court-gay-marriage"/>
    <updated>2015-06-26T14:10:15-05:00</updated>
    <id>http://localhost:4000/link/2015/06/26/supreme-court-gay-marriage</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf&quot;&gt;Justice Anthony Kennedy&lt;/a&gt;&lt;/p&gt;
@@ -3235,7 +3235,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Original Super Mario Game Was Designed On Graph Paper</title>
-   <link href="http://localhost:4000//link/2015/06/18/original-mario-graph-paper.html"/>
+   <link href="http://localhost:4000//link/2015/06/18/original-mario-graph-paper"/>
    <updated>2015-06-18T12:15:00-05:00</updated>
    <id>http://localhost:4000/link/2015/06/18/original-mario-graph-paper</id>
    <content type="html">&lt;blockquote&gt;
@@ -3248,7 +3248,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Remembering Auschwitz: 70 Years After Liberation</title>
-   <link href="http://localhost:4000//link/2015/02/03/remembering-auschwitz.html"/>
+   <link href="http://localhost:4000//link/2015/02/03/remembering-auschwitz"/>
    <updated>2015-02-03T10:06:02-06:00</updated>
    <id>http://localhost:4000/link/2015/02/03/remembering-auschwitz</id>
    <content type="html">&lt;blockquote&gt;
@@ -3259,7 +3259,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Pokemon Branding</title>
-   <link href="http://localhost:4000//link/2015/01/29/pokemon-branding.html"/>
+   <link href="http://localhost:4000//link/2015/01/29/pokemon-branding"/>
    <updated>2015-01-29T10:06:58-06:00</updated>
    <id>http://localhost:4000/link/2015/01/29/pokemon-branding</id>
    <content type="html">&lt;p&gt;Branding and logo design for companies named after Pokemon.&lt;/p&gt;
@@ -3268,7 +3268,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Want to Feel Small?</title>
-   <link href="http://localhost:4000//link/2015/01/21/gigapixels-of-andromeda.html"/>
+   <link href="http://localhost:4000//link/2015/01/21/gigapixels-of-andromeda"/>
    <updated>2015-01-21T09:51:01-06:00</updated>
    <id>http://localhost:4000/link/2015/01/21/gigapixels-of-andromeda</id>
    <content type="html">&lt;p&gt;1.5 billion pixels compose the biggest image ever taken of the Andromeda Galaxy.&lt;/p&gt;
@@ -3277,7 +3277,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Greatest Trick the Devil Ever Pulled</title>
-   <link href="http://localhost:4000//link/2014/12/29/usual-suspects.html"/>
+   <link href="http://localhost:4000//link/2014/12/29/usual-suspects"/>
    <updated>2014-12-29T10:49:57-06:00</updated>
    <id>http://localhost:4000/link/2014/12/29/usual-suspects</id>
    <content type="html">&lt;p&gt;A great look at how a fantastic movie got made.&lt;/p&gt;
@@ -3290,7 +3290,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How to Fix a Monet After Somebody Punches It</title>
-   <link href="http://localhost:4000//link/2014/12/27/fixing-a-monet.html"/>
+   <link href="http://localhost:4000//link/2014/12/27/fixing-a-monet"/>
    <updated>2014-12-27T15:13:41-06:00</updated>
    <id>http://localhost:4000/link/2014/12/27/fixing-a-monet</id>
    <content type="html">&lt;blockquote&gt;
@@ -3301,7 +3301,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>An Oral History of 'National Lampoon's Christmas Vacation'</title>
-   <link href="http://localhost:4000//link/2014/12/23/untold-christmas-vacation.html"/>
+   <link href="http://localhost:4000//link/2014/12/23/untold-christmas-vacation"/>
    <updated>2014-12-23T09:38:06-06:00</updated>
    <id>http://localhost:4000/link/2014/12/23/untold-christmas-vacation</id>
    <content type="html">&lt;blockquote&gt;
@@ -3312,7 +3312,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Under the Influence of Beer Foam</title>
-   <link href="http://localhost:4000//link/2014/12/18/beer-foam.html"/>
+   <link href="http://localhost:4000//link/2014/12/18/beer-foam"/>
    <updated>2014-12-18T15:10:49-06:00</updated>
    <id>http://localhost:4000/link/2014/12/18/beer-foam</id>
    <content type="html">&lt;blockquote&gt;
@@ -3323,7 +3323,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>ISS Astronauts Place Go Pro in a Bubble</title>
-   <link href="http://localhost:4000//link/2014/12/18/go-pro-astronauts.html"/>
+   <link href="http://localhost:4000//link/2014/12/18/go-pro-astronauts"/>
    <updated>2014-12-18T12:27:04-06:00</updated>
    <id>http://localhost:4000/link/2014/12/18/go-pro-astronauts</id>
    <content type="html">&lt;p&gt;I’d sure imagine it feels odd to operate in a world where this is daily life.&lt;/p&gt;
@@ -3332,7 +3332,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Hello World 3.0</title>
-   <link href="http://localhost:4000//article/2014/12/18/hello-world-3.0.html"/>
+   <link href="http://localhost:4000//article/2014/12/18/hello-world-3.0"/>
    <updated>2014-12-18T12:11:58-06:00</updated>
    <id>http://localhost:4000/article/2014/12/18/hello-world-3.0</id>
    <content type="html">&lt;p&gt;I’ve had a blog of some sorts off and on since late 2006. I never really wrote much except for a few ‘tip’ type posts for Mac OS X. A couple of years after that I started tweaking things on my site and figured out how to do &lt;a href=&quot;daringfireball.net&quot;&gt;Daring Fireball&lt;/a&gt; style link posts on &lt;a href=&quot;https://wordpress.org&quot;&gt;Wordpress&lt;/a&gt;.&lt;/p&gt;
@@ -3352,7 +3352,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Serial</title>
-   <link href="http://localhost:4000//link/2014/12/18/serial.html"/>
+   <link href="http://localhost:4000//link/2014/12/18/serial"/>
    <updated>2014-12-18T09:50:54-06:00</updated>
    <id>http://localhost:4000/link/2014/12/18/serial</id>
    <content type="html">&lt;p&gt;Season 1 has come to an end. If you have missed the whirlwind surrounding Serial, I highly suggest using the holiday travel season to binge listen.&lt;/p&gt;
@@ -3367,7 +3367,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Sound Effects Of The Millennium Falcon's Hyperdrive Malfunction</title>
-   <link href="http://localhost:4000//link/2014/12/15/millenium-falcons-hyperdrive-malfunction.html"/>
+   <link href="http://localhost:4000//link/2014/12/15/millenium-falcons-hyperdrive-malfunction"/>
    <updated>2014-12-15T09:55:12-06:00</updated>
    <id>http://localhost:4000/link/2014/12/15/millenium-falcons-hyperdrive-malfunction</id>
    <content type="html">&lt;p&gt;Ben Burtt shares the sounds that are combined to make the hyperdrive malfunction sound effect.&lt;/p&gt;
@@ -3376,7 +3376,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How Bourbon is Made</title>
-   <link href="http://localhost:4000//link/2014/12/08/how-bourbon-is-made.html"/>
+   <link href="http://localhost:4000//link/2014/12/08/how-bourbon-is-made"/>
    <updated>2014-12-08T11:07:22-06:00</updated>
    <id>http://localhost:4000/link/2014/12/08/how-bourbon-is-made</id>
    <content type="html">&lt;blockquote&gt;
@@ -3387,7 +3387,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Force Awakens - Teaser Trailer 1</title>
-   <link href="http://localhost:4000//link/2014/11/30/the-force-awakens.html"/>
+   <link href="http://localhost:4000//link/2014/11/30/the-force-awakens"/>
    <updated>2014-11-30T18:01:32-06:00</updated>
    <id>http://localhost:4000/link/2014/11/30/the-force-awakens</id>
    <content type="html">&lt;p&gt;And if you are the kind of person who likes an hour long discussion about a 90 second trailer, a &lt;a href=&quot;http://www.theincomparable.com/thieincomparable/222/index.php&quot;&gt;recent episode of The Incomparable&lt;/a&gt; may be just what the doctor ordered.&lt;/p&gt;
@@ -3396,7 +3396,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Catching the Catch on Camera</title>
-   <link href="http://localhost:4000//link/2014/11/25/catching-the-catch.html"/>
+   <link href="http://localhost:4000//link/2014/11/25/catching-the-catch"/>
    <updated>2014-11-25T09:27:46-06:00</updated>
    <id>http://localhost:4000/link/2014/11/25/catching-the-catch</id>
    <content type="html">&lt;blockquote&gt;
@@ -3407,7 +3407,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>What Will It Take To Run A 2-Hour Marathon</title>
-   <link href="http://localhost:4000//link/2014/11/14/sub-2-hour-marathon.html"/>
+   <link href="http://localhost:4000//link/2014/11/14/sub-2-hour-marathon"/>
    <updated>2014-11-14T12:03:48-06:00</updated>
    <id>http://localhost:4000/link/2014/11/14/sub-2-hour-marathon</id>
    <content type="html">&lt;h2 id=&quot;the-perfect-race&quot;&gt;The Perfect Race&lt;/h2&gt;
@@ -3437,7 +3437,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How in the Hell Did NFL Blitz Ever Get Made?</title>
-   <link href="http://localhost:4000//link/2014/11/09/nfl-blitz.html"/>
+   <link href="http://localhost:4000//link/2014/11/09/nfl-blitz"/>
    <updated>2014-11-09T10:01:44-06:00</updated>
    <id>http://localhost:4000/link/2014/11/09/nfl-blitz</id>
    <content type="html">&lt;blockquote&gt;
@@ -3448,7 +3448,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How to Buy Food: The Psychology of the Supermarket</title>
-   <link href="http://localhost:4000//link/2014/11/09/supermarket-psychology.html"/>
+   <link href="http://localhost:4000//link/2014/11/09/supermarket-psychology"/>
    <updated>2014-11-09T00:00:00-06:00</updated>
    <id>http://localhost:4000/link/2014/11/09/supermarket-psychology</id>
    <content type="html">&lt;blockquote&gt;
@@ -3463,7 +3463,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Pokémon's Famous Missingno Glitch, Explained</title>
-   <link href="http://localhost:4000//link/2014/11/08/pokemon-missingno-explained.html"/>
+   <link href="http://localhost:4000//link/2014/11/08/pokemon-missingno-explained"/>
    <updated>2014-11-08T17:13:43-06:00</updated>
    <id>http://localhost:4000/link/2014/11/08/pokemon-missingno-explained</id>
    <content type="html">&lt;blockquote&gt;
@@ -3474,7 +3474,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Honeymoon</title>
-   <link href="http://localhost:4000//photo/2012/05/20/honeymoon.html"/>
+   <link href="http://localhost:4000//photo/2012/05/20/honeymoon"/>
    <updated>2012-05-20T11:17:50-05:00</updated>
    <id>http://localhost:4000/photo/2012/05/20/honeymoon</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20120520-IMG_0509.jpg&quot; alt=&quot;20120520 IMG 0509&quot; title=&quot;20120520-IMG_0509.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
@@ -3487,7 +3487,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>How Much Would it Cost to build the Death Star?</title>
-   <link href="http://localhost:4000//link/2012/02/20/cost-to-build-deathstar.html"/>
+   <link href="http://localhost:4000//link/2012/02/20/cost-to-build-deathstar"/>
    <updated>2012-02-20T20:46:23-06:00</updated>
    <id>http://localhost:4000/link/2012/02/20/cost-to-build-deathstar</id>
    <content type="html">&lt;blockquote&gt;
@@ -3498,7 +3498,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Real Life Goldeneye 64</title>
-   <link href="http://localhost:4000//link/2012/02/20/real-life-goldeneye.html"/>
+   <link href="http://localhost:4000//link/2012/02/20/real-life-goldeneye"/>
    <updated>2012-02-20T12:25:23-06:00</updated>
    <id>http://localhost:4000/link/2012/02/20/real-life-goldeneye</id>
    <content type="html">&lt;p&gt;The memories are endless.&lt;/p&gt;
@@ -3507,7 +3507,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>It Ain't Blood, People</title>
-   <link href="http://localhost:4000//link/2011/09/30/it-aint-blod-people.html"/>
+   <link href="http://localhost:4000//link/2011/09/30/it-aint-blod-people"/>
    <updated>2011-09-30T15:35:56-05:00</updated>
    <id>http://localhost:4000/link/2011/09/30/it-aint-blod-people</id>
    <content type="html">&lt;p&gt;I’ve worked in a restaurant for 7 years and have heard every variation of, “Well done, I don’t want no blood left in that steak.” and “This isn’t cooked, there is still blood.” that you could imagine.&lt;/p&gt;
@@ -3521,7 +3521,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Peek Inside the Lamborghini Factory</title>
-   <link href="http://localhost:4000//link/2011/09/19/inside-lamborghini-factory.html"/>
+   <link href="http://localhost:4000//link/2011/09/19/inside-lamborghini-factory"/>
    <updated>2011-09-19T17:59:56-05:00</updated>
    <id>http://localhost:4000/link/2011/09/19/inside-lamborghini-factory</id>
    <content type="html">&lt;blockquote&gt;
@@ -3535,7 +3535,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>What Kids of the World Eat at School</title>
-   <link href="http://localhost:4000//link/2011/07/29/what-kids-eat-at-school.html"/>
+   <link href="http://localhost:4000//link/2011/07/29/what-kids-eat-at-school"/>
    <updated>2011-07-29T01:50:56-05:00</updated>
    <id>http://localhost:4000/link/2011/07/29/what-kids-eat-at-school</id>
    <content type="html">&lt;p&gt;What an embarrassment.&lt;/p&gt;
@@ -3544,7 +3544,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Over or Under: The Great Toilet Paper Debate</title>
-   <link href="http://localhost:4000//link/2011/07/15/over-or-under.html"/>
+   <link href="http://localhost:4000//link/2011/07/15/over-or-under"/>
    <updated>2011-07-15T20:50:56-05:00</updated>
    <id>http://localhost:4000/link/2011/07/15/over-or-under</id>
    <content type="html">&lt;blockquote&gt;
@@ -3555,7 +3555,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The 22 Rules of Backyard Wiffle Ball</title>
-   <link href="http://localhost:4000//link/2011/06/30/backyard-wiffleball.html"/>
+   <link href="http://localhost:4000//link/2011/06/30/backyard-wiffleball"/>
    <updated>2011-06-30T21:03:56-05:00</updated>
    <id>http://localhost:4000/link/2011/06/30/backyard-wiffleball</id>
    <content type="html">&lt;p&gt;Just in time for your July 4th game of wiffle ball.&lt;/p&gt;
@@ -3572,7 +3572,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Could There Be a Batman?</title>
-   <link href="http://localhost:4000//link/2011/05/27/could-there-be-a-batman.html"/>
+   <link href="http://localhost:4000//link/2011/05/27/could-there-be-a-batman"/>
    <updated>2011-05-27T23:23:56-05:00</updated>
    <id>http://localhost:4000/link/2011/05/27/could-there-be-a-batman</id>
    <content type="html">&lt;p&gt;A cluster of opinions and scenarios on whether or not The Dark Knight really could exist.&lt;/p&gt;
@@ -3581,7 +3581,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Scared Shitless: How I (Mostly) Learned to Love Being Afraid of Pretty Much Everything</title>
-   <link href="http://localhost:4000//link/2011/04/06/scared-shitless.html"/>
+   <link href="http://localhost:4000//link/2011/04/06/scared-shitless"/>
    <updated>2011-04-06T15:25:56-05:00</updated>
    <id>http://localhost:4000/link/2011/04/06/scared-shitless</id>
    <content type="html">&lt;p&gt;Video of &lt;a href=&quot;http://merlinmann.com&quot;&gt;Merlin Mann’s&lt;/a&gt; funny, tear-filled, terrifying and motivating talk from Webstock 2011.&lt;/p&gt;
@@ -3590,7 +3590,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Mercedes Benz: Left Brain - Right Brain</title>
-   <link href="http://localhost:4000//link/2011/03/07/mercedes-left-right.html"/>
+   <link href="http://localhost:4000//link/2011/03/07/mercedes-left-right"/>
    <updated>2011-03-07T16:59:56-06:00</updated>
    <id>http://localhost:4000/link/2011/03/07/mercedes-left-right</id>
    <content type="html">&lt;p&gt;A beautiful ad from Mercedes depicting the human brain.&lt;/p&gt;
@@ -3599,7 +3599,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Technology Behind The Aria Resort and Casino</title>
-   <link href="http://localhost:4000//link/2011/02/19/aria-technology.html"/>
+   <link href="http://localhost:4000//link/2011/02/19/aria-technology"/>
    <updated>2011-02-19T17:24:56-06:00</updated>
    <id>http://localhost:4000/link/2011/02/19/aria-technology</id>
    <content type="html">&lt;blockquote&gt;
@@ -3610,7 +3610,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Making of an Agent</title>
-   <link href="http://localhost:4000//link/2011/02/09/making-an-agent.html"/>
+   <link href="http://localhost:4000//link/2011/02/09/making-an-agent"/>
    <updated>2011-02-09T19:43:56-06:00</updated>
    <id>http://localhost:4000/link/2011/02/09/making-an-agent</id>
    <content type="html">&lt;blockquote&gt;
@@ -3623,7 +3623,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Inside the Secret Service</title>
-   <link href="http://localhost:4000//link/2011/02/09/inside-secret-service.html"/>
+   <link href="http://localhost:4000//link/2011/02/09/inside-secret-service"/>
    <updated>2011-02-09T16:39:56-06:00</updated>
    <id>http://localhost:4000/link/2011/02/09/inside-secret-service</id>
    <content type="html">&lt;blockquote&gt;
@@ -3634,7 +3634,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>People Cannot Walk in a Straight Line</title>
-   <link href="http://localhost:4000//link/2011/02/09/people-straight-line.html"/>
+   <link href="http://localhost:4000//link/2011/02/09/people-straight-line"/>
    <updated>2011-02-09T05:20:56-06:00</updated>
    <id>http://localhost:4000/link/2011/02/09/people-straight-line</id>
    <content type="html">&lt;p&gt;A well animated video of people trying to walk in a straight line while blindfolded and without a fixed point of reference.&lt;/p&gt;
@@ -3643,7 +3643,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Writing State Of The Union Speech: A Juggling Act</title>
-   <link href="http://localhost:4000//link/2011/01/25/writing-state-of-union.html"/>
+   <link href="http://localhost:4000//link/2011/01/25/writing-state-of-union"/>
    <updated>2011-01-25T18:49:56-06:00</updated>
    <id>http://localhost:4000/link/2011/01/25/writing-state-of-union</id>
    <content type="html">&lt;blockquote&gt;
@@ -3654,7 +3654,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Cracking The Credit Card Code</title>
-   <link href="http://localhost:4000//link/2011/01/24/cracking-credit-card-code.html"/>
+   <link href="http://localhost:4000//link/2011/01/24/cracking-credit-card-code"/>
    <updated>2011-01-24T03:30:56-06:00</updated>
    <id>http://localhost:4000/link/2011/01/24/cracking-credit-card-code</id>
    <content type="html">&lt;blockquote&gt;
@@ -3665,7 +3665,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>NYC</title>
-   <link href="http://localhost:4000//photo/2010/12/24/nyc.html"/>
+   <link href="http://localhost:4000//photo/2010/12/24/nyc"/>
    <updated>2010-12-24T11:03:54-06:00</updated>
    <id>http://localhost:4000/photo/2010/12/24/nyc</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/MG_1758.jpg&quot; alt=&quot;MG 1758&quot; title=&quot;_MG_1758.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
@@ -3684,7 +3684,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Creativity of a Sports Cameraman</title>
-   <link href="http://localhost:4000//link/2010/01/18/creativity-sports-cameraman.html"/>
+   <link href="http://localhost:4000//link/2010/01/18/creativity-sports-cameraman"/>
    <updated>2010-01-18T21:59:56-06:00</updated>
    <id>http://localhost:4000/link/2010/01/18/creativity-sports-cameraman</id>
    <content type="html">&lt;p&gt;A great video of the extensive power in the camera’s and lenses used in television broadcasts as well as some insight as to what is required of a cameraman during a game.&lt;/p&gt;
@@ -3693,7 +3693,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Ever Wondered What $1 Trillion Looks Like?</title>
-   <link href="http://localhost:4000//link/2009/03/13/one-trillion.html"/>
+   <link href="http://localhost:4000//link/2009/03/13/one-trillion"/>
    <updated>2009-03-13T21:19:56-05:00</updated>
    <id>http://localhost:4000/link/2009/03/13/one-trillion</id>
    <content type="html">&lt;p&gt;[&lt;em&gt;Gulp&lt;/em&gt;]&lt;/p&gt;
@@ -3702,7 +3702,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Obama's 'O'</title>
-   <link href="http://localhost:4000//link/2008/11/21/obamas-o.html"/>
+   <link href="http://localhost:4000//link/2008/11/21/obamas-o"/>
    <updated>2008-11-21T20:59:56-06:00</updated>
    <id>http://localhost:4000/link/2008/11/21/obamas-o</id>
    <content type="html">&lt;p&gt;Barrack Obama’s ‘O’ logo could be found everywhere throughout the election season. it is a design that I myself absolutely loved and had many times wondered, how it came to be. In my Communication Graphics class, we look at logos, typography, etc. So my eyes had been expanding to take notice of designing well-thought-out logos.&lt;/p&gt;
@@ -3721,7 +3721,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Seaside</title>
-   <link href="http://localhost:4000//photo/2008/06/10/seaside.html"/>
+   <link href="http://localhost:4000//photo/2008/06/10/seaside"/>
    <updated>2008-06-10T11:12:47-05:00</updated>
    <id>http://localhost:4000/photo/2008/06/10/seaside</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/14.jpg&quot; alt=&quot;14&quot; title=&quot;14.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
@@ -3736,7 +3736,7 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Dark Flower</title>
-   <link href="http://localhost:4000//photo/snapshot/2007/07/27/dark-flower.html"/>
+   <link href="http://localhost:4000//photo/snapshot/2007/07/27/dark-flower"/>
    <updated>2007-07-27T11:20:27-05:00</updated>
    <id>http://localhost:4000/photo/snapshot/2007/07/27/dark-flower</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20070727-Dark-Flower-300x225.jpg&quot; alt=&quot;&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-medium wp-image-1190&quot; /&gt;

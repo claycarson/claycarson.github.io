@@ -1,6 +1,7 @@
 ---
 title: 'Bits from Books &#8211; 2016'
 date: 2016-12-31T15:42:30+00:00
+layout: post
 categories: 
   - Article
 ---

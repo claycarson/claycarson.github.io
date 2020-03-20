@@ -3,7 +3,7 @@ layout: newsletter
 title:  February 2020
 date:   2020-02-01
 category: Newsletter
-description: Federer's finesse, James Bond watches, charting MLB pitches, scissors, maps, Roy family theme songs, and more.
+description: Federer's finesse, James Bond watches, charting MLB pitches, scissors, maps, Roy family theme songs, and more
 ---
 
 This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.

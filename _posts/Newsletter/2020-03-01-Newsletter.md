@@ -3,7 +3,7 @@ layout: newsletter
 title:  March 2020
 date:   2020-03-01
 category: Newsletter
-description: Spying on your friends, Pebble Beach Pro-Am, a real spy story, robot eyes, Tony Hawk Pro Skater, TV graphics and dirty hands.
+description: Spying on your friends, Pebble Beach Pro-Am, a real spy story, robot eyes, Tony Hawk Pro Skater, TV graphics and dirty hands
 ---
 
 This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.

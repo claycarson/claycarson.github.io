@@ -160,8 +160,8 @@ h2.display {
 	letter-spacing: var(--font-letterspacing)
 }
 
-.post {
-	font-size: 1em
+h3.display {
+	margin-top: 2rem;
 }
 
 small {
@@ -276,11 +276,15 @@ nav > a {
 }
 
 nav ul li strong a {
-	color: var(--color-accent)!important
+	color: var(--color-text)!important
 }
 
 nav ul li strong a:hover {
-	color: var(--color-text)!important
+	color: var(--color-accent)!important
+}
+
+.post {
+	font-size: 1em
 }
 
 footer {
@@ -508,4 +512,21 @@ article.recent {
 
 .linked-arrow a:hover {
 	color: var(--color-text)
+}
+
+.archive {
+	border: none;
+	border-bottom: 1px solid var(--color-lines);
+	width: 100%;
+	padding-bottom: 1rem;
+	margin: 0rem auto
+}
+
+.footnotes {
+	border: none;
+	border-top: 1px solid var(--color-lines);
+	width: 100%;
+	padding-top: 0rem;
+	margin: 0rem auto;
+	font-size: var(--font-size-small);
 }

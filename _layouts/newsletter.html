@@ -8,15 +8,11 @@ layout: default
 <h2 class="display">{{ page.title }}</h2>
 </div>
 </header>
-<div class="postbody">
+<div class="post">
 {{ content }}
 </div>
 </section>
 <hr>
-<section>
-<p class="intro">I started this newsletter in January of 2018. The motive is selfish; I was bookmarking too many articles and links that I didn't get around to reading. Filtering out the best to share helps me keep that list manageable. The full archive of previous newsletters is available <a href="#archive">below</a>.</p>
-</section>
-{% include newsletter-form.html %}
-
+<center>{% include newsletter-form.html %}</center>
 <a id="archive"></a>
 {% include newsletter-list.html %}
