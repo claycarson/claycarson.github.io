@@ -293,7 +293,7 @@ footer {
 	font-family: var(--font-sans);
 	font-size: var(--font-size-small);
 	letter-spacing: var(--font-letterspacing);
-	color: var(--color-sub)
+	color: var(--color-sub);
 }
 
 .horz-nav {
@@ -463,7 +463,10 @@ img {
 	width: 250px;
 	border-radius: 5px;
 	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px
+	-webkit-border-radius: 5px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
 }
 
 #mailchimp input.email {
