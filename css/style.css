@@ -3,9 +3,9 @@
 	--color-sub: #696F7E;
 	--color-lines: #D6D6D6;
 	--color-bg: #FFFFFF;
-	--color-accent: #C11F03;
+	--color-accent: #C15038;
 	--color-blue: #0070c9;
-	--color-red: #C11F03;
+	--color-red: #C15038;
 	--font-sans: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
 	--font-alt: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
 	--font-letterspacing: 0em;
@@ -385,7 +385,7 @@ ul.diary {
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-accent: #C11F03;
+		--color-accent: #C15038;
 		--color-text: #FFFFFF;
 		--color-sub: #696F7E;
 		--color-bg: #1E2125
