@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Before the Devil Knows You're Dead"
+        date: 2020-03-22
+        link: https://www.imdb.com/title/tt0292963/
+        creator:
+        star: No
+
       - title: "Fast & Furious Presents: Hobbs & Shaw"
         date: 2020-03-16
         link: https://www.imdb.com/title/tt6806448/
