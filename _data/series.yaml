@@ -33,6 +33,13 @@ current:
         star: yes 
       - title: Westworld
 complete:
+  - year: "2020"
+    item:
+      - title: "TigerKing"
+        date: 2020-03-23
+        link:
+        creator:
+        star: Yes
   - year: "2019"
     item:
       - title: "Don't F**k with Cats: Hunting an Internet Killer"
