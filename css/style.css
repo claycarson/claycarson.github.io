@@ -461,9 +461,9 @@ img {
 	padding: 8px 10px;
 	font-size: .8rem;
 	width: 250px;
-	border-radius: 7px;
-	-moz-border-radius: 7px;
-	-webkit-border-radius: 7px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
