@@ -481,6 +481,7 @@ img {
 	background: var(--color-accent);
 	border: 1px solid var(--color-accent);
 	color: #fff;
+	font-weight: 700;
 	cursor: pointer;
 	width: 100px;
 	padding: 8px 0
