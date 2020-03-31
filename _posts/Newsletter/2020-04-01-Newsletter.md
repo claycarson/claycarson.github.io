@@ -3,7 +3,7 @@ layout: newsletter
 title:  April 2020
 date:   2020-04-01
 category: Newsletter
-description: 
+description: Cartographer pranks, a missing tune, HEB's preparedness, Covid Corner
 ---
 
 This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
