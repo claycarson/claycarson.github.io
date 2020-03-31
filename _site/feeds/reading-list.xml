@@ -4,7 +4,7 @@
     <atom:link href="http://localhost:4000//reading-list.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000//reading</link>
     <description>Books Clay Carson has read. Starred = Recommended.</description>
-    <pubDate>Sat, 21 Mar 2020 15:13:59 -0500</pubDate>
+    <pubDate>Tue, 31 Mar 2020 15:57:19 -0500</pubDate>
     
   </channel>
 </rss>
