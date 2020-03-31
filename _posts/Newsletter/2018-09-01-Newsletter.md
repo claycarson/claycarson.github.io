@@ -6,10 +6,6 @@ categories: Newsletter
 description: Goldeneye 64, rigging McDonald's Monopoply, the sounds of English, yellow things that hurt
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## Dun-Dun—Dunnnn
 
 [An Oral History of ‘GoldenEye 007’ on the N64](https://melmagazine.com/an-oral-history-of-goldeneye-007-on-the-n64-129844f1c5ab)
@@ -31,11 +27,3 @@ And just to cut to the chase…
 - [What If English Were Phonetically Consistent?](https://youtu.be/A8zWWp0akUU "What If English Were Phonetically Consistent?")
 - [A Comprehensive Guide to Yellow Stripey Things](https://kottke.org/18/08/a-comprehensive-guide-to-yellow-stripey-things "A Comprehensive Guide to Yellow Stripey Things")
 - [Where Do Sports Terms Come From?](https://www.nytimes.com/2018/08/06/sports/sports-cliches-metaphors.html "We Use Sports Terms All the Time. But Where Do They Come From?")
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

@@ -6,10 +6,6 @@ category: Newsletter
 description: Federer's finesse, James Bond watches, charting MLB pitches, scissors, maps, Roy family theme songs, and more
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## Transcendent
 
 [Roger Federer as Religious Experience](https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html "Roger Federer as Religious Experience")
@@ -37,11 +33,3 @@ You can follow me more closely at [my personal website](http://claycarson.net "P
 - [Instagram for Windows 95](https://www.behance.net/gallery/41023081/Instagram-for-Win95 "Instagram for Win95")
 - [Long Bets](http://longbets.org/bets/ "Long Bets")
 - [Sign Stealing Scandal](http://signstealingscandal.com/players/ "Sign Stealing Scandal")
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

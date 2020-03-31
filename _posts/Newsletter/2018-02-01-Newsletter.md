@@ -6,10 +6,6 @@ categories: Newsletter
 description: Prime numbers, garbage collection, eyes, ears, and the inner workings
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## Prime Time
 
 [50th Known Mersenne Prime Discovered: 2^77,232,917-1](https://www.mersenne.org/primes/press/M77232917.html "50th Known Mersenne Prime Discovered")
@@ -65,11 +61,3 @@ Ryan Holiday translates stoic ideas into modern language. I highly recommend _[T
 > *- Ryan Holiday*
 
 Get a copy [here](https://www.amazon.com/dp/B00G3L1B8K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 "The Obstacle is the Way: The Timeless Art of Turning Trials into Triumph").
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

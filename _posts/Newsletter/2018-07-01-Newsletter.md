@@ -6,10 +6,6 @@ categories: Newsletter
 description: World Cup soccer balls, Hell in a Cell, athlete's bodies, delivering Amazon packages
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## The Cup and the Ball
 
 [How the New World Cup Ball was Designed to Not Influence the Games](https://www.popsci.com/world-cup-ball-design#page-2 "How the new World Cup ball was designed to not influence the games")
@@ -46,11 +42,3 @@ In his second book, Living with the Monks, Itzler goes to live on a monastery fo
 > *- Jesse Itzler*
 
 Get a copy [here](https://www.amazon.com/Living-Monks-Turning-Happiness-Gratitude/dp/1478993421 "Living with the Monks").
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

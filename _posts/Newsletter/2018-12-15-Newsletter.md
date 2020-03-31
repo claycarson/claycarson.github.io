@@ -6,10 +6,6 @@ categories: Newsletter
 description: New kilogram, Angels with Filthy Souls, and the behaviors of AI
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## Au Revoir, Le Grand K
 
 [Mass of a Kilogram to be Redefined](https://www.sciencenews.org/article/official-redefining-kilogram-units-measurement)
@@ -59,11 +55,3 @@ Out of Bostrom’s thought exercise came [Joscha Bach’s](https://twitter.com/p
 - [A Journey Around Earth in Real Time](https://www.youtube.com/watch?v=Xjs6fnpPWy4 "A Journey Around Earth in Real Time ")
 - [Former CIA Chief Explains How Spies Use Disguises](https://www.youtube.com/watch?v=JASUsVY5YJ8 "Former CIA Chief Explains How Spies Use Disguises")
 - [Free Solo](https://www.youtube.com/watch?v=urRVZ4SW7WU "Free Solo")
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

@@ -6,10 +6,6 @@ categories: Newsletter
 description: Architectural photographers, zippers, making friends, the flow of Manhattan, Homer's route
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## Architectural and Interiors Photographers
 
 I’ve found myself going off the deep end of architectural and interiors photography in the last few weeks. Below are a few links to some work I’ve been admiring.
@@ -49,11 +45,3 @@ Hall’s colleagues developed an [”Interactive Friendship Tool”](https://mik
 - [An interactive map of the locations in Homer’s The Odyssey](http://esripm.maps.arcgis.com/apps/MapTour/index.html?appid=4fc9153f4d9248b9bab7011e3950b552&webmap=962ca9da38bf4c5e9439a6acf3dd1b3e "An interactive map of the locations in Homer’s The Odyssey")
 - [The Unseen Collection at the National Museum of Natural History](https://www.featureshoot.com/2016/05/the-unseen-collection-at-the-national-museum-of-natural-history/ "The Unseen Collection at the National Museum of Natural History")
 - [The First 40 Years of Personal Computing](https://mobile.twitter.com/asymco/status/831961922312470528/photo/1 "The First 40 Years of Personal Computing")
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

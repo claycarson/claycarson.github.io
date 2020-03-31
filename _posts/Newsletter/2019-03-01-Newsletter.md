@@ -6,10 +6,6 @@ category: Newsletter
 description: Aberdeen's Heliport, Neighborhood Golf Association, creating SNL
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## Aberdeen Air
 
 [The World’s Busiest Commercial Heliport](https://spark.adobe.com/page/Hf608dyPNOsVY/ "The World’s Busiest Commercial Heliport")
@@ -31,11 +27,3 @@ You can follow me more closely at [my personal website](http://claycarson.net "P
 - [Cell —\> Tadpole](https://www.youtube.com/watch?v=7Q9VyHJ1l2Q "Cell --> Tadpole")
 - [Creating Saturday Night Live](https://www.youtube.com/playlist?list=PLS_gQd8UB-hLbR-ustuOtdgZ1U1y8037a "Creating Saturday Night Live")
 - [Barely Maps](https://www.barelymaps.com/ "Barely Maps")
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

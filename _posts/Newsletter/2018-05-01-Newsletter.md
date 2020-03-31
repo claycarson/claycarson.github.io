@@ -7,10 +7,6 @@ categories: Newsletter
 description: Y.M.C.A, addictive foods, canine gaits, Rocky choreography
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## “Hey Watson, what’s my personality?”
 
 [IBM Watson’s Personality Insights](https://personality-insights-demo.ng.bluemix.net "IBM Watson’s Personality Insights")
@@ -49,11 +45,3 @@ You can follow me more closely at [my personal website](http://claycarson.net "P
 > *- Marshall Goldsmith*
 
 Get a copy [here](https://www.amazon.com/Triggers-Creating-Behavior-Lasts-Becoming-Person/dp/0804141231 "Triggers: Creating Behavior That Lasts").
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

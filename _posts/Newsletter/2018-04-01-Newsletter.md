@@ -6,10 +6,6 @@ categories: Newsletter
 description: Mr. Rogers, battle royale, phone scams
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## Mister Rogers’ Neighborhood
 
 [Can you say…Hero?](https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/ "Can You Say, Hero?")
@@ -54,11 +50,3 @@ I think it is widely agreed that Fortnite is a better game. Fortnite is a blast 
 > *- Ryan Holiday*
 
 Get a copy [here](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818/ref=sr_1_2?ie=UTF8&qid=1522336862&sr=8-2&keywords=ego+is+the+enemy "Ego is the Enemy").
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

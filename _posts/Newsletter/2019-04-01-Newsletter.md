@@ -6,10 +6,6 @@ category: Newsletter
 description: iPhone prototype, 52!, algorithms, ocean cables, what happens every second
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## M68
 
 [An Exclusive Look at an Original iPhone Prototype](https://www.theverge.com/2019/3/19/18263844/apple-iphone-prototype-m68-original-development-board-red)
@@ -66,11 +62,3 @@ There's barely any change. 5.364x1067 seconds.
 - [Data is in the Ocean, Not the Cloud](https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html?smid=nytcore-ios-share "‘People think that data is in the
 	cloud, but it’s not. It’s in the ocean.’")
 - [Every Second](http://www.everysecond.io "Every Second")
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

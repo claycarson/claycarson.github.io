@@ -3,7 +3,6 @@ layout: page
 title: Newsletter
 permalink: /newsletter/
 ---
-
 <section>
 <h1 class="display">Newsletter</h1>
 <p class="intro">I started this newsletter in January of 2018. The motivation was selfish; I was bookmarking too many articles and links that I didn't get around to reading. Filtering out the best to share helps me keep that list manageable. The full archive of previous editions is available <a href="#archive">below</a>.</p>
@@ -13,7 +12,10 @@ permalink: /newsletter/
 <section>
 {% for post in site.categories.Newsletter limit:1 %}
 <h2 class="display"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<div class="post">{{ post.content }}</div>
+<div class="post">{% include newsletter-intro.html %}
+{{ post.content }}
+{% include newsletter-outro.html %}
+</div>
 {% endfor %}
 </section>
 <a id="archive"></a>

@@ -6,26 +6,6 @@ summary:
 categories: Newsletter
 published: false
 ---
-
-# October 2017
-
-## Introduction
-
-This newsletter is a collection of things I have found in the last month that in some way made me better or that I found interesting enough to share.
-
-Enjoy!
-
-Clay
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
-[Twitter](http://twitter.com/claycarson "Twitter")
-[Facebook](http://facebook.com/claycarson "Facebook")
-[Instagram](http://instagram.com/claycarson "Instagram")
-
-*I use affiliate links when available.*
-
-
 ## What is the plan?
 
 I haven’t completely flushed out what I want this newsletter to be. I want it to be based around some combination of things I stumble upon and the things I have been interested in during the previous month.
@@ -86,11 +66,3 @@ A highlight from a book I read this month...
 > *Kleon, Austin*
 
 Get a copy [here](amazon.com "Steal Like an Artist").
-
-## Sign off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

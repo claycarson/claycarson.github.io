@@ -6,10 +6,6 @@ category: Newsletter
 description: Scalpers, the most unethical team in baseball, a cameo by Nixon, empty NYC, fancy algorithms, golf course gambling
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## In the Event of an Apollo 11 Disaster
 
 [The Moon Landing: An Undelivered Nixon Speech](https://watergate.info/1969/07/20/an-undelivered-nixon-speech.html "The Moon Landing: An Undelivered Nixon Speech")
@@ -47,11 +43,3 @@ And for good measure, let’s not forget the [disgusting behavior by both the As
 - [No Context Baby Yoda](https://twitter.com/nocntxtbabyyoda "No Context Baby Yoda")
 - [An algorithm that removes the water from underwater images](https://www.youtube.com/watch?v=ExOOElyZ2Hk "An algorithm that removes the water from underwater images")
 - [The Best Golf Gambling Stories from PGA Tour Stars](https://www.actionnetwork.com/golf/pga-tour-stars-gambling-betting-stories-golf-rory-mcilroy-rickie-fowler-justin-thomas "The Best Golf Gambling Stories from PGA Tour Stars")
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay

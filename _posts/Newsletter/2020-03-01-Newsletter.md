@@ -6,10 +6,6 @@ category: Newsletter
 description: Spying on your friends, Pebble Beach Pro-Am, a real spy story, robot eyes, Tony Hawk Pro Skater, TV graphics and dirty hands
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
 ## Ready for your close up?
 
 [Your Visitors Deserve to Know They’re on Camera](https://www.nytimes.com/2019/10/07/opinion/security-camera-privacy.html)
@@ -42,11 +38,3 @@ Quoted law professor Elizabeth Joh also co-hosts the tremendously educational po
 - [Pretending I'm a Superman - The Tony Hawk Video Game Story Trailer](https://www.youtube.com/watch?v=vpD1ZrT9T4Y "Pretending I'm a Superman - The Tony Hawk Video Game Story Trailer")
 - [Super Bowl LIV: A graphical review](https://tv.avclub.com/fox-redesigns-its-nfl-graphics-for-the-point-your-phone-1841522459 "Super Bowl LIV: A graphical review")
 - [The Fist Bump: A more hygienic alternative to the handshake](https://www.sciencedirect.com/science/article/abs/pii/S0196655314006592 "The fist bump: A more hygienic alternative to the handshake")
-
-## Sign Off
-
-Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
-
-Thanks for reading. Have a great month,
-
-Clay
