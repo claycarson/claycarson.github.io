@@ -6,6 +6,10 @@ categories: Newsletter
 description: Good enough, Charles Barkley's bud, hydraulic press channel, some books
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## Simply The Best
 
 [The Best Doesn’t Exist.](https://www.vox.com/the-goods/2018/12/12/18112538/best-search-choices-psychology-barry-schwartz)
@@ -43,3 +47,11 @@ Three of these are definitely on my list.
 1. [Educated: A Memoir](https://www.amazon.com/Educated-Memoir-Tara-Westover-ebook/dp/B072BLVM83/ref=sr_1_1?s=books&ie=UTF8&qid=1546015540&sr=1-1&keywords=educated "Educated: A Memoir")
 2. [21 Lessons for the 21st Century](https://www.amazon.com/s/ref=nb_sb_ss_i_1_31?url=search-alias%3Dstripbooks&field-keywords=21+lessons+for+the+21st+century+by+yuval+noah+harari&sprefix=21+lessons+for+the+21st+century%2Cstripbooks%2C162&crid=CBXF566BXQHX "21 Lessons for the 21st Century") - Yuval Noah Harari won me over with [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095 "Sapiens") and [Homo Deus](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0062464310&pd_rd_r=f1c5bce9-0abf-11e9-b54d-a3f4d08ced8f&pd_rd_w=v5lNU&pd_rd_wg=ggnay&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=N8SRQH1V5QKPXVACSCAM&psc=1&refRID=N8SRQH1V5QKPXVACSCAM "Homo Deus") — the past and the future. Nice of him to make his next stop the present.
 3. [The Headspace Guide to Meditation and Mindfulness](https://www.amazon.com/Get-Some-Headspace-Mindfulness-Minutes-ebook/dp/B006ZL1KAW/ref=sr_1_1?s=books&ie=UTF8&qid=1546015593&sr=1-1&keywords=The+Headspace+Guide+to+Meditation+and+Mindfulness "The Headspace Guide to Meditation and Mindfulness") - I’ve tried meditation and the only thing that felt like it made sense was Andy Puddicombe’s app, [Headspace](http://headspace.com "Headspace").
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

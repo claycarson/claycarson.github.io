@@ -6,6 +6,10 @@ category: Newsletter
 description: Prison tattoos, Apollo 11 in real time, perfect pitch and Synaesthesia. Plus, toy restoration, knot tying, and Pebble Beach in the 20's
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## Ow
 
 [The Underground Art of Prison Tattoos](https://www.themarshallproject.org/2019/06/07/the-underground-art-of-prison-tattoos)
@@ -37,3 +41,11 @@ description: Prison tattoos, Apollo 11 in real time, perfect pitch and Synaesthe
 - [Rescue and Restore - Toy Restoration](https://www.youtube.com/user/theDIYSRC/videos)
 - [Animated Knots Tying](https://www.animatedknots.com/)
 - [Pebble Beach in 1929](https://mobile.twitter.com/shistorians/status/1140439277991530499 "Pebble Beach in 1929")
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

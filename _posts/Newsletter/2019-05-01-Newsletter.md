@@ -6,6 +6,10 @@ category: Newsletter
 description: A lot of legos, a word from number 12, robot umpires, daylight hours, sunshine, animating Into the Spider-Verse, Banksy authentication
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## Lego Tower
 
 [Analysis: How many stacked Lego’s would it take to destroy the bottom Lego](https://www.scribd.com/document/66096946/A-Redditor-s-Dilemma "Analysis: How many stacked Lego’s would it take to destroy the bottom Lego")
@@ -37,3 +41,11 @@ From the unique perspective of Golden Bell:
 - [How Animators Created the Spider-Verse](https://www.youtube.com/watch?v=l-wUKu_V2Lk "How Animators Created the Spider-Verse")
 - [Quick Draw with Google](https://quickdraw.withgoogle.com "Quick Draw with Google")
 - [How Banksy Authenticates His Work](https://reprage.com/post/how-banksy-authenticates-his-work "How Banksy Authenticates His Work")
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

@@ -1,11 +1,20 @@
 :root {
-	--color-text: #333;
+	--color-text: #333333;
 	--color-sub: #696F7E;
 	--color-lines: #D6D6D6;
 	--color-bg: #FFFFFF;
 	--color-accent: #C15038;
+	--color-accent: #0070c9;
+	--color-red: #C15038;
+	--color-red-alt: #FA4641;	
 	--color-blue: #0070c9;
 	--color-red: #C15038;
+	--color-yellow: #FDC942;
+	--color-green: #6BC97A;
+	--color-purple: #926CE7;			
+	--color-light-grey: #F3F3F3;
+	--color-mid-grey: #D6D6D6;
+	--color-dark-grey: #333333;
 	--font-sans: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
 	--font-alt: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
 	--font-letterspacing: 0em;
@@ -387,7 +396,7 @@ ul.diary {
 	:root {
 		--color-accent: #C15038;
 		--color-text: #FFFFFF;
-		--color-sub: #696F7E;
+		--color-sub: #F3F3F3;
 		--color-bg: #1E2125
 	}
 

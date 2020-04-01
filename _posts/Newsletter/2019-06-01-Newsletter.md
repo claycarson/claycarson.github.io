@@ -6,6 +6,10 @@ category: Newsletter
 description: Mueller's PDF, Na's struggles, mechanical movements, airline logos, baseball, dirty cars
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## Bob, Why a PDF?
 
 [A Technical and Cultural Assessment of the Mueller Report PDF](https://www.pdfa.org/a-technical-and-cultural-assessment-of-the-mueller-report-pdf/ "A Technical and Cultural Assessment of the Mueller Report PDF")
@@ -33,3 +37,11 @@ Seriously painful to watch: “[Pull the trigger!](https://www.youtube.com/watch
 - [The Foul Lines of Major League Baseball](http://flipflopflyin.com/flipflopflyball/info-foullines.html)
 - [And Dozen’s More Baseball Infographics](http://flipflopflyin.com/flipflopflyball/infographics.html "Baseball Infographics")
 - [Dirty Car Art](http://www.dirtycarart.com/grime-scene/# "Dirty Car Art")
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

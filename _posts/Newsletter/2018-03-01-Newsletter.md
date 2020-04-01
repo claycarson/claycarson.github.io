@@ -6,6 +6,10 @@ categories: Newsletter
 description: Bendy straws, Olympic fanfare, verbs, mosquito memories
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 
 ## Slurp
 
@@ -61,3 +65,11 @@ This book is atop almost every ‘greatest books’ list I have ever seen.
 > *- Viktor Frankl*
 
 Get a copy [here](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X "Man's Search for Meaning").
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

@@ -6,6 +6,10 @@ categories: Newsletter
 description: Dryptosaurus, good design, Bo Burnham's POV
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 
 ## Home is Where the [Dryptosaurus](http://dinosaurpictures.org/Dryptosaurus-pictures "Dryptosaurus") is
 
@@ -50,3 +54,11 @@ Bill Gates has his [5 books worth reading this summer](https://www.gatesnotes.co
 > I’ve read some terrific books lately. When I pulled together this list of five that you might enjoy this summer, I realized that several of my choices wrestle with big questions. What makes a genius tick? Why do bad things happen to good people? Where does humanity come from, and where are we headed?
 
 I’m in the middle of [Factfulness](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814 "Factfulness"). Gates provides some [great notes](https://www.gatesnotes.com/Books/Factfulness "Gates Notes") about the book.
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

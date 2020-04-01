@@ -6,6 +6,10 @@ category: Newsletter
 description: Dumps in the dark, Amazon's Ring surveillance, Americans and driving, the first day at Disneyland, waste, a man in a bush, and the scale of the Apollo 11 landing site
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## “The (C)Rapture”
 
 [On Pooping in the Dark—No Lights, No Phones, No Distractions](https://www.wired.com/story/pooping-dark/?verso=true "On Pooping in the Dark—No Lights, No Phones, No Distractions")
@@ -43,3 +47,11 @@ description: Dumps in the dark, Amazon's Ring surveillance, Americans and drivin
 > *- Dr. Alister MacKenzie*
 
 Get a copy [here](https://www.amazon.com/Golf-Architecture-Economy-Construction-Green-Keeping/dp/1733591141 "Golf Architecture: Economy in Course Construction and Green-Keeping"). Cost: $3, 1 hour - easily a worthwhile exchange.
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

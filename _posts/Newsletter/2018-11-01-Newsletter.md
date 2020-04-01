@@ -6,6 +6,10 @@ categories: Newsletter
 description: Being Darius Miles, creating Stardew Valley, Mercator scale, 1px Moon
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## “Listen, it takes a long time to go broke buying Ferraris”
 
 [What the Hell Happened to Darius Miles?](https://www.theplayerstribune.com/en-us/articles/what-the-hell-happened-to-darius-miles "What the Hell Happened to Darius Miles?")
@@ -55,3 +59,11 @@ When I first played Stardew Valley all I wanted was to play it on an iPad. [Star
 
 - [If the Moon Were 1px](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html "If the moon were 1px")
 - [The “Lost” Empire Strikes Back Documentary](https://www.youtube.com/watch?v=YeB-uXGGaEU "The “Lost” Empire Strikes Back Documentary")
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

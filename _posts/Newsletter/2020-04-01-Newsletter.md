@@ -6,6 +6,10 @@ category: Newsletter
 description: Cartographer pranks, a missing tune, HEB's preparedness, Covid Corner
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## I Spy a Marmot
 
 [For Decades, Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland’s Official Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
@@ -51,3 +55,11 @@ Listen to the episode before checking out this interview with one of Reply All�
 - Penguin Jailbreak: [Part 1](https://twitter.com/cottoncandaddy/status/1239998469948858368 "Penguin Jailbreak Part 1") and [Part 2](https://twitter.com/i/web/status/1239663996950773761 "Penguin Jailbreak Part 2")
 - [Rory McIlroy on Stoicism](https://www.youtube.com/watch?v=tsegDV9aZvk)
 - [A look at everything inside the golf bags of the Tour’s elite](https://www.golf.com/gear/pros-bags/2020/03/03/whats-in-the-bag-golf-com-gallery/ "A look at everything inside the golf bags of the Tour’s elite")
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

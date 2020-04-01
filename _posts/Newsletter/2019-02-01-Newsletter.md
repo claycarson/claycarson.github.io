@@ -6,6 +6,10 @@ category: Newsletter
 description: Honnold's brain, Putting, being a cable guy, the most meaningless game of baseball
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## “Is my brain intact?”
 
 [The Strange Brain of the World’s Greatest Solo Climber](http://nautil.us/issue/61/coordinates/the-strange-brain-of-the-worlds-greatest-solo-climber-rp "The Strange Brain of the World’s Greatest Solo Climber")
@@ -51,3 +55,11 @@ Bryson DeChambeau, the most scientific player on tour (at least boastfully), [sa
 - [Inverted Grand Canyon](https://adventuresinmapping.com/2019/01/10/inverted-grand-canyon/ "Inverted Grand Canyon")
 - [G-y-l-l-e-n-h-a-a-l](https://twitter.com/HalfEatenScone/status/1084855992154640388)
 - [The Speed of Light on Earth](https://www.youtube.com/watch?v=WJqg3B2_Kwc "The Speed of Light on Earth")
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

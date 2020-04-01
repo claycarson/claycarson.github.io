@@ -12,9 +12,8 @@ permalink: /newsletter/
 <section>
 {% for post in site.categories.Newsletter limit:1 %}
 <h2 class="display"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<div class="post">{% include newsletter-intro.html %}
+<div class="post">
 {{ post.content }}
-{% include newsletter-outro.html %}
 </div>
 {% endfor %}
 </section>

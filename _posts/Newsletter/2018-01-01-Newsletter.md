@@ -6,6 +6,10 @@ categories: Newsletter
 description: Paperclips, Planet Earth, movie props, drone view of NYC, Hey Arnold
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## The Way The World Ends: Not With A Bang But A Paperclip
 
 [Wired](https://www.wired.com/story/the-way-the-world-ends-not-with-a-bang-but-a-paperclip/ "Wired") takes a look at *[Paperclips](http://www.decisionproblem.com/paperclips/index2.html "Paperclips")*, a clicker game from  [Frank Lantz](http://gamecenter.nyu.edu/faculty/frank-lantz/ "Frank Lantz") based on speculations in Nick Bostrom’s *[Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742 "Superintelligence: Paths, Dangers, Strategies")*.
@@ -45,3 +49,11 @@ A [Seth Godin](http://sethgodin.typepad.com/seths_blog/2009/04/first-ten-.html "
 > ‘First, Ten,’ and it is a simple theory of marketing that says: tell ten people, show ten people, share it with ten people; ten people who already trust you and already like you. If they don’t tell anybody else, it’s not that good and you should start over. If they do tell other people, you’re on your way.”
 
 I suppose my hope is that 10 of you might share this first issue as a way of showing me you have enjoyed it.
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

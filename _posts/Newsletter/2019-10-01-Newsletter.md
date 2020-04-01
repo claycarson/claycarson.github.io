@@ -6,6 +6,10 @@ category: Newsletter
 description: The bubble boy, chess diet, 58008, other body parts, pencils, and pianos
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 <!--more-->
 
 ## A Burst Bubble
@@ -29,3 +33,11 @@ description: The bubble boy, chess diet, 58008, other body parts, pencils, and p
 - [250 Words you can spell with a calculator](http://blog.presentandcorrect.com/250-words-you-can-spell-with-a-calculator)
 - [Can You Hear the Difference Between Cheap and Expensive Pianos?](https://www.youtube.com/watch?v=xd2TL88T9_s)
 - [How Pencils are Made](https://www.youtube.com/watch?v=aPb-slJH9Vs)
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

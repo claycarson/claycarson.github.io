@@ -6,6 +6,10 @@ category: Newsletter
 description: Where is everybody, college golf powerhouses, spinning planets, landing on boats, hot ice, the king is dead, long live the king
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## Track Attack
 
 [One Nation, Tracked](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
@@ -27,3 +31,11 @@ description: Where is everybody, college golf powerhouses, spinning planets, lan
 - [iFixit’s Mac Pro 2019 Teardown](https://www.ifixit.com/Teardown/Mac+Pro+2019+Teardown/128922 "iFixit’s Mac Pro 2019 Teardown")
 - [“Hot Ice! I heat up the ice cubes. It’s the best of both worlds!”](https://www.youtube.com/watch?v=hC5THQfNTSY "Hot Ice")
 - [The Death of a King](https://travelguideandphotography.com/2018/04/23/the-death-of-a-king/ "The Death of a King")
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay

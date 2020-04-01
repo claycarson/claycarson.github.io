@@ -6,6 +6,10 @@ category: Newsletter
 description: A heap of computer code, robot written articles, what does money buy you, F1, circles, YouTube compression, our planetary neighbors, 2 hour marathon, and G's.
 ---
 
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
 ## Code Red
 
 [The Lines of Code That Changed Everything](https://slate.com/technology/2019/10/consequential-computer-code-software-history.html)
@@ -38,3 +42,11 @@ Some personal favorite: The Apollo 11 Lunar Module’s BAILOUT Code, The One-Lin
 - [How fast is a 2 hour marathon pace?](https://www.youtube.com/watch?v=Ds21U7coQzI&feature=youtu.be)
 - [What Planet is Closest?](https://www.youtube.com/watch?v=SumDHcnCRuU& "Which Planet is Closest?") ([Follow up](https://www.youtube.com/watch?v=SumDHcnCRuU& "Re: Which Planet is Closest?"))
 
+
+## Sign Off
+
+Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
+
+Thanks for reading. Have a great month,
+
+Clay
