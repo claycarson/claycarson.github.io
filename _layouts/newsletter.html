@@ -1,17 +1,6 @@
----
-layout: default
----
-<section>
-<header>
-<div>
+{% include head.html %}
+{% include start.html %}
 <h2 class="display">{{ page.title }}</h2>
-</div>
-</header>
-<div class="post">
 {{ content }}
-</div>
-</section>
-<hr>
-<center>{% include newsletter-form.html %}</center>
-<a id="archive"></a>
-{% include newsletter-list.html %}
+{% include footer.html %}
+{% include end.html %}

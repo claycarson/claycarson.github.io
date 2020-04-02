@@ -1,11 +1,9 @@
----
-layout: default
----
-
-<section>
-<h1 class="display">Thinking</h1>
-</section>
+{% include head.html %}
+{% include start.html %}
+<h2 class="display">{{ page.title }}</h2>
 <div class="post">
 {{ content }}
 <small>{{ page.date | date: "%Y-%m-%d" }}</small>
-</div>
+{{ content }}
+{% include footer.html %}
+{% include end.html %}

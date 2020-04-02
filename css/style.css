@@ -4,7 +4,6 @@
 	--color-lines: #D6D6D6;
 	--color-bg: #FFFFFF;
 	--color-accent: #C15038;
-	--color-accent: #0070c9;
 	--color-red: #C15038;
 	--color-red-alt: #FA4641;	
 	--color-blue: #0070c9;
@@ -77,19 +76,6 @@ main {
 
 .contain {
 	margin: 5rem 0
-}
-
-.contain .contain {
-	margin: 0
-}
-
-.contain.sticky > div:first-child,.contain.sticky > header:first-child {
-	height: 100%
-}
-
-.contain.sticky > div:first-child h1,.contain.sticky > div:first-child h2,.contain.sticky > div:first-child h3 {
-	position: sticky;
-	top: 0
 }
 
 .contain.sticky > header:first-child div {
@@ -189,14 +175,43 @@ time {
 	display: block
 }
 
-a,a:visited {
+.post a {
 	color: var(--color-text);
 	text-decoration: none;
 	background-image: linear-gradient(to bottom,var(--color-accent) 50%,var(--color-accent) 50%);
 	background-repeat: repeat-x;
-	background-size: 1px 1px;
+	background-size: 2px 2px;
 	background-position: 0 100%;
-	transition: color .2s ease
+	transition: color .2s ease;
+	animation: pulse 180s infinite;
+}
+
+@keyframes pulse {
+  0%   {background:red; left:0px; top:0px;}
+  25%  {background:yellow; left:200px; top:0px;}
+  50%  {background:blue; left:200px; top:200px;}
+  75%  {background:green; left:0px; top:200px;}
+  100% {background:red; left:0px; top:0px;}
+}
+
+.post a:hover {
+	color: var(--color-accent)
+}
+
+.post a:active {
+	color: var(--color-text)
+}
+
+
+
+a {
+	color: var(--color-text);
+	text-decoration: none;
+	background-image: linear-gradient(to bottom,var(--color-accent) 50%,var(--color-accent) 50%);
+	background-repeat: repeat-x;
+	background-size: 2px 2px;
+	background-position: 0 100%;
+	transition: color .2s ease;
 }
 
 a:hover {
@@ -206,6 +221,8 @@ a:hover {
 a:active {
 	color: var(--color-text)
 }
+
+
 
 cite {
 	font-size: var(--font-size-small);
@@ -295,6 +312,26 @@ nav ul li strong a:hover {
 .post {
 	font-size: 1em
 }
+
+/* 
+.post a,a:visited {
+	color: var(--color-accent);
+	text-decoration: none;
+	background-image: linear-gradient(to bottom,var(--color-accent) 50%,var(--color-accent) 50%);
+	background-repeat: repeat-x;
+	background-size: 1px 1px;
+	background-position: 0 100%;
+	transition: color .2s ease
+}
+
+.post a:hover {
+	color: var(--color-accent)
+}
+
+.post a:active {
+	color: var(--color-text)
+}
+ */
 
 footer {
 	padding: 5rem 0 0;
