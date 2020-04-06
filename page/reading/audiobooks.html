@@ -4,9 +4,9 @@ title: Audiobooks
 permalink: /reading/audiobooks/
 ---
 
-<h1 class="display">Listening</h1>
+<div class="headline"><h2>{{ page.title }}</h2></div>
 <p class="intro">Audiobooks really got me interested in 'reading' several years ago. The truth is, the increase in good podcast content has slowed my audiobook consumption.</p>
-<div class="contain baseline sticky">
+<div class="list">
 {% for entry in site.data.audiobooks.list %}
 {% include item-list.html %}
 {% endfor %}

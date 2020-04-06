@@ -4,24 +4,24 @@ title: Series
 permalink: /watching/series/
 ---
 
-<h1 class="display">Current Series</h1>
+<div class="headline"><h2>Current Series</h2></div>
 <p class="intro">Here you will find all the ongoing series that I am either current on or working my way through.</p>
 <p><small>Last updated  &middot; {{ site.data.series.lastupdate }}</small></p>
-<div class="contain baseline sticky">
+<div class="list">
 {% for entry in site.data.series.current %}
 {% include item-list.html %}
 {% endfor %}
 </div>
-<h1 class="display">Completed Series</h1>
+<div class="headline"><h2>Completed Series</h2></div>
 <p class="intro">Here you will find all the completed series that I have finshed.</p>
-<div class="contain baseline sticky">
+<div class="list">
 {% for entry in site.data.series.complete %}
 {% include item-list.html %}
 {% endfor %}
 </div>
-<h1 class="display">Abandoned Series</h1>
+<div class="headline"><h2>Abandoned Series</h2></div>
 <p class="intro">I have put a decent amount of time into these shows but for whatever reason didn't keep up. Perhaps someday I will get back on the wagon.</p>
-<div class="contain baseline sticky">
+<div class="list">
 {% for entry in site.data.series.abandoned %}
 {% include item-list.html %}
 {% endfor %}

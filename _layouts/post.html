@@ -1,9 +1,9 @@
-{% include head.html %}
-{% include start.html %}
-<h2 class="display">{{ page.title }}</h2>
-<small> {{ page.date | date: "%Y-%m-%d" }} </small>
+---
+layout: default
+---
+
 <div class="post">
-{{ content }}
+  <h1 class="post-title">{{ page.title }}</h1>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  {{ content }}
 </div>
-{% include footer.html %}
-{% include end.html %}

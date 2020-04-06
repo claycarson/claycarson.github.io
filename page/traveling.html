@@ -4,9 +4,9 @@ title: Traveling
 permalink: /traveling/
 ---
 
-<h1 class="display">Traveling</h1>
+<div class="headline"><h1>{{ page.title }}</h1></div>
 <p class="intro">I have been to some neat places but there is plenty more to see.</p>
-<div class="contain baseline sticky">
+<div class="list">
 {% for entry in site.data.traveling.list %}
 {% include item-list.html %}
 {% endfor %}

@@ -4,10 +4,8 @@ title: Gaming
 permalink: /gaming/
 ---
 
-<h1 class="display">Gaming</h1>
+<div class="headline"><h2>{{ page.title }}</h2></div>
 <p class="intro">In the spring of 2019 I built my first PC. Naturally, I felt the need to log the games I complete or play extensively. I do hope to go back one day and catalog my previous gaming life.</p>
-<div class="contain baseline sticky">
 {% for entry in site.data.gaming.list %}
 {% include item-list.html %}
 {% endfor %}
-</div>

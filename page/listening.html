@@ -4,10 +4,11 @@ title: Music
 permalink: /listening/
 ---
 
-<h1 class="display">Listening</h1>
-<p class="intro">I consider all of these albums among my favorites but many of them are listed here because they have special personal meaning.</p>
-<p><small>Last updated  &middot; {{ site.data.music.lastupdate }}</small></p>
-<div class="contain baseline sticky">
+<div class="headline"><h2>Listening</h2></div>
+<p class="intro">I consider all of these albums among my favorites but many of them are listed here because they have special personal meaning.<br>
+<small>Last updated  &middot; {{ site.data.music.lastupdate }}</small>
+</p>
+<div class="list">
 {% for entry in site.data.music.list %}
 {% include item-list.html %}
 {% endfor %}
