@@ -4,7 +4,6 @@ tagline:
 url: http://beta.claycarson.net
 paginate: 1
 baseurl: ""
-permalink: pretty
 
 # Gems
 plugins:
