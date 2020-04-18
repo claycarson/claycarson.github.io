@@ -1,0 +1,41 @@
+// Newsletter form styling
+
+#mailchimp input {
+	border: 1px solid var(--color-lines);
+	color: var(--color-sub);
+	margin-bottom: 10px;
+	padding: 8px 10px;
+	font-size: .8rem;
+	width: 250px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+
+#mailchimp input.email {
+	background: #fff
+}
+
+#mailchimp input.name {
+	background: #fff
+}
+
+#mailchimp input[type="submit"] {
+	background: $accent-color;
+	border: 1px solid $accent-color;
+	color: #fff;
+	font-weight: 700;
+	cursor: pointer;
+	width: 100px;
+	padding: 8px 0
+}
+
+#mailchimp input[type="submit"]:hover {
+	background: var(--color-text);
+	border: 1px solid var(--color-text);
+	color: #fff;
+	transition: color .2s ease
+}

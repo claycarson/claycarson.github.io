@@ -2,14 +2,8 @@
 layout: default
 ---
 
-<section>
-<header>
-<div>
-<h2 class="display">{{ page.title }}</h2>
-</div>
-</header>
-<small> {{ page.date | date: "%Y-%m-%d" }} </small>
 <div class="post">
-{{ content }}
+  <h1 class="post-title">{{ page.title }}</h1>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  {{ content }}
 </div>
-</section>

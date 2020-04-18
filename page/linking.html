@@ -4,19 +4,14 @@ title: Linking
 permalink: /linking/
 ---
 
-<section>
-<h1 class="display">Linked List</h1>
+<div class="headline"><h2>{{ page.title }}</h2></div>
 <p class="intro">This site began as primarily a linked list blog. This page is the remnants of that.</p>
-</section>
 <hr>
-<section>
 {% for post in site.categories.Link %}
 <div class="linked">
-    <h2><a href="{{ post.link }}"> {{ post.title }}</a> <span class="linked-arrow"><a href="{{ post.url }}">&rarr;</a></span></h2>
-    <small>{{ post.date | date: "%Y-%m-%d" }}</small> 
-    
+    <h3><a href="{{ post.link }}">{{ post.title }}</a> <span class="linked-arrow"><a href="{{ post.url }}">&rarr;</a></span></h3>
+    <small>{{ post.date | date: "%Y-%m-%d" }}</small>
     <div class="post">{{ post.content }}</div>
   <hr>
 </div>
 {% endfor %}
-</section>

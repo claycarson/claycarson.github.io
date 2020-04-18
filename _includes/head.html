@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,23 +27,19 @@
 <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml" />
-<link rel="stylesheet" href="/css/style.css" type="text/css">
+<link rel="stylesheet" href="/styles.css" type="text/css">
 </head>
 <body>
-<header>
-<nav>
-<a href="/"><h1>{{ site.title }}</h1></a>
-<ul>
-<li><a href="/reading/">Reading</a></li>
-<li><a href="/watching/">Watching</a></li>
-<li><a href="/listening/">Listening</a></li>
-<!-- 
-<li><a href="/traveling/">Traveling</a></li>
-<li><a href="/golfing/">Golfing</a></li>
-<li><a href="/photographing/">Photographing</a></li>
- -->
+  <div class="nav">
+    <div class="nav-content">
+      <div class="nav-title">
+      <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+      </div>
+      {% for page in site.pages_list %}
+      <div class="nav-menu">
+      <a href="{{ page[1]  }}">{{ page[0] }}</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 
-<li><strong><a href="/newsletter/">Newsletter</a></strong>
-</ul>
-</nav>
-</header>

@@ -1,42 +1,51 @@
-# Permalinks
-permalink: /:categories/:year/:month/:day/:title
-
 # Setup
-title:               Clay Carson
-tagline:             
-url:                 http://beta.claycarson.net
-baseurl:             "/"
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
-author:
-  name:              Clay Carson
-  url:               http://claycarson.net
-  email:             clay@claycarson.net
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https:claycarson.github.io
-  
-# Build settings
-markdown: kramdown
-
-# Extras
-excerpt_separator: <!--more-->
+title: Clay Carson
+tagline:
+url: http://beta.claycarson.net
+paginate: 1
+baseurl: ""
 
 # Gems
 plugins:
+  - jekyll-gist
   - jekyll-paginate
-  
-# Feed
+  - jekyll-seo-tag
 
-feed_items: 10
-feed_update_period: daily
-feed_update_frequency: 1
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Clay Carson
+  url: https://claycarson.net
+  email: clay@claycarson.net
+
+# Custom vars
+version: 3.0.0
+github:
+  repo: https://claycarson.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  Photos: '/photos'
+  Lists: '/lists'
+  Newsletter: '/newsletter'
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title

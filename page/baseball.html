@@ -4,11 +4,9 @@ title: Baseball Stadiums
 permalink: /baseball/
 ---
 
-<section>
-<h1 class="display">Baseball Stadiums</h1>
+<div class="headline"><h2>{{ page.title }}</h2></div>
 <p class="intro">I don't have a life long goal of going to every baseball team's stadium but the more the merrier. I have used the stadium name from the time I first visited.</p>
-</section>
-<section class="contain baseline sticky">
+<div class="list">
 {% for entry in site.data.baseball.list %}
 <h1 id="y{{post.date | date: "%Y"}}">{{ entry.year }}</h1>
 <ul>
@@ -22,4 +20,4 @@ permalink: /baseball/
 {% endfor %}
 </ul>
 {% endfor %}
-</section>
+</div>

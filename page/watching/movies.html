@@ -4,12 +4,10 @@ title: Movies
 permalink: /watching/movies/
 ---
 
-<section>
-<h1 class="display">Movies</h1>
-<p class="intro">To the best of my knowledge, this is a list of every movie I have ever seen. You can view a full list of those movies on <a href="https://www.imdb.com/list/ls035397007/">IMDB</a> or on <a href="https://letterboxd.com/claycarson/">Letterboxd</a>.</p>
-</section>
-<section class="contain baseline sticky">
+<div class="headline"><h2>{{ page.title }}</h2></div>
+<p class="intro">To the best of my knowledge, this is a list of every movie I have ever seen. You can view a full list of those movies or add me as a friend on <a href="https://letterboxd.com/claycarson/">Letterboxd</a>.</p>
+<div class="list">
 {% for entry in site.data.movies.list %}
 {% include item-list.html %}
 {% endfor %}
-</section>
+</div>

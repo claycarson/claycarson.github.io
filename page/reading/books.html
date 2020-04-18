@@ -4,12 +4,10 @@ title: Books
 permalink: /reading/books/
 ---
 
-<section>
-<h1 class="display">Reading</h1>
+<div class="headline"><h2>{{ page.title }}</h2></div>
 <p class="intro">I attribute my increased reading in recent years to the <a href="https://www.amazon.com/Amazon-Kindle-Ereader-Family/b/?ie=UTF8&node=6669702011&ref_=topnav_storetab_kstore">Amazon Kindle</a>. The portability and ease of highlighting passages makes it indispensable.</p>
-</section>
-<section class="contain baseline sticky">
+<div class="list">
 {% for entry in site.data.books.list %}
 {% include item-list.html %}
 {% endfor %}
-</section>
+</div>
