@@ -49,3 +49,6 @@ pages_list:
 
 # Permalinks
 permalink: /:categories/:year/:month/:day/:title
+
+deploy:
+  directory: _site
