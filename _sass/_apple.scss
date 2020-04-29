@@ -3,7 +3,7 @@
 .nav {
 	max-width: 40em;
   margin: 0 auto;
-  padding-top: 1em;
+  padding: 1em;
 }
 
 .nav-content {
@@ -24,7 +24,7 @@
   font-weight: 400;
   font-family: $root-font-family;
   float: right;
-  padding-right: 3em;
+  padding: 1em 2em 0em 0em;
 }
 
 .nav-menu a {
@@ -89,13 +89,13 @@ html {
 }
 
 .column {
-	padding: 8em 1.5em;
+	padding: 8em 1em;
 	max-width: 40em;
   margin: 0 auto;
 }
 
 .footer {
-	padding: 2em 1.5em;
+	padding: 2em 1em;
 	max-width: 40em;
     margin: 0 auto;
 }
