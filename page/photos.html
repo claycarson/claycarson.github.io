@@ -1,15 +1,39 @@
 ---
-layout: default
+layout: page
 title: Photography
 permalink: /photos/
 ---
+
+
+<div class="headline"><h2>Photo Albums</h2></div>
+<p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dapibus leo. Maecenas in lacus fermentum dolor viverra cursus. Curabitur cursus magna eget nisi viverra porta.<br>
+</p>
+<div class="photo-stream">
+<ul>
+{% for photos in site.data.photos.photos %}
+<li>
+{% if photos.cover %}
+<h3>{{ photos.album }}</h3>
+<img src="{{ site.baseurl}}/images/photography/{{ photos.img }}.jpg">
+{% endif %}
+</li>
+{% endfor %}
+</ul>
+<a href="/albums">View all</a>
+</div>
 
 <div class="headline"><h2>Photo Stream</h2></div>
 <p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dapibus leo. Maecenas in lacus fermentum dolor viverra cursus. Curabitur cursus magna eget nisi viverra porta.<br>
 <small>Last updated  &middot; {{ site.data.photos.lastupdate }}</small>
 </p>
-<div class="list">
-{% for entry in site.data.photos.list %}
-{% include photo-stream.html %}
+<div class="photo-stream">
+<ul>
+{% for photos in site.data.photos.photos | limit: 3 %}
+<li>
+<h3>{{ photos.title }}</h3>
+<img src="{{ site.baseurl}}/images/photography/{{ photos.img }}.jpg">
+</li>
 {% endfor %}
+</ul>
 </div>
+ 
