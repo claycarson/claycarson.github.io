@@ -1,0 +1,15 @@
+---
+layout: default
+title: Photography
+permalink: /photos/
+---
+
+<div class="headline"><h2>Photo Stream</h2></div>
+<p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dapibus leo. Maecenas in lacus fermentum dolor viverra cursus. Curabitur cursus magna eget nisi viverra porta.<br>
+<small>Last updated  &middot; {{ site.data.photos.lastupdate }}</small>
+</p>
+<div class="list">
+{% for entry in site.data.photos.list %}
+{% include photo-stream.html %}
+{% endfor %}
+</div>

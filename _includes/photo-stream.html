@@ -1,0 +1,17 @@
+<div class="list">
+<h3>{{post.date | date: "%Y"}} {{ entry.year }} <small> &middot; {{ entry.photos | size }}</small></h3>
+<ul>
+{% for photos in entry.photos %}
+<li>
+{{ photos.title }}
+<small>
+{% if photos.country %} <span class="creator">by </span>{% endif %}{{ item.creator }}
+{% if item.location %}{{item.location}} {% endif %}
+{% if item.date %} &middot; {{ item.date | date: "%m/%d" }}{% endif %}
+{% if item.star %} <span class="star">★</span>{% endif %}
+</small>
+<img src="{{ site.baseurl}}/images/photography/{{ photos.img }}">
+</li>
+{% endfor %}
+</ul>
+</div>
