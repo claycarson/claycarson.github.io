@@ -40,6 +40,8 @@ $grey9: #3a3a3c;
 $grey10: #2c2c2e;
 $grey11: #1c1c1e;
 
+$ccred: #c15038;
+
 // MAIN
 
 $root-font-family: "SF Pro Display", "SF Pro Icons", -apple-system, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
@@ -48,7 +50,7 @@ $root-line-height: 1.5;
 
 $body-color: $grey10;
 $body-bg: $white;
-$accent-color: $red;
+$accent-color: $ccred;
 $border-color: $grey7;
 
 $code-font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
