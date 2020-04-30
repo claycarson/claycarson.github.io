@@ -75,6 +75,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  exifr
   jekyll
   jekyll-exif-data
   jekyll-gist

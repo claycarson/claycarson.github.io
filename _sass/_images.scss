@@ -1,0 +1,22 @@
+img {
+	width: 100%;
+	box-shadow: 8px 8px 8px 8px #f1f1f1;
+}
+
+.photo-stream {
+	padding: 0;
+}
+
+.photo-stream ul {
+	list-style: none;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0;
+	margin-inline-end: 0;
+	padding-inline-start: 0em;
+}
+
+.photo-stream li {
+	width: 100%;
+
+}

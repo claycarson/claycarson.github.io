@@ -28,7 +28,7 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
+ga_analytics: UA-56506919-1
 
 # Specify the author for blog posts
 author:
@@ -49,6 +49,23 @@ pages_list:
 # Permalinks
 permalink: /:categories/:year/:month/:day/:title
 
+# Deploy
 deploy:
   directory: _site
   
+  
+# Jekyll-Photo-Gallery Settings
+exiftag:
+ sources:
+   - images/photography # Set to location of photos
+
+# MiniMagick
+mini_magick:
+    photography:
+        source: images/photography
+        destination: images/photography/thumbnails
+        resize: "1280x720"
+    headers:
+        source: images/headers
+        destination: images/headers/thumbnails
+        resize: "400x250"
