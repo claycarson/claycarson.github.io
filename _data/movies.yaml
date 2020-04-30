@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Enron: The Smartest Guys in the Room"
+        date: 2020-04-30
+        link: https://www.imdb.com/title/tt1016268/
+        creator:
+        star: No
+
       - title: "Mr. Right"
         date: 2020-04-22
         link: https://www.imdb.com/title/tt2091935/
