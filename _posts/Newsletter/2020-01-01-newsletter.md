@@ -3,7 +3,7 @@ layout: newsletter
 title:  January 2020
 date:   2020-01-01
 category: Newsletter
-description: Where is everybody, college golf powerhouses, spinning planets, landing on boats, hot ice, the king is dead, long live the king.
+description: Where is everybody, college golf powerhouses, spinning planets, landing on boats, hot ice, the king is dead, long live the king
 ---
 
 This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.

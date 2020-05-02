@@ -1,6 +1,56 @@
 list:
   - year: "2020"
     item:
+      - title: "Enron: The Smartest Guys in the Room"
+        date: 2020-04-30
+        link: https://www.imdb.com/title/tt1016268/
+        creator:
+        star: No
+
+      - title: "Mr. Right"
+        date: 2020-04-22
+        link: https://www.imdb.com/title/tt2091935/
+        creator:
+        star: no
+      - title: "The Gentlemen"
+        date: 2020-04-17
+        link: https://www.imdb.com/title/tt8367814/
+        creator:
+        star: No
+
+      - title: "Risky Business"
+        date: 2020-03-31
+        link: https://www.imdb.com/title/tt0086200/
+        creator:
+        star: No
+
+      - title: "Before the Devil Knows You're Dead"
+        date: 2020-03-22
+        link: https://www.imdb.com/title/tt0292963/
+        creator:
+        star: No
+
+      - title: "Fast & Furious Presents: Hobbs & Shaw"
+        date: 2020-03-16
+        link: https://www.imdb.com/title/tt6806448/
+        creator:
+        star: No
+
+      - title: "American Factory"
+        date: 2020-03-15
+        link: https://www.imdb.com/title/tt9351980/
+        creator:
+        star: No
+
+      - title: "Tammy"
+        date: 2020-03-14
+        link: https://www.imdb.com/title/tt2103254/
+        creator:
+        star: No
+
+      - title: "Troop Zero"
+        date: 2020-03-07
+        link: https://www.imdb.com/title/tt2404465/
       - title: "Planes, Trains & Automobiles"
         date: 2020-03-03
         link: https://www.imdb.com/title/tt0093748/
@@ -2252,6 +2302,9 @@ list:
 
       - title: "Man of the Year"
         link: https://www.imdb.com/title/tt0483726/
+        
+      - title: "Man on a Ledge"
+        link: https://www.imdb.com/title/tt1568338/
 
       - title: "Man on Wire"
         link: https://www.imdb.com/title/tt1155592/

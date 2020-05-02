@@ -4,17 +4,15 @@ title: Newsletter
 permalink: /newsletter/
 ---
 
-{% include list-start.html %}
-<section>
-<h1 class="display">Newsletter</h1>
-<p class="intro">I started this newsletter in January of 2018. The motive is selfish; I was bookmarking too many articles and links that I didn't get around to reading. Filtering out the best to share helps me keep that list manageable. The full archive of previous newsletters is available <a href="#archive">below</a>.</p>
+<div class="headline"><h2>{{ page.title }}</h2></div>
+<p class="intro">I started this newsletter in January of 2018. The motivation was selfish; I was bookmarking too many articles and links that I didn't get around to reading. Filtering out my favorites to share helps me keep that list manageable. The full archive of previous editions is available <a href="#archive">below</a>.</p>
 {% include newsletter-form.html %}
-<section class="contain baseline sticky">
+<hr>
 {% for post in site.categories.Newsletter limit:1 %}
+<div class="post">
 <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-<div class="post">{{ post.content }}</div>
+{{ post.content }}
+</div>
 {% endfor %}
-</section>
-<a name="archive">
+<a id="archive"></a>
 {% include newsletter-list.html %}
-{% include list-end.html %}

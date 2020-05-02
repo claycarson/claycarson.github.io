@@ -6,7 +6,6 @@ author: claycarson
 layout: link
 guid: http://claycarson.net/?p=382
 link: http://www.slate.com/articles/sports/sports_nut/2016/04/what_seth_stevenson_learned_at_the_wendelstedt_school_for_umpires.html
-  - http://www.slate.com/articles/sports/sports_nut/2016/04/what_seth_stevenson_learned_at_the_wendelstedt_school_for_umpires.html
 categories: 
   - Link
 tags:

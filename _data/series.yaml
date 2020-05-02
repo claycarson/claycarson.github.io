@@ -5,7 +5,9 @@ current:
       - title: Barry
       - title: Big Little Lies 
       - title: Bodyguard        
-      - title: Comedians in Cars Getting Coffee              
+      - title: Comedians in Cars Getting Coffee
+      - title: Curb Your Enthusiasm
+        star: yes              
       - title: Fleabag
       - title: "Formula 1: Drive to Survive" 
       - title: For All Mankind        
@@ -17,6 +19,7 @@ current:
       - title: The Mandalorian
       - title: "The Marvelous Mrs. Maisel"       
       - title: Mindhunter           
+      - title: The Outsider
       - title: Ozark
         star: yes                
       - title: Succession  
@@ -30,6 +33,18 @@ current:
         star: yes 
       - title: Westworld
 complete:
+  - year: "2020"
+    item:
+      - title: "Unorthodox"
+        date: 2020-04-17
+        link:
+        creator:
+        star: No
+      - title: "Tiger King"
+        date: 2020-03-23
+        link:
+        creator:
+        star: Yes
   - year: "2019"
     item:
       - title: "Don't F**k with Cats: Hunting an Internet Killer"
@@ -82,10 +97,6 @@ complete:
       - title: House of Cards
         link:
         date: 
-      - title: Curb Your Enthusiasm
-        link:
-        date:  
-        star: yes
       - title: Master of None
         link:
         date:           
@@ -192,6 +203,9 @@ complete:
         link:
         date: 
         star: yes
+      - title: The Inbetweeners
+        link:
+        date:          
       - title: Lost
         link:
         date:  

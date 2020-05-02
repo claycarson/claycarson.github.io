@@ -1,0 +1,57 @@
+// SIZE GUIDE
+
+// 16 × .25 = 4
+// 16 × .5 = 8
+// 16 × .625 = 10
+// 16 × .75 = 12
+// 16 × .875 = 14
+// 16 × 1 = 16
+// 16 × 1.25 = 20
+// 16 × 1.5 = 24
+// 16 × 1.75 = 28
+// 16 × 1.875 = 30
+// 16 × 2 = 32
+// 16 × 2.5 = 40
+// 16 × 3 = 48
+
+// COLORS
+
+$blue: #007aff;
+$green: #34c759;
+$indigo: #5856d6;
+$orange: #ff9500;
+$pink: #ff2d55;
+$purple: #af52de;
+$red: #ff3b30;
+$teal: #5ac8fa;
+$yellow: #ffcc00;
+$white: #ffffff;
+$black: #000000;
+
+$grey1: #f2f2f7;
+$grey2: #e5e5ea;
+$grey3: #d1d1d6;
+$grey4: #c7c7cc;
+$grey5: #aeaeb2;
+$grey3: #8e8e93;
+$grey7: #636366;
+$grey8: #48484a;
+$grey9: #3a3a3c;
+$grey10: #2c2c2e;
+$grey11: #1c1c1e;
+
+$ccred: #c15038;
+
+// MAIN
+
+$root-font-family: "SF Pro Display", "SF Pro Icons", -apple-system, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$root-font-size: 16px;
+$root-line-height: 1.5;
+
+$body-color: $grey10;
+$body-bg: $white;
+$accent-color: $ccred;
+$border-color: $grey7;
+
+$code-font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$code-color: $grey5;

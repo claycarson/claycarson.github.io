@@ -1,0 +1,10 @@
+<div class="list">
+<ul>
+{% for photos in photos.title %}
+<li>
+{{ photos.title }}
+<img src="{{ site.baseurl}}/images/photography/{{ photos.img }}">
+</li>
+{% endfor %}
+</ul>
+</div>

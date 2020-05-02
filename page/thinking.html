@@ -4,23 +4,13 @@ title: Thinking
 permalink: /thinking/
 ---
 
-{% include list-start.html %}
-<section>
-<h1 class="display">Thinking</h1>
+<div class="headline"><h1>{{ page.title }}</h1></div>
 <p class="intro">This is a list of status updates and commentary that is used to populate <a href="http://twitter.com/claycarson">Twitter</a> and other social networks. It is important to me to preserve these comments on my site as social networks come and go.</p>
-</section>
-<section class="contain baseline sticky">
+<hr>
 {% for post in site.categories.Status %}
-<h1 id="y{{post.date | date: "%Y"}}">{{ post.year }}</h1>
 <div class="linked">
-<ul>
-  <li>
     <div class="post">{{ post.content }}</div>
     <small>{{ post.date | date: "%Y-%m-%d" }}<span class="linked-arrow"> <a href="{{ post.url }}">&rarr;</a></span></small>
-  </li>
   <hr>
-</ul>
 </div>
 {% endfor %}
-</section>
-{% include list-end.html %}

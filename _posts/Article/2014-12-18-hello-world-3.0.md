@@ -2,6 +2,7 @@
 title: "Hello World 3.0"
 date: December 18, 2014 12:11:58
 tags: welcome hello jekyll blog github
+layout: post
 categories: 
 - Article
 ---
