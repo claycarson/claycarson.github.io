@@ -4,6 +4,7 @@ title:  May 2020
 date:   2020-05-01
 category: Newsletter
 description: Restaurant’s transformed, there won’t be no stinking sports, bad/sad brains, a quiz, some art, and a trippy camera rig.
+-—-
 
 This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
 
