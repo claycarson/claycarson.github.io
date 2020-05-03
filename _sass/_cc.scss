@@ -1,7 +1,6 @@
 // TITLE + NAVIGATION
 
 .nav {
-    max-width: 40em;
     margin: 0 auto;
     padding-top: 1.5em;
 }
@@ -89,7 +88,6 @@ html {
 
 .column {
     padding: 8em 0em;
-    max-width: 40em;
     margin: 0 auto;
 }
 
@@ -104,6 +102,10 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 0;
     margin-inline-end: 0;
+}
+
+p.intro {
+
 }
 
 ul {
@@ -123,7 +125,7 @@ li {
 }
 
 body {
-	max-width: 40em;
+	max-width: 45em;
 	margin: auto;
 	padding: 0 1em;
     font-size: 1em;
