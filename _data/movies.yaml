@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Bad Education"
+        date: 2020-05-02
+        link: https://www.imdb.com/title/tt8206668/
+        creator:
+        star: No
+
       - title: "Enron: The Smartest Guys in the Room"
         date: 2020-04-30
         link: https://www.imdb.com/title/tt1016268/
