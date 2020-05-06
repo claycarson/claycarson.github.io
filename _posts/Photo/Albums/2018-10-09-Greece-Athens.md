@@ -1,10 +1,9 @@
 ---
-layout:     post
+layout:     album
 title:      Athens, Greece
 date:       2018-10-07
 summary:    
 categories:
-  - photo
   - album
 tags:
   - athens
@@ -13,8 +12,10 @@ tags:
   - travel
   - vacation
 published: true
-feature: https://via.placeholder.com/500
+feature: https://files.claycarson.net/photos/album/greece-2018/athens/greece-11.jpg
+permalink:  /photos/album/greece/athens
 ---
 
-<!--more-->
-<img src="https://files.claycarson.net/photos/album/greece/athens/greece-12.jpg">
+
+<img src="https://files.claycarson.net/photos/album/greece-2018/athens/greece-11.jpg">
+<img src="https://files.claycarson.net/photos/album/greece-2018/athens/greece-12.jpg">

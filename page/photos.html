@@ -1,39 +1,30 @@
 ---
 layout: page
-title: Photography
+title: Photos
 permalink: /photos/
 ---
 
-
 <div class="headline"><h2>Photo Albums</h2></div>
-<p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dapibus leo. Maecenas in lacus fermentum dolor viverra cursus. Curabitur cursus magna eget nisi viverra porta.<br>
-</p>
-<div class="photo-stream">
-<ul>
-{% for photos in site.data.photos.photos %}
-<li>
-{% if photos.cover %}
-<h3>{{ photos.album }}</h3>
-<img src="{{ site.baseurl}}/images/photography/{{ photos.img }}.jpg">
-{% endif %}
-</li>
-{% endfor %}
-</ul>
-<a href="/albums">View all</a>
+{% for post in site.categories.album | limit: 3 %}
+<div class="post">
+<h3><a href="{{ post.url }}">{{ post.title }}</h3>
+<img src="{{ post.feature }}"></a>
 </div>
+{% endfor %}
+<a href="/photos/albums">View All</a>
 
-<div class="headline"><h2>Photo Stream</h2></div>
-<p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dapibus leo. Maecenas in lacus fermentum dolor viverra cursus. Curabitur cursus magna eget nisi viverra porta.<br>
-<small>Last updated  &middot; {{ site.data.photos.lastupdate }}</small>
-</p>
-<div class="photo-stream">
+<div class="headline"><h2>Snapshots</h2></div>
+<div class="list">
+{% for entry in site.data.albums-snapshots.snapshots %}
+<div class="list">
 <ul>
-{% for photos in site.data.photos.photos | limit: 3 %}
+{% for images in entry.images %}
 <li>
-<h3>{{ photos.title }}</h3>
-<img src="{{ site.baseurl}}/images/photography/{{ photos.img }}.jpg">
+<!-- {{ images.title }} -->
+<img src="{{ images.url }}">
 </li>
 {% endfor %}
 </ul>
 </div>
- 
+{% endfor %}
+</div>

@@ -4,13 +4,23 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-03T09:24:46-05:00</updated>
+ <updated>2020-05-05T21:12:31-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
    <email>clay@claycarson.net</email>
  </author>
 
+ 
+ <entry>
+   <title></title>
+   <link href="http://localhost:4000/2020/05/05/2019-11-19-Europe-Amsterdam"/>
+   <updated>2020-05-05T21:12:31-05:00</updated>
+   <id>http://localhost:4000/2020/05/05/2019-11-19-Europe-Amsterdam</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>May 2020</title>
@@ -1237,57 +1247,29 @@ Tricky conditions such as strong winds, fog in summer and snow in winter provide
  
  <entry>
    <title>Athens, Greece</title>
-   <link href="http://localhost:4000/photo/album/2018/10/07/Greece-Athens"/>
+   <link href="http://localhost:4000/photos/album/greece/athens"/>
    <updated>2018-10-07T00:00:00-05:00</updated>
-   <id>http://localhost:4000/photo/album/2018/10/07/Greece-Athens</id>
-   <content type="html">&lt;!--more--&gt;
-&lt;p&gt;&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/athens/greece-12.jpg&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Athens, Greece</title>
-   <link href="http://localhost:4000/photo/album/2018/10/07/Greece-Athens-2"/>
-   <updated>2018-10-07T00:00:00-05:00</updated>
-   <id>http://localhost:4000/photo/album/2018/10/07/Greece-Athens 2</id>
-   <content type="html">&lt;!--more--&gt;
-&lt;p&gt;&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/athens/greece-12.jpg&quot; /&gt;&lt;/p&gt;
+   <id>http://localhost:4000/photos/album/greece/Greece-Athens</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/athens/greece-11.jpg&quot; /&gt;
+&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/athens/greece-12.jpg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Santorini, Greece</title>
-   <link href="http://localhost:4000/photo/album/2018/10/07/Greece-Santorini"/>
+   <link href="http://localhost:4000/photos/album/greece/santorini"/>
    <updated>2018-10-07T00:00:00-05:00</updated>
-   <id>http://localhost:4000/photo/album/2018/10/07/Greece-Santorini</id>
-   <content type="html">&lt;!--more--&gt;
-&lt;p&gt;&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-1.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-2.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-3.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-4.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-5.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-7.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-8.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-9.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-10.jpg&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Santorini, Greece</title>
-   <link href="http://localhost:4000/photo/album/2018/10/07/Greece-Santorini-2"/>
-   <updated>2018-10-07T00:00:00-05:00</updated>
-   <id>http://localhost:4000/photo/album/2018/10/07/Greece-Santorini 2</id>
-   <content type="html">&lt;!--more--&gt;
-&lt;p&gt;&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-1.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-2.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-3.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-4.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-5.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-7.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-8.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-9.jpg&quot; /&gt;
-&lt;img src=&quot;https://files.claycarson.net/photos/album/greece/santorini/greece-10.jpg&quot; /&gt;&lt;/p&gt;
+   <id>http://localhost:4000/photos/album/greece/Greece-Santorini</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/santorini/greece-1.jpg&quot; /&gt;
+&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/santorini/greece-1.jpg&quot; /&gt;
+&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/santorini/greece-2.jpg&quot; /&gt;
+&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/santorini/greece-3.jpg&quot; /&gt;
+&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/santorini/greece-4.jpg&quot; /&gt;
+&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/santorini/greece-5.jpg&quot; /&gt;
+&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/santorini/greece-7.jpg&quot; /&gt;
+&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/santorini/greece-8.jpg&quot; /&gt;
+&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/santorini/greece-9.jpg&quot; /&gt;
+&lt;img src=&quot;https://files.claycarson.net/photos/album/greece-2018/santorini/greece-10.jpg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1654,9 +1636,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Cherry Blossom</title>
-   <link href="http://localhost:4000/photo/snapshot/2018/04/16/cherry-blossom"/>
+   <link href="http://localhost:4000/snapshot/2018/04/16/cherry-blossom"/>
    <updated>2018-04-16T11:11:07-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2018/04/16/cherry-blossom</id>
+   <id>http://localhost:4000/snapshot/2018/04/16/cherry-blossom</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/04/22.jpeg&quot; alt=&quot;22.jpeg&quot; /&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 </content>
@@ -1664,9 +1646,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Cherry Blossom</title>
-   <link href="http://localhost:4000/photo/snapshot/2018/04/16/cherry-blossom-2"/>
+   <link href="http://localhost:4000/snapshot/2018/04/16/cherry-blossom-2"/>
    <updated>2018-04-16T11:11:07-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2018/04/16/cherry-blossom 2</id>
+   <id>http://localhost:4000/snapshot/2018/04/16/cherry-blossom 2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/04/22.jpeg&quot; alt=&quot;22.jpeg&quot; /&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 </content>
@@ -1944,9 +1926,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Moon</title>
-   <link href="http://localhost:4000/photo/snapshot/2018/01/30/moon"/>
+   <link href="http://localhost:4000/snapshot/2018/01/30/moon"/>
    <updated>2018-01-30T15:34:57-06:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2018/01/30/moon</id>
+   <id>http://localhost:4000/snapshot/2018/01/30/moon</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2018/01/moon-1.jpg&quot; /&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 </content>
@@ -1954,10 +1936,20 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Moon</title>
-   <link href="http://localhost:4000/photo/snapshot/2018/01/30/moon-2"/>
+   <link href="http://localhost:4000/snapshot/2018/01/30/moon-2"/>
    <updated>2018-01-30T15:34:57-06:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2018/01/30/moon 2</id>
+   <id>http://localhost:4000/snapshot/2018/01/30/moon 2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2018/01/moon-1.jpg&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Maui, Hawaii</title>
+   <link href="http://localhost:4000/photos/album/hawaii"/>
+   <updated>2018-01-30T08:28:53-06:00</updated>
+   <id>http://localhost:4000/photos/album/maui-hawaii</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -2455,19 +2447,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Paris, France</title>
-   <link href="http://localhost:4000/photo/album/2017/09/23/paris-france"/>
+   <link href="http://localhost:4000/photos/album/paris"/>
    <updated>2017-09-23T03:50:28-05:00</updated>
-   <id>http://localhost:4000/photo/album/2017/09/23/paris-france</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;
-&lt;!--more--&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Paris, France</title>
-   <link href="http://localhost:4000/photo/album/2017/09/23/paris-france-2"/>
-   <updated>2017-09-23T03:50:28-05:00</updated>
-   <id>http://localhost:4000/photo/album/2017/09/23/paris-france 2</id>
+   <id>http://localhost:4000/photos/album/paris-france</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 </content>
@@ -2502,18 +2484,18 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Lunch</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/07/08/lunch"/>
+   <link href="http://localhost:4000/snapshot/2017/07/08/lunch"/>
    <updated>2017-07-08T07:35:42-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/07/08/lunch</id>
+   <id>http://localhost:4000/snapshot/2017/07/08/lunch</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/07/IMG_2219.jpeg&quot; alt=&quot;IMG_2219.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Lunch</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/07/08/lunch-2"/>
+   <link href="http://localhost:4000/snapshot/2017/07/08/lunch-2"/>
    <updated>2017-07-08T07:35:42-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/07/08/lunch 2</id>
+   <id>http://localhost:4000/snapshot/2017/07/08/lunch 2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/07/IMG_2219.jpeg&quot; alt=&quot;IMG_2219.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -2531,18 +2513,18 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>The Library of Congress</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/06/17/the-library-of-congress"/>
+   <link href="http://localhost:4000/snapshot/2017/06/17/the-library-of-congress"/>
    <updated>2017-06-17T05:54:44-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/06/17/the-library-of-congress</id>
+   <id>http://localhost:4000/snapshot/2017/06/17/the-library-of-congress</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1878.jpeg&quot; alt=&quot;IMG_1878.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>The Library of Congress</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/06/17/the-library-of-congress-2"/>
+   <link href="http://localhost:4000/snapshot/2017/06/17/the-library-of-congress-2"/>
    <updated>2017-06-17T05:54:44-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/06/17/the-library-of-congress 2</id>
+   <id>http://localhost:4000/snapshot/2017/06/17/the-library-of-congress 2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1878.jpeg&quot; alt=&quot;IMG_1878.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -2558,18 +2540,18 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>United States Capitol</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/06/16/united-states-capitol"/>
+   <link href="http://localhost:4000/snapshot/2017/06/16/united-states-capitol"/>
    <updated>2017-06-16T01:02:40-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/06/16/united-states-capitol</id>
+   <id>http://localhost:4000/snapshot/2017/06/16/united-states-capitol</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1760.jpeg&quot; alt=&quot;IMG_1760.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>United States Capitol</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/06/16/united-states-capitol-2"/>
+   <link href="http://localhost:4000/snapshot/2017/06/16/united-states-capitol-2"/>
    <updated>2017-06-16T01:02:40-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/06/16/united-states-capitol 2</id>
+   <id>http://localhost:4000/snapshot/2017/06/16/united-states-capitol 2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1760.jpeg&quot; alt=&quot;IMG_1760.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -2596,18 +2578,18 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Flying Solo</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/06/12/flying-solo"/>
+   <link href="http://localhost:4000/snapshot/2017/06/12/flying-solo"/>
    <updated>2017-06-12T15:31:53-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/06/12/flying-solo</id>
+   <id>http://localhost:4000/snapshot/2017/06/12/flying-solo</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1612.jpeg&quot; alt=&quot;IMG_1612.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Flying Solo</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/06/12/flying-solo-2"/>
+   <link href="http://localhost:4000/snapshot/2017/06/12/flying-solo-2"/>
    <updated>2017-06-12T15:31:53-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/06/12/flying-solo 2</id>
+   <id>http://localhost:4000/snapshot/2017/06/12/flying-solo 2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/06/IMG_1612.jpeg&quot; alt=&quot;IMG_1612.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -2646,54 +2628,54 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Old Rag</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/04/27/old-rag"/>
+   <link href="http://localhost:4000/snapshot/2017/04/27/old-rag"/>
    <updated>2017-04-27T05:38:50-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/04/27/old-rag</id>
+   <id>http://localhost:4000/snapshot/2017/04/27/old-rag</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/04/8DDC9CAD-C089-4A21-B656-55390DEA0ACD.jpeg&quot; alt=&quot;8DDC9CAD-C089-4A21-B656-55390DEA0ACD.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Old Rag</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/04/27/old-rag-2"/>
+   <link href="http://localhost:4000/snapshot/2017/04/27/old-rag-2"/>
    <updated>2017-04-27T05:38:50-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/04/27/old-rag 2</id>
+   <id>http://localhost:4000/snapshot/2017/04/27/old-rag 2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2017/04/8DDC9CAD-C089-4A21-B656-55390DEA0ACD.jpeg&quot; alt=&quot;8DDC9CAD-C089-4A21-B656-55390DEA0ACD.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>TPC Scottsdale</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/03/23/tpc-scottsdale"/>
+   <link href="http://localhost:4000/snapshot/2017/03/23/tpc-scottsdale"/>
    <updated>2017-03-23T13:05:05-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/03/23/tpc-scottsdale</id>
+   <id>http://localhost:4000/snapshot/2017/03/23/tpc-scottsdale</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/04/IMG_1013.jpeg&quot; alt=&quot;IMG_1013.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>TPC Scottsdale</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/03/23/tpc-scottsdale-2"/>
+   <link href="http://localhost:4000/snapshot/2017/03/23/tpc-scottsdale-2"/>
    <updated>2017-03-23T13:05:05-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/03/23/tpc-scottsdale 2</id>
+   <id>http://localhost:4000/snapshot/2017/03/23/tpc-scottsdale 2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/04/IMG_1013.jpeg&quot; alt=&quot;IMG_1013.jpeg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Foggy Forest</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/01/26/foggy-forest"/>
+   <link href="http://localhost:4000/snapshot/2017/01/26/foggy-forest"/>
    <updated>2017-01-26T18:04:01-06:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/01/26/foggy-forest</id>
+   <id>http://localhost:4000/snapshot/2017/01/26/foggy-forest</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Foggy Forest</title>
-   <link href="http://localhost:4000/photo/snapshot/2017/01/26/foggy-forest-2"/>
+   <link href="http://localhost:4000/snapshot/2017/01/26/foggy-forest-2"/>
    <updated>2017-01-26T18:04:01-06:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2017/01/26/foggy-forest 2</id>
+   <id>http://localhost:4000/snapshot/2017/01/26/foggy-forest 2</id>
    <content type="html">
 </content>
  </entry>
@@ -2955,18 +2937,18 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Achievement Unlocked: Apple Watch Turkey Day Challenge</title>
-   <link href="http://localhost:4000/photo/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge"/>
+   <link href="http://localhost:4000/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge"/>
    <updated>2016-11-24T03:59:53-06:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge</id>
+   <id>http://localhost:4000/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2016/11/IMG_6479-1.png&quot; alt=&quot;IMG_6479.png&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Achievement Unlocked: Apple Watch Turkey Day Challenge</title>
-   <link href="http://localhost:4000/photo/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge-2"/>
+   <link href="http://localhost:4000/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge-2"/>
    <updated>2016-11-24T03:59:53-06:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge 2</id>
+   <id>http://localhost:4000/snapshot/2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge 2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2016/11/IMG_6479-1.png&quot; alt=&quot;IMG_6479.png&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -3749,22 +3731,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Honeymoon</title>
-   <link href="http://localhost:4000/photo/2012/05/20/honeymoon"/>
+   <link href="http://localhost:4000/photos/album/belize"/>
    <updated>2012-05-20T11:17:50-05:00</updated>
-   <id>http://localhost:4000/photo/2012/05/20/honeymoon</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20120520-IMG_0509.jpg&quot; alt=&quot;20120520 IMG 0509&quot; title=&quot;20120520-IMG_0509.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20120520-IMG_0512.jpg&quot; alt=&quot;20120520 IMG 0512&quot; title=&quot;20120520-IMG_0512.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20120520-IMG_0521.jpg&quot; alt=&quot;20120520 IMG 0521&quot; title=&quot;20120520-IMG_0521.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Honeymoon</title>
-   <link href="http://localhost:4000/photo/2012/05/20/honeymoon-2"/>
-   <updated>2012-05-20T11:17:50-05:00</updated>
-   <id>http://localhost:4000/photo/2012/05/20/honeymoon 2</id>
+   <id>http://localhost:4000/photos/album/honeymoon</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20120520-IMG_0509.jpg&quot; alt=&quot;20120520 IMG 0509&quot; title=&quot;20120520-IMG_0509.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20120520-IMG_0512.jpg&quot; alt=&quot;20120520 IMG 0512&quot; title=&quot;20120520-IMG_0512.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
@@ -3962,28 +3931,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>NYC</title>
-   <link href="http://localhost:4000/photo/2010/12/24/nyc"/>
+   <link href="http://localhost:4000/photos/album/nyc"/>
    <updated>2010-12-24T11:03:54-06:00</updated>
-   <id>http://localhost:4000/photo/2010/12/24/nyc</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/MG_1758.jpg&quot; alt=&quot;MG 1758&quot; title=&quot;_MG_1758.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/MG_1910.jpg&quot; alt=&quot;MG 1910&quot; title=&quot;_MG_1910.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/MG_2005.jpg&quot; alt=&quot;MG 2005&quot; title=&quot;_MG_2005.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/MG_2203.jpg&quot; alt=&quot;MG 2203&quot; title=&quot;_MG_2203.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/MG_2255.jpg&quot; alt=&quot;MG 2255&quot; title=&quot;_MG_2255.jpg&quot; border=&quot;0&quot; width=&quot;599&quot; height=&quot;329&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/MG_2340.jpg&quot; alt=&quot;MG 2340&quot; title=&quot;_MG_2340.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>NYC</title>
-   <link href="http://localhost:4000/photo/2010/12/24/nyc-2"/>
-   <updated>2010-12-24T11:03:54-06:00</updated>
-   <id>http://localhost:4000/photo/2010/12/24/nyc 2</id>
+   <id>http://localhost:4000/photos/album/nyc</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/MG_1758.jpg&quot; alt=&quot;MG 1758&quot; title=&quot;_MG_1758.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/MG_1910.jpg&quot; alt=&quot;MG 1910&quot; title=&quot;_MG_1910.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
@@ -4037,24 +3987,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Seaside</title>
-   <link href="http://localhost:4000/photo/2008/06/10/seaside"/>
+   <link href="http://localhost:4000/photos/album/seaside"/>
    <updated>2008-06-10T11:12:47-05:00</updated>
-   <id>http://localhost:4000/photo/2008/06/10/seaside</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/14.jpg&quot; alt=&quot;14&quot; title=&quot;14.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/16.jpg&quot; alt=&quot;16&quot; title=&quot;16.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/22.jpg&quot; alt=&quot;22&quot; title=&quot;22.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/23.jpg&quot; alt=&quot;23&quot; title=&quot;23.jpg&quot; border=&quot;0&quot; width=&quot;599&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Seaside</title>
-   <link href="http://localhost:4000/photo/2008/06/10/seaside-2"/>
-   <updated>2008-06-10T11:12:47-05:00</updated>
-   <id>http://localhost:4000/photo/2008/06/10/seaside 2</id>
+   <id>http://localhost:4000/photos/album/seaside</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/14.jpg&quot; alt=&quot;14&quot; title=&quot;14.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/16.jpg&quot; alt=&quot;16&quot; title=&quot;16.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
@@ -4067,9 +4002,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Dark Flower</title>
-   <link href="http://localhost:4000/photo/snapshot/2007/07/27/dark-flower"/>
+   <link href="http://localhost:4000/snapshot/2007/07/27/dark-flower"/>
    <updated>2007-07-27T11:20:27-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2007/07/27/dark-flower</id>
+   <id>http://localhost:4000/snapshot/2007/07/27/dark-flower</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20070727-Dark-Flower-300x225.jpg&quot; alt=&quot;&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-medium wp-image-1190&quot; /&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 </content>
@@ -4077,9 +4012,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Dark Flower</title>
-   <link href="http://localhost:4000/photo/snapshot/2007/07/27/dark-flower-2"/>
+   <link href="http://localhost:4000/snapshot/2007/07/27/dark-flower-2"/>
    <updated>2007-07-27T11:20:27-05:00</updated>
-   <id>http://localhost:4000/photo/snapshot/2007/07/27/dark-flower 2</id>
+   <id>http://localhost:4000/snapshot/2007/07/27/dark-flower 2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20070727-Dark-Flower-300x225.jpg&quot; alt=&quot;&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-medium wp-image-1190&quot; /&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 </content>

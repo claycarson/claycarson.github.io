@@ -3,7 +3,7 @@ id: 621
 title: 'Achievement Unlocked: Apple Watch Turkey Day Challenge'
 date: 2016-11-24T09:59:53+00:00
 categories: 
-  - Photo
+  
   - snapshot  
 tags:
   - Apple Watch
