@@ -35,6 +35,11 @@ current:
 complete:
   - year: "2020"
     item:
+      - title: Devs
+        dates: 2020-05-05
+        link:
+        creator:
+        star: no
       - title: "Unorthodox"
         date: 2020-04-17
         link:
