@@ -1,4 +1,4 @@
-lastupdate: February 27, 2020
+lastupdate: May 6, 2020
 current:
   - year: "Ongoing"
     item: 
@@ -21,7 +21,8 @@ current:
       - title: Mindhunter           
       - title: The Outsider
       - title: Ozark
-        star: yes                
+        star: yes    
+      - title: Run            
       - title: Succession  
         star: yes            
       - title: The Boys       
@@ -40,6 +41,13 @@ complete:
         link:
         creator:
         star: no
+        date: 2020-05-05
+        link:
+        creator:
+      - title: "Middleditch and Schwartz"
+        date: 2020-05-03
+        link:
+        creator:
       - title: "Unorthodox"
         date: 2020-04-17
         link:

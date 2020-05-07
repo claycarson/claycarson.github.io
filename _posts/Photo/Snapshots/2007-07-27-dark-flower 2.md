@@ -3,7 +3,6 @@ id: 1189
 title: Dark Flower
 date: 2007-07-27T16:20:27+00:00
 categories: 
-  - Photo
   - snapshot  
 format: image
 feature: https://via.placeholder.com/500
