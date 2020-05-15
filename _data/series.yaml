@@ -37,14 +37,16 @@ current:
 complete:
   - year: "2020"
     item:
-      - title: Devs
-        dates: 2020-05-05
-        link:
+      - title: "Waco"
+        date: 2020-05-14
+        link: https://www.imdb.com/title/tt6040674/
         creator:
-        star: no
+        star: No
+      - title: Devs
         date: 2020-05-05
         link:
         creator:
+        star: no
       - title: "Middleditch and Schwartz"
         date: 2020-05-03
         link:
