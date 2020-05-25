@@ -1,4 +1,4 @@
-lastupdate: May 6, 2020
+lastupdate: May 11, 2020
 current:
   - year: "Ongoing"
     item: 
@@ -8,6 +8,7 @@ current:
       - title: Comedians in Cars Getting Coffee
       - title: Curb Your Enthusiasm
         star: yes              
+      - title: Dead Like Me
       - title: Fleabag
       - title: "Formula 1: Drive to Survive" 
       - title: For All Mankind        
@@ -36,14 +37,21 @@ current:
 complete:
   - year: "2020"
     item:
-      - title: Devs
-        dates: 2020-05-05
+      - title: "The Last Dance"
+        date: 2020-05-18
         link:
         creator:
-        star: no
+        star:
+      - title: "Waco"
+        date: 2020-05-14
+        link: https://www.imdb.com/title/tt6040674/
+        creator:
+        star: No
+      - title: Devs
         date: 2020-05-05
         link:
         creator:
+        star: no
       - title: "Middleditch and Schwartz"
         date: 2020-05-03
         link:
