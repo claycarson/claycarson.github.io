@@ -2,7 +2,7 @@
   display: flex;
   flex-grow: 1;
   flex-direction: column;
-  justify-content: center;
+  margin: auto;
 }
 
 #home-title {
@@ -38,7 +38,6 @@
 }
 
 #home-nav {
-  opacity: .8;
 
   a {
     display: block;
@@ -48,10 +47,18 @@
 }
 
 #home-footer {
+position: absolute;
+left: 0;
+bottom: 0;
+height: 100px;
+width: 100%;
+text-align: center;
+line-height:100px;
   text-align: center;
-  font-size: .6em;
   line-height: normal;
-  @include dimmed;
+  bottom: 2em;
+  margin: auto;
+  position: absolute;
 
   p {
     margin-top: 0;
