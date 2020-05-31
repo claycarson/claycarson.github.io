@@ -30,7 +30,7 @@ You can follow me more closely at [my personal website](http://claycarson.net "P
 - [Trevor Bauer & Derek Dietrich go head-to-head in the desert](https://www.youtube.com/watch?v=sUX7Kb1jtcQ&feature=youtu.be "Trevor Bauer & Derek Dietrich go head-to-head in the desert")
 - [A Mile an Hour](https://www.youtube.com/watch?v=EvT5XS7j-Dc "A Mile an Hour")
 - [26 Minutes of a Man Doing Sudoku](https://www.youtube.com/watch?v=yKf9aUIxdb4&feature=emb_title "26 Minutes of a Man Doing Sudoku") (Make it to the 3’s at least)
-- [ A $h*t font that f*cking censors bad language automatically ](https://vole.wtf/scunthorpe-sans/ "A s*** font that f***ing censors bad language automatically ")
+- [A $h\*t font that f\*cking censors bad language automatically](https://vole.wtf/scunthorpe-sans/ "A s*** font that f***ing censors bad language automatically ")
 - [Peeling a Post-It](https://i.redd.it/vj67ibf6af051.jpg "Peeling a Post-It")
 - [Making Golf Balls](https://www.chrispaynephoto.com/golf-balls/o66lsan2zn2q48g5w8zji6o1oakwgx "Making Golf Balls")
 
