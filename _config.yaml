@@ -5,27 +5,9 @@ url: http://beta.claycarson.net
 paginate: 1
 baseurl: ""
 
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
-
-# Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-
 sass:
   sass_dir: _sass
   style: :compressed
-
-# Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
 ga_analytics: UA-56506919-1
@@ -35,11 +17,6 @@ author:
   name: Clay Carson
   url: https://claycarson.net
   email: clay@claycarson.net
-
-# Custom vars
-version: 3.0.0
-github:
-  repo: https://claycarson.github.io
 
 # This is the list of pages to include in the header of the website.
 #pages_list:
@@ -52,20 +29,3 @@ permalink: /:categories/:year/:month/:day/:title
 # Deploy
 deploy:
   directory: _site
-  
-  
-# Jekyll-Photo-Gallery Settings
-exiftag:
- sources:
-   - images/photography # Set to location of photos
-
-# MiniMagick
-mini_magick:
-    photography:
-        source: images/photography
-        destination: images/photography/thumbnails
-        resize: "1280x720"
-    headers:
-        source: images/headers
-        destination: images/headers/thumbnails
-        resize: "400x250"
