@@ -30,16 +30,4 @@
 <link rel="stylesheet" href="/styles.css" type="text/css">
 </head>
 <body>
-  <div class="nav">
-    <div class="nav-content">
-      <div class="nav-title">
-      <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-      </div>
-      {% for page in site.pages_list %}
-      <div class="nav-menu">
-      <a href="{{ page[1]  }}">{{ page[0] }}</a>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
 
