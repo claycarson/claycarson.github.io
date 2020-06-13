@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "The King of Staten Island"
+        date: 2020-06-12
+        link: https://www.imdb.com/title/tt9686708/
+        creator:
+        star: No
+
       - title: "Twister"
         date: 2020-06-08
         link: https://www.imdb.com/title/tt0117998/
