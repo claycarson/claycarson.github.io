@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Da 5 Bloods"
+        date: 2020-06-16
+        link: https://www.imdb.com/title/tt9777644/
+        creator:
+        star: No
+
       - title: "The King of Staten Island"
         date: 2020-06-12
         link: https://www.imdb.com/title/tt9686708/
