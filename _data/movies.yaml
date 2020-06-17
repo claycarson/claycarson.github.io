@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Ready or Not"
+        date: 2020-06-16
+        link: https://www.imdb.com/title/tt7798634/
+        creator:
+        star: No
+
       - title: "Da 5 Bloods"
         date: 2020-06-16
         link: https://www.imdb.com/title/tt9777644/
