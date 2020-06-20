@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Buffaloed"
+        date: 2020-06-19
+        link: https://www.imdb.com/title/tt8647310/
+        creator:
+        star: No
+
       - title: "Ready or Not"
         date: 2020-06-16
         link: https://www.imdb.com/title/tt7798634/
