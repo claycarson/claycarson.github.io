@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Eurovision Song Contest: The Story of Fire Saga"
+        date: 2020-06-27
+        link: https://www.imdb.com/title/tt8580274/
+        creator:
+        star: No
+
       - title: "Buffaloed"
         date: 2020-06-19
         link: https://www.imdb.com/title/tt8647310/
