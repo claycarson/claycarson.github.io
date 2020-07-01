@@ -9,7 +9,6 @@ current:
       - title: Curb Your Enthusiasm
         star: yes              
       - title: Dead Like Me
-      - title: Defending Jacob
       - title: Fleabag
       - title: "Formula 1: Drive to Survive" 
       - title: For All Mankind        
@@ -39,6 +38,8 @@ current:
 complete:
   - year: "2020"
     item:
+      - title: Defending Jacob
+        date: 2020-06-30
       - title: "The Last Dance"
         date: 2020-05-18
         link:
