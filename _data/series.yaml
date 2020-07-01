@@ -29,6 +29,7 @@ current:
       - title: The Boys       
       - title: The Righteous Gemstones               
       - title: "Tom Clancy's Jack Ryan"
+      - title: Top Chef
       - title: True Detective
       - title: Queer Eye
       - title: Unbelievable
@@ -37,6 +38,8 @@ current:
 complete:
   - year: "2020"
     item:
+      - title: Defending Jacob
+        date: 2020-06-30
       - title: "The Last Dance"
         date: 2020-05-18
         link:
