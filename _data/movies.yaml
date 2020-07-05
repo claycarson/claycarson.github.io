@@ -1,6 +1,18 @@
 list:
   - year: "2020"
     item:
+      - title: "Desperados"
+        date: 2020-07-04
+        link: https://www.imdb.com/title/tt1545304/
+        creator:
+        star: No
+
+      - title: "Hamilton"
+        date: 2020-07-03
+        link: https://www.imdb.com/title/tt8503618/
+        creator:
+        star: No
+
       - title: "Eurovision Song Contest: The Story of Fire Saga"
         date: 2020-06-27
         link: https://www.imdb.com/title/tt8580274/
