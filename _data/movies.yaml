@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Palm Springs"
+        date: 2020-07-11
+        link: https://www.imdb.com/title/tt9484998/
+        creator:
+        star: No
+
       - title: "Desperados"
         date: 2020-07-04
         link: https://www.imdb.com/title/tt1545304/
