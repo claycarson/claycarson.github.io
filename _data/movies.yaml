@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Last Christmas"
+        date: 2020-07-11
+        link: https://www.imdb.com/title/tt8623904/
+        creator:
+        star: No
+
       - title: "Palm Springs"
         date: 2020-07-11
         link: https://www.imdb.com/title/tt9484998/
