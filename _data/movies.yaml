@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "First Cow"
+        date: 2020-07-25
+        link: https://www.imdb.com/title/tt9231040/
+        creator:
+        star: No
+
       - title: "Last Christmas"
         date: 2020-07-11
         link: https://www.imdb.com/title/tt8623904/
