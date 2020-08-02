@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Yes, God, Yes"
+        date: 2020-08-01
+        link: https://www.imdb.com/title/tt8949056/
+        creator:
+        star: No
+
       - title: "First Cow"
         date: 2020-07-25
         link: https://www.imdb.com/title/tt9231040/
