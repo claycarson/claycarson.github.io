@@ -1,6 +1,11 @@
 list:
   - year: "2020"
     item:
+      - title: "An American Pickle"
+        date: 2020-08-15
+        link: https://www.imdb.com/title/tt9059704/
+        creator:
+        star: No
       - title: "Yes, God, Yes"
         date: 2020-08-01
         link: https://www.imdb.com/title/tt8949056/
