@@ -1,6 +1,11 @@
 list:
   - year: "2020"
     item:
+      - title: "Class Action Park"
+        date: 2020-09-01
+        link: https://www.imdb.com/title/tt11015214/
+        creator:
+        star: No    
       - title: "An American Pickle"
         date: 2020-08-15
         link: https://www.imdb.com/title/tt9059704/

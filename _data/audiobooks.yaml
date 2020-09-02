@@ -1,6 +1,11 @@
 list:
   - year: "2020"
     item:
+      - title: 'Hell Yeah or No'
+        creator: Derek Sivers
+        link:
+        date: 2020-07-21
+        star: no
       - title: 'The Second Life of Tiger Woods'
         creator: Michael Bamberger
         link:
