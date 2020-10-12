@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: 'Norman, OK, USA'
+        date: 2020-09-07
+        
+      - title: 'Moody, TX, USA'
+        date: 2020-06-22    
+    
       - title: 'Caddo, TX, USA'
         date: 2020-01-10
         

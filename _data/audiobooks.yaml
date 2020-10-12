@@ -1,6 +1,11 @@
 list:
   - year: "2020"
     item:
+      - title: '21 Lessons for the 21st Century'
+        creator: Yuval Noah Harari 
+        link:
+        date: 2020-09-03
+        star: no    
       - title: 'Hell Yeah or No'
         creator: Derek Sivers
         link:

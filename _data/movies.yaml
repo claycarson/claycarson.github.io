@@ -1,16 +1,42 @@
 list:
   - year: "2020"
     item:
+      - title: "Unpregnant"
+        date: 2020-10-09
+        link: https://www.imdb.com/title/tt10556022/
+        creator:
+        star: No 
+        
+      - title: "A Few Good Men"
+        date: 2020-09-24
+        link: https://www.imdb.com/title/tt0104257/
+        creator:
+        star: No  
+        
+      - title: "Love, Guaranteed"
+        date: 2020-09-11
+        link: https://www.imdb.com/title/tt11015214/
+        creator:
+        star: No  
+        
+      - title: "Citizen Kane"
+        date: 2020-09-01
+        link: https://www.imdb.com/title/tt11015214/
+        creator:
+        star: No      
+                        
       - title: "Class Action Park"
         date: 2020-09-01
         link: https://www.imdb.com/title/tt11015214/
         creator:
         star: No    
+        
       - title: "An American Pickle"
         date: 2020-08-15
         link: https://www.imdb.com/title/tt9059704/
         creator:
         star: No
+        
       - title: "Yes, God, Yes"
         date: 2020-08-01
         link: https://www.imdb.com/title/tt8949056/
@@ -112,6 +138,7 @@ list:
         link: https://www.imdb.com/title/tt2091935/
         creator:
         star: no
+        
       - title: "The Gentlemen"
         date: 2020-04-17
         link: https://www.imdb.com/title/tt8367814/
