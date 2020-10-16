@@ -1,6 +1,12 @@
 list:
   - year: "2020"
     item:
+      - title: "Lost in Translation
+        date: 2020-10-15
+        link: https://www.imdb.com/title/tt0335266/
+        creator:
+        star: No
+
       - title: "Unpregnant"
         date: 2020-10-09
         link: https://www.imdb.com/title/tt10556022/
