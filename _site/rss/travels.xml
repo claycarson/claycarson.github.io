@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arcana.computer: Travels</title>
+    <description>RSS feed of new travels from arcana.computer</description>
+    <link>http://localhost:4000/rss/travels.xml</link>
+    <atom:link href="http://localhost:4000/catalogs/travels" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Dec 2020 11:16:52 -0600</pubDate>
+    <lastBuildDate>Fri, 04 Dec 2020 11:16:52 -0600</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+  <item>
+	<title>Norman, OK, USA</title>
+	<description></description>
+	<pubDate>Mon, 07 Sep 2020 00:00:00 -0500</pubDate>
+  </item>
+
+  <item>
+	<title>Moody, TX, USA</title>
+	<description></description>
+	<pubDate>Mon, 22 Jun 2020 00:00:00 -0500</pubDate>
+  </item>
+
+  <item>
+	<title>Caddo, TX, USA</title>
+	<description></description>
+	<pubDate>Fri, 10 Jan 2020 00:00:00 -0600</pubDate>
+  </item>
+
+  <item>
+	<title>Austin, TX, USA</title>
+	<description></description>
+	<pubDate>Fri, 13 Dec 2019 00:00:00 -0600</pubDate>
+  </item>
+
+  <item>
+	<title>Austin, TX, USA</title>
+	<description></description>
+	<pubDate>Sat, 02 Nov 2019 00:00:00 -0500</pubDate>
+  </item>
+
+  <item>
+	<title>Santa Cruz, CA, USA</title>
+	<description></description>
+	<pubDate>Fri, 20 Sep 2019 00:00:00 -0500</pubDate>
+  </item>
+
+  <item>
+	<title>Frankfort, MI, USA</title>
+	<description></description>
+	<pubDate>Fri, 30 Aug 2019 00:00:00 -0500</pubDate>
+  </item>
+
+  <item>
+	<title>Portland, OR, USA</title>
+	<description></description>
+	<pubDate>Wed, 24 Jul 2019 00:00:00 -0500</pubDate>
+  </item>
+
+  <item>
+	<title>Seattle, WA, USA</title>
+	<description></description>
+	<pubDate>Sun, 21 Jul 2019 00:00:00 -0500</pubDate>
+  </item>
+
+  <item>
+	<title>Vancouver, BC, Canada</title>
+	<description></description>
+	<pubDate>Wed, 17 Jul 2019 00:00:00 -0500</pubDate>
+  </item>
+
+  </channel>
+</rss>

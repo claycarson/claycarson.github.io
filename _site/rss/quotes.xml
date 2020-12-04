@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arcana.computer: Quotes</title>
+    <description>RSS feed of new quotes and highlights from arcana.computer</description>
+    <link>http://localhost:4000/rss/quotes.xml</link>
+    <atom:link href="http://localhost:4000/catalogs/quotes" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Dec 2020 11:16:52 -0600</pubDate>
+    <lastBuildDate>Fri, 04 Dec 2020 11:16:52 -0600</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+
+  <item>
+    <title>Notebook Entry #Shoe Dogs: A Memoir by the Creator of Nike</title>
+    <description></description>
+    <author>
+        
+    </author>
+    
+  </item>
+
+  <item>
+    <title>Notebook Entry #</title>
+    <description></description>
+    <author>
+        
+    </author>
+    
+  </item>
+
+  </channel>
+</rss>

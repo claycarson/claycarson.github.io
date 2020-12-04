@@ -1,0 +1,15 @@
+---
+layout: rss
+title: Dictionary
+description: RSS feed of new words from arcana.computer
+source: /catalogs/dictionary
+permalink: /rss/dictionary.xml
+---
+
+{% for item in site.data.dictionary limit:10 %}
+  <item>
+    <title>{{ item.name | xml_escape }}</title>
+    <description>{{ item.definition }}</description>
+    <pubDate>{{ item.date | date_to_rfc822 }}</pubDate>
+  </item>
+{% endfor %}

@@ -1,0 +1,21 @@
+url: "http://example.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Clay Carson" # the name of your site, e.g. ACME Corp.
+author: "Clay Carson" # the author of your site, e.g. J Doe.
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title
+collections:
+    catalogs:
+        output: true
+        permalink: /:collection/:name
+    article:
+        output: true
+        permalink: /:collection/:name	
+    newsletter:
+        output: true
+        permalink: /:collection/:name					
+collections_dir: writing
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dapibus leo."
+social:
+    twitter: "https://twitter.com/claycarson"
+    email: "mailto: clay@claycarson.net"

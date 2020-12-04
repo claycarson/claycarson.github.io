@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arcana.computer: Movies</title>
+    <description>RSS feed of new movies from arcana.computer</description>
+    <link>http://localhost:4000/rss/movies.xml</link>
+    <atom:link href="http://localhost:4000/catalogs/movies" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Dec 2020 11:16:52 -0600</pubDate>
+    <lastBuildDate>Fri, 04 Dec 2020 11:16:52 -0600</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+
+  <item>
+    <title>A Bad Mom's Christmas</title>
+    <description>
+</description>
+    <pubDate>Sat, 28 Nov 2020 00:00:00 -0600</pubDate>
+  </item>
+
+  <item>
+    <title>Coming to America</title>
+    <description>
+</description>
+    <pubDate>Wed, 25 Nov 2020 00:00:00 -0600</pubDate>
+  </item>
+
+  <item>
+    <title>My Cousin Vinny</title>
+    <description>
+</description>
+    <pubDate>Sat, 21 Nov 2020 00:00:00 -0600</pubDate>
+  </item>
+
+  <item>
+    <title>Free Fire</title>
+    <description>
+</description>
+    <pubDate>Fri, 20 Nov 2020 00:00:00 -0600</pubDate>
+  </item>
+
+  <item>
+    <title>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</title>
+    <description>
+</description>
+    <pubDate>Fri, 20 Nov 2020 00:00:00 -0600</pubDate>
+  </item>
+
+  <item>
+    <title>Alpha Go</title>
+    <description>
+</description>
+    <pubDate>Thu, 19 Nov 2020 00:00:00 -0600</pubDate>
+  </item>
+
+  <item>
+    <title>The Social Dilemma</title>
+    <description>
+</description>
+    <pubDate>Wed, 18 Nov 2020 00:00:00 -0600</pubDate>
+  </item>
+
+  <item>
+    <title>Enola Holms</title>
+    <description>
+</description>
+    <pubDate>Fri, 30 Oct 2020 00:00:00 -0500</pubDate>
+  </item>
+
+  <item>
+    <title>The Binge</title>
+    <description>
+</description>
+    <pubDate>Tue, 27 Oct 2020 00:00:00 -0500</pubDate>
+  </item>
+
+  <item>
+    <title>Borat Subsequent Moviefilm</title>
+    <description>
+</description>
+    <pubDate>Tue, 27 Oct 2020 00:00:00 -0500</pubDate>
+  </item>
+
+  </channel>
+</rss>
