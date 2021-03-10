@@ -1,0 +1,15 @@
+---
+layout: photo-list
+title: Photo Albums
+permalink: /test/photos/albums
+---    
+
+<div class="pad limiter content notitle">
+	<div class=body>
+		<div class=project-box>
+				{% for post in site.categories.Photo-Album %}
+					<a href="{{ post.url }}"><img src="{{ post.image }}"></a>
+				{% endfor %}
+		</div>
+	</div>
+</div>

@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-10T09:18:40-06:00</updated><id>/feed.xml</id><title type="html">Clay Carson</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">March 2021</title><link href="/newsletter/2021/03/01/Newsletter" rel="alternate" type="text/html" title="March 2021" /><published>2021-03-01T00:00:00-06:00</published><updated>2021-03-01T00:00:00-06:00</updated><id>/newsletter/2021/03/01/Newsletter</id><content type="html" xml:base="/newsletter/2021/03/01/Newsletter">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+
+&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;like-super-random&quot;&gt;Like, Super Random&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.cloudflare.com/randomness-101-lavarand-in-production/&quot;&gt;Randomness 101: LavaRand in Production&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;LavaRand is a system that uses lava lamps as a secondary source of randomness for our production servers. A wall of lava lamps in the lobby of our San Francisco office provides an unpredictable input to a camera aimed at the wall. A video feed from the camera is fed into a CSPRNG, and that CSPRNG provides a stream of random values that can be used as an extra source of randomness by our production servers. Since the flow of the “lava” in a lava lamp is very unpredictable,1 “measuring” the lamps by taking footage of them is a good way to obtain unpredictable randomness. Computers store images as very large numbers, so we can use them as the input to a CSPRNG just like any other number.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1cUUfMeOijg&amp;amp;feature=emb_title&quot;&gt;Video Version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;i-shot-myself-but-i-killed-my-ego&quot;&gt;“I shot myself, but I killed my ego.”&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.espn.com/mlb/story/_/id/30800732/san-francisco-giants-outfielder-drew-robinson-remarkable-second-act&quot; title=&quot;San Francisco Giants outfielder Drew Robinson's remarkable second act&quot;&gt;San Francisco Giants outfielder Drew Robinson’s remarkable second act&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Being a professional baseball player isn’t only about playing baseball better than everyone else. It’s accelerated adulthood. It’s an 18-year-old paying bills, managing disappointment, navigating politics, forging relationships – figuring out how to live in a universe designed to weed out the weak.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;goldberggggg&quot;&gt;Goldberggggg&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/culture/archive/2021/02/hockey-goalies-are-too-big-now/618021/&quot;&gt;Hockey Has a Gigantic-Goalie Problem&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Particularly intriguing is to watch them position their body when the action is to one side of their net, near the goal line. On their knees, one leg extended to the bottom far corner, the top of that leg pad filling the five-hole, their upper body crammed up against the post, their shoulders shrugged upward to take away the top corners, all of their body parts coming together so seamlessly. It is like watching an origami master in action, constructing not a paper crane, but a perfect wall.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;understanding-efficacy&quot;&gt;Understanding Efficacy&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00075-X/fulltext&quot; title=&quot;What does 95% COVID-19 vaccine efficacy really mean?&quot;&gt;What does 95% COVID-19 vaccine efficacy really mean?&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is imperative to dispel any ambiguity about how vaccine efficacy shown in trials translates into protecting individuals and populations. The mRNA-based Pfizer, and Moderna vaccines were shown to have 94–95% efficacy in preventing symptomatic COVID-19…It means that in a population such as the one enrolled in the trials, with a cumulated COVID-19 attack rate over a period of 3 months of about 1% without a vaccine, we would expect roughly 0·05% of vaccinated people would get diseased. It does not mean that 95% of people are protected from disease with the vaccine—a general misconception of vaccine protection…&lt;/p&gt;
+
+  &lt;p&gt;A 95% vaccine efficacy means that instead of 1,000 COVID-19 cases in a population of 100,000 without vaccine we would expect 50 cases.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I couldn’t really wrap my mind around how this math worked out. Or rather, I hadn’t found anyone who could explain it well enough for me to explain to someone else. &lt;a href=&quot;https://www.nytimes.com/2020/12/13/learning/what-does-95-effective-mean-teaching-the-math-of-vaccine-efficacy.html&quot;&gt;This NY Times exercise really helped&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://marginalrevolution.com/marginalrevolution/2021/02/should-you-wait.html&quot; title=&quot;Should you take a less efficacious vaccine or wait for a more efficacious vaccine?&quot;&gt;Should you take a less efficacious vaccine or wait for a more efficacious vaccine?&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Don’t fail to wear your seatbelt today because your next car may have airbags.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.livescience.com/covid-19-vaccine-efficacy-explained.html&quot;&gt;Please keep in mind&lt;/a&gt;,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All three vaccines were 100% effective at preventing severe disease six weeks after the first dose (for Moderna) or seven weeks after the first dose (for Pfizer and Johnson &amp;amp; Johnson, the latter of which requires only one dose). Zero vaccinated people in any of the trials were hospitalized or died of COVID-19 after the vaccines had fully taken effect.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wordpress.cels.anl.gov/covid-vaccine-efficacy/&quot;&gt;Covid-19 Vaccine Efficacy Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/MagsVisaggs/status/1355252052977459200&quot;&gt;Modern Presidential Portraits&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf&quot;&gt;A Day in the Life of Your Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vimeo.com/261660348&quot;&gt;Everest - A Time Lapse Film&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://imissmybar.com&quot; title=&quot;I Miss My Bar&quot;&gt;I Miss My Bar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://joshdata.me/iceberger.html&quot;&gt;Draw an iceberg and see how it will float&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bemyeyes.com&quot; title=&quot;Be My Eyes&quot;&gt;Be My Eyes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archives.design&quot;&gt;A digital archive of graphic design related items that are available on the Internet Archives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.naturequant.com/naturescore/&quot;&gt;Nature Score&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
+
+&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
+
+&lt;p&gt;Clay&lt;/p&gt;</content><author><name></name></author><category term="Newsletter" /><summary type="html">This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.</summary></entry><entry><title type="html">Meditations</title><link href="/book/2021/02/25/meditations" rel="alternate" type="text/html" title="Meditations" /><published>2021-02-25T00:00:00-06:00</published><updated>2021-02-25T00:00:00-06:00</updated><id>/book/2021/02/25/meditations</id><content type="html" xml:base="/book/2021/02/25/meditations">&lt;h2 id=&quot;book-1&quot;&gt;Book 1&lt;/h2&gt;
+
+&lt;!-- Page 9 --&gt;
+
+&lt;h3 id=&quot;15-maximus&quot;&gt;15. Maximus&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The sense he gave of &lt;em&gt;staying&lt;/em&gt; on the path rather than being &lt;em&gt;kept&lt;/em&gt; on it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;16-my-adopted-father&quot;&gt;16. My Adopted Father&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Compassion. Unwavering adherence to decisions, once he’d reached them. Indifference to superficial honors. Hard work. Persistence.&lt;/p&gt;
+
+  &lt;p&gt;Listening to anyone who could contribute to the public good.&lt;/p&gt;
+
+  &lt;p&gt;His dogged determination to treat people as they deserved.&lt;/p&gt;
+
+  &lt;p&gt;A sense of when to push and when to back off.&lt;/p&gt;
+
+  &lt;p&gt;Putting a stop to the pursuit of boys.&lt;/p&gt;
+
+  &lt;p&gt;His altruism. Not expecting his friends to keep him entertained at dinner or to travel with him (unless they wanted to). And anyone who had to stay behind to take care of something always found him the same when he returned.&lt;/p&gt;
+
+  &lt;p&gt;His searching questions at meetings. A kind of single-mindedness, almost, never content with first impressions, or breaking off the discussion prematurely.&lt;/p&gt;
+
+  &lt;p&gt;His constancy to friends-never getting fed up with them, or playing favorites.&lt;/p&gt;
+
+  &lt;p&gt;Self-reliance, always. And cheerfulness.&lt;/p&gt;
+
+  &lt;p&gt;And his advance planning (well in advance) and his discreet attention to even minor things.&lt;/p&gt;
+
+  &lt;p&gt;His restrictions on acclamations-and all attempts to flatter him.&lt;/p&gt;
+
+  &lt;p&gt;His constant devotion to the empire’s needs. His stewardship the treasury. His willingness to take responsibility-and blame-for both.&lt;/p&gt;
+
+  &lt;p&gt;His attitude to the gods: no superstitiousness. And his attitude to men: no demagoguery, no currying favor, no pandering. Alway gained from doing it. Always sober, always steady, and never vulgar or prey to fads.&lt;/p&gt;
+
+  &lt;p&gt;The way he handled the material comforts that fortune had supplied him in such abundance-without arrogance and without apology. If there were there, he took advantage of them. If not, he didn’t miss them.&lt;/p&gt;
+
+  &lt;p&gt;No one ever called him glib, or shameless, or pedantic. They saw him for what he was: a man tested by life, accomplished, unswayed by flattery, qualified to govern both himself and them.&lt;/p&gt;
+
+  &lt;p&gt;His respect for people who practiced philosophy-at least, those who were sincere about it. But without denigrating the others-or listening to them.&lt;/p&gt;
+
+  &lt;p&gt;His ability to feel at ease with people-and put them at &lt;em&gt;there&lt;/em&gt; ease, without being pushy.&lt;/p&gt;
+
+  &lt;p&gt;His willingness to take adequate care of himself. Not a hypochondriac or obsessed with his appearance, but not ignoring things either. With the result that he hardly ever needed medical attention, or drugs or any sort of salve or ointment.&lt;/p&gt;
+
+  &lt;p&gt;This, in particular: his willingness to yield the floor to experts–in oratory, law, psychology, whatever–and to support them energetically, so that each of them could fulfill his potential.&lt;/p&gt;
+
+  &lt;p&gt;That he respected tradition without needing to constantly congratulate himself for Safeguarding Our Traditional Values.&lt;/p&gt;
+
+  &lt;p&gt;Not prone to go off on tangents, or pulled in all directions, but sticking with the same old places and the same old things.&lt;/p&gt;
+
+  &lt;p&gt;The way he could have one of his migraines and then go right back to what he was doing-fresh and at the top of his game.&lt;/p&gt;
+
+  &lt;p&gt;That he had so few secrets-only state secrets, in fact, and not all that many of those.&lt;/p&gt;
+
+  &lt;p&gt;The way he kept public actions within reasonable bounds-games, building projects, distributions of money and so on–because he looked to what needed doing and not the credit to be gained from doing both.&lt;/p&gt;
+
+  &lt;p&gt;No bathing at strange hours, no self-indulgent building projects no concern for food, or the cut and color of his clothes, or haying attractive slaves. (The robe from his farm at Lorium, most of the things at Lanuvium, the way he accepted the customs agent’s way apology at Tusculum, etc.)&lt;/p&gt;
+
+  &lt;p&gt;He never exhibited rudeness, lost control of himself, or turned violent. No one ever saw him sweat. Everything was to be approached logically and with due consideration, in a calm and orderly fashion but decisively, and with no loose ends.&lt;/p&gt;
+
+  &lt;p&gt;You could have said of him (as they say of Socrates) that he knew how to enjoy and abstain from things that most people find it hard to abstain from and all too easy to enjoy. Strength, perseverance, self-control in both areas: the mark of a soul in readiness–indomitable.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 12 --&gt;
+&lt;h3 id=&quot;17-the-gods&quot;&gt;17. The Gods&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That I wasn’t more talented in rhetoric or poetry, or other areas. If I’d felt that I was making better progress I might never have given them up.&lt;/p&gt;
+
+  &lt;p&gt;[…]&lt;/p&gt;
+
+  &lt;p&gt;That when I became interested in philosophy I didn’t fall into the hands of charlatans, and didn’t get bogged down in writing treatises, or become absorbed by logic-chopping, or preoccupied with physics.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-2&quot;&gt;Book 2&lt;/h2&gt;
+
+&lt;!-- Page 18 --&gt;
+&lt;p&gt;3.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The world is maintained by change–in the elements and in the things they compose. That should be enough for you; treat it as an axiom.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;4.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is a limit to the time assigned you, and if you don’t use it to free yourself it will be gone and will never return.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;5.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Concentrate every minute like a Roman-like a man–on doing what’s in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions. Yes, you can-if you do everything as if it were the last thing you were doing in your life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable. You see how few things you have to do to live a satisfying and reverent life? If you can manage this, that’s all even the gods can ask of you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;6.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everyone gets one life. Yours is almost used up, and instead of treating yourself with respect, you have entrusted your own happiness to the souls of others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 20 --&gt;
+&lt;p&gt;11.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You could leave life right now. Let that determine what you do and say and think. If the gods exist, then to abandon human beings is not frightening; the gods would never subject you to harm. And they don’t exist, or don’t care what happens to us, what would he the point of living in a world without gods or Providence? But they do exist, they do care what happens to us, and everything a person needs to avoid real harm they have placed within him. If there were anything harmful on the other side of death, they would have made sure that the ability to avoid it was within you. If it doesn’t harm your character, how can it harm your life? Nature would not have overlooked such dangers through failing to recognize them, or because it saw them but was powerless to prevent or correct them. Nor would it ever, through inability or incompetence, make such a mistake as to let good and bad things happen indiscriminately to good and bad alike. &lt;strong&gt;But death and life, success and failure, pain and pleasure, wealth and poverty, all these happen to good and bad alike, and they are neither noble nor shameful-and hence neither good nor bad.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-3&quot;&gt;Book 3&lt;/h2&gt;
+
+&lt;!-- Page 31 --&gt;
+&lt;p&gt;6.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would be wrong for anything to stand between you and attaining goodness– as a rational being and a citizen. Anything at all: the applause of the crowd, high office, wealth, or self-indulgence. All of them might seem to be compatible with it– for a while. But suddenly they control us and sweep us away.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;7.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Never regard something as doing you good if it makes you betray a trust, or lose your sense of shame, or makes you show hatred, suspicion, ill will, or hypocrisy, or a desire for things best done behind closed doors. If you can privilege your own mind, guiding spirit and your reverence for its powers, that should clear of dramatics, of wailing and gnashing of teeth. You won’t need solitude-or a cast of thousands, either. Above all, you’ll be free of fear and desire. And how long your body will contain the soul that inhabits it will cause you not a moment’s worry. If it’s time for you to go, leave willingly-as you would to accomplish anything that can be done with grace and honor. And concentrate on this, your whole life long: for your mind to be in the right state-the state a rational, civic mind should be in.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 32 --&gt;
+&lt;p&gt;10.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Forget everything else. Keep hold of this alone and remember it: Each of us lives only now, this brief instant. The rest has bee lived already; or is impossible to see. Thes pan we live is small–small as the corner of the earch in which we live it. Small as even the greatest renown, passed from outh to mouth by short-lived stick figures, ignorant alike of themselves and those long dead.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 33 --&gt;
+&lt;p&gt;12.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you do the job in a principled way, with diligence, energy and pations, if you keep yourself free of distractions, and keep the spirit inside you undamaged, as if you might have to give it back at any moment–&lt;/p&gt;
+
+  &lt;p&gt;If you can embrace this without fear or expectation–can find fulfillment in what you’re doing now, as Nature intended, and in superhuman truthfulness (every wod, every utterance)– then your life with be happy.&lt;/p&gt;
+
+  &lt;p&gt;No one can prevent that.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-4&quot;&gt;Book 4&lt;/h2&gt;
+
+&lt;!-- Page 37 --&gt;
+&lt;p&gt;3.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People try to get away from it all-to the country, to the beach, to the mountains. You always wish that you could too. Which is idiotic: you can get away from it anytime you like.&lt;/p&gt;
+
+  &lt;p&gt;By going within.&lt;/p&gt;
+
+  &lt;p&gt;Nowhere you can go is more peaceful-more free of interruptions-than your own soul. Especially if you have other things to rely on. An instant’s recollection and there it is: complete tranquillity. And by tranquillity I mean a kind of harmony.&lt;/p&gt;
+
+  &lt;p&gt;So keep getting away from it all-like that. Renew yourself. But keep it brief and basic. A quick visit should be enough to ward off all&amp;lt;…&amp;gt; and send you back ready to face what awaits you.&lt;/p&gt;
+
+  &lt;p&gt;What’s there to complain about? People’s misbehavior? But take into consideration:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;that rational beings exist for one another;&lt;/li&gt;
+    &lt;li&gt;that doing what’s right sometimes requires patience;&lt;/li&gt;
+    &lt;li&gt;that no one does the wrong thing deliberately;&lt;/li&gt;
+    &lt;li&gt;and the number of people who have feuded and envied and hated and fought and died and been buried.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;… and keep your mouth shut.&lt;/p&gt;
+
+  &lt;p&gt;Or are you complaining about the things the world assigns you? But consider the two options: Providence or atoms. And all the arguments for seeing the world as a city.&lt;/p&gt;
+
+  &lt;p&gt;Or is it your body? Keep in mind that when the mind detaches itself and realizes its own nature, it no longer has anything to do with ordinary life-the rough and the smooth, either one. And remember all you’ve been taught-and accepted-about pain and pleasure.&lt;/p&gt;
+
+  &lt;p&gt;Or is it your reputation that’s bothering you? But look at how soon we’re all forgotten. The abyss of endless time that swallows it all. The emptiness of all those applauding hands. The people who praise us-how capricious they are, how arbitrary. And the tiny region in which it all takes place. The whole earth a point in space and most of it uninhabited. How many people there will be to admire you, and who they are.&lt;/p&gt;
+
+  &lt;p&gt;So keep this refuge in mind: the back roads of your self. Above all, no strain and no stress. Be straightforward. Look at things like a man, like a human being, like a citizen, like a mortal. And among the things you turn to, these two:&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;
+      &lt;p&gt;That things have no hold on the soul. They stand there unmoving, outside it. Disturbance comes only from within–from our own perceptions.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;That everything you see will soon alter and cease to exist. Think of how many changes you’ve already seen.&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+
+  &lt;p&gt;“The world is nothing but change. Our life is only perception.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 39 --&gt;
+&lt;p&gt;7.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Choose not to be harmed–and you won’t feel harmed. Don’t feel harmed–and you haven’t been&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;8.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It can ruin your life only if it ruins your character. Otherwise it cannot harm you–inside or out.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 41 --&gt;
+&lt;p&gt;19.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People who are excited by posthumous fame forget that the people who remember them will soon die too. And those after them in turn. Until their memory, passed from one to another like a candle flame, gutters and goes out&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 42 --&gt;
+&lt;p&gt;24.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“If you seek tranquillity, do less.” Or (more accurately) do what’s essential–what the logos of a social being requires, and in the requisite way. Which brings a double satisfaction: to do less, better.&lt;/p&gt;
+
+  &lt;p&gt;Because most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquillity. As yourself at every moment, “Is this necessary?”&lt;/p&gt;
+
+  &lt;p&gt;But we need to eliminate unnecessary assumptions as well. To eliminate the unnecessary actions that follow.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 43 --&gt;
+&lt;p&gt;26.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Don’t be disturbed. Uncomplicate yourself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 44 --&gt;
+&lt;p&gt;31.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Love the discipline you know, and let it support you. Entrust everything willingly to the gods, and then make your way through life–&lt;strong&gt;No one’s master and no one’s slave.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 45 --&gt;
+&lt;p&gt;32.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You’re better off not giving small things more time than they deserve.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;33.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Then what should we work for?&lt;/p&gt;
+
+  &lt;p&gt;Only this: proper understanding; unselfish action; truthful speech. A resolve to accept whatever happens as necessary and familiar, flowing like water from the same source and spring.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;36.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Constant awareness that everything is born from change. The knowledge that there is nothing nature loves more than to alter what exists and make  new things like it. All that exists is the seed of what will emerge from it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 46 --&gt;
+&lt;p&gt;39.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nothing that goes on in anyone else’s mind can harm you. Nor can the shifts and changes in the world around you.&lt;/p&gt;
+
+  &lt;p&gt;-Then where is harm to be found?&lt;/p&gt;
+
+  &lt;p&gt;In your capacity to see it. Stop doing that and everything will be fine. Let the part of you that makes that judgment keep quiet even if the body it’s attached to is stabbed or burnt, or stinking with pus, or consumed by cancer. Or to put it another way: It needs to realize that what happens to everyone-bad and good alike-is neither good nor bad. That what happens in every life-lived naturally or not-is neither natural nor unnatural.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;41.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A little wisp of soul carrying a corpse. – Epictetus”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;43.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Time is a river, a violent current of events, glimpsed once and already carried past us, and another follows and is gone.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 47 --&gt;
+&lt;p&gt;47.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Suppose that a god announced that you were going to die tomorrow “or the day after”. Unless you were a complete coward you wouldn’t kick up a fuss about which day it was–what difference could it make? &lt;strong&gt;Now recognize that the difference between years from now and tomorrow is just as small.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 48 --&gt;
+&lt;p&gt;48.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In short, know this: Human lives are brief and trivial. Yesterday a blob of semen; tomorrow embalming fluid, ash.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;49a.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It’s unfortunate that this has happened.&lt;/p&gt;
+
+  &lt;p&gt;No. It’s fortunate that this has happened and I’ve remained unharmed by it-not shattered by the present or frightened of the future. It could have happened to anyone. But not everyone could have remained unharmed by it. Why treat the one as a misfortune rather than the other as fortunate? Can you really call something a misfortune that doesn’t violate human nature? Or do you think something that’s not against nature’s will can violate it? But you know what its will is. Does what’s happened keep you from acting with justice, generosity, self-control, sanity, prudence, honesty, humility, straightforwardness, and all the other qualities that allow a person’s nature to fulfill itself?&lt;/p&gt;
+
+  &lt;p&gt;So remember this principle when something threatens to cause you pain: the thing itself was no misfortune at all; to endure it and prevail is great good fortune.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-5&quot;&gt;Book 5&lt;/h2&gt;
+
+&lt;!-- Page 53 --&gt;
+&lt;p&gt;1.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At dawn, when you have trouble getting out of bed, tell yourself “I have to go to work-as a human being. What do I have to complain of, if I’m going to do what I was born for-the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?”&lt;/p&gt;
+
+  &lt;p&gt;-But it’s nicer here….&lt;/p&gt;
+
+  &lt;p&gt;So you were born to feel “nice”? Instead of doing things and experiencing them? Don’t you see the plants, the birds, the ants and spiders and bees going about their individual tasks, putting the world in order, as best they can? And you’re not willing to do your job as a human being? Why aren’t you running to do what your nature demands?&lt;/p&gt;
+
+  &lt;p&gt;-But we have to sleep sometime….&lt;/p&gt;
+
+  &lt;p&gt;Agreed. But nature set a limit on that-as it did on eating and drinking. And you’re over the limit. You’ve had more than enough of that. But not of working. There you’re still below your quota.&lt;/p&gt;
+
+  &lt;p&gt;You don’t love yourself enough. Or you’d love your nature too, and what it demands of you. People who love what they do wear themselves down doing it, they even forget to wash or eat. Do you have less respect for your own nature than the engraver does for engraving, the dancer for the dance, the miser for money or the social climber for status? When they’re really possessed by what they do, they’d rather stop eating and sleeping than give up practicing their arts.&lt;/p&gt;
+
+  &lt;p&gt;Is helping others less valuable to you? Not worth your effort?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 56 --&gt;
+&lt;p&gt;3.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If action or utterance is appropriate, then it’s appropriate for you. Don’t be put off by other people’s comments and criticism. If it’s right to say or do, then it’s the right thing for you to do or say.&lt;/p&gt;
+
+  &lt;p&gt;The others obey their own lead, follow their own impulses. Don’t be distracted. Keep walking. Follow your own nature, and follow Nature–along the road they share.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;8.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So there are two reasons to embrace what happens. One is that it’s happening to &lt;em&gt;you&lt;/em&gt;. It was prescribed for you, and it pertains to you. The thread was spun long ago, by the oldest cause of all.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 57 --&gt;
+&lt;p&gt;9.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Not to feel exasperated, or defeated, or despondent because your days aren’t packed with wise and moral actions. But to get back up when you fail, to celebrate behaving like a human–however imperfectly–and fully embrace the pursuit that you’ve embarked on.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 58 --&gt;
+&lt;p&gt;13.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am made up of substance and what animates it, and neither one can ever stop existing, any more than it began to. Every portion of me will be reassigned as another portion of the world, and that in turn transformed into another. Ad infinitum.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 60 --&gt;
+&lt;p&gt;18.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nothing happens to anyone that he can’t endure. The same thing happens to other people, and they weather it unharmed–out of sheer obliviousness or because they want to display “character.” Is wisdom really so much weaker than ignorance and vanity?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 61 --&gt;
+&lt;p&gt;22.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When you think you’ve been injured, apply this rule: If the community isn’t injured by it, neither am I. And if it is, anger is not the answer. Show the offender where he went wrong.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;23.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So it would take an idiot to feel self-importance or distress. Or an indignation either. As if the things that irritate us lasted.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;25.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So other people hurt me? That’s their problem. Their character and actions are not mine.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;29.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And I want what is proper to rational beings, living together.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 63 --&gt;
+&lt;p&gt;31.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Consider all that you’ve gone through, all that you’ve survived. And that the story of your life is done, your assignment complete. How many good things have you seen? How much pain and pleasure have you resisted? How many honors have you declined? How many unkind people have you been kind to?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;33.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Wait for it patiently–annihilation or metamorphosis.&lt;/p&gt;
+
+  &lt;p&gt;–And until that time comes–what?&lt;/p&gt;
+
+  &lt;p&gt;Honor and revere the gods, treat human beings as they deserve, be tolerant with others and strict with yourself. Remember, nothing belongs to you but your flesh and blood–and nothing else under your control.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 65 --&gt;
+&lt;p&gt;37.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Good fortune: good character, good intentions, and good actions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-6&quot;&gt;Book 6&lt;/h2&gt;
+
+&lt;!-- Page 69 --&gt;
+&lt;p&gt;2.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Just that you do the right thing. The rest doesn’t matter.&lt;/p&gt;
+
+  &lt;p&gt;Cold or warm.
+Tired or well-rested.
+Despised or honored.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;3.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Don’t let the true nature or value of anything elude you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 72 --&gt;
+&lt;p&gt;16.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think it’s this: to do (and not do) what we were designed for. That’s the goal of all trades, all arts, and what each of them aims at: that the thing they create should do what it was designed to do.&lt;/p&gt;
+
+  &lt;p&gt;[…]&lt;/p&gt;
+
+  &lt;p&gt;And if you can’t stop prizing a lot of other things? Then you’ll never be free–free, independent, imperturbable.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 73 --&gt;
+&lt;p&gt;17.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The elements move upward, downward, in all directions. The motion of virtue is different–deeper. It moves at a steady pace on a road hard to discern, and always forward.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;21.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If anyone can refute me–show me I’m making a mistake or looking at things from the wrong perspective–I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone. What harms us is to persist in self-deceit and ignorance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 74 --&gt;
+&lt;p&gt;24.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alexander the Great and his mule driver both died and the same thing happened to both. They were absorbed alike into the life force of the world, or dissolved alike into atoms.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;25.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Think about how much is going on inside you every second–in your soul, in your body. Why should it astonish you that so much more–everything that happens in that all-embracing unity, the world–is happening at the same time?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;26.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Remember–your responsibilities can be broken down into individual parts as well. Concentrate on those, and finish the job methodically–without getting stirred up or meeting anger with anger.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 75 --&gt;
+&lt;p&gt;29.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Disgraceful: for the soul to give up when the body is still going strong.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;30.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To escape imperialization-that indelible stain. It happens. Make sure you remain straightforward, upright, reverent, serious, unadorned, an ally of justice, pious, kind, affectionate, and doing your duty with a will. Fight to be the person philosophy tried to make you.&lt;/p&gt;
+
+  &lt;p&gt;Revere the gods; watch over human beings. Our lives are short.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;The only rewards of our existence here are an unstained character and unselfish acts.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Take Antoninus as your model, always. His energy in doing what was rational…his steadiness in any situation…his sense of reverence … his calm expression…his gentleness…his modesty..his eagerness to grasp things. And how he never let things go before he was sure he had examined them thoroughly, understood them perfectly…the way he put up with unfair criticism, without returning it…how he couldn’t be hurried… how he wouldn’t listen to informers… how reliable he was as a judge of character, and of way he actions… not prone to backbiting, or cowardice, or jealousy, or  empty rhetoric…content with the basics-in living quarters, bedding clothes, food, servants… how hard he worked, how much he put up with… his ability to work straight through till dusk-because of his simple diet (he didn’t even need to relieve himself, except at set times)…his constancy and reliability as a friend…his tolerance of people who openly questioned his views and his delight at seeing his ideas improved on…his piety-without a trace of superstition…&lt;/p&gt;
+
+  &lt;p&gt;So that when your time comes, your conscience will be as clear as his.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 76 --&gt;
+&lt;p&gt;32.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am composed of a body and a soul.&lt;/p&gt;
+
+  &lt;p&gt;Things that happen to the body are meaningless. It cannot discriminate among them.&lt;/p&gt;
+
+  &lt;p&gt;Nothing has meaning to my mind except its own actions. Which are within its own control. And it’s only the immediate ones that matter. Its past and future actions too are meaningless.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 78 --&gt;
+&lt;p&gt;42.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All of us are working on the same project. Some consciously with understanding; some without knowing it. (I think this is what Heraclitus meant when he said that “those who sleep are also hard at work”-that they too collaborate in what happens.) Some of us work in one way, and some in others. And those who complain and try to obstruct and thwart things-they help as much as anyone. The world needs them as well.&lt;/p&gt;
+
+  &lt;p&gt;So make up your mind who you’ll choose to work with. The force that directs all things will make good use of you regardless–will put you on its payroll and set you to work. But make sure it’s not the job Chrysippus speaks of: the bad line in the play, put there for laughs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 79 --&gt;
+&lt;p&gt;44.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If the gods have made decisions about me and the things that happen to me, then they were good decisions. (It’s hard to picture a god who makes bad ones.) And why would they expend their energies on causing me harm? What good would it do them-or the world, which is their primary concern?&lt;/p&gt;
+
+  &lt;p&gt;And if they haven’t made decisions about me as an individual, they certainly have about the general welfare. And anything that follows from that is something I have to welcome and embrace.&lt;/p&gt;
+
+  &lt;p&gt;And if they make no decisions, about anything-and it’s blasphemous even to think so (because if so, then let’s stop sacrificing, praying, swearing oaths, and doing all the other things we do, believing the whole time that the gods are right here with us)-if they decide nothing about our lives… well, I can still make decisions. Can still consider what it’s to my benefit to do. And what benefits anyone is to do what his own nature requires. And mine is rational. Rational and civic.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 80 --&gt;
+&lt;p&gt;47.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Keep this constantly in mind: that all sorts of people have died–all professions, all nationalities.&lt;/p&gt;
+
+  &lt;p&gt;[…]&lt;/p&gt;
+
+  &lt;p&gt;We have to go there too, where all of them have already gone.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;48.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When you need encouragement, think of the qualities the people around you have: this one’s energy, that one’s modesty, another’s generosity, and so on. Nothing is as encouraging as when virtues are visibly embodied in the people around us, when we’re practically showered with them.&lt;/p&gt;
+
+  &lt;p&gt;It’s good to keep this in mind.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-7&quot;&gt;Book 7&lt;/h2&gt;
+
+&lt;!-- Page 85 --&gt;
+&lt;p&gt;2.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What is outside my mind means nothing to it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 86 --&gt;
+&lt;p&gt;7.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Don’t be ashamed to need help. Like a soldier storming a wall, you have a mission to accomplish. And if you’ve been wounded and you need a comrade to pull you up? So what?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 87 --&gt;
+&lt;p&gt;14.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It doesn’t hurt me unless I interpret its happening as harmful to me. I can choose not to.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;15.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No matter what anyone says or does, my task is to be good.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 88 --&gt;
+&lt;p&gt;22.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To feel affection for people even when they make mistakes is uniquely human. You can do it, if you simply recognize: that they’re human too, that they act out of ignorance, against their will, and that you’ll both be dead before long. And, above all, that they haven’t really hurt you. They haven’t diminished your ability to choose.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 89 --&gt;
+&lt;p&gt;25.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Before long, nature, which controls it all, will alter everything you see and use it as material for something else–over and over again. So that the world is continually renewed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;26.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When people injure you, ask yourself what good or harm they thought would come of it. If you understand that, you’ll feel sympathy rather than outrage or anger. Your sense of good and evil may be the same as theirs, or near it, in which case you have to excuse them. Or your sense of good and evil may differ from theirs. In which case they’re misguided and deserve your compassion. Is that so hard?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;27.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Treat what you don’t have as nonexistent. Look at what you have, the things you value most, and think of how much you’d crave them if you didn’t have them. But be careful. Don’t feel such satisfaction that you start to overvalue them–that it would upset you to lose them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 90 --&gt;
+&lt;p&gt;29.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Other people’s mistakes? Leave them to their makers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 91 --&gt;
+&lt;p&gt;38.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“And why should we feel anger at the world? As if the world would notice!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 92 --&gt;
+&lt;p&gt;49.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No escape from the rhythm of events.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 93 --&gt;
+&lt;p&gt;54.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Everywhere, at each moment, you have the option:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;to accept this event with humility&lt;/li&gt;
+    &lt;li&gt;to treat this person as he should be treated&lt;/li&gt;
+    &lt;li&gt;to approach this thought with care, so that nothing irrational creeps in.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 94 --&gt;
+&lt;p&gt;56.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Think of yourself as dead. You have lived your life. Now take what is left and live it properly.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 95 --&gt;
+&lt;p&gt;62.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Look at who they really are, the people whose approval you long for, and what their minds are really like. Then you won’t blame the ones who make mistakes they can’t help, and you won’t feel the need for their approval. You will have seen the sources of both–their judgments and their actions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;64.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And in most cases what Epicurus said should help: that pain is neither unbearable nor unending, as long as you keep in mind its limits and don’t magnify them in your imagination.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 97 --&gt;
+&lt;p&gt;71.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It’s silly to try to escape other people’s faults. They are inescapable. Just try to escape your own.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 98 --&gt;
+&lt;p&gt;74.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To be of use to others is natural.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-8&quot;&gt;Book 8&lt;/h2&gt;
+
+&lt;!-- Page 101 --&gt;
+&lt;p&gt;1.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You’ve wandered all over and finally realized that you never found what you were after: how to live. Not in syllogisms, not in money, or fame, or self-indulgence. Nowhere.&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Then where is it to be found?
+In doing what human nature requires.&lt;/li&gt;
+    &lt;li&gt;How?
+Through first principles. Which should govern your intentions and your actions.&lt;/li&gt;
+    &lt;li&gt;What principles?
+Those to do with good and evil. That nothing is good except what leads to fairness, and self-control, and courage, and free will. And nothing bad except what does the opposite.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 102 --&gt;
+&lt;p&gt;5.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Don’t be anxious. Nature controls it all. And before long you’ll be no one, nowhere.&lt;/p&gt;
+
+  &lt;p&gt;[…]&lt;/p&gt;
+
+  &lt;p&gt;Remind yourself that your task is to be a good human being; remind yourself what nature demands of people. Then do it, without hesitation, and speak the truth as you see it. But with kindness. With humility. Without hypocrisy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 103 --&gt;
+&lt;p&gt;10.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But no truly good person would feel remorse at passing up pleasure.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;12.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When you have trouble getting out of bed in the morning, remember that your defining characteristic–what defines a human being–is to work with others. Even animals know how to sleep. And it’s the characteristic activity that’s the more natural one–more intimate and more satisfying.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 104 --&gt;
+&lt;p&gt;14.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When you have to deal with someone, ask yourself: What does he mean by good and bad? If he things x or y about pleasure and pain (and what produces them), about fame and disgrace, about death and life, then it shouldn’t shock or surprise you when he does x or y.&lt;/p&gt;
+
+  &lt;p&gt;In fact, I’ll remind myself that he has no real choice.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;16.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Remember that to change your mind and to accept correction are free acts too.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;17.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If it’s in your control, why do you do it? If it’s in someone else’s, then who are you blaming? Atoms? The gods? Stupid either way.&lt;/p&gt;
+
+  &lt;p&gt;Blame no one. Set people straight, if you can. If not, just repair the damage. And suppose you can’t do that either. Then where does blaming people get you?&lt;/p&gt;
+
+  &lt;p&gt;No pointless actions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;18.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What dies doesn’t vanish. It stays here in the world, transformed, dissolved, as parts of the world, and of you. Which are transformed in turn–without grumbling.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 105 --&gt;
+&lt;p&gt;22a.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is what you deserve. You could be good today. But instead you chose tomorrow.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 106 --&gt;
+&lt;p&gt;27.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Three relationships:&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;with the body you inhabit;&lt;/li&gt;
+    &lt;li&gt;with the divine, the cause of everything in all things;&lt;/li&gt;
+    &lt;li&gt;with the people around you.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;28.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Either pain affects the body (which is the body’s problem) or it affects the soul. But the soul can choose not to be affected, preserving its own serenity, its own tranquillity. All our decisions, urges, desires, aversions lie within. No evil can touch them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;29.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To erase false perceptions, tell yourself: I have it in me to keep my soul from evil, lust and all confusion. To see things as they are and treat them as they deserve. Don’t overlook this innate ability.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 107 --&gt;
+&lt;p&gt;31.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That line they write on tombs–“last surviving descendant.” Consider their ancestors’ anxiety–that there be a successor. But someone has to be the last.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;32.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You have to assemble your life yourself–action by action.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;33.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To accept it without arrogance, to let it go with indifference.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 108 --&gt;
+&lt;p&gt;36.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;”Why is this so unbearable? Why Can’t I endure it?” You’ll be embarrassed to answer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 109 --&gt;
+&lt;p&gt;40.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stop perceiving the pain you imagine and you’ll remain completely unaffected.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;41.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So too for rational creatures, anything that obstructs the operation of the mind is harmful.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;43.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People find pleasure in different ways. I find it in keeping my mind clear. In not turning away from people or the things that happen to them. In accepting and welcoming everything I see. In treating each thing as it deserves.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 110 --&gt;
+&lt;p&gt;44.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Give yourself a gift: the present moment.&lt;/p&gt;
+
+  &lt;p&gt;People out for posthumous fame forget that the Generations To Come will be the same annoying people they know now. And just as mortal. What does it matter to you if they say x about you, or thing y?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;46.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nothing that can happen is unusual or unnatural, and there’s no sense in complaining. &lt;strong&gt;Nature does not make us endure the unendurable.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;47.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;External things are not the problem. It’s your assessment of them. Which you can erase right now.&lt;/p&gt;
+
+  &lt;p&gt;If the problem is something in your own character, who’s stopping you from setting your mind straight?&lt;/p&gt;
+
+  &lt;p&gt;And if it’s that you’re not doing something you think you should be, why not just do it?&lt;/p&gt;
+
+  &lt;p&gt;-But there are insuperable obstacles.&lt;/p&gt;
+
+  &lt;p&gt;Then it’s not a problem. The cause of your inaction lies outside you.&lt;/p&gt;
+
+  &lt;p&gt;-But how can I go on living with that undone?&lt;/p&gt;
+
+  &lt;p&gt;Then depart, with a good conscience, as if you’d done it, embracing the obstacles too.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 111 --&gt;
+&lt;p&gt;48.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The mind without passions is a fortress. No place is more secure. Once we take refuge there we are safe forever. Not to see this is ignorance. To see it and not seek safety means misery.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;49.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nothing but what you get from first impressions…The fact that my son is sick–that I can see. But “that he might die of it,” no. Stick with first impressions. Don’t extrapolate. And nothing can happen to you.&lt;/p&gt;
+
+  &lt;p&gt;Or extrapolate. From a knowledge of all that can happen in the world.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 112 --&gt;
+&lt;p&gt;51.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A man standing by a spring of clear, sweet water and cursing it. While the fresh water keeps on bubbling up. He can shovel mud into it, or dung, and the stream will carry it away, wash itself clean, remain unstained.&lt;/p&gt;
+
+  &lt;p&gt;To have that. Not a cistern but a perpetual spring.&lt;/p&gt;
+
+  &lt;p&gt;How? by working to win your freedom. Hour by hour. Through patience, honesty, and humility.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;53.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is a sign of self-respect to regret nearly everything you do.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 113 --&gt;
+&lt;p&gt;57.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What doesn’t transmit light creates its own darkness.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;58.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fear of death is fear of what we may experience. Nothing at all, or something quite new. But if we experience nothing, we can experience nothing bad. And if our experience changes, then our existence will change with it–change, but not cease.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-9&quot;&gt;Book 9&lt;/h2&gt;
+
+&lt;!-- Page 118 --&gt;
+&lt;p&gt;2.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Real good luck would be to abandon life without ever encountering dishonest, or hypocrisy, or self-indulgence, or pride…Hasn’t experience even taught you &lt;em&gt;that&lt;/em&gt;–to avoid it like the plague? Because it &lt;em&gt;is&lt;/em&gt; a plague–a mental cancer–worse than anything caused by tainted air or an unhealthy climate. Diseases like that can only threaten your life; this one attacks your humanity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;3.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Don’t look down on death, but welcome it. It too is one of the things required by nature. Like youth and old age. Like growth and maturity. Like a new set of teeth, a beard, the first gray hair. Like sex and pregnancy and childbirth. Like all the other physical changes at each stage of life, our dissolution is no different.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;So this is how a thoughtful person should await death: not with indifference, not with impatience, not with disdain, but simply viewing it as one of the things that happen to us. Now you anticipate the child’s emergence from its mother’s womb; that’s how should you await the hour when your soul will emerge from its compartment.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Or perhaps you need some tidy aphorism to tuck away in the back of your mind. Well, consider two things that should reconcile you to death: the nature of the things you’ll leave behind you, and the kind of people you’ll no longer be mixed up with. There’s no need to feel resentment toward them-in fact, you should look out for their well-being, and be gentle with them-but keep in mind that &lt;strong&gt;everything you believe is meaningless to those you leave behind&lt;/strong&gt;. Because that’s all that could restrain us (if anything could)-the only thing that could make us want to stay here: the chance to live with those who share our vision. But now? Look how tiring it is-this cacophony we live in. Enough to make you say to death, “Come quickly. Before I start to forget myself, like them.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 119 --&gt;
+&lt;p&gt;5.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And you can also commit injustice by doing nothing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;6.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Objective judgment, now, at this very moment.
+Unselfish action, now, at this very moment.
+Willing acceptance–now, at this very moment–of all external events.
+That’s all you need.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 121 --&gt;
+&lt;p&gt;13.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Today I escaped from anxiety. Or no, I discarded it, because it was within me, in my own perceptions–not outside.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 122 --&gt;
+&lt;p&gt;16.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Not being done to, but doing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;17.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A rock thrown in the air. It loses nothing by coming down, gained nothing by going up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;21.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When we cease from activity, or follow a thought to its conclusion, it’s a kind of death. And it doesn’t harm us. Think about your life: childhood, boyhood, youth, old age. Every transformation a kind of dying. Was that so terrible? …Then neither will the close of your life be–its ending and transformation&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 123 --&gt;
+&lt;p&gt;27.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When you face someone’s insults, hatred, whatever…look at his soul. Get inside him. Look at what sort of person he is. You’ll find you don’t need to strain to impress him.&lt;/p&gt;
+
+  &lt;p&gt;But you do have to wish him well. He’s your closest relative. The gods assist him just as they do you—by signs and dreams and every other way–to get the things he wants.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 124 --&gt;
+&lt;p&gt;29.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Do what nature demands. get a move on–if you have it in you–and don’t worry whether anyone will give you credit for it. And don’t go expecting Plato’s Republic; be satisfied with even the smallest progress, and treat the outcome of it all as unimportant.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;30.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How many people don’t even know your name. How many will soon have forgotten it. How many offer you praise now–and tomorrow, perhaps, contempt.&lt;/p&gt;
+
+  &lt;p&gt;That to be remembered is worthless.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 125 --&gt;
+&lt;p&gt;31.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Indifference to external events.&lt;/p&gt;
+
+  &lt;p&gt;And a commitment to justice in your own acts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;32.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can discard most of the junk that clutters your mind-things that exist only there-and clear out space for yourself.&lt;/p&gt;
+
+  &lt;p&gt;…by comprehending the scale of the world
+…by contemplating infinite time
+…by thinking of the speed with which things change-each part every thing; the narrow space between our birth and death; the infinite time before; the equally unbounded time that follows.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;33.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What their minds are like. What they work at. what evokes their love and admiration. Imagine their souls stripped bare. And their vanity. To suppose that their disdain could harm anyone–or their praise help them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 126 --&gt;
+&lt;p&gt;39.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Either all things spring from one intelligent source and form a single body (and the part should accept the actions of the whole) or there are only atoms, joining and splitting forever, and nothing else.&lt;/p&gt;
+
+  &lt;p&gt;So why feel anxiety?
+Say to your mind: Are you dead? damaged? brutal? dishonest?
+Are you one of the herd? or grazing like one?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;40.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Either the gods have power or they don’t. If they don’t, why pray? If they do, then why not pray for something else instead of for things to happen or not happen? Pray not to feel fear. or desire, or grief. If the gods can do anything, they can surely do that for us.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 127 --&gt;
+&lt;p&gt;41.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How the mind can participate in the sensations of the body and yet maintain its serenity, and focus on its own well-being.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 128 --&gt;
+&lt;p&gt;42.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So when you call someone “untrustworthy” or “ungrateful,” turn the reproach on yourself. It was you who did wrong. By assuming that someone with those traits deserved your trust. Or by doing them a favor and expecting something in return, instead of looking to the action itself for your reward. What else did you expect from helping someone out? Isn’t it enough that you’ve done what your nature demands? You want a salary for it too? As if your eyes expected a reward for seeing, or your feet for walking. That’s what they were made for. By doing what they were designed to do, they’re perге forming their function. Whereas humans were made to help others.&lt;/p&gt;
+
+  &lt;p&gt;And when we do help others-or help them to do something-we’re doing what we were designed for. We perform our function.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-10&quot;&gt;Book 10&lt;/h2&gt;
+
+&lt;!-- Page 131 --&gt;
+&lt;p&gt;1.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And instead be satisfied with what you have, and accept the present–all of it. And convince yourself that everything is the gift of the gods, that things are good and always will be, whatever they decide and have in store for the preservation of that perfect entity–good and just and beautiful, creating all things, connecting and embracing them, and gathering in their separated fragments to create more like them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 132 --&gt;
+&lt;p&gt;3.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everything that happens is either endurable or not.&lt;/p&gt;
+
+  &lt;p&gt;If it’s endurable, then endure it. Stop complaining.&lt;/p&gt;
+
+  &lt;p&gt;If it’s unendurable…then stop complaining. Your destruction will mean its end as well.&lt;/p&gt;
+
+  &lt;p&gt;Just remember: you can endure anything y our mind can make endurable, by treating it as in your interest to do so.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;4.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If they’ve made a mistake, correct them gently and show them where they went wrong. If you can’t do that, then the blame lies with you. Or no one.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;5.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Whatever happens to you has been waiting to happen since the beginning of time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;6.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Whether it’s atoms or nature, the first thing to be said is this: I  am a part of a world controlled by nature. Secondly: that I have relationship with other, similar parts. And with that in mind I have no right, as a part, to complain about what is assigned me by the whole. Because what benefits the whole can’t harm the parts, and the whole does nothing that doesn’t benefit it. That’s a trait shared by all natures, but the nature of the world is defined by a second characteristic as well: no outside force can compel it to cause itself harm.&lt;/p&gt;
+
+  &lt;p&gt;So by keeping in mind the whole I form a part of, I’ll accept whatever happens. And because of my relationship to other parts, I will do nothing selfish, but aim instead to join them, to direct my every action toward what benefits us all and to avoid what doesn’t.&lt;/p&gt;
+
+  &lt;p&gt;If I do all that, then my life should go smoothly. As you might expect a citizen’s life to go–one whose actions serve his fellow citizens, and who embraces the community’s decree.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 136 --&gt;
+&lt;p&gt;12.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Why all this guesswork? You can see what needs to be done. If you can see the road, follow it. Cheerfully, without turning back. If not, hold up and get the best advice you can. If anything gets in the way, forge on ahead, making good use of what you have on hand, sticking to what seems right.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 137 --&gt;
+&lt;p&gt;16.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To stop talking about what the good man is like, and just be one.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;18.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bear in mind that everything that exists is already fraying at the edges, and in transition, subject to fragmentation and to rot.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 139 --&gt;
+&lt;p&gt;27.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To bear in mind constantly that all of this has happened before. And will happen again–the same plot from beginning to end, the identical staging… All just the same. Only different people&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;29.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stop whatever you’re doing for a moment and ask yourself: Am I afraid of death because I won’t be able to do &lt;em&gt;this&lt;/em&gt; anymore?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 140 --&gt;
+&lt;p&gt;31.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What is any of this but training.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 142 --&gt;
+&lt;p&gt;35.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So too a healthy mind should be prepared for anything.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;36.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How many traits do &lt;em&gt;you&lt;/em&gt; have that would make a lot of people glad to be rid of you?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-11&quot;&gt;Book 11&lt;/h2&gt;
+
+&lt;!-- Page 147 --&gt;
+&lt;p&gt;1.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Characteristics of the rational soul:&lt;/p&gt;
+
+  &lt;p&gt;Self-perception, self-examination, and the power to make of itself whatever it wants.&lt;/p&gt;
+
+  &lt;p&gt;It reaps its own harvest…&lt;/p&gt;
+
+  &lt;p&gt;It reaches its intended goal, no matter where the limit of its life is set…So that it can say, “I have what I came for.”&lt;/p&gt;
+
+  &lt;p&gt;It surveys the world and the empty space around it, and the way it’s put together.&lt;/p&gt;
+
+  &lt;p&gt;[…]&lt;/p&gt;
+
+  &lt;p&gt;Affection for its neighbors. Truthfulness. Humility. Not to place anything above itself–which is characteristic of law as well.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 151 --&gt;
+&lt;p&gt;15.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A straightforward, honest person should be like someone who stinks: when you’re in the same room with him, you know it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 152 --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;18.&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;
+      &lt;p&gt;When you lose your temper, or even feel irritated: that human life is very short. Before long all of us will be laid out side by side.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;That it’s not what &lt;em&gt;they&lt;/em&gt; do that bothers us: that’s a problem for their minds, not ours.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;What can even the most vicious person do if you keep treating him with kindness and gently set him straight–if you get the chance–correcting him cheerfully at the exact moment that he’s trying to do you harm. “&lt;strong&gt;No, no, my friend. That isn’t what we’re here for.&lt;/strong&gt; It isn’t me who’s harmed by that. It’s you.” And show him, gently and without pointing fingers, that it’s so.&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+
+  &lt;p&gt;[…]&lt;/p&gt;
+
+  &lt;p&gt;When you start to lose your temper, remember: There’s nothing manly about rage. It’s courtesy and kindness that define a human being–and a man. That’s who possesses strength and nerves and guts, not the angry whiners.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 156 --&gt;
+&lt;p&gt;23.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Socrates used to call popular beliefs “the monsters under the bed”–only useful for frightening children with.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;26.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This advice from Epicurean writings: to think continually of one of the men of old who lived a virtuous life.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;27.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;They Pythagoreans tell us to look at the stars at daybreak. To remind ourselves how they complete the tasks assigned them–always the same tasks, the same way. And their order, purity, nakedness. Stars wear no concealment.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;book-12&quot;&gt;Book 12&lt;/h2&gt;
+
+&lt;!-- Page 162 --&gt;
+&lt;p&gt;3.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Your three components: body, breath, mind. Two are yours in trust; to the third alone you have clear title.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;4.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 163 --&gt;
+&lt;p&gt;6.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Practice even what seems impossible.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;9.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The student as boxer, not fencer.&lt;/p&gt;
+
+  &lt;p&gt;The fencer’s weapon is picked up and put down again.&lt;/p&gt;
+
+  &lt;p&gt;The boxer’s is part of him. All he has to do is clench his fist.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 164 --&gt;
+&lt;p&gt;10.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To see things as they are. Substance, cause, and purpose.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;12.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The gods are not to blame. They do nothing wrong, on purpose or by accident. Nor men either; they don’t do it on purpose. No one is to blame.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;13.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The foolishness of people who are surprised by anything that happens.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 165 --&gt;
+&lt;p&gt;17.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If it’s not right, don’t do it. If it’s not true, don’t say it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 166 --&gt;
+&lt;p&gt;21.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everything’s destiny is to change, to be transformed, to perish. So that new things can be born.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;23.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nothing that benefits all things can be ugly or out of place.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 168 --&gt;
+&lt;p&gt;28.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People ask, “Have you ever seen the gods you worship? How can you be sure they exist?”&lt;/p&gt;
+
+  &lt;p&gt;Answers:&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Just look around you.&lt;/li&gt;
+    &lt;li&gt;I’ve never seen my soul either. And yet I revere it.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="Book" /><summary type="html">Book 1</summary></entry><entry><title type="html">Greenlights</title><link href="/audiobook/2021/02/05/greenlights" rel="alternate" type="text/html" title="Greenlights" /><published>2021-02-05T00:00:00-06:00</published><updated>2021-02-05T00:00:00-06:00</updated><id>/audiobook/2021/02/05/greenlights</id><content type="html" xml:base="/audiobook/2021/02/05/greenlights">&lt;blockquote&gt;
+  &lt;p&gt;“I believe the truth is only offensive when we are lying.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Knowing the truth, seeing the truth, and telling the truth are all different experiences”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“One in a row. Any success takes one in a row. Do one thing well then another. Once then once more, over and over until the end.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The older you do the the more rules they are going to try to get you to follow you just gotta keep livin’ man. L-I-V-I-N.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Just keep livin’. Lowercase because life is nobody’s proper now and ain’t no G on the end because life is a verb.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“While we are here we believe more than we know.”&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;other-notes&quot;&gt;Other Notes:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Forgive yourself quickly so that you carry no stress.&lt;/li&gt;
+  &lt;li&gt;No child should be punished with the restriction of time.&lt;/li&gt;
+  &lt;li&gt;It is better to be different than to be sorry.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Audiobook" /><summary type="html">“I believe the truth is only offensive when we are lying.”</summary></entry><entry><title type="html">February 2021</title><link href="/newsletter/2021/02/01/Newsletter" rel="alternate" type="text/html" title="February 2021" /><published>2021-02-01T00:00:00-06:00</published><updated>2021-02-01T00:00:00-06:00</updated><id>/newsletter/2021/02/01/Newsletter</id><content type="html" xml:base="/newsletter/2021/02/01/Newsletter">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+
+&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Wonderwall&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.politico.com/news/magazine/2020/12/26/books-by-the-foot-washington-dc-covid-books-440347&quot;&gt;Washington’s Secret to the Perfect Zoom Bookshelf? Buy It Wholesale.&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  Another force at work, however, was the rise of the well-stocked shelf as a coveted home-office prop. When workplaces went remote and suddenly Zoom allowed co-workers new glimpses into one another’s homes, what New York Times writer Amanda Hess dubbed the “credibility bookcase” became the hot-ticket item. (“For a certain class of people, the home must function not only as a pandemic hunkering nest but also be optimized for presentation to the outside world,” she wrote.) And while Roberts makes an effort not to infer too much about his clients or ask too many questions about their intent, he did notice a very telling micro-trend in orders he was getting from all across the United States.
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Grab Your Cauldron&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/&quot;&gt;Exploring the Supply Chain of the Pfizer/BioNTech and Moderna COVID-19 vaccines&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  I’ll start with the bad news: Nobody will be making an mRNA vaccine in their garage any time soon.
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/health/2020/11/17/coronavirus-vaccine-manufacturing/&quot; title=&quot;A vial, a vaccine and hopes for slowing a pandemic — how a shot comes to be&quot;&gt;And from The Washington Post&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  Step one is to generate lots of genetic material.
+  
+  Scientists use a buzz of electricity to create holes in the cellular skin of E. coli bacteria to let a ring of DNA slip in, carrying the blueprint for the coronavirus spike protein. Those cells grow in large stainless steel vats, allowing the bacteria — and the DNA blueprint of the spike protein inside — to multiply over about four days. At the end of the process, scientists kill and break open the cells, using a purification process that takes about a week and a half to strain out a ring of DNA, called a plasmid, that codes for the spike protein.
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Le Sigh&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.vice.com/en/article/7k9vyz/why-we-sigh&quot;&gt;Why We Sigh&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  Research from the University of Oslo found that most people associated sighs with negative emotions like disappointment, defeat, frustration, boredom, and longing. But the primary physical function of a sigh is for the benefit of your lungs. Sighs keep the tiny air sacs in the lungs, the alveoli, from collapsing, and maintain the exchange of oxygen and carbon dioxide, said Silvia Pagliardini, an associate professor in the Department of Physiology at the University of Alberta.
+  
+  Healthy adults sigh about once every five minutes. If you don’t sigh and re-open the alveoli, you could become hypoxic and die. People died when using the earliest iron lungs because designers didn’t account for sighing, which modern ventilators now do. When mice are genetically engineered to not be able to sigh, they eventually die of major lung problems.
+  
+  Historically, the sigh was considered to be like a reflex, Pagliardini said. “The lungs collapse, they send some input to the brain, and the brain makes a sigh,&quot; she said. In the past few decades, we've learned that sighs are programmed by the brain to occur no matter what signalling is coming from the lungs.
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/ade__n/status/1347395092953313286&quot; title=&quot;You can cook a chicken by slapping it at 3725.95 mph, an impossible task by any human means. If you do succeed however, you will not only cook the chicken but also decimate its entire structure, causing a violent explosion.&quot;&gt;You can cook a chicken by slapping it at 3725.95 mph, an impossible task by any human means. If you do succeed however, you will not only cook the chicken but also decimate its entire structure, causing a violent explosion.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://news.osu.edu/slow-down----those-lines-on-the-road-are-longer-than-you-think/&quot; title=&quot;Those Lines On The Road Are Longer Than You Think&quot;&gt;Those Lines On The Road Are Longer Than You Think&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2021/01/19/books/amanda-gorman-inauguration-hill-we-climb.html?referringSource=articleShare&quot; title=&quot;Amanda Gorman's The Hill We Climb&quot;&gt;Amanda Gorman’s “The Hill We Climb”&lt;/a&gt;(&lt;a href=&quot;https://www.cnn.com/2021/01/20/politics/amanda-gorman-inaugural-poem-transcript/index.html&quot; title=&quot;Transcript&quot;&gt;Transcript&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.m.wikipedia.org/wiki/Umarell&quot; title=&quot;Umarell&quot;&gt;Umarell&lt;/a&gt;: A folk term in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks — stereotypically with hands clasped behind their back and offering unwanted advice.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.washingtonpost.com/graphics/politics/trump-claims-database/&quot;&gt;Final Tally: 30,573&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.jeffbartels.com/paintings&quot;&gt;Hyperrealistic Paintings by Jeff Bartletels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.argn.com/2020/12/satoshi-found-perplex-city-got-a-little-less-perplexing/&quot;&gt;Satoshi Found&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bzotto.medium.com/what-color-was-apple-beige-acd14bca0c1a&quot;&gt;Apple Beige&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Sign Off&lt;/h2&gt;
+
+&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
+
+&lt;p&gt;Clay&lt;/p&gt;</content><author><name>claycarson</name></author><category term="Newsletter" /><summary type="html">This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.</summary></entry><entry><title type="html">Ready Player Two: A Novel</title><link href="/book/2021/01/26/ready-player-two" rel="alternate" type="text/html" title="Ready Player Two: A Novel" /><published>2021-01-26T00:00:00-06:00</published><updated>2021-01-26T00:00:00-06:00</updated><id>/book/2021/01/26/ready-player-two</id><content type="html" xml:base="/book/2021/01/26/ready-player-two">&lt;h2 id=&quot;level-four&quot;&gt;Level Four&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My friend Kira always said that life is like an extremely difficult, horribly unbalanced videogame. When you’re born, you’re given a randomly generated character, with a randomly determined name, race, face, and social class. Your body is your avatar, and you spawn in a random geographic location, at a random moment in human history, surrounded by a random group of people, and then you have to try to survive for as long as you can. Sometimes the game might seem easy. Even fun. Other times it might be so difficult you want to give up and quit. But unfortunately, in this game you only get one life. When your body grows too hungry or thirsty or ill or injured or old, your health meter runs out and then it’s Game Over. Some people play the game for a hundred years without ever figuring out that it’s a game, or that there is a way to win it. To win the videogame of life you just have to try to make the experience of being forced to play it as pleasant as possible, for yourself, and for all of the other players you encounter in your travels. Kira says that if everyone played the game to win, it’d be a lot more fun for everyone.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;vocabulary&quot;&gt;Vocabulary&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fusillade - a number of shots fired simultaneously or in rapid succession&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Book" /><summary type="html">Level Four</summary></entry><entry><title type="html">January 2021</title><link href="/newsletter/2021/01/01/Newsletter" rel="alternate" type="text/html" title="January 2021" /><published>2021-01-01T00:00:00-06:00</published><updated>2021-01-01T00:00:00-06:00</updated><id>/newsletter/2021/01/01/Newsletter</id><content type="html" xml:base="/newsletter/2021/01/01/Newsletter">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+
+&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Announcement&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  Tending this website keeps me sane. I think of it as a digital garden, a kind of sanctuary. I recognize this in Ethan Marcotte’s eloquent suggestion that we “let a website be a worry stone.” And if my site is a kind of garden, then I see myself as both gardener and architect, in so much as I make plans and prepare the ground, then sow things that grow in all directions. Some things die, but others thrive, and that’s how my garden grows. And I tend it for me; visitors are a bonus. — Simon Collison
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;I’d invite you to check out the &lt;a href=&quot;https://claycarson.net&quot; title=&quot;Clay Carson&quot;&gt;redesigned website&lt;/a&gt;. I suppose the only real excitement is the &lt;a href=&quot;https://claycarson.net/timeline&quot; title=&quot;Clay Carson Timeline&quot;&gt;timeline&lt;/a&gt;. For some time now, and increasingly in the future, I have been and will be tracking movies, tv shows, books, quotes, thoughts, photos, and travels (RIP &lt;em&gt;&amp;#42;sobbing&amp;#42;&lt;/em&gt;).
+
+I think the details behind the &lt;a href=&quot;https://claycarson.net/timeline&quot; title=&quot;Clay Carson Timeline&quot;&gt;timeline&lt;/a&gt; are kind of cool. I use &lt;a href=&quot;http://airtable.com&quot; title=&quot;Airtable&quot;&gt;Airtable&lt;/a&gt; and &lt;a href=&quot;http://zapier.com&quot; title=&quot;Zapier&quot;&gt;Zapier&lt;/a&gt; to create new posts. All I have to do is update the spreadsheets I already use to track everything and a new post is created on the site.
+
+If you see something weird or that doesn’t look right, &lt;a href=&quot;mailto:clay@claycarson.net&quot; title=&quot;please let me know&quot;&gt;please let me know&lt;/a&gt;. I’ll add it to my list.&amp;lt;/p&amp;gt;&lt;/li&gt;
+
+&lt;li&gt;The newsletter is moving from being self-hosted to &lt;a href=&quot;https://mailchimp.com&quot;&gt;Mailchimp&lt;/a&gt;. You might see a welcome or confirmation email, or if things go horribly (horribly, horribly) wrong you might need to opt-in again. We’ll cross that bridge if we come to it.&amp;lt;/p&amp;gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And now, as we were…&lt;/p&gt;
+
+&lt;h2&gt;“...rip your individual cells apart” &lt;span class=&quot;small&quot;&gt;&lt;em&gt;&amp;#42; blink, blink &amp;#42;&lt;/em&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/starts-with-a-bang/what-would-we-experience-if-earth-spontaneously-turned-into-a-black-hole-c86d2a6b7ae1&quot; title=&quot;What Would We Experience If Earth Spontaneously Turned Into A Black Hole?&quot;&gt;What Would We Experience If Earth Spontaneously Turned Into A Black Hole?&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  In order to approach the actual event horizon itself, you’d have to somehow shield yourself from these tidal forces, which would rip your individual cells apart and even the individual atoms and molecules composing you before you crossed the event horizon. This stretching effect along one direction while compressing you along the other is known as spaghettification, and it’s how black holes would kill and tear apart any creature that ventured too close to an event horizon where space was too severely curved.
+  
+  As spectacular as falling into a black hole would actually be, if Earth spontaneously became one, you’d never get to experience it for yourself. You’d get to live for about another 21 minutes in an incredibly odd state: free-falling, while the air around you free-fell at exactly the same rate. As time went on, you’d feel the atmosphere thicken and the air pressure increase as everything around the world accelerated towards the center, while objects that weren’t attached to the ground would appear approach you from all directions.
+  
+  But as you approached the center and you sped up, you wouldn’t be able to feel your motion through space. Instead, what you’d begin to feel was an uncomfortable tidal force, as though the individual constituent components of your body were being stretched internally. These spaghettifying forces would distort your body into a noodle-like shape, causing you pain, loss of consciousness, death, and then your corpse would be atomized. In the end, like everything on Earth, we’d be absorbed into the black hole, simply adding to its mass ever so slightly. For the final 21 minutes of everyone’s life, under only the laws of gravity, our demises would all truly be equal.
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Ob-ey-I&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://onezero.medium.com/the-modern-world-has-finally-become-too-complex-for-any-of-us-to-understand-1a0b46fbc292&quot;&gt;The Modern World Has Finally Become Too Complex for Any of Us to Understand&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  The captain of the container vessel would regularly receive automated emails telling him to slow down the ship. It’s impossible to know why the shipping company’s algorithms decided this was for the best — the captain himself didn’t know. But he could speculate: Maybe the staff or systems at the terminal ahead reported delays with off-loading, or a mechanical hitch. Or maybe the algorithm saw the delays coming in advance because the GPS trackers on other containers showed delivery trucks stuck in gridlock outside the port. Maybe it decided to slow everything down because a customer de-prioritized their order. Or that a change somewhere else in another link of the supply chain meant that getting their shipment from another source became a cheaper or quicker option. Or the cost of oil fluctuated just enough that burning it at the ship’s current rate became inefficient. Or maybe it was all of these reasons simultaneously, or none of them. The point is that we don’t know, the captain of the ship itself didn’t know, and that nobody may know — but that didn’t stop the decision being made.
+&lt;/blockquote&gt;
+
+&lt;h2&gt;“McDonald’s is the place we eat when we’re taking a break from being virtuous.”&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.atlasobscura.com/articles/original-mcdonalds-french-fry-recipe&quot; title=&quot;My Hunt for the Original McDonald's French-Fry Recipe&quot;&gt;My Hunt for the Original McDonald’s French-Fry Recipe&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  My hunt for the lost McRecipe took me up the corporate ladder and to obsessive corners of Reddit. I spoke to fast-food experts, super-fan museum curators, and a 79-year-old former employee of the very first McDonald’s. After weeks of digging, I procured a recipe for the original fries that one fast-food historian believes to be the real deal, one I recreated several times to ensure its legitimacy. I sweat over hot tallow, bled from cutting perfect shoestrings, and literally got pulverized salt in those wounds. But according to at least one expert, I have reason to believe the recipe I’ve uncovered is authentic.
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://visual.ly/community/Infographics/science/crime-scene-science-modern-methods-solving-crimes&quot; title=&quot;Crime Scene Science&quot;&gt;Crime Scene Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/ScientistSwanda/status/1335988328362090500&quot; title=&quot;Clear and concise explaination of how the COVID-19 vaccine works&quot;&gt;Clear and concise explanation of how the COVID-19 vaccine works&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=the81FQoAUI&amp;amp;feature=youtu.be&quot; title=&quot;Another good vaccine explanation&quot;&gt;Another good vaccine explanation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ourworldindata.org&quot; title=&quot;Our World in Data&quot;&gt;Our World in Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nsf.gov/news/special_reports/arecibo/&quot; title=&quot;Footage of Collapse Arecibo Observatory&quot;&gt;Footage of Collapse Arecibo Observatory&lt;/a&gt; and &lt;a href=&quot;https://www.reddit.com/r/Andromeda321/comments/k4keik/breaking_sources_in_puerto_rico_indicate_the/ge9blpc/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;an explanation of what happened and the observatory’s significance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/posts/oliviergoguel_having-fun-with-lidar-please-welcome-my-activity-6741697110854397953-MMLv/&quot; title=&quot;Ent-ar the Matrix&quot;&gt;Ent-ar the Matrix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://decolonialatlas.files.wordpress.com/2017/04/watershedsnorthamerica.png&quot; title=&quot;Sprawling Rivers&quot;&gt;Sprawling Rivers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/warriors/status/1342975296799031296&quot; title=&quot;Stephen Curry making 105 consecutive 3-pointers&quot;&gt;Stephen Curry making 105 consecutive 3-pointers&lt;/a&gt;(NBA players make about 35% of 3-pointers)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/GOLFTV/status/1338476589609345028&quot;&gt;Aaron Rai making 207 consecutive 10-foot putts in 2010&lt;/a&gt;(&lt;a href=&quot;https://www.amazon.com/Every-Shot-Counts-Revolutionary-Performance/dp/1592407501/ref=sr_1_1?dchild=1&amp;amp;keywords=every+shot+counts&amp;amp;qid=1596201525&amp;amp;sr=8-1&quot; title=&quot;Every Shot Counts&quot;&gt;Every Shot Counts&lt;/a&gt;: PGA Tour players make about 40% of 10-foot putts)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Sign Off&lt;/h2&gt;
+
+&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
+
+&lt;p&gt;Clay&lt;/p&gt;</content><author><name>claycarson</name></author><category term="Newsletter" /><summary type="html">This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.</summary></entry><entry><title type="html">Atomic Habits: An Easy &amp;amp; Proven Way to Build Good Habits &amp;amp; Break Bad Ones</title><link href="/book/2020/12/17/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones" rel="alternate" type="text/html" title="Atomic Habits: An Easy &amp;amp; Proven Way to Build Good Habits &amp;amp; Break Bad Ones" /><published>2020-12-17T00:00:00-06:00</published><updated>2020-12-17T00:00:00-06:00</updated><id>/book/2020/12/17/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones</id><content type="html" xml:base="/book/2020/12/17/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones">&lt;h2 id=&quot;the-fundamentals-why-tiny-changes-make-a-big-difference&quot;&gt;THE FUNDAMENTALS: Why Tiny Changes Make a Big Difference&lt;/h2&gt;
+&lt;h3 id=&quot;1-the-surprising-power-of-atomic-habits&quot;&gt;1: The Surprising Power of Atomic Habits&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Complaining about not achieving success despite working hard is like complaining about an ice cube not melting when you heated it from twenty-five to thirty-one degrees. Your work was not wasted; it is just being stored. All the action happens at thirty-two degrees.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Achieving a goal is only a momentary change.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game. True long-term thinking is goal-less thinking. It’s not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;2-how-your-habits-shape-your-identity-and-vice-versa&quot;&gt;2: How Your Habits Shape Your Identity (and Vice Versa)&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Outcomes are about what you get. Processes are about what you do.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On any given day, you may struggle with your habits because you’re too busy or too tired or too overwhelmed or hundreds of other reasons. Over the long run, however, the real reason you fail to stick with habits is that your self-image gets in the way. This is why you can’t get too attached to one version of your identity. Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;First, decide who you want to be. This holds at any level—as an individual, as a team, as a community, as a nation. What do you want to stand for? What are your principles and values? Who do you wish to become?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You have the power to change your beliefs about yourself. Your identity is not set in stone. You have a choice in every moment. You can choose the identity you want to reinforce today with the habits you choose today. And this brings us to the deeper purpose of this book and the real reason habits matter.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;3-how-to-build-better-habits-in-4-simple-steps&quot;&gt;3: How to Build Better Habits in 4 Simple Steps&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How can I make it obvious? How can I make it attractive? How can I make it easy? How can I make it satisfying?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-1st-law-make-it-obvious&quot;&gt;THE 1ST LAW: Make It Obvious&lt;/h2&gt;
+&lt;h3 id=&quot;7-the-secret-to-self-control&quot;&gt;7: The Secret to Self-Control&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When scientists analyze people who appear to have tremendous self-control, it turns out those individuals aren’t all that different from those who are struggling. Instead, “disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So, yes, perseverance, grit, and willpower are essential to success, but the way to improve these qualities is not by wishing you were a more disciplined person, but by creating a more disciplined environment.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-2nd-law-make-it-attractive&quot;&gt;THE 2ND LAW: Make It Attractive&lt;/h2&gt;
+&lt;h3 id=&quot;8-how-to-make-a-habit-irresistible&quot;&gt;8: How to Make a Habit Irresistible&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Your brain has far more neural circuitry allocated for wanting rewards than for liking them. The wanting centers in the brain are large: the brain stem, the nucleus accumbens, the ventral tegmental area, the dorsal striatum, the amygdala, and portions of the prefrontal cortex. By comparison, the liking centers of the brain are much smaller. They are often referred to as “hedonic hot spots” and are distributed like tiny islands throughout the brain. For instance, researchers have found that 100 percent of the nucleus accumbens is activated during wanting. Meanwhile, only 10 percent of the structure is activated during liking. The fact that the brain allocates so much precious space to the regions responsible for craving and desire provides further evidence of the crucial role these processes play. Desire is the engine that drives behavior. Every action is taken because of the anticipation that precedes it. It is the craving that leads to the response.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;9-the-role-of-family-and-friends-in-shaping-your-habits&quot;&gt;9: The Role of Family and Friends in Shaping Your Habits&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;One of the most effective things you can do to build better habits is to join a culture where your desired behavior is the normal behavior.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Your culture sets your expectation for what is “normal.” Surround yourself with people who have the habits you want to have yourself. You’ll rise together.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-3rd-law-make-it-easy&quot;&gt;THE 3RD LAW: Make It Easy&lt;/h2&gt;
+&lt;h3 id=&quot;12-the-law-of-least-effort&quot;&gt;12: The Law of Least Effort&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Trying to pump up your motivation to stick with a hard habit is like trying to force water through a bent hose. You can do it, but it requires a lot of effort and increases the tension in your life. Meanwhile, making your habits simple and easy is like removing the bend in the hose. Rather than trying to overcome the friction in your life, you reduce it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;13-how-to-stop-procrastinating-by-using-the-two-minute-rule&quot;&gt;13: How to Stop Procrastinating by Using the Two-Minute Rule&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Researchers estimate that 40 to 50 percent of our actions on any given day are done out of habit. This is already a substantial percentage, but the true influence of your habits is even greater than these numbers suggest. Habits are automatic choices that influence the conscious decisions that follow. Yes, a habit can be completed in just a few seconds, but it can also shape the actions that you take for minutes or hours afterward.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;14-how-to-make-good-habits-inevitable-and-bad-habits-impossible&quot;&gt;14: How to Make Good Habits Inevitable and Bad Habits Impossible&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Sometimes success is less about making good habits easy and more about making bad habits hard.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-4th-law-make-it-satisfying&quot;&gt;THE 4TH LAW: Make It Satisfying&lt;/h2&gt;
+&lt;h3 id=&quot;15-the-cardinal-rule-of-behavior-change&quot;&gt;15: The Cardinal Rule of Behavior Change&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The consequences of bad habits are delayed while the rewards are immediate.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;16-how-to-stick-with-good-habits-every-day&quot;&gt;16: How to Stick with Good Habits Every Day&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Anyone can have a bad performance, a bad workout, or a bad day at work. But when successful people fail, they rebound quickly. The breaking of a habit doesn’t matter if the reclaiming of it is fast.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is sometimes referred to as Goodhart’s Law. Named after the economist Charles Goodhart, the principle states, “When a measure becomes a target, it ceases to be a good measure.” Measurement is only useful when it guides you and adds context to a larger picture, not when it consumes you. Each number is simply one piece of feedback in the overall system.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;advanced-tactics-how-to-go-from-being-merely-good-to-being-truly-great&quot;&gt;ADVANCED TACTICS: How to Go from Being Merely Good to Being Truly Great&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;18: The Truth About Talent (When Genes Matter and When They Don’t)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our genes do not eliminate the need for hard work. They clarify it.&lt;/p&gt;
+
+  &lt;h3 id=&quot;19-the-goldilocks-rule-how-to-stay-motivated-in-life-and-work&quot;&gt;19: The Goldilocks Rule: How to Stay Motivated in Life and Work&lt;/h3&gt;
+  &lt;p&gt;While there is still much to learn, one of the most consistent findings is that the way to maintain motivation and achieve peak levels of desire is to work on tasks of “just manageable difficulty.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“What’s the difference between the best athletes and everyone else?” I asked. “What do the really successful people do that most don’t?” He mentioned the factors you might expect: genetics, luck, talent. But then he said something I wasn’t expecting: “At some point it comes down to who can handle the boredom of training every day, doing the same lifts over and over and over.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As Machiavelli noted, “Men desire novelty to such an extent that those who are doing well wish for a change as much as those who are doing badly.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At some point, everyone faces the same challenge on the journey of self-improvement: you have to fall in love with boredom.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;20-the-downside-of-creating-good-habits&quot;&gt;20: The Downside of Creating Good Habits&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;In the words of investor Paul Graham, “keep your identity small.” The more you let a single belief define you, the less capable you are of adapting when life challenges you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Habits deliver numerous benefits, but the downside is that they can lock us into our previous patterns of thinking and acting—even when the world is shifting around us. Everything is impermanent. Life is constantly changing, so you need to periodically check in to see if your old habits and beliefs are still serving you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;conclusion-the-secret-to-results-that-last&quot;&gt;Conclusion: The Secret to Results That Last&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;In the beginning, small improvements can often seem meaningless because they get washed away by the weight of the system. Just as one coin won’t make you rich, one positive change like meditating for one minute or reading one page each day is unlikely to deliver a noticeable difference. Gradually, though, as you continue to layer small changes on top of one another, the scales of life start to move. Each improvement is like adding a grain of sand to the positive side of the scale, slowly tilting things in your favor. Eventually, if you stick with it, you hit a tipping point. Suddenly, it feels easier to stick with good habits. The weight of the system is working for you rather than against you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;appendix&quot;&gt;Appendix&lt;/h2&gt;
+&lt;h2 id=&quot;little-lessons-from-the-four-laws&quot;&gt;Little Lessons from the Four Laws&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This is the wisdom behind Seneca’s famous quote, “Being poor is not having too little, it is wanting more.” If your wants outpace your likes, you’ll always be unsatisfied. You’re perpetually putting more weight on the problem than the solution.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="Book" /><summary type="html">THE FUNDAMENTALS: Why Tiny Changes Make a Big Difference 1: The Surprising Power of Atomic Habits Complaining about not achieving success despite working hard is like complaining about an ice cube not melting when you heated it from twenty-five to thirty-one degrees. Your work was not wasted; it is just being stored. All the action happens at thirty-two degrees.</summary></entry><entry><title type="html">December 2020</title><link href="/newsletter/2020/12/01/Newsletter" rel="alternate" type="text/html" title="December 2020" /><published>2020-12-01T00:00:00-06:00</published><updated>2020-12-01T00:00:00-06:00</updated><id>/newsletter/2020/12/01/Newsletter</id><content type="html" xml:base="/newsletter/2020/12/01/Newsletter">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+
+&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;colorados-697-sides&quot;&gt;Colorado’s 697 Sides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bigthink.com/strange-maps/colorado-is-not-a-rectangle&quot; title=&quot;Colorado is a rectangle? Think again.&quot;&gt;Colorado is a rectangle? Think again.&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Accordingly, the state has not just four sides, but a total of 697 sides. So if Colorado is not a rectangle, what is it? Well, not a pentagon, (Greek for 5-sider), hexagon (6-sider) or a heptagon (7-sider), but a — hold on to something — hexahectaenneacontakaiheptagon (697-sider).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;james-bond-shooting&quot;&gt;James Bond Shooting&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.polygon.com/21623336/james-bond-casino-royale-poker-scene-breakdown&quot; title=&quot;Casino Royale’s poker scene was as elaborate as a James Bond stunt&quot;&gt;Casino Royale’s poker scene was as elaborate as a James Bond stunt&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The script for Casino Royale worried director Martin Campbell. This was his second reboot of the James Bond franchise, and on the cusp of production, he realized the movie’s centerpiece — a showdown between 007 and the blood-eyed villain Le Chiffre — took place around a quiet poker table. Loosely adapting Ian Fleming’s 1953 novel of the same name, screenwriters Neal Purvis, Robert Wade, and Paul Haggis had replaced the author’s original game of baccarat with three big rounds of Texas hold’em. The card game, they believed, made for better drama — it was known more widely, required more skill and delivered higher stakes. But for Campbell, who had never picked up a deck, it looked like a snooze.
+[…]
+Ultimately, only three hands matter in Casino Royale, and they all feature showdowns between Bond and LeChiffre, providing a three-act structure to the heart of the movie. The first watches Bond muck his cards and intentionally lose to discover LeChiffre’s tell; the second watches LeChiffre dupe Bond and eliminate him from the table with quad jacks; and the third watches Bond return to the tournament to redeem himself with a straight flush. In between, Bond spends a drink break by suffocating two assassins in a stairwell and, at a later intermission, survives a poisoned drink after Vesper (Eva Green), his British accomplice, defibrillates him with his life hanging in the balance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;yak-bak&quot;&gt;Yak Bak&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://seths.blog/2005/03/dont_shave_that/&quot; title=&quot;Don’t Shave That Yak!&quot;&gt;Don’t Shave That Yak!&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Yak Shaving is the last step of a series of steps that occurs when you find something you need to do.&lt;/p&gt;
+
+  &lt;p&gt;“I want to wax the car today.”&lt;/p&gt;
+
+  &lt;p&gt;“Oops, the hose is still broken from the winter. I’ll need to buy a new one at Home Depot.”&lt;/p&gt;
+
+  &lt;p&gt;“But Home Depot is on the other side of the Tappan Zee bridge and getting there without my EZPass is miserable because of the tolls.”&lt;/p&gt;
+
+  &lt;p&gt;“But, wait! I could borrow my neighbor’s EZPass…”&lt;/p&gt;
+
+  &lt;p&gt;“Bob won’t lend me his EZPass until I return the mooshi pillow my son borrowed, though.”&lt;/p&gt;
+
+  &lt;p&gt;“And we haven’t returned it because some of the stuffing fell out and we need to get some yak hair to restuff it.”&lt;/p&gt;
+
+  &lt;p&gt;And the next thing you know, you’re at the zoo, shaving a yak, all so you can wax your car.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/kate_ptrv/status/1332398737604431874/photo/&quot; title=&quot;Scented candles: An unexpected victim of the COVID-19 pandemic&quot;&gt;Scented candles: An unexpected victim of the COVID-19 pandemic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://electionresults.vermont.gov/Index.html#/federal&quot;&gt;Vermont publishes all candidates receiving write-in votes (Remarkably uninteresting until you click to reveal “Total Write-ins”.)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/funny/comments/jld0lj/oh_my_god_my_life_is_perfect/&quot; title=&quot;Oh my God, my life is perfect!&quot;&gt;Oh my God, my life is perfect!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2015/05/29/world/europe/switzerland-scientists-find-the-secret-to-the-holes-in-swiss-cheese-hay-dust.html&quot;&gt;Scientists Find the Secret to the Holes in Swiss Cheese: Hay Dust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/&quot; title=&quot;The Vintage Beauty Of Soviet Control Rooms&quot;&gt;The Vintage Beauty Of Soviet Control Rooms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/11/12/sports/golf/green-jacket-masters.html?searchResultPosition=1&quot;&gt;Augusta’s Green Jackets: For Winners, Members (and Buyers) Only&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getpocket.com/explore/item/25-words-that-are-their-own-opposites&quot;&gt;25 Words That Are Their Own Opposites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.npr.org/sections/thesalt/2019/10/30/773457637/from-culinary-dud-to-stud-how-dutch-plant-breeders-built-our-brussels-sprouts-bo&quot; title=&quot;Dud To Stud: How Dutch Plant Breeders Built Our Brussels Sprouts Boom&quot;&gt;Dud To Stud: How Dutch Plant Breeders Built Our Brussels Sprouts Boom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
+
+&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
+
+&lt;p&gt;Clay&lt;/p&gt;</content><author><name></name></author><category term="Newsletter" /><summary type="html">This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.</summary></entry><entry><title type="html">November 2020</title><link href="/newsletter/2020/11/01/Newsletter" rel="alternate" type="text/html" title="November 2020" /><published>2020-11-01T00:00:00-05:00</published><updated>2020-11-01T00:00:00-05:00</updated><id>/newsletter/2020/11/01/Newsletter</id><content type="html" xml:base="/newsletter/2020/11/01/Newsletter">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+
+&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;993&quot;&gt;99.3%&lt;/h2&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;https://www.theringer.com/mlb/2019/8/9/20798375/umpire-perfect-game-accurate-robo-umps&quot;&gt;this article by The Ringer&lt;/a&gt;, no Umpire has ever called a perfect game behind home plate.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.closecallsports.com/2020/10/perfect-game-for-john-tumpane-is-first.html?m=1&quot; title=&quot;Perfect Game for John Tumpane is First in UEFL History&quot;&gt;Preliminarily&lt;/a&gt;, John Tumpane was considered too have called 135/135 pitches correctly in Game 2 of the 2020 ALCS between the Houston Astros and the Tampa Bay Rays. However, after postgame processing it was determined that Tumpane missed a strike one call to Austin Meadows in the bottom of the 2nd inning by 0.1 inches.&lt;/p&gt;
+
+&lt;p&gt;Noting this is really just an excuse to share Tumpane’s &lt;a href=&quot;https://www.post-gazette.com/local/city/2017/06/28/mlb-umpire-john-tumpane-saves-woman-suicide-attempt-pittsburgh-roberto-clemente-bridge-jumper-pirates/stories/201706280194&quot; title=&quot;MLB umpire saves woman from edge of Roberto Clemente Bridge in Pittsburgh&quot;&gt;story of saving a women’s life in Pittsburgh in 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;sim-city&quot;&gt;Sim City&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.scientificamerican.com/article/do-we-live-in-a-simulation-chances-are-about-50-50/&quot;&gt;Do We Live in a Simulation?&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Plug all these into a Bayesian formula, and out comes the answer: the posterior probability that we are living in base reality is almost the same as the posterior probability that we are a simulation—with the odds tilting in favor of base reality by just a smidgen.&lt;/p&gt;
+
+  &lt;p&gt;These probabilities would change dramatically if humans created a simulation with conscious beings inside it, because such an event would change the chances that we previously assigned to the physical hypothesis. “You can just exclude that hypothesis right off the bat. Then you are only left with the simulation hypothesis,” Kipping says. “The day we invent that technology, it flips the odds from a little bit better than 50–50 that we are real to almost certainly we are not real, according to these calculations. &lt;strong&gt;It’d be a very strange celebration of our genius that day.&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gfycat.com/measlythoroughhydatidtapeworm&quot; title=&quot;100m Swim - 1932 vs. 2016&quot;&gt;100m Swim - 1932 vs. 2016&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hk4bf32ZEmM&quot; title=&quot;How Racewatch Helps Formula One Teams&quot;&gt;How Racewatch Helps Formula One Teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.merriam-webster.com/time-traveler/2020&quot; title=&quot;Merriam-Webster's Time Traveler&quot;&gt;Merriam-Webster’s Time Traveler&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mcbroken.com&quot; title=&quot;McBroken&quot;&gt;McBroken&lt;/a&gt;, &lt;a href=&quot;https://www.theverge.com/2020/10/22/21529477/mcdonalds-mcbroken-bot-ice-cream-machines-app-engineering&quot; title=&quot;Meet the 24-year-old who’s tracking every broken McDonald’s ice-cream machine in the US&quot;&gt;and it’s creator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hedonometer.org/timeseries/en_all/?from=2008-09-09&amp;amp;to=2020-10-28&quot; title=&quot;Average Happiness for Twitter&quot;&gt;Average Happiness for Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lobe.ai&quot;&gt;Lobe.ai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fastcompany.com/90561322/prefab-was-supposed-to-fix-the-construction-industrys-biggest-problems-why-isnt-it-everywhere&quot;&gt;Why aren’t prefab homes everywhere?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle&quot;&gt;Why did we wait so long for the bicycle?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
+
+&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
+
+&lt;p&gt;Clay&lt;/p&gt;</content><author><name></name></author><category term="Newsletter" /><summary type="html">This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.</summary></entry><entry><title type="html">October 2020</title><link href="/newsletter/2020/10/01/Newsletter" rel="alternate" type="text/html" title="October 2020" /><published>2020-10-01T00:00:00-05:00</published><updated>2020-10-01T00:00:00-05:00</updated><id>/newsletter/2020/10/01/Newsletter</id><content type="html" xml:base="/newsletter/2020/10/01/Newsletter">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+
+&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;earn-your-participation-trophy&quot;&gt;Earn Your Participation Trophy&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Click &lt;a href=&quot;https://www.random.org/calendar-dates/?num=5&amp;amp;start_day=20&amp;amp;start_month=1&amp;amp;start_year=2017&amp;amp;end_day=31&amp;amp;end_month=12&amp;amp;end_year=2020&amp;amp;mondays=on&amp;amp;tuesdays=on&amp;amp;wednesdays=on&amp;amp;thursdays=on&amp;amp;fridays=on&amp;amp;saturdays=on&amp;amp;sundays=on&amp;amp;display=4&amp;amp;format=html&amp;amp;rnd=new&quot; title=&quot;5 Random Dates between January 20, 2017 and January 20, 2021&quot;&gt;here&lt;/a&gt; to get 5 random dates between January 20, 2017 and January 20, 2021 (gotta future-proof, y’know).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Match the month and day with the &lt;a href=&quot;https://www.mcsweeneys.net/articles/the-complete-listing-so-far-atrocities-1-842&quot; title=&quot;The Catalog of Trumps Worst Cruelties, Collusions, Corruptions, and Crimes&quot;&gt;Catalog of Trump’s Worst Cruelties, Collusions, Corruptions, and Crimes&lt;/a&gt; and/or, if you would prefer, the &lt;a href=&quot;https://www.washingtonpost.com/graphics/politics/trump-claims-database/&quot; title=&quot;Washington Post’s False and Misleading Claims page&quot;&gt;Washington Post’s False and Misleading Claims page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;(I highly recommend just using Cmd+F or Ctrl+F to search the page. Otherwise, you will be scrolling until November 3.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; &lt;a href=&quot;https://www.vote.org&quot; title=&quot;VOTE MOTHERFUCKER&quot;&gt;VOTE&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3Iz7ZMALaCY&quot; title=&quot;Superman Cyclist&quot;&gt;Superman Cyclist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=c36UNSoJenI&quot; title=&quot;Stoffel: The Escape Artist Honey Badger&quot;&gt;Stoffel: The Escape Artist Honey Badger&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toddmclellan.com/thingscomeapart&quot; title=&quot;Todd Mclelann’s Photo Series: Things Come Apart&quot;&gt;Todd Mclelann’s Photo Series: Things Come Apart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://filmandfurniture.com&quot; title=&quot;Film and Furniture&quot;&gt;Film and Furniture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
+
+&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
+
+&lt;p&gt;Clay&lt;/p&gt;</content><author><name></name></author><category term="Newsletter" /><summary type="html">This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.</summary></entry></feed>

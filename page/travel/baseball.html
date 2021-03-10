@@ -1,0 +1,15 @@
+---
+layout: default
+title: Baseball Stadiums
+permalink: /travel/baseball/
+---    
+
+<div class="pad limiter content">
+	<h1>{{ page.title }}</h1>
+	<div class="media list">
+		{% for item in site.data.travel %}
+    		{% if item.type == "Baseball Stadiums" %}
+				{% include list-travel.html %}
+    		{% endif %}
+		{% endfor %}
+	</div>

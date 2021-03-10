@@ -1,0 +1,25 @@
+---
+layout: default
+title: Reading
+permalink: /reading/
+---
+
+<div class="pad limiter content">
+	<h1>Books</h1><a name="books"></a><div class="go-to"><a href="#audiobooks">Go to Audiobooks</a></div></br>
+	<div class="media list">
+		{% for item in site.data.media %}
+    		{% if item.media == "Book" %}
+				{% include list-media.html %}
+    		{% endif %}
+		{% endfor %}
+	</div>
+
+	<h1>Audiobooks</h1><a name="audiobooks"></a><div class="go-to"><a href="#books">Go to Books</a></div></br>
+	<div class="media list">
+		{% for item in site.data.media %}
+    		{% if item.media == "Audiobook" %}
+				{% include list-media.html %}
+    		{% endif %}
+		{% endfor %}
+	</div>
+</div>	

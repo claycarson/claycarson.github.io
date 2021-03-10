@@ -1,0 +1,19 @@
+---
+layout: default
+title: Projects
+permalink: /projects
+---    
+
+<div class="pad limiter content notitle">
+	<div class=body>
+		<div class=project-box>
+				{% for post in site.categories.Project %}
+					<a href="{{ post.url }}" class=project>
+						<img alt="" src="{{ post.image }}">
+						<strong>{{ post.title }}</strong>
+						<span>{{ post.description }}</span>
+					</a>	
+				{% endfor %}
+		</div>
+	</div>
+</div>

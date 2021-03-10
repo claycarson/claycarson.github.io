@@ -1,0 +1,21 @@
+---
+layout: rss
+title: Reading
+description: RSS feed of new books from arcana.computer
+source: /reading
+permalink: /feed/reading.xml
+---
+
+{% for item in site.data.media %}
+    		{% if item.media == "Book" %}
+    		<item>
+				<title><a href="/{{ item.media | slugify }}s/{{ item.date | date: '%Y/%m/%d' }}/{{ item.title | slugify }}">{{ item.title }}</a></title>
+				<meta>{% if item.creator %}{{item.creator}}{% endif %}
+{% if item.season %}{{item.season}}{% endif %}
+{% if item.episode %}{{item.episode}}{% endif %}
+				</meta>
+				<pubDate>{% if item.date %}{{ item.date }}{% endif %}</pubDate>
+				<rating>{% if item.rating %}{{ item.rating }}{% endif %}</rating>
+			</item>
+    		{% endif %}
+{% endfor %}

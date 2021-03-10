@@ -1,0 +1,28 @@
+---
+layout: photo-archive
+title: Photos
+permalink: /test/photos/test
+---    
+
+<div>
+	<section>
+	{% for post in site.categories.Photos limit:5 %}
+		<a href="{{ post.url }}">
+			<picture>
+				<source srcset="{{ post.img }}">
+				<img alt="" loading=lazy src="{{ post.image }}">
+			</picture>
+			<description>
+				{% if post.description %}{{ post.description }} &middot; {% endif %}  
+				{{ post.image | exif: 'model' }} &middot;
+				{{ post.image | exif: 'lens_make' }}
+				{{ post.image | exif: 'lens_model' }} &middot;
+				{{ post.image | exif: 'focal_length.to_f' }}mm &middot;									
+			  f/{{ post.image | exif: 'f_number.to_f' }} &middot;
+				{{ post.image | exif: 'exposure_time.to_s' }} &middot;
+			ISO {{ post.image | exif: 'iso_speed_ratings' }}				
+				</description>
+		</a>
+	{% endfor %}	
+	</section>
+</div>	

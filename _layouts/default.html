@@ -1,72 +1,7 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <!-- Responsiveness & localization. -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
+{% include head.html %}
+{% include nav.html %}
 
-    <!-- Styles. -->
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-
-    <!-- RSS. -->
-    {% if page.rss %}
-    <link 
-      rel="alternate" 
-      type="application/rss+xml" 
-      title="{{ site.title }}" 
-      href="{{ page.rss | prepend: site.baseurl | prepend: site.url }}" 
-    />
-    {% else %}
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-    {% endif %}
-
-    <!-- SEO. -->
-    <title>{{ page.title }} · {{ site.title }}</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:creator" content="@{{ site.social.twitter }}" />
-    <meta name="twitter:title" content="{{ page.title }} · {{ site.title }}" />
-    {% if page.image %}
-      <meta property="og:image" content="{{ page.image | prepend: site.url }}" />
-      <meta name="twitter:image" content="{{ page.image | prepend: site.url }}" />
-    {% else %}
-      <meta property="og:image" content="{{ "/assets/img/share/base.png" | prepend: site.url }}" />
-      <meta name="twitter:image" content="{{ "/assets/img/share/base.png" | prepend: site.url }}" />
-    {% endif %}
-  </head>
-  <body>
-    <div class="container">
-      
-      <div class="header">
-        <a href='/'>
-          <div class="logo">
-            {{ site.title }}
-          </div>
-        </a>
-      </div>
-
-      <div class="content">
-      {{ content }}
-
-      {% if page.end_cta %}
-        <div class="notice" style="flex-direction: column">
-          <strong>Follow my writing:</strong>
-          <br />
-          {% include subscription-widget.html %}
-        </div>
-      {% endif %}
-      </div>
-
-      <div class="footer">
-        {{ site.data.footers | sample }} <p>© 2020 {{ site.author }}</p>
-      </div>
-    </div>
-    
-  <script src="/assets/js/newsletter.js"></script>
-  <script src="/assets/js/lightbox.js"></script>
-  <script src="/assets/js/sidenotes.js"></script>
-  <script>
-    littlefoot.littlefoot()
-  </script>
-  </body>
+    {{ content }}
+</div>
+</body>
 </html>

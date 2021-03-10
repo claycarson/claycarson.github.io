@@ -1,0 +1,23 @@
+---
+layout: photo-list
+title: Photos
+permalink: /photos/
+---    
+<div>
+	{% for post in site.categories.Photos limit:5 %}
+	<section>
+		<a href="{{ post.url }}">
+			<picture>
+				<img alt="" loading=lazy src="{{ post.image }}">
+			</picture>
+		</a>
+	</section>
+	<description>
+		{% if post.description %}{{ post.description }} &middot; {% endif %}  
+		{% if post.image %}
+		{{ post.image | exif: 'model' }} &middot; {{ post.image | exif: 'lens_make' }} {{ post.image | exif: 'lens_model' }} &middot; <!-- {{ post.image | exif: 'focal_length.to_f' }}mm &middot;	 -->f/{{ post.image | exif: 'f_number.to_f' }} &middot; {{ post.image | exif: 'exposure_time.to_s' }} &middot; ISO {{ post.image | exif: 'iso_speed_ratings' }}
+		{% endif %}
+	</description>
+	{% endfor %}
+	<p style="text-align:center"><a href="/photos/archive">View All</a></p>
+</div>

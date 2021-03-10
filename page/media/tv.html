@@ -1,0 +1,19 @@
+---
+layout: default
+title: TV
+permalink: /watching/tv/
+---
+
+<div class="pad limiter content">
+<h1>TV</h1>
+	<div class="media list">
+		{% for item in site.data.media %}
+    		{% if item.media == "TV" %}
+				<div><a href="/{{ item.media | slugify }}/{{ item.date | date: '%Y/%m/%d' }}/{{ item.title | slugify }}">{{ item.title }}</a></div>
+				<div>{% if item.season %}{{item.season}}{% endif %}</div>
+				<time>{% if item.date %}{{ item.date }}{% endif %}</time>
+				<rating>{% if item.rating %}{{ item.rating }}{% endif %}</rating>
+    		{% endif %}
+		{% endfor %}
+	</div>
+</div>

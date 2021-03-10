@@ -1,0 +1,5 @@
+<div>{% if item.permalink %}<a href="{{ item.permalink }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</div>
+<div>{% if item.subtitle %}{{item.subtitle}}{% endif %}
+</div>
+<div></div>
+<time>{% if item.date %}{{ item.date }}{% endif %}</time>

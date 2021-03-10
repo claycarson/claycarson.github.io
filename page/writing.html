@@ -1,0 +1,21 @@
+---
+layout: default
+title: Writing
+permalink: /Writing/
+---    
+
+
+
+<div class="pad limiter content">
+
+<h1>Sorry</h1>
+
+<p>There is nothing here.</p>
+
+	<div class="writing list">
+		{% for post in site.categories.Writing %}
+		<div><a href="{{ post.url }}">{{ post.title }}</a></div>
+		<time>{{ post.date | date: "%Y-%m-%d" }}</time>
+		{% endfor %}
+	</div>
+</div>

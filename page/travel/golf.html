@@ -1,0 +1,15 @@
+---
+layout: default
+title: Golf
+permalink: /travel/golf/
+---    
+
+<div class="pad limiter content">
+	<h1>{{ page.title }}</h1>
+	<div class="media list">
+		{% for item in site.data.travel %}
+    		{% if item.type == "Golf Courses" %}
+				{% include list-travel.html %}
+    		{% endif %}
+		{% endfor %}
+	</div>

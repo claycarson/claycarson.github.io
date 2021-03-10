@@ -1,0 +1,22 @@
+# Load JSON data from source
+# (Assuming the data source is a json file on your file system)
+data = JSON.load(open('_data/media.json'))
+
+# Proceed to create post files if the value array is not empty
+array = data["user"]
+if array && !array.empty?
+  # create the `_drafts` directory if it doesn't exist already
+  drafts_dir = File.expand_path('./_drafts', __dir__)
+  FileUtils.mkdir_p(drafts_dir) unless Dir.exist?(drafts_dir)
+
+  # iterate through the array and generate draft-files for each entry
+  # where entry.first will be the "content" and entry.last the "title"
+  array.each do |entry|
+    File.open(File.join(drafts_dir, entry.last), 'wb') do |draft|
+      draft.puts("---\n---\n\n#{entry.first}")
+    end
+  end
+end
+
+
+https://talk.jekyllrb.com/t/create-posts-from-json-source/2454/7

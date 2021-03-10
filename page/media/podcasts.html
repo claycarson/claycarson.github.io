@@ -1,0 +1,15 @@
+---
+layout: default
+title: Podcasts
+permalink: /podcasts/
+---
+
+<div class="pad limiter content">
+	<h1>{{ page.title }}</h1>
+	<div class="media list">
+		{% for item in site.data.media %}
+    		{% if item.media == "Podcast" %}
+				{% include list-media.html %}
+    		{% endif %}
+		{% endfor %}
+	</div>

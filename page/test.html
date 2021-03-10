@@ -1,0 +1,15 @@
+---
+layout: default
+title: Test
+permalink: /testing/
+---
+
+<div class="pad limiter content">
+	<h1>Books</h1><a name="books"></a><div class="go-to"><a href="#audiobooks">Go to Audiobooks</a></div></br>
+	<div class="media list">
+		{% assign item in site.data.media %}
+    		{% if item.media == "Book" %}
+				{% include list-media.html %}
+    		{% endif %}
+		{% endfor %}
+	</div>

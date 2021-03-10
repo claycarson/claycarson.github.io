@@ -1,38 +1,10 @@
 ---
 layout: default
----
+--- 
 
-<h1>{{ page.title }}</h1>
-
-{% if page.last_modified_at %}
-<div class="colophon">
-  <!-- em> -->Updated on {{ page.last_modified_at | date: "%B %e, %Y" }}<!-- </em> -->
+<div class="pad limiter content">
+	<div class=body>
+		<h1>{{ page.title }}</h1>
+  		{{ content }}
 </div>
-{% endif %} {% if page.draft %}
-<div class="notice notice--draft">
-  <div>
-    Hello! This page is a <strong>draft</strong>. Feel free and poke around, but
-    there are significant structural and contentual pieces yet to be
-    implemented. Mind the proverbial construction noise, and feel free to
-    subscribe here to get notified once it's completed:
-
-    <br /><br />
-
-    {% include subscription-widget.html %}
-    <br />
-
-    {% if page.todos %}
-    <div class="todo-list">
-      {% for todo in page.todos %}
-      <div class="todo">
-        <input type="checkbox" onclick="return false;" />
-        <label>{{ todo }}</label>
-      </div>
-      {% endfor %}
-    </div>
-    {% endif %}
-  </div>
-</div>
-{% endif %}
-
-{{ content }}
+      

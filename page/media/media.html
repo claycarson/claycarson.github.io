@@ -1,0 +1,17 @@
+---
+layout: default
+title: Media
+permalink: /media/
+---
+
+<div class="pad limiter content">
+	<h1>All Media</h2>
+	<div class="media list">
+		{% for item in site.data.media %}
+				<div><a href="/{{ item.media | slugify }}/{{ item.date | date: '%Y/%m/%d' }}/{{ item.title | slugify }}">{{ item.title }}</a></div>
+				<div>{% if item.episode %}{{ item.episode }}{% endif %}{% if item.season %}{{ item.season }}{% endif %}</div>
+				<time>{% if item.date %}{{ item.date }}{% endif %}</time>
+				<rating><a href="/{{ item.media }}s">{% if item.media %}{{ item.media }}</a>{% endif %}</rating>
+		{% endfor %}
+	</div>
+</div>

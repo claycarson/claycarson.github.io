@@ -1,0 +1,20 @@
+---
+layout: default
+title: Reading Notes
+permalink: /reading/notes
+---    
+
+<div class="pad limiter content">
+	<h1>{{ page.title }}</h1>
+	<div class="media list">
+		{% for post in site.categories.Book %}
+			<div><a href="/book/{{ post.date | date: '%Y/%m/%d' }}/{{ post.title | slugify }}">{{ post.title }}</a></div>
+			<div>{% if post.creator %}{{post.creator}}{% endif %}</div>
+			<time>{% if post.date %}{{ post.date | date: '%Y-%m-%d'}}{% endif %}</time>
+			<rating>{% if post.rating %}{{ post.rating }}{% endif %}</rating>
+		{% endfor %}
+	</div>
+	
+	
+	
+	

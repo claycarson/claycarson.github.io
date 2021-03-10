@@ -1,0 +1,62 @@
+I"Q	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dapibus leo. Maecenas in lacus fermentum dolor viverra cursus. Curabitur cursus magna eget nisi viverra porta. Donec semper dolor sit amet quam blandit vel pellentesque velit lobortis. Aliquam in ante eget nibh imperdiet eleifend. Vestibulum ornare lobortis diam viverra pellentesque. Aenean cursus dignissim mi in tincidunt. Quisque eu lectus sed risus congue tincidunt in eu mi. Etiam ac ligula felis. Integer et dui quam. Sed condimentum libero quis mauris malesuada laoreet. Donec dictum luctus mi, ut laoreet nisl consequat in. Sed non condimentum velit. Nullam interdum, velit eget commodo dictum, nisl neque varius lacus, a pharetra lorem dolor tempus dolor. Curabitur vitae velit elit. Phasellus in lacus velit, eget faucibus neque. Donec dolor purus, imperdiet quis iaculis aliquam, aliquam non magna. Donec pharetra metus a quam tincidunt cursus. Suspendisse potenti.</p>
+
+<style>
+.tabular-content-item {
+  min-height: 50px;
+}  
+</style>
+
+<div class="timeline-filtering-widget">
+    <div>
+        <strong>Filter:</strong>
+    </div>
+    <div>
+        
+        <label for="all">
+            <input type="radio" name="filter" id="all" checked="" />
+            All TV
+        </label>
+        
+        <label for="favorites">
+            <input type="radio" name="filter" id="favorites" />
+            Favorites
+        </label>
+        
+        <label for="current">
+            <input type="radio" name="filter" id="current" />
+            Current
+        </label>
+        
+    </div>
+</div>
+<script>
+  const FILTER_TO_SELECTOR = {
+    
+      'all': ".tabular-content-item",
+    
+      'favorites': ".tabular-content-item[data-rating='5']",
+    
+      'current': ".tabular-content-item[data-status='Current']",
+    
+  }
+  document.querySelectorAll("input[type='radio']").forEach(
+      (e) => e.addEventListener("change", (e) => {
+          const selectedFilter = e.target.id;
+          document.querySelectorAll(".tabular-content-item").forEach(
+              (item) => {
+                  item.style.display = 'none';
+              }
+          )
+          document.querySelectorAll(FILTER_TO_SELECTOR[selectedFilter]).forEach(
+              (item) => {
+                  item.style.display = 'block';
+              }
+          )
+      }
+  ));
+</script>
+
+<div class="tabular-content-container">
+  
+</div>
+:ET

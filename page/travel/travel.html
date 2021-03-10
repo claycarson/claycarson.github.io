@@ -1,0 +1,15 @@
+---
+layout: default
+title: Travel
+permalink: /travel/
+---    
+
+<div class="pad limiter content">
+I also keep track of out-of-town <a href="/travel/golf">golf courses</a> and all of the <a href="/travel/baseball">baseball stadiums</a> I have been to.
+	<div class="media list">
+		{% for item in site.data.travel %}
+    		{% if item.type == "Locations" %}
+				{% include list-travel.html %}
+    		{% endif %}
+		{% endfor %}
+	</div>

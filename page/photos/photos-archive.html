@@ -1,0 +1,18 @@
+---
+layout: photo-list
+title: Photo Archive
+permalink: /photos/archive
+---    
+<div>
+	<div class=archive>
+		{% for post in site.categories.Photos %}
+		<div>
+			<a href="{{ post.url }}">
+				<picture>
+					<img alt="" loading=lazy src="{{ post.image }}">
+				</picture>
+			</a>
+		</div>
+		{% endfor %}
+	</div>
+</div>	

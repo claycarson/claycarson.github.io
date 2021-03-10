@@ -1,0 +1,49 @@
+I"I<p>To the best of my knowledge, this is a list of every movie I have ever seen. My rating scale is based on how much I enjoyed watching the movie, not on it’s merrit as a “Film”.</p>
+
+<div class="timeline-filtering-widget">
+    <div>
+        <strong>Filter:</strong>
+    </div>
+    <div>
+        
+        <label for="all">
+            <input type="radio" name="filter" id="all" checked="" />
+            All movies
+        </label>
+        
+        <label for="favorites">
+            <input type="radio" name="filter" id="favorites" />
+            Favorites
+        </label>
+        
+    </div>
+</div>
+<script>
+  const FILTER_TO_SELECTOR = {
+    
+      'all': ".tabular-content-item",
+    
+      'favorites': ".tabular-content-item[data-rating='5']",
+    
+  }
+  document.querySelectorAll("input[type='radio']").forEach(
+      (e) => e.addEventListener("change", (e) => {
+          const selectedFilter = e.target.id;
+          document.querySelectorAll(".tabular-content-item").forEach(
+              (item) => {
+                  item.style.display = 'none';
+              }
+          )
+          document.querySelectorAll(FILTER_TO_SELECTOR[selectedFilter]).forEach(
+              (item) => {
+                  item.style.display = 'block';
+              }
+          )
+      }
+  ));
+</script>
+
+<div class="tabular-content-container">
+  
+</div>
+:ET

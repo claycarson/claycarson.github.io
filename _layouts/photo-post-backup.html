@@ -1,0 +1,29 @@
+---
+layout: default
+--- 
+
+<div class="pad limiter content">
+	<div class=body>
+		<img src="{{ page.image }}">
+			<div class=meta>
+				<div>
+					<strong>
+						{{ page.title }}
+					</strong></br>
+					<div>{{ page.image  | exif: 'date_time' | date: '%B %d, %Y' }}</div>
+					<div>Ⓒ Clay Carson. All Rights Reserved.</div>
+                </div>
+				<div>
+					Camera: 
+					<strong>{{ page.image | exif: 'model' }}</strong></br>
+					Lens: 
+					<strong>{{ page.image | exif: 'lens_make' }}{{ page.image | exif: 'lens_model' }}</strong></br>
+					EXIF: 
+						{{ page.image | exif: 'focal_length.to_f' }}mm &middot;									
+					  f/{{ page.image | exif: 'f_number.to_f' }} &middot;
+						{{ page.image | exif: 'exposure_time.to_s' }} &middot;
+					ISO {{ page.image | exif: 'iso_speed_ratings' }}
+				</div>
+			</div>
+		{{ content }}
+	</div>

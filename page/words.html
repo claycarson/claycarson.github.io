@@ -1,0 +1,16 @@
+---
+layout: default
+title: Words
+permalink: /words/
+---    
+
+<div class="pad limiter content">
+	<h1>{{ page.title }}</h1>
+	<div class="media list">
+		{% for item in site.data.dictionary %}
+			<div>{{ item.title }}</div>
+			<div>{{ item.summary }}</div>
+			<time></time>
+			<div>{{ item.source }}</div>
+		{% endfor %}
+	</div>
