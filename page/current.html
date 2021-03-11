@@ -8,15 +8,13 @@ permalink: /currently
 	<h1>{{ page.title }}</h1>
 	<h2>Reading</h2>
 	<div class="media list">
-		
+		{% for item in site.data.media %}
     		{% if item.status == "Current" %}
     			{% if item.media == "Book" %}
-    			{% for item in site.data.media %}
 					{% include list-media.html %}
-					{% endfor %}
 				{% endif %}
     		{% endif %}
-		
+		{% endfor %}	
 	</div>
 	<h2>Listening</h2>
 	<div class="media list">

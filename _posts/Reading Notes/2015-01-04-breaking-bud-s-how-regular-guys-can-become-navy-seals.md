@@ -1,5 +1,5 @@
 ---
-title: "Breaking BUD/S: How Regular Guys Can Become Navy SEALS: How Regular Guys Can Become Navy SEALs"
+title: "Breaking BUD/S: How Regular Guys Can Become Navy SEALS"
 creator: DH Xavier
 layout: reading-notes
 categories:

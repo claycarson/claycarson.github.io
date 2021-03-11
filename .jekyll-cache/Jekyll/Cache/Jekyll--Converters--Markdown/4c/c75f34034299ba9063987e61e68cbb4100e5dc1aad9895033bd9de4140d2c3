@@ -1,0 +1,29 @@
+I"a<h1 id="subscribe">Subscribe</h1>
+
+<ul>
+  <li><a href="/feed">RSS</a></li>
+</ul>
+
+<h2 id="follow">Follow</h2>
+
+<ul>
+  <li>
+    <p><a href="http://instagram.com/claycarson">Instagram</a></p>
+  </li>
+  <li>
+    <p><a href="http://twitter.com/claycarson">Twitter</a></p>
+  </li>
+</ul>
+
+<h3 class="display">Newsletter</h3>
+<div id="mailchimp">
+	<form action="https://claycarson.us2.list-manage.com/subscribe/post?u=9eab7e3bd7029c1d9db034eaa&amp;id=7bb36508e6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+		<input type="email" size="30" value="Enter your email" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" />
+		<div id="mce-responses" class="clear">
+			<div class="response" id="mce-error-response" style="display:none"></div>
+			<div class="response" id="mce-success-response" style="display:none"></div>
+		</div>
+		<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" />
+	</form>
+</div>
+:ET
