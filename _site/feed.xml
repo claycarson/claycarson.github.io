@@ -1,4 +1,557 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-10T11:01:03-06:00</updated><id>/feed.xml</id><title type="html">Clay Carson</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">March 2021</title><link href="/newsletter/2021/03/01/Newsletter" rel="alternate" type="text/html" title="March 2021" /><published>2021-03-01T00:00:00-06:00</published><updated>2021-03-01T00:00:00-06:00</updated><id>/newsletter/2021/03/01/Newsletter</id><content type="html" xml:base="/newsletter/2021/03/01/Newsletter">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-11T15:59:28-06:00</updated><id>/feed.xml</id><title type="html">Clay Carson</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Enchiridion</title><link href="/book/2021/03/11/enchiridion" rel="alternate" type="text/html" title="Enchiridion" /><published>2021-03-11T00:00:00-06:00</published><updated>2021-03-11T00:00:00-06:00</updated><id>/book/2021/03/11/enchiridion</id><content type="html" xml:base="/book/2021/03/11/enchiridion">&lt;h2 id=&quot;publishers-note&quot;&gt;Publisher’s Note&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The teaching of Epictetus suggests that man should be grateful to God for all things, and should be content with whatever occurs, for whatever happens is God’s will, and the deity’s choice is bound to be superior to human wishes. “God” in this case is not the divine being of Judaeo-Christian theology, but a material immanence conceived of as a fiery breath infused in all things. This force of nature creates and directs the world as we experience it and it is therefore up to the individual to live accruing to nature, since theis divine intelligence has made the best of all possible worlds.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-encheiridion-or-manual&quot;&gt;The Encheiridion, or Manual&lt;/h2&gt;
+
+&lt;h3 id=&quot;9&quot;&gt;9&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Disease is an impediment to the body, but not to the will, unless the will itself chooses. Lameness is an impediment to the leg, but not to the will. And add this reflection on the occasion of everything that is happens; for you will find it an impediment to something else, but not to yourself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;10&quot;&gt;10&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On the occasion of every accident (event) that befalls you, remember to turn to yourself and inquire what power you have for turning it to use.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;11&quot;&gt;11&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But what is it to you, by whose hands the giver demanded it back? So long as he may allow you, take care of it as a thing which belongs to another, as travelers do with their inn.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;14&quot;&gt;14&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you would have your children and your wife and your friends to live forever, you are silly; for you would have the things which are not in your power to be in your power, and the things which belong to others to be yours.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;23&quot;&gt;23&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If it should ever happen to you to be turned to externals in order to please some person, you must know that you have lost your purpose in life.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;33&quot;&gt;33&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In company take care not to speak much and excessively about your own acts or dangers: for as it is pleasant to you to make mention of your dangers, it is not so pleasant to others to hear what has happened to you Take care also not to provoke laughter; for this is a slippery way toward vulgar habits, and is also adapted to diminish the respect of your neighbors. It is a dangerous habit also to approach obscene talk. When then anything of this kind happens, if there is a good opportunity, rebuke the man who has proceeded to this talk: but if there is not an opportunity, by your silence at least, and blushing and expression of dissatisfaction by your countenance, show plainly that you are displease at such talk.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;46&quot;&gt;46&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Accordingly if any conversation should arise among uninstructed persons about any theorem, generally be silet; for there is great danger that you will immediately vomit up what you have not digested. And when a man shall say to you, that you know nothing, and you are not vexed, then be sure that you have begun to work (of philosophy). For even sheep do not vomit up their grass and show to the shepherds how much they have eaten; but when they have internally digested the pasture, they produce externally wool and milk.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;fragments&quot;&gt;Fragments&lt;/h2&gt;
+
+&lt;h3 id=&quot;4&quot;&gt;4&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is better to do wrong seldom and to own it, and to act right for the most part, than seldom to admit that you have done wrong and to do wrong often&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;11-1&quot;&gt;11&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you wish to live without perturbation and with pleasure, try to have all who dwell with you good.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;13&quot;&gt;13&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No man who loves money, and loves pleasure, and loves fame, also loves mankind, but only he who loves virtue.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;14-1&quot;&gt;14&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As you would not choose to sail in a large and decorated and gold-laden ship, and to be drowned; so do not choose to dwell in a large and costly house and to be disturbed (by cares).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;20&quot;&gt;20&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As when you see a viper or an asp or a scorpion in an ivory or golden box, you do not on account of the costliness of the material love it or think it happy, but because the nature of it is pernicious, you turn away from it and loath it; so when you shall see vice dwelling in wealth and in the swollen fullness of fortune, be not struck by the splendor of the material, but despise the false character of the morals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;26&quot;&gt;26&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Neither is a horse elated nor proud of his manger and trappings and coverings, nor a bird of his little shreds of cloth and of his nest: but both of them are proud of their swiftness, one proud of the swiftness of the feet, and the other of the wings. Do you also then not be greatly proud of your food and dress and, in short, of any external things, but be proud of your integrity and good deeds.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;35&quot;&gt;35&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…for a man who is drunk could not teach a man who is sober, nor on the other hand could a drunken man be convinced by a sober man.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;88&quot;&gt;88&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As the sun does not wait for prayers and incantations to be induced to rise, but immediately shines and is saluted by all: so do you also not wait for clappings of hands, and shouts and praise to be induced to do good, but be a doer of good voluntarily, and you will be beloved as much as the son&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;93&quot;&gt;93&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Pyrrho used to say that there is no difference between dying and living and a man said to him, Why then do you not die? Pyrrho replied, Because there is no difference.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;105&quot;&gt;105&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Listen to those who wish to advise what is useful, but not to those who are eager to flatter on all occasions; for the first really see what is useful, but the second look to that which agrees with the opinion of those who possess power, and imitating the shadows of bodies they assent to what is said by the powerful.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;111&quot;&gt;111&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is part of a wise man to resist pleasures, but of a foolish man to be a slave to them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;121&quot;&gt;121&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As it is pleasant to see the sea from the land, so it is pleasant for him who has escaped from troubles to think of them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;142&quot;&gt;142&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nature has given men one tongue, but two ears, that we may hear from others twice as much as we speak.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;155&quot;&gt;155&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When our friends are present, we ought to treat them well; and when they are absent, to speak of them well.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;170&quot;&gt;170&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When a young man was boasting in the theater and saying, I am wise, for I have conversed with many wise men; Epictetus said, I also have conversed with many rich men, but I am not rich.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;176&quot;&gt;176&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You are a little soul carrying a dead body.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="Book" /><summary type="html">Publisher’s Note</summary></entry><entry><title type="html">Blood Meridian, or the Evening Redness in the West</title><link href="/book/2021/03/10/blood-meridian-or-the-evening-redness-in-the-west" rel="alternate" type="text/html" title="Blood Meridian, or the Evening Redness in the West" /><published>2021-03-10T00:00:00-06:00</published><updated>2021-03-10T00:00:00-06:00</updated><id>/book/2021/03/10/blood-meridian-or-the-evening-redness-in-the-west</id><content type="html" xml:base="/book/2021/03/10/blood-meridian-or-the-evening-redness-in-the-west">&lt;h2 id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h2&gt;
+&lt;!-- Page 16 --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;He’s left behind the pinewood country and the evening sun declines before him beyond an endless swale and dark falls here like a thunderclap and a cold wind sets the weeds to gnashing. The night sky lies so sprint with stars that there is scarcely space of black at all and they fall all night in bitter arcs and it is so that their numbers are no less.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The sun that rises is the color of steel. His mounted shadow falls for miles before him.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 20 --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;A man’s at odds to know his mind cause his mind is aught he has to know it with. He can know his heart, but he don’t want to. Rightly so. Best not to look in there. It ain’t the heart of a creature that is bound in the way that God has set for it. You can find meanness in the least of creatures, but when God made man the devil was at his elbow. A creature that can do anything. Make a machine. And a machine to make the machine. And evil can run itself a thousand years, no need to tend it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 23 --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The sun was just down and to the west lay reefs of bloodied clouds up out of which rose little desert nighthawks like fugitives from some great fire at the earth’s end.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 29 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Then he waded out into the river like some wholly wretched baptismal candidate.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h2&gt;
+&lt;!-- Page 52 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;They set forth in a crimson dawn where sky and earth closed in a razors plane. Out there dark little archipelagos of cloud and the vast world of sand and scrub shearing upward into the shoreless void where those blue islands trembled and the earth grew uncertain, gravely canted and veering out through tinctures of rose and the dark beyond the dawn to the uttermost rebate of space.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h2&gt;
+&lt;!-- Page 69 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I know your kind, he said. What’s wrong with you is wrong all the way through you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;chapter-7&quot;&gt;Chapter 7&lt;/h2&gt;
+&lt;!-- Page 89 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A dark vein in his temple pulsed like a fuse.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;chapter-8&quot;&gt;Chapter 8&lt;/h2&gt;
+&lt;!-- Page 110-111 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The crumpled butcher paper mountains lay in sharp shadow fold under the long blue dusk and in the middle distance the glazed bed of a dry lake lay shimmering like the mare imbrue and herds of deer were moving north in the last of the twilight, harried over the plain by wolves who were themselves the color of the desert floor.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;chapter-10&quot;&gt;Chapter 10&lt;/h2&gt;
+&lt;!-- Page 130 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At night, said Tobin, when the horses are grazing and the company is asleep, who hears them grazing?&lt;/p&gt;
+
+  &lt;p&gt;Don’t nobody hear them if they’re asleep.&lt;/p&gt;
+
+  &lt;p&gt;Aye. And if they cease their grazing who is it that wakes?&lt;/p&gt;
+
+  &lt;p&gt;Every man.&lt;/p&gt;
+
+  &lt;p&gt;Aye, said the expriest. Every man.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 132 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It was a day’s work to even guess what he made of that figure on that ground.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;chapter-11&quot;&gt;Chapter 11&lt;/h2&gt;
+&lt;!-- Page 145 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the days to come they would ride up through a country where the rocks would cook the flesh from your hand and where other than rock nothing was. They rode in a narrow enfilade along a trail strewn with the dry round turns of goats and they rode with their faces averted from the rock wall and the bakeoven air which it rebated, the slant black shapes of the mounted men stenciled across the stone with a definition austere and implacable like shapes capable of violating their covenant with the flesh that authored them and continuing autonomous across the naked rock without reference to sun or man or god.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 154 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A love shaped moon rose over the black shapes of the mountains dimming out the eastern stars and along the nearby ridge the white blooms of flowering yuccas moved in the wind and in the night bats came from some nether part of the world to stand on leather wings like dark satanic hummingbirds and feed at the mouths of those flowers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;chapter-16&quot;&gt;Chapter 16&lt;/h2&gt;
+&lt;!-- Page 241 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In truth they did not look like men who might have whiskey they hadn’t drunk.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 242 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It was the first word any of them had spoken. Couts looked them over. Haggard and haunted and blacked by the sun. The lines and pores of their skin deeply grimed with gunlock where they’d washed the bores of their weapons. Even the horses looked alien to any he’d ever seen, decked as they were in human hair and teeth and skin. Save for their guns and buckles and a few pieces of metal in the harness of the animals there was nothing about these arrivals to suggest even the discovery of the wheel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;chapter-17&quot;&gt;Chapter 17&lt;/h2&gt;
+&lt;!-- Page 256 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The universe is no narrow thing and the order within it is not constrained by any latitude in its conception to repeat what exists in one part in any other part. Even in this world more things exist without our knowledge than with it and the order in creation which you see is that which you have put there, like a string in a maze, so that you shall not lose your way. For existence has its own order and that no man’s mind can compass, that mind itself being but a fact among others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 259 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Before man was, war waited for him.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 260-261 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The judge smiled. Men are born for games. Nothing else. Every child knows that play is nobler than work. He knows too that the worth or merit of game is not inherent in the game itself but rather in the value of that which is put at hazard. Games of chance require a wager to have meaning at all. Games of sport involve the skill and strength of the opponents and the humiliation of defeat and the pride of victory are in themselves sufficient stake because they inhere in the worth of the principals and define them. But trial of chance or trial of worth all games aspire to the condition of war for here that which is wagered swallows up game, player, all.&lt;/p&gt;
+
+  &lt;p&gt;Suppose two men at cards with nothing to wager save their lives. Who has not heard such a tale? A turn of the card. The whole universe for such a player has labored clanking to this moment which will tell if he is to die at that man’s hand or that man at his. What more certain validation of a man’s worth could there be? This enhancement of the game to its ultimate state admits no argument concerning the notion of fate. The selection of one man over another is preference absolute and irrevocable and it is a dull man indeed who could reckon so profound a decision without agency or significance either one. In such games as have for their stake the annihilation of the defeated the decisions are quite clear. This man holding this particular arrangement of cards in his hand is thereby removed from existence. This is the nature of war, whose stake is at once the game and the authority and the justification. Seen so, war is the truest form of divination. It is the testing of one’s will and the will of another within that larger will which because it binds them is therefore forced to select. War is the ultimate game because war is at last a forcing of the unity of existence. War is god.&lt;/p&gt;
+
+  &lt;p&gt;Brown studied the judge. You’re crazy Holden. Crazy at last.&lt;/p&gt;
+
+  &lt;p&gt;The judge smiled.&lt;/p&gt;
+
+  &lt;p&gt;Might does not make right, said Irving. The man that wins in some combat is not vindicated morally.&lt;/p&gt;
+
+  &lt;p&gt;Moral law is an invention of mankind for the disenfranchisement of the powerful in favor of the weak. Historical law subverts it at every turn. A moral view can never be proven right or wrong by any ultimate test. A man falling dead in a duel is not thought thereby to be proven in error as to his views. His very involvement in such a trial gives evidence of a new and broader view. The willingness of the principals to forgo further argument as the triviality which it in fact is and to petition directly the chambers of the historical absolute clearly indicates of how little moment are the opinions and of what great moment the divergences thereof. For the argument is indeed trivial, but not so the separate wills thereby made manifest. Man’s vanity may well approach the infinite in capacity but his knowledge remains imperfect and howevermuch he comes to value his judgements ultimately he must submit them before a higher court. Here there can be no special pleading. Here are considerations of equity and rectitude and moral right rendered void and without warrant and here are the views of the litigants despised. Decisions of life and death, of what shall be and what shall not, beggar all question of right. In elections of these magnitudes are all lesser ones subsumed, moral, spiritual, natural.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;chapter-23&quot;&gt;Chapter 23&lt;/h2&gt;
+&lt;!-- Page 330 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The ragged sparks blew down the wind. The prairie about them lay silent. Beyond the fire it was cold and the night was clear and the stars were falling. The old hunter pulled his blanket about him. I wonder if there’s other worlds like this, he said. Or if this is the only one.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 334 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How old are you?&lt;/p&gt;
+
+  &lt;p&gt;He’s fifteen.&lt;/p&gt;
+
+  &lt;p&gt;You hush your damn mouth.&lt;/p&gt;
+
+  &lt;p&gt;He turned to the man. He don’t speak for me, he said.&lt;/p&gt;
+
+  &lt;p&gt;He’s done spoke. I was fifteen year old when I was first shot.&lt;/p&gt;
+
+  &lt;p&gt;I ain’t never been shot.&lt;/p&gt;
+
+  &lt;p&gt;You ain’t sixteen yet neither.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- Page 344 --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Men’s memories are uncertain and the past that was differs little from the past that was not.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;vocabulary&quot;&gt;Vocabulary&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Parricide - one that murders his or her father, mother, or a close relative&lt;/li&gt;
+
+	&lt;li&gt;Shillelagh - a short heavy club&lt;/li&gt;
+
+	&lt;li&gt;Coiffure - a style or manner of arranging the hair&lt;/li&gt;
+
+	&lt;li&gt;Osnaburg - a rough coarse durable cotton fabric in plain weave&lt;/li&gt;
+
+	&lt;li&gt;Nave - the hub of a wheel&lt;/li&gt;
+
+	&lt;li&gt;Purlieu - an outlying or adjacent district&lt;/li&gt;
+
+	&lt;li&gt;Weskit - vest&lt;/li&gt;
+
+	&lt;li&gt;Pumice - a volcanic glass full of cavities and very low in density that is used especially in powder form for smoothing and polishing&lt;/li&gt;
+
+	&lt;li&gt;Sotoks - definition unavailable&lt;/li&gt;
+
+	&lt;li&gt;Bivouacked - a usually temporary encampment under little or no shelter&lt;/li&gt;
+
+	&lt;li&gt;Auguries - the art or practice that seeks to foresee or foretell future events&lt;/li&gt;
+
+	&lt;li&gt;Bier - a stand on which a corpse or coffin is placed&lt;/li&gt;
+
+	&lt;li&gt;Escopetas - a short firelock musket&lt;/li&gt;
+
+	&lt;li&gt;Caesura -  a break in the flow of sound&lt;/li&gt;
+
+	&lt;li&gt;Almagre - definition unavailable&lt;/li&gt;
+
+	&lt;li&gt;Entablatures - a horizontal part in classical architecture that rests on the columns and consists of architrave, frieze, and cornice&lt;/li&gt;
+
+	&lt;li&gt;Flensed - to strip of blubber or skin&lt;/li&gt;
+
+	&lt;li&gt;Azoteas - a flat roof or platform on the top of a house or other building&lt;/li&gt;
+
+	&lt;li&gt;Ossature - the structure or framework supporting a building or sculpture&lt;/li&gt;
+
+	&lt;li&gt;Djinn - one of a class of spirits that according to Muslim demonology inhabit the earth, assume various forms, and exercise supernatural power&lt;/li&gt;
+
+	&lt;li&gt;Abrogate - to abolish by authoritative action&lt;/li&gt;
+
+	&lt;li&gt;Dolman - a woman's coat or jacket with similarly wide sleeves&lt;/li&gt;
+
+	&lt;li&gt;Aubergines - an eggplant&lt;/li&gt;
+
+	&lt;li&gt;Huaraches - a low-heeled sandal having an upper made of interwoven leather strips&lt;/li&gt;
+
+	&lt;li&gt;Loutish - resembling or befitting a lout&lt;/li&gt;
+
+	&lt;li&gt;Cantle - the upward projecting rear part of a saddle&lt;/li&gt;
+
+	&lt;li&gt;Frieze - a heavy durable coarse wool and shoddy fabric with a rough surface&lt;/li&gt;
+
+	&lt;li&gt;Spume - frothy matter on liquids&lt;/li&gt;
+
+	&lt;li&gt;Serried - crowded or pressed together&lt;/li&gt;
+
+	&lt;li&gt;Parfleche - a raw hide soaked in lye to remove the hair and dried&lt;/li&gt;
+
+	&lt;li&gt;Gastine - looting or a wasteland&lt;/li&gt;
+
+	&lt;li&gt;Mottled - marked with spots of different colors&lt;/li&gt;
+
+	&lt;li&gt;Remuda - the herd of horses from which those to be used for the day are chosen&lt;/li&gt;
+
+	&lt;li&gt;Inimical - being adverse often by reason of hostility or malevolence&lt;/li&gt;
+
+	&lt;li&gt;Videttes - definition unknown&lt;/li&gt;
+
+	&lt;li&gt;Malpais - rough country underlain by dark especially basaltic lava&lt;/li&gt;
+
+	&lt;li&gt;Disclets - definition unavailable&lt;/li&gt;
+
+	&lt;li&gt;Ilex - definition unavailable&lt;/li&gt;
+
+	&lt;li&gt;Euchered - utterly done in or at the end of one's tether; exhausted&lt;/li&gt;
+
+	&lt;li&gt;Adamantine - rigidly firm&lt;/li&gt;
+
+	&lt;li&gt;Legatees - one to whom a legacy is bequeathed or a devise is given&lt;/li&gt;
+
+	&lt;li&gt;Sotol - any of several plants of the southwestern U.S. and Mexico that are related to the agave and are often grown for ornament or to produce an alcoholic beverage&lt;/li&gt;
+
+	&lt;li&gt;Whang - rawhide&lt;/li&gt;
+
+	&lt;li&gt;Baled - great evil&lt;/li&gt;
+
+	&lt;li&gt;Peltries - raw undressed skins&lt;/li&gt;
+
+	&lt;li&gt;Retinue - a group of retainers or attendants&lt;/li&gt;
+
+	&lt;li&gt;Rebozos - a long scarf worn chiefly by Mexican women&lt;/li&gt;
+
+	&lt;li&gt;Lugubrious - mournful&lt;/li&gt;
+
+	&lt;li&gt;Churchlishlooking - surly looking&lt;/li&gt;
+
+	&lt;li&gt;Quadrille - a four-handed variant of ombre popular especially in the 18th century&lt;/li&gt;
+
+	&lt;li&gt;Shoat - a young hog and especially one that has been weaned&lt;/li&gt;
+
+	&lt;li&gt;Bordello - a building in which prostitutes are available&lt;/li&gt;
+
+	&lt;li&gt;Argosy - a large ship or fleet&lt;/li&gt;
+
+	&lt;li&gt;Ossuary - a depository for the bones of the dead&lt;/li&gt;
+
+	&lt;li&gt;Somnolent - of a kind likely to induce sleep&lt;/li&gt;
+
+	&lt;li&gt;Chancel - the part of a church containing the altar and seats for the clergy and choir&lt;/li&gt;
+
+	&lt;li&gt;Shakos - a stiff military hat with a high crown and plume&lt;/li&gt;
+
+	&lt;li&gt;Caparisoned - an ornamental covering for a horse&lt;/li&gt;
+
+	&lt;li&gt;Soliedad - solitary&lt;/li&gt;
+
+	&lt;li&gt;Devonian - of, relating to, or being the period of the Paleozoic era between the Silurian and the Mississippian or the corresponding system of rocks&lt;/li&gt;
+
+	&lt;li&gt;Grottoes - caves&lt;/li&gt;
+
+	&lt;li&gt;Cloven - to adhere firmly and closely or loyally and unwaveringly&lt;/li&gt;
+
+	&lt;li&gt;Ristras - string&lt;/li&gt;
+
+	&lt;li&gt;Pulque - a Mexican alcoholic beverage made from the fermented sap of various agaves&lt;/li&gt;
+
+	&lt;li&gt;Charivari -  a noisy mock serenade to a newly married couple&lt;/li&gt;
+
+	&lt;li&gt;Catafalque - an ornamental structure sometimes used in funerals for the lying in state of the body&lt;/li&gt;
+
+	&lt;li&gt;Ciborium - a goblet-shaped vessel for holding eucharistic bread&lt;/li&gt;
+
+	&lt;li&gt;Gutta-percha - a tough plastic substance from the latex of several Malaysian trees of the sapodilla family that resembles rubber but contains more resin and is used especially as insulation and in dentistry as a permanent filling in root canals&lt;/li&gt;
+
+	&lt;li&gt;Suzerain - a superior feudal lord to whom fealty is due&lt;/li&gt;
+
+	&lt;li&gt;Tamarind - an African evergreen tree of the legume family that is widely grown in tropical regions and has hard yellowish wood, pinnate leaves, red-striped yellow flowers, and an edible fruit&lt;/li&gt;
+
+	&lt;li&gt;Criada - servant&lt;/li&gt;
+
+	&lt;li&gt;Promontories - a high point of land or rock projecting into a body of water&lt;/li&gt;
+
+	&lt;li&gt;Solpugas - species of spider&lt;/li&gt;
+
+	&lt;li&gt;Mygale - mouse; any of a family of small chiefly nocturnal insectivores related to the moles and distinguished by a long pointed snout, very small eyes, and short velvety fur&lt;/li&gt;
+
+	&lt;li&gt;Basilisks - a legendary reptile with fatal breath and glance&lt;/li&gt;
+
+	&lt;li&gt;Scrog - a stunted shrub, bush, or branch&lt;/li&gt;
+
+	&lt;li&gt;Fulgurite - an often tubular vitrified crust produced by the fusion of sand or rock by lightning&lt;/li&gt;
+
+	&lt;li&gt;Convoked - to call together to a meeting&lt;/li&gt;
+
+	&lt;li&gt;Keelsons - a longitudinal structure running above and fastened to the keel of a ship in order to stiffen and strengthen its framework&lt;/li&gt;
+
+	&lt;li&gt;Estuary - a water passage where the tide meets a river current&lt;/li&gt;
+
+	&lt;li&gt;Guisado - casserole or stew&lt;/li&gt;
+
+	&lt;li&gt;Sclera - the dense fibrous opaque white outer coat enclosing the eyeball except the part covered by the cornea&lt;/li&gt;
+
+	&lt;li&gt;Baldric - an often ornamented belt worn over one shoulder to support a sword or bugle&lt;/li&gt;
+
+	&lt;li&gt;Lemniscate - a figure-eight shaped curve&lt;/li&gt;
+
+	&lt;li&gt;Pugmill - a machine in which materials (such as clay and water) are mixed, blended, or kneaded into a desired consistency&lt;/li&gt;
+
+	&lt;li&gt;Denizenry - an inhabitant&lt;/li&gt;
+
+	&lt;li&gt;Ferric - of, relating to, or containing iron&lt;/li&gt;
+
+	&lt;li&gt;Boletas - ticket&lt;/li&gt;
+
+	&lt;li&gt;Cholla - any of numerous shrubby opuntias chiefly of the southwestern U.S. and Mexico that have needlelike spines partly enclosed in a papery sheath and cylindrical joints&lt;/li&gt;
+
+	&lt;li&gt;Jornadas - an arduous usually one-day journey across a stretch of desert&lt;/li&gt;
+
+	&lt;li&gt;Concomitant - accompanying especially in a subordinate or incidental way&lt;/li&gt;
+
+	&lt;li&gt;Holothurians - Cucumber&lt;/li&gt;
+
+	&lt;li&gt;Balesome - definition unknown&lt;/li&gt;
+
+	&lt;li&gt;Shacto - definition unknown&lt;/li&gt;
+
+	&lt;li&gt;Dunnage - loose materials used to support and protect cargo in a ship's hold&lt;/li&gt;
+
+	&lt;li&gt;Priapic - relating to or preoccupied with virility or male sexual excitement&lt;/li&gt;
+
+	&lt;li&gt;Doubloons - an old gold coin of Spain and Spanish America&lt;/li&gt;
+
+	&lt;li&gt;Alcades - the chief administrative and judicial officer or the mayor of a town in a Spanish-speaking country or region&lt;/li&gt;
+
+	&lt;li&gt;Cabildo - a town council or a town hall in a country formerly a Spanish colony&lt;/li&gt;
+
+	&lt;li&gt;Skein - a loosely coiled length of yarn or thread wound on a reel&lt;/li&gt;
+
+	&lt;li&gt;Thaumaturge - a performer of miracles&lt;/li&gt;
+
+	&lt;li&gt;Atavistic - recurrence in an organism of a trait or character typical of an ancestral form and usually due to genetic recombination&lt;/li&gt;
+
+	&lt;li&gt;Fard - to paint (the face) with cosmetics&lt;/li&gt;
+
+	&lt;li&gt;Wickiup - a rude temporary shelter or hut&lt;/li&gt;
+
+	&lt;li&gt;Suttee - a woman burned to death in this way&lt;/li&gt;
+
+	&lt;li&gt;Croupier - an employee of a gambling casino who collects and pays bets and assists at the gaming tables&lt;/li&gt;
+
+	&lt;li&gt;Juzgado - legal court&lt;/li&gt;
+
+	&lt;li&gt;Reconnoitre - to engage in reconnaissance&lt;/li&gt;
+
+	&lt;li&gt;Armatures - an organ or structure (such as teeth or thorns) for offense or defense&lt;/li&gt;
+
+	&lt;li&gt;Mansuete - gentle, tame&lt;/li&gt;
+
+	&lt;li&gt;Sated - to appease by indulging to the full&lt;/li&gt;
+
+	&lt;li&gt;Replevined - an action originating in common law and now largely codified by which a plaintiff having a right in personal property which is claimed to be wrongfully taken or detained by the defendant seeks to recover possession of the property and sometimes to obtain damages for the wrongful detention&lt;/li&gt;
+
+	&lt;li&gt;Alcalde - the chief administrative and judicial officer or the mayor of a town in a Spanish-speaking country or region&lt;/li&gt;
+
+	&lt;li&gt;Fistula - an abnormal passage that leads from an abscess or hollow organ or part to the body surface or from one hollow organ or part to another and that may be surgically created to permit passage of fluids or secretions&lt;/li&gt;
+
+	&lt;li&gt;Terminus - either end of a transportation line or travel route&lt;/li&gt;
+
+	&lt;li&gt;Atavistic - recurrence in an organism of a trait or character typical of an ancestral form and usually due to genetic recombination&lt;/li&gt;
+
+	&lt;li&gt;Pitero - armadillo&lt;/li&gt;
+
+	&lt;li&gt;Scree - an accumulation of loose stones or rocky debris lying on a slope or at the base of a hill or cliff&lt;/li&gt;
+
+	&lt;li&gt;Coulee - a small stream&lt;/li&gt;
+
+	&lt;li&gt;Galena - a bluish-gray cubic mineral with metallic luster consisting of lead sulfide and constituting the principal ore of lead&lt;/li&gt;
+
+	&lt;li&gt;Tyrolean - of a hat : of a style originating in the Tyrol and marked by soft often green felt, a narrow brim and pointed crown, and an ornamental feather&lt;/li&gt;
+
+	&lt;li&gt;Crinoline - an open-weave fabric of horsehair or cotton that is usually stiffened and used especially for interlinings and millinery&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Book" /><summary type="html">Chapter 2 He’s left behind the pinewood country and the evening sun declines before him beyond an endless swale and dark falls here like a thunderclap and a cold wind sets the weeds to gnashing. The night sky lies so sprint with stars that there is scarcely space of black at all and they fall all night in bitter arcs and it is so that their numbers are no less.</summary></entry><entry><title type="html">March 2021</title><link href="/newsletter/2021/03/01/Newsletter" rel="alternate" type="text/html" title="March 2021" /><published>2021-03-01T00:00:00-06:00</published><updated>2021-03-01T00:00:00-06:00</updated><id>/newsletter/2021/03/01/Newsletter</id><content type="html" xml:base="/newsletter/2021/03/01/Newsletter">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
 &lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
 
@@ -1447,7 +2000,7 @@ Are you one of the herd? or grazing like one?&lt;/p&gt;
 
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
-&lt;p&gt;Clay&lt;/p&gt;</content><author><name>claycarson</name></author><category term="Newsletter" /><summary type="html">This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.</summary></entry><entry><title type="html">Ready Player Two: A Novel</title><link href="/book/2021/01/26/ready-player-two" rel="alternate" type="text/html" title="Ready Player Two: A Novel" /><published>2021-01-26T00:00:00-06:00</published><updated>2021-01-26T00:00:00-06:00</updated><id>/book/2021/01/26/ready-player-two</id><content type="html" xml:base="/book/2021/01/26/ready-player-two">&lt;h2 id=&quot;level-four&quot;&gt;Level Four&lt;/h2&gt;
+&lt;p&gt;Clay&lt;/p&gt;</content><author><name>claycarson</name></author><category term="Newsletter" /><summary type="html">This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.</summary></entry><entry><title type="html">Ready Player Two: A Novel</title><link href="/book/2021/01/26/ready-player-two-a-novel" rel="alternate" type="text/html" title="Ready Player Two: A Novel" /><published>2021-01-26T00:00:00-06:00</published><updated>2021-01-26T00:00:00-06:00</updated><id>/book/2021/01/26/ready-player-two-a-novel</id><content type="html" xml:base="/book/2021/01/26/ready-player-two-a-novel">&lt;h2 id=&quot;level-four&quot;&gt;Level Four&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;My friend Kira always said that life is like an extremely difficult, horribly unbalanced videogame. When you’re born, you’re given a randomly generated character, with a randomly determined name, race, face, and social class. Your body is your avatar, and you spawn in a random geographic location, at a random moment in human history, surrounded by a random group of people, and then you have to try to survive for as long as you can. Sometimes the game might seem easy. Even fun. Other times it might be so difficult you want to give up and quit. But unfortunately, in this game you only get one life. When your body grows too hungry or thirsty or ill or injured or old, your health meter runs out and then it’s Game Over. Some people play the game for a hundred years without ever figuring out that it’s a game, or that there is a way to win it. To win the videogame of life you just have to try to make the experience of being forced to play it as pleasant as possible, for yourself, and for all of the other players you encounter in your travels. Kira says that if everyone played the game to win, it’d be a lot more fun for everyone.&lt;/p&gt;
@@ -1727,76 +2280,6 @@ Ultimately, only three hands matter in Casino Royale, and they all feature showd
   &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/11/12/sports/golf/green-jacket-masters.html?searchResultPosition=1&quot;&gt;Augusta’s Green Jackets: For Winners, Members (and Buyers) Only&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://getpocket.com/explore/item/25-words-that-are-their-own-opposites&quot;&gt;25 Words That Are Their Own Opposites&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.npr.org/sections/thesalt/2019/10/30/773457637/from-culinary-dud-to-stud-how-dutch-plant-breeders-built-our-brussels-sprouts-bo&quot; title=&quot;Dud To Stud: How Dutch Plant Breeders Built Our Brussels Sprouts Boom&quot;&gt;Dud To Stud: How Dutch Plant Breeders Built Our Brussels Sprouts Boom&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
-
-&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
-
-&lt;p&gt;Clay&lt;/p&gt;</content><author><name></name></author><category term="Newsletter" /><summary type="html">This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.</summary></entry><entry><title type="html">November 2020</title><link href="/newsletter/2020/11/01/Newsletter" rel="alternate" type="text/html" title="November 2020" /><published>2020-11-01T00:00:00-05:00</published><updated>2020-11-01T00:00:00-05:00</updated><id>/newsletter/2020/11/01/Newsletter</id><content type="html" xml:base="/newsletter/2020/11/01/Newsletter">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
-
-&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;993&quot;&gt;99.3%&lt;/h2&gt;
-
-&lt;p&gt;According to &lt;a href=&quot;https://www.theringer.com/mlb/2019/8/9/20798375/umpire-perfect-game-accurate-robo-umps&quot;&gt;this article by The Ringer&lt;/a&gt;, no Umpire has ever called a perfect game behind home plate.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.closecallsports.com/2020/10/perfect-game-for-john-tumpane-is-first.html?m=1&quot; title=&quot;Perfect Game for John Tumpane is First in UEFL History&quot;&gt;Preliminarily&lt;/a&gt;, John Tumpane was considered too have called 135/135 pitches correctly in Game 2 of the 2020 ALCS between the Houston Astros and the Tampa Bay Rays. However, after postgame processing it was determined that Tumpane missed a strike one call to Austin Meadows in the bottom of the 2nd inning by 0.1 inches.&lt;/p&gt;
-
-&lt;p&gt;Noting this is really just an excuse to share Tumpane’s &lt;a href=&quot;https://www.post-gazette.com/local/city/2017/06/28/mlb-umpire-john-tumpane-saves-woman-suicide-attempt-pittsburgh-roberto-clemente-bridge-jumper-pirates/stories/201706280194&quot; title=&quot;MLB umpire saves woman from edge of Roberto Clemente Bridge in Pittsburgh&quot;&gt;story of saving a women’s life in Pittsburgh in 2017&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;sim-city&quot;&gt;Sim City&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.scientificamerican.com/article/do-we-live-in-a-simulation-chances-are-about-50-50/&quot;&gt;Do We Live in a Simulation?&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Plug all these into a Bayesian formula, and out comes the answer: the posterior probability that we are living in base reality is almost the same as the posterior probability that we are a simulation—with the odds tilting in favor of base reality by just a smidgen.&lt;/p&gt;
-
-  &lt;p&gt;These probabilities would change dramatically if humans created a simulation with conscious beings inside it, because such an event would change the chances that we previously assigned to the physical hypothesis. “You can just exclude that hypothesis right off the bat. Then you are only left with the simulation hypothesis,” Kipping says. “The day we invent that technology, it flips the odds from a little bit better than 50–50 that we are real to almost certainly we are not real, according to these calculations. &lt;strong&gt;It’d be a very strange celebration of our genius that day.&lt;/strong&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gfycat.com/measlythoroughhydatidtapeworm&quot; title=&quot;100m Swim - 1932 vs. 2016&quot;&gt;100m Swim - 1932 vs. 2016&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hk4bf32ZEmM&quot; title=&quot;How Racewatch Helps Formula One Teams&quot;&gt;How Racewatch Helps Formula One Teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.merriam-webster.com/time-traveler/2020&quot; title=&quot;Merriam-Webster's Time Traveler&quot;&gt;Merriam-Webster’s Time Traveler&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mcbroken.com&quot; title=&quot;McBroken&quot;&gt;McBroken&lt;/a&gt;, &lt;a href=&quot;https://www.theverge.com/2020/10/22/21529477/mcdonalds-mcbroken-bot-ice-cream-machines-app-engineering&quot; title=&quot;Meet the 24-year-old who’s tracking every broken McDonald’s ice-cream machine in the US&quot;&gt;and it’s creator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hedonometer.org/timeseries/en_all/?from=2008-09-09&amp;amp;to=2020-10-28&quot; title=&quot;Average Happiness for Twitter&quot;&gt;Average Happiness for Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.lobe.ai&quot;&gt;Lobe.ai&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.fastcompany.com/90561322/prefab-was-supposed-to-fix-the-construction-industrys-biggest-problems-why-isnt-it-everywhere&quot;&gt;Why aren’t prefab homes everywhere?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle&quot;&gt;Why did we wait so long for the bicycle?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
-
-&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
-
-&lt;p&gt;Clay&lt;/p&gt;</content><author><name></name></author><category term="Newsletter" /><summary type="html">This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.</summary></entry><entry><title type="html">October 2020</title><link href="/newsletter/2020/10/01/Newsletter" rel="alternate" type="text/html" title="October 2020" /><published>2020-10-01T00:00:00-05:00</published><updated>2020-10-01T00:00:00-05:00</updated><id>/newsletter/2020/10/01/Newsletter</id><content type="html" xml:base="/newsletter/2020/10/01/Newsletter">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
-
-&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;earn-your-participation-trophy&quot;&gt;Earn Your Participation Trophy&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Click &lt;a href=&quot;https://www.random.org/calendar-dates/?num=5&amp;amp;start_day=20&amp;amp;start_month=1&amp;amp;start_year=2017&amp;amp;end_day=31&amp;amp;end_month=12&amp;amp;end_year=2020&amp;amp;mondays=on&amp;amp;tuesdays=on&amp;amp;wednesdays=on&amp;amp;thursdays=on&amp;amp;fridays=on&amp;amp;saturdays=on&amp;amp;sundays=on&amp;amp;display=4&amp;amp;format=html&amp;amp;rnd=new&quot; title=&quot;5 Random Dates between January 20, 2017 and January 20, 2021&quot;&gt;here&lt;/a&gt; to get 5 random dates between January 20, 2017 and January 20, 2021 (gotta future-proof, y’know).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Match the month and day with the &lt;a href=&quot;https://www.mcsweeneys.net/articles/the-complete-listing-so-far-atrocities-1-842&quot; title=&quot;The Catalog of Trumps Worst Cruelties, Collusions, Corruptions, and Crimes&quot;&gt;Catalog of Trump’s Worst Cruelties, Collusions, Corruptions, and Crimes&lt;/a&gt; and/or, if you would prefer, the &lt;a href=&quot;https://www.washingtonpost.com/graphics/politics/trump-claims-database/&quot; title=&quot;Washington Post’s False and Misleading Claims page&quot;&gt;Washington Post’s False and Misleading Claims page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;(I highly recommend just using Cmd+F or Ctrl+F to search the page. Otherwise, you will be scrolling until November 3.)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; &lt;a href=&quot;https://www.vote.org&quot; title=&quot;VOTE MOTHERFUCKER&quot;&gt;VOTE&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3Iz7ZMALaCY&quot; title=&quot;Superman Cyclist&quot;&gt;Superman Cyclist&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=c36UNSoJenI&quot; title=&quot;Stoffel: The Escape Artist Honey Badger&quot;&gt;Stoffel: The Escape Artist Honey Badger&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toddmclellan.com/thingscomeapart&quot; title=&quot;Todd Mclelann’s Photo Series: Things Come Apart&quot;&gt;Todd Mclelann’s Photo Series: Things Come Apart&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://filmandfurniture.com&quot; title=&quot;Film and Furniture&quot;&gt;Film and Furniture&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
