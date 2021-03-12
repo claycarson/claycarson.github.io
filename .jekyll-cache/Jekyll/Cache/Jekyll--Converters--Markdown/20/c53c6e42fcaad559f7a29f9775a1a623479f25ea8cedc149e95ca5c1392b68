@@ -1,26 +1,29 @@
-I"Y<h1 id="hi-im-clay">Hi, I’m Clay</h1>
+I"c<h1 id="hi-im-clay">Hi, I’m Clay</h1>
 
 <p>This is a great place to start.</p>
 
-<p>A lot goes on here but suffice to say, this is my index. It is mainly a record of me. My hope is that it can be a place that overshares vs. conceals.</p>
+<p>A lot goes on here but suffice to say, this is my index. It is mainly a record of me.</p>
 
-<h2 id="getting-started">Getting Started</h2>
+<h2 id="other-lists">Other Lists</h2>
 
 <ul>
-  <li>To get to know about me go <a href="/about">here</a>.</li>
-  <li>To see what I have seen go <a href="/photos">here</a>.</li>
-  <li>To see where I have been go <a href="/travel">here</a>, <a href="/baseball">here</a>, or <a href="/golf">here</a>.</li>
-  <li>To learn what I have learned go <a href="/reading-notes">here</a>.</li>
-  <li>To see what entertains me go <a href="/books">here</a>, <a href="/movies">here</a>, or <a href="/tv">here</a>.</li>
-  <li>To see what I have had the nerve to think about go <a href="/writing">here</a>.</li>
-  <li>To see what I have enjoyed listening to go <a href="/music">here</a>.</li>
-  <li>To see a big list of old links go <a href="here">/links</a></li>
+  <li><a href="/travel">Travel</a></li>
+  <li><a href="/travel/baseball">Baseball Stadiums</a></li>
+  <li><a href="/travel/golf">Golf Courses</a></li>
+  <li><a href="/music">Music</a></li>
+  <li><a href="/links">Links</a></li>
+  <li><a href="/podcasts">Podcasts</a></li>
+  <li><a href="/words">Words</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
 </ul>
 
-<h2 id="subscribe">Subscribe</h2>
+<h2 id="subscribe-via-rss">Subscribe via RSS</h2>
 
 <ul>
-  <li><a href="/feed">RSS</a></li>
+  <li><a href="/feed/all">All</a></li>
+  <li><a href="/feed/photos">Photos</a></li>
+  <li><a href="/feed/writing">Writing</a></li>
+  <li><a href="/feed/reading-notes">Reading Notes</a></li>
 </ul>
 
 <h2 id="follow">Follow</h2>

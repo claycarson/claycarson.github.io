@@ -8,27 +8,35 @@ permalink: /about/
 
 This is a great place to start.
 
-A lot goes on here but suffice to say, this is my index. It is mainly a record of me. My hope is that it can be a place that overshares vs. conceals.
+A lot goes on here but suffice to say, this is my index. It is mainly a record of me.
 
-## Getting Started
 
-- To get to know about me go [here](/about).
-- To see what I have seen go [here](/photos).
-- To see where I have been go [here](/travel), [here](/baseball), or [here](/golf).
-- To learn what I have learned go [here](/reading-notes).
-- To see what entertains me go [here](/books), [here](/movies), or [here](/tv).
-- To see what I have had the nerve to think about go [here](/writing).
-- To see what I have enjoyed listening to go [here](/music).
-- To see a big list of old links go [/links](here)
 
-## Subscribe
+## All Lists
 
-- [RSS](/feed)
+- [Books](/reading/books)
+- [Audiobooks](/reading/audiobooks)
+- [Movies](/watching/movies)
+- [TV](/watching/tv)
+- [Travel](/travel)
+- [Baseball Stadiums](/travel/baseball)
+- [Golf Courses](/travel/golf)
+- [Music](/music)
+- [Links](/links) (retired)
+- [Podcasts](/podcasts)
+- [Words](/words)
+- [Bookmarks](/bookmarks)
+
+## Subscribe via RSS
+
+- [All](/feed/all)
+- [Photos](/feed/photos)
+- [Writing](/feed/writing)
+- [Reading Notes](/feed/reading-notes)
 
 ## Follow
 
 - [Instagram](http://instagram.com/claycarson)
-
 - [Twitter](http://twitter.com/claycarson)
 
 ### Newsletter

@@ -259,7 +259,7 @@ published: true
 
 	<li>Pulque - a Mexican alcoholic beverage made from the fermented sap of various agaves</li>
 
-	<li>Charivari -  a noisy mock serenade to a newly married couple</li>
+	<li>Charivari - a noisy mock serenade to a newly married couple</li>
 
 	<li>Catafalque - an ornamental structure sometimes used in funerals for the lying in state of the body</li>
 

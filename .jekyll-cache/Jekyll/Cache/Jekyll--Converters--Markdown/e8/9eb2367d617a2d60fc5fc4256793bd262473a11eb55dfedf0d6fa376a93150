@@ -1,0 +1,50 @@
+I"E<h1 id="hi-im-clay">Hi, I’m Clay</h1>
+
+<p>This is a great place to start.</p>
+
+<p>A lot goes on here but suffice to say, this is my index. It is mainly a record of me.</p>
+
+<h2 id="other-lists">Other Lists</h2>
+
+<ul>
+  <li><a href="/travel">Travel</a></li>
+  <li><a href="/travel/baseball">Baseball Stadiums</a></li>
+  <li><a href="/travel/golf">Golf Courses</a></li>
+  <li><a href="/music">Music</a></li>
+  <li><a href="/links">Links</a></li>
+  <li><a href="/podcasts">Podcasts</a></li>
+  <li><a href="/words">Words</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+</ul>
+
+<h2 id="subscribe-via-rss">Subscribe via RSS</h2>
+
+<ul>
+  <li><a href="/feed/all">All</a></li>
+  <li><a href="/feed/photos">Photos</a></li>
+  <li><a href="/feed/writing">Writing</a></li>
+  <li><a href="/feed/reading-notes">Reading Notes</a></li>
+</ul>
+
+<h2 id="follow">Follow</h2>
+
+<ul>
+  <li><a href="http://instagram.com/claycarson">Instagram</a></li>
+  <li><a href="http://twitter.com/claycarson">Twitter</a></li>
+</ul>
+
+<h3 id="newsletter">Newsletter</h3>
+
+<html>
+	<div id="mailchimp">
+	<form action="https://claycarson.us2.list-manage.com/subscribe/post?u=9eab7e3bd7029c1d9db034eaa&amp;id=7bb36508e6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+		<input type="email" size="30" value="Enter your email" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" />
+		<div id="mce-responses" class="clear">
+			<div class="response" id="mce-error-response" style="display:none"></div>
+			<div class="response" id="mce-success-response" style="display:none"></div>
+		</div>
+		<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" />
+	</form>
+	</div>
+</html>
+:ET

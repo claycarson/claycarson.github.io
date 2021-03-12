@@ -72,6 +72,18 @@ media_records.each do |record|
   end
 end
 write_records(media_records, '_data/media.json')
+
+## Bookmarks
+
+bookmarks_records = collect_records('Bookmarks')
+bookmarks_records.each do |record|
+  next unless record['content']
+
+  record['content'] = record['content'].map do |content_id|
+    content_id_to_data[content_id]
+  end
+end
+write_records(bookmarks_records, '_data/bookmark.json')
 ## End Import
 
 
