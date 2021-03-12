@@ -5,8 +5,8 @@
     <description>RSS feed of new books from arcana.computer</description>
     <link>/feed/reading.xml</link>
     <atom:link href="/reading" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Mar 2021 12:55:15 -0600</pubDate>
-    <lastBuildDate>Fri, 12 Mar 2021 12:55:15 -0600</lastBuildDate>
+    <pubDate>Fri, 12 Mar 2021 14:07:29 -0600</pubDate>
+    <lastBuildDate>Fri, 12 Mar 2021 14:07:29 -0600</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
     		
