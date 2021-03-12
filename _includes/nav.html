@@ -2,11 +2,11 @@
 	<div class="header list limiter no-print">
 		<h1><a href="/">Clay Carson</a></h1>
 		<ul style=list-style:none;padding:0;margin:0;>
-			<li><a href=/about>About</a>{% if page.title == "About" %} <strong>&middot;</strong>{% endif %}</li>
-			<li><a href=/newsletter/>Newsletter</a>{% if page.title == "Newsletter" %} <strong>&middot;</strong>{% endif %}</li>
+			<li><a href=/about>About</a>
+			<li><a href=/newsletter/>Newsletter</a>
 		
 			<li><a href=/reading/>Reading</a>
-			{% if page.title == "Reading" %}<strong>&middot;</strong></li>
+			{% if page.title == "Reading" %}</li>
 				<extra-small><a href="/reading/books">Books</a></li>
 				</br>
 				<a href="/reading/audiobooks">Audiobooks</a></li>
@@ -15,7 +15,7 @@
 			</br>{% endif %}</li>
 			
 			{% if page.title == "Books" %}</li>
-				<extra-small><a href="/reading/books">Books</a> &middot;</li>
+				<extra-small><a href="/reading/books">Books</a></li>
 				</br>
 				<a href="/reading/audiobooks">Audiobooks</a></li>
 				</br>
@@ -25,7 +25,7 @@
 			{% if page.title == "Audiobooks" %}</li>
 				<extra-small><a href="/reading/books">Books</a></li>
 				</br>
-				<a href="/reading/audiobooks">Audiobooks</a> &middot;</li>
+				<a href="/reading/audiobooks">Audiobooks</a></li>
 				</br>
 				<a href="/reading/notes">Notes</a></li></extra-small>
 			</br>{% endif %}</li>
@@ -35,7 +35,7 @@
 				</br>
 				<a href="/reading/audiobooks">Audiobooks</a></li>
 				</br>
-				<a href="/reading/notes">Notes</a> &middot;</li></extra-small>
+				<a href="/reading/notes">Notes</a></li></extra-small>
 			</br>{% endif %}</li>
 			
 			{% if page.categories == "Book" %}</li>
@@ -43,7 +43,7 @@
 				</br>
 				<a href="/reading/audiobooks">Audiobooks</a></li>
 				</br>
-				<a href="/reading/notes">Notes</a> &middot;</li></extra-small>
+				<a href="/reading/notes">Notes</a></li></extra-small>
 			</br>{% endif %}</li>
 			
 						
@@ -51,11 +51,11 @@
 			
 			
 			<!-- Watching -->
-			<li><a href=/watching/>Watching</a>{% if page.title == "Watching" %} <strong>&middot;</strong></li><extra-small><a href="/watching/movies">Movies</a></extra-small></li></br><extra-small><a href="/watching/tv">TV</a></extra-small>{% endif %}</li>
-			{% if page.title == "Movies" %}</li><extra-small><a href="/watching/movies">Movies</a><strong> &middot;</strong></extra-small></li></br><extra-small><a href="/watching/tv">TV</a></extra-small>{% endif %}</li>
-			{% if page.title == "TV" %}</li><extra-small><a href="/watching/movies">Movies</a></extra-small></li></br><extra-small><a href="/watching/tv">TV</a><strong> &middot;</strong></extra-small>{% endif %}</li>			         
-			<li><a href=/photos/>Photos</a>{% if page.title == "Photos" %} <strong>&middot;</strong>{% endif %}</li>             					
-			<li><a href=/subscribe/>Subscribe</a>{% if page.title == "Subscribe" %} <strong>&middot;</strong>{% endif %}</li>
+			<li><a href=/watching/>Watching</a>{% if page.title == "Watching" %}</li><extra-small><a href="/watching/movies">Movies</a></extra-small></li></br><extra-small><a href="/watching/tv">TV</a></extra-small>{% endif %}</li>
+			{% if page.title == "Movies" %}</li><extra-small><a href="/watching/movies">Movies</a></extra-small></li></br><extra-small><a href="/watching/tv">TV</a></extra-small>{% endif %}</li>
+			{% if page.title == "TV" %}</li><extra-small><a href="/watching/movies">Movies</a></extra-small></li></br><extra-small><a href="/watching/tv">TV</a></extra-small>{% endif %}</li>			         
+			<li><a href=/photos/>Photos</a>{% if page.title == "Photos" %}{% endif %}</li>             					
+			<li><a href=/subscribe/>Subscribe</a>{% if page.title == "Subscribe" %}{% endif %}</li>
 		</ul>
 	</div>
 </nav>

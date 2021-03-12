@@ -5,10 +5,12 @@
     <description>RSS feed of new books from arcana.computer</description>
     <link>/feed/reading.xml</link>
     <atom:link href="/reading" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Mar 2021 15:59:28 -0600</pubDate>
-    <lastBuildDate>Thu, 11 Mar 2021 15:59:28 -0600</lastBuildDate>
+    <pubDate>Fri, 12 Mar 2021 11:36:04 -0600</pubDate>
+    <lastBuildDate>Fri, 12 Mar 2021 11:36:04 -0600</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
+    		
+
     		
     		<item>
 				<title><a href="/books/2021/03/11/enchiridion">Enchiridion</a></title>
@@ -4029,6 +4031,18 @@
 
     		
 
+    		
+
+    		
+    		<item>
+				<title><a href="/books//the-cost-of-these-dreams-sports-stories-and-other-serious-business">The Cost of These Dreams: Sports Stories and Other Serious Business</a></title>
+				<meta>Wright Thompson
+
+
+				</meta>
+				<pubDate></pubDate>
+				<rating></rating>
+			</item>
     		
 
     		

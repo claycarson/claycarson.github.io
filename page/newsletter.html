@@ -5,7 +5,10 @@ permalink: /newsletter/
 ---    
 
 <div class="pad limiter content">
-<!-- <h1>Newsletter</h1> -->
+<h1>{{ page.title }}</h1>
+<h2>Subscribe</h2>
+{% include newsletter-form.html %}
+</div>
 	<div class="writing list">
 		{% for post in site.categories.Newsletter %}
 		<div><a href="{{ post.url }}">{{ post.title }}</a></div>
